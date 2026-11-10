@@ -1,3 +1,5 @@
 __pycache__/
 *.pyc
 .venv/
+site/preview.html
+site/public/

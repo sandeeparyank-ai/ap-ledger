@@ -53,6 +53,11 @@ def main(path):
     by_file = {v.get("text_file"): v for v in manifest.values() if isinstance(v, dict) and v.get("text_file")}
     out = []
     for r in rows:
+        if not r.get("file"):
+            out.append({**r, "change_pct": None, "spend_to_revenue_current_pct": None,
+                        "spend_to_revenue_prior_pct": None, "page": None, "text_line": None,
+                        "source_url": None, "public_link": None, "check": "SKIPPED"})
+            continue
         text = (ROOT / r["file"]).read_text()
         flat = norm(text)
         problems = []
@@ -100,6 +105,8 @@ def main(path):
         w.writeheader()
         w.writerows(out)
 
+    (ROOT / "extraction" / f"checked_{stem}.json").write_text(json.dumps(out, indent=2, ensure_ascii=False))
+
     md = ["# Spot-check sheet", "",
           "For each row, open the link, find the figure (page or line given), and tick if it matches.", "",
           "| # | Company | Period | Line | Current | Prior | Change | Where | Link | Auto-check | Your tick |",
@@ -113,12 +120,13 @@ def main(path):
     md_path = ROOT / "extraction" / f"spotcheck_{stem}.md"
     md_path.write_text("\n".join(md) + "\n")
 
-    flags = [o for o in out if o["check"] != "PASS"]
-    print(f"{len(out)} rows, {len(out) - len(flags)} pass, {len(flags)} flagged")
+    flags = [o for o in out if o["check"] not in ("PASS", "SKIPPED")]
+    skipped = sum(o["check"] == "SKIPPED" for o in out)
+    print(f"{len(out)} rows, {len(out) - len(flags) - skipped} pass, {len(flags)} flagged, {skipped} skipped")
     for o in flags:
         print(f"  {o['company']}: {o['check']}")
     for o in out:
-        print(f"  {o['company']:<18} {o['period']:<10} {str(o['change_pct']):>7}%  ratio {o['spend_to_revenue_prior_pct']} -> {o['spend_to_revenue_current_pct']}  {o['check'][:4]}")
+        print(f"  {o['company']:<18} {str(o['period']):<10} {str(o['change_pct']):>7}%  ratio {o['spend_to_revenue_prior_pct']} -> {o['spend_to_revenue_current_pct']}  {o['check'][:4]}")
 
 
 if __name__ == "__main__":

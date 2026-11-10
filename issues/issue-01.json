@@ -1,0 +1,15 @@
+{
+  "number": 1,
+  "date": "2026-11-10",
+  "headline": "Growth companies are paying for customers. Established brands are protecting margin.",
+  "lines": [
+    {"slug": "sea", "text": "Sea's sales and marketing rose 64.5% to US$1.66bn in Q2 2026, faster than revenue (up 48%). Most of the increase came from Monee, its lending arm, where marketing more than doubled."},
+    {"slug": "grab", "text": "Grab grew sales and marketing 16% to US$107m in Q3, well behind revenue growth of 27%. Its bigger lever sits in incentives. Partner and consumer incentives each rose 26%, to US$737m combined."},
+    {"slug": "vinfast", "text": "VinFast's selling and distribution costs rose 69% in Q2 2026, to VND3.49 trillion (about US$139m at the company's own exchange rate). It says sales programmes and incentives on vehicles with deferred revenue were booked as selling expenses."},
+    {"slug": "qaf", "text": "Established consumer brands cut back. QAF's A&P fell 18% to S$7.9m, which it puts down to \"a rationalisation of marketing expenses by the Bakery segment\". Haw Par cut 22%, Yeo Hiap Seng 16%, and F J Benjamin 42% in its latest half."},
+    {"slug": "foodempire", "text": "Food Empire went the other way, up 30% to US$30.2m on \"more intense promotion and brand building activities\". MoneyHero cut advertising 12% through what it calls \"more disciplined, data-driven campaign allocation\"."}
+  ],
+  "read": "Growth companies are paying for customers while mature brands protect margin. If your client list leans toward the second group, your next pitch has to show what each dollar returns.",
+  "scope_watch": "When an A&P budget drops by a fifth, the brief rarely shrinks with it. Watch for the same deliverables on a smaller fee, because that's where unbilled work quietly starts.",
+  "footnote": "Periods differ by company because each reports on its own calendar. Every figure links to the filing it came from."
+}

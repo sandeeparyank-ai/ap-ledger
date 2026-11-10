@@ -88,7 +88,7 @@
     "file": "data/raw/vinfast/2026-10-19_6-K_000118518526004821_vfsex99-1.txt",
     "notes": "Change computed VND to VND (both quarters reported in VND). The USD column is the filing's convenience translation for 2026 only: US$138,569,190 for Q2 2026. Q2 2025 comparatives were recast for discontinued operations, so the comparison is like for like. The stated reason covers selling, general and administrative expenses as a whole.",
     "confidence": "high",
-    "display_current": "US$138.6m (filing convenience translation)"
+    "display_current": "about US$138.6m at the company's own rate"
   },
   {
     "slug": "jumbo",

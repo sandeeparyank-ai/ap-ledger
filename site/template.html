@@ -1,0 +1,267 @@
+<title>The A&amp;P Ledger</title>
+<meta name="claude:viewport-fit-sides" content="cover">
+<meta name="description" content="Who in Southeast Asia is raising or cutting marketing spend, by how much, and the reason they give. Built from public company filings.">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Archivo:wdth,wght@75..100,500..800&family=Source+Sans+3:wght@400;600&family=JetBrains+Mono:wght@400;600&display=swap">
+<style>
+/* Layout: a single ledger column. Thesis, issue, chart, the full book of entries, then method. */
+:root {
+  --paper: #f6f7f4;
+  --sheet: #ffffff;
+  --ink: #17201c;
+  --muted: #5b6862;
+  --rule: #d8ded9;
+  --accent: #1d4b74;
+  --up: #1d7449;
+  --down: #a93636;
+  --chip: #e9eeea;
+  --font-display: "Archivo", "Arial Narrow", system-ui, sans-serif;
+  --font-body: "Source Sans 3", system-ui, -apple-system, "Segoe UI", sans-serif;
+  --font-data: "JetBrains Mono", ui-monospace, "SFMono-Regular", Menlo, monospace;
+}
+@media (prefers-color-scheme: dark) {
+  :root:not([data-theme="light"]) {
+    --paper: #101513; --sheet: #161d1a; --ink: #e5ebe7; --muted: #97a49e; --rule: #2a3430;
+    --accent: #86b5e0; --up: #5cc48f; --down: #e88080; --chip: #222c28; color-scheme: dark;
+  }
+}
+:root[data-theme="dark"] {
+  --paper: #101513; --sheet: #161d1a; --ink: #e5ebe7; --muted: #97a49e; --rule: #2a3430;
+  --accent: #86b5e0; --up: #5cc48f; --down: #e88080; --chip: #222c28; color-scheme: dark;
+}
+* { box-sizing: border-box; }
+[hidden] { display: none !important; }
+body {
+  background: var(--paper); color: var(--ink); font-family: var(--font-body); font-size: 17px; line-height: 1.55;
+  padding-left: max(16px, env(safe-area-inset-left, 0px)); padding-right: max(16px, env(safe-area-inset-right, 0px));
+  padding-block: 0 48px;
+}
+.wrap { max-width: 1040px; margin: 0 auto; display: grid; gap: 56px; }
+a { color: var(--accent); text-underline-offset: 3px; }
+a:focus-visible, button:focus-visible { outline: 2px solid var(--accent); outline-offset: 2px; }
+h1, h2, h3 { font-family: var(--font-display); text-wrap: balance; margin: 0; letter-spacing: -0.01em; }
+.label { font-family: var(--font-data); font-size: 12px; letter-spacing: 0.08em; text-transform: uppercase; color: var(--muted); }
+.num { font-family: var(--font-data); font-variant-numeric: tabular-nums; }
+
+/* Masthead */
+header.mast { padding-top: 40px; display: grid; gap: 18px; border-bottom: 3px double var(--ink); padding-bottom: 28px; }
+.mast .row { display: flex; flex-wrap: wrap; justify-content: space-between; gap: 8px 24px; align-items: baseline; }
+.mast h1 { font-size: clamp(44px, 9vw, 88px); font-weight: 800; font-stretch: 78%; line-height: 0.95; }
+.mast h1 .amp { color: var(--accent); }
+.mast p.dek { margin: 0; max-width: 60ch; font-size: 19px; color: var(--muted); }
+.stats { display: flex; flex-wrap: wrap; gap: 8px 28px; }
+.stats div { display: grid; }
+.stats b { font-family: var(--font-data); font-size: 22px; font-weight: 600; }
+
+/* Issue */
+section { display: grid; gap: 20px; min-width: 0; }
+.issue { display: grid; grid-template-columns: minmax(0, 1fr) minmax(0, 300px); gap: 32px; align-items: start; }
+@media (max-width: 820px) { .issue { grid-template-columns: minmax(0, 1fr); } }
+.issue h2 { font-size: clamp(26px, 4vw, 36px); font-weight: 700; font-stretch: 88%; line-height: 1.1; }
+ol.lines { margin: 0; padding: 0; list-style: none; display: grid; gap: 14px; counter-reset: l; }
+ol.lines li { display: grid; grid-template-columns: 2.2em minmax(0, 1fr); gap: 8px; max-width: 68ch; }
+ol.lines li::before { counter-increment: l; content: counter(l, decimal-leading-zero); font-family: var(--font-data); color: var(--muted); font-size: 13px; padding-top: 4px; }
+aside.read { display: grid; gap: 18px; }
+.note { background: var(--sheet); border: 1px solid var(--rule); border-left: 4px solid var(--accent); padding: 16px 18px; display: grid; gap: 6px; }
+.note.scope { border-left-color: var(--down); }
+.note p { margin: 0; }
+.foot { font-size: 14px; color: var(--muted); margin: 0; }
+
+/* Chart */
+.chart { background: var(--sheet); border: 1px solid var(--rule); padding: 20px 16px 12px; overflow-x: auto; }
+.chart svg { display: block; width: 100%; min-width: 560px; height: auto; }
+.chart text { fill: var(--ink); font-family: var(--font-body); font-size: 13px; }
+.chart text.v { font-family: var(--font-data); font-size: 12px; }
+.chart text.ax { fill: var(--muted); font-family: var(--font-data); font-size: 11px; }
+.chart line.grid { stroke: var(--rule); }
+.chart line.zero { stroke: var(--ink); }
+.chart rect.up { fill: var(--up); }
+.chart rect.down { fill: var(--down); }
+
+/* Book of entries */
+.tablewrap { overflow-x: auto; background: var(--sheet); border: 1px solid var(--rule); }
+table { border-collapse: collapse; width: 100%; min-width: 940px; font-size: 15px; }
+th, td { text-align: left; vertical-align: top; padding: 12px 14px; border-bottom: 1px solid var(--rule); }
+th { font-family: var(--font-data); font-size: 11px; letter-spacing: 0.08em; text-transform: uppercase; color: var(--muted); font-weight: 400; white-space: nowrap; }
+td.r, th.r { text-align: right; }
+td .co { font-weight: 600; }
+td .sub { display: block; color: var(--muted); font-size: 13px; }
+.chip { display: inline-block; font-family: var(--font-data); font-size: 11px; padding: 1px 6px; background: var(--chip); color: var(--muted); border-radius: 3px; margin-top: 4px; }
+.chg { font-family: var(--font-data); font-weight: 600; white-space: nowrap; }
+.chg.up { color: var(--up); } .chg.down { color: var(--down); }
+td.reason { min-width: 30ch; max-width: 42ch; font-size: 14px; }
+td.src { white-space: nowrap; }
+details.n { margin-top: 6px; color: var(--muted); font-size: 13px; }
+details.n summary { cursor: pointer; font-family: var(--font-data); font-size: 11px; letter-spacing: 0.06em; text-transform: uppercase; }
+details.n p { margin: 6px 0 0; }
+td.reason q { quotes: "\201C" "\201D"; }
+.filters { display: flex; flex-wrap: wrap; gap: 8px; }
+.filters button { font: inherit; font-size: 14px; padding: 6px 12px; border: 1px solid var(--rule); background: var(--sheet); color: var(--ink); cursor: pointer; border-radius: 999px; }
+.filters button[aria-pressed="true"] { background: var(--ink); color: var(--paper); border-color: var(--ink); }
+ul.gaps { margin: 0; padding-left: 1.1em; display: grid; gap: 6px; max-width: 75ch; }
+
+/* Method */
+.method { display: grid; grid-template-columns: repeat(auto-fit, minmax(240px, 1fr)); gap: 24px; }
+.method div { display: grid; gap: 6px; align-content: start; }
+.method p { margin: 0; color: var(--muted); font-size: 15px; }
+footer { border-top: 1px solid var(--rule); padding-top: 18px; font-size: 14px; color: var(--muted); display: grid; gap: 6px; }
+.subscribe { display: flex; flex-wrap: wrap; gap: 12px; align-items: center; }
+.subscribe a { font-family: var(--font-display); font-weight: 700; background: var(--accent); color: var(--paper); padding: 10px 18px; text-decoration: none; }
+@media (prefers-reduced-motion: no-preference) { .chart rect { transition: opacity .2s; } }
+</style>
+<!--BODY-->
+<div class="wrap">
+  <header class="mast">
+    <div class="row">
+      <span class="label" id="issue-label"></span>
+      <span class="label">Southeast Asia · from public filings</span>
+    </div>
+    <h1>The A<span class="amp">&amp;</span>P Ledger</h1>
+    <p class="dek">Who in Southeast Asia is raising or cutting marketing spend, by how much, and the reason they give in their own filings.</p>
+    <div class="stats" id="stats"></div>
+  </header>
+
+  <section class="issue" aria-labelledby="issue-h">
+    <div style="display:grid;gap:18px;min-width:0">
+      <span class="label">This issue</span>
+      <h2 id="issue-h"></h2>
+      <ol class="lines" id="lines"></ol>
+      <p class="foot" id="footnote"></p>
+    </div>
+    <aside class="read">
+      <div class="note"><span class="label">My read</span><p id="read"></p></div>
+      <div class="note scope"><span class="label">Scope watch</span><p id="scope"></p></div>
+      <div class="subscribe" id="subscribe" hidden><a id="subscribe-link" href="#">Get the next issue</a></div>
+    </aside>
+  </section>
+
+  <section aria-labelledby="chart-h">
+    <div style="display:grid;gap:4px"><span class="label">Change in marketing spend</span>
+    <h2 id="chart-h" style="font-size:24px;font-stretch:88%">Latest reported period against the same period a year earlier</h2></div>
+    <div class="chart" id="chart"></div>
+  </section>
+
+  <section aria-labelledby="book-h">
+    <div style="display:grid;gap:4px"><span class="label">The book</span>
+    <h2 id="book-h" style="font-size:24px;font-stretch:88%">Every entry, with its source</h2></div>
+    <div class="filters" role="group" aria-label="Filter entries">
+      <button type="button" id="f-all" aria-pressed="true" data-f="all">All</button>
+      <button type="button" id="f-up" aria-pressed="false" data-f="up">Spending more</button>
+      <button type="button" id="f-down" aria-pressed="false" data-f="down">Spending less</button>
+      <button type="button" id="f-sgx" aria-pressed="false" data-f="SGX">SGX-listed</button>
+      <button type="button" id="f-us" aria-pressed="false" data-f="US">US-listed</button>
+    </div>
+    <div class="tablewrap"><table>
+      <thead><tr><th>Company</th><th>Period</th><th>Line in the filing</th><th class="r">Latest</th><th class="r">Year earlier</th><th class="r">Change</th><th class="r">Share of revenue</th><th>Reason given</th><th>Source</th></tr></thead>
+      <tbody id="rows"></tbody>
+    </table></div>
+    <div style="display:grid;gap:8px"><span class="label">No figure this round</span><ul class="gaps" id="gaps"></ul></div>
+  </section>
+
+  <section aria-labelledby="method-h">
+    <h2 id="method-h" style="font-size:24px;font-stretch:88%">How the ledger is kept</h2>
+    <div class="method">
+      <div><span class="label">Sources</span><p>Results announcements and annual reports from SEC EDGAR and SGX, fetched twice a week in results months.</p></div>
+      <div><span class="label">The line</span><p>The narrowest marketing line each company discloses. A&amp;P where it exists, then sales and marketing, then selling and distribution. The type is shown on every entry.</p></div>
+      <div><span class="label">Like for like</span><p>Changes are worked out in the reporting currency against the same period a year earlier, using restated comparatives where the filing gives them.</p></div>
+      <div><span class="label">Checked</span><p>Every figure and quoted reason is matched word for word against the filing before it appears here. "Not disclosed" counts as a finding.</p></div>
+    </div>
+  </section>
+
+  <footer>
+    <span id="curator"></span>
+    <span>Summaries and links only. Figures are as reported by each company and are not investment advice.</span>
+    <span id="built"></span>
+  </footer>
+</div>
+
+<script>
+const DATA = /*__DATA__*/null;
+(function () {
+  const $ = (id) => document.getElementById(id);
+  const sym = { USD: "US$", SGD: "S$", ZAR: "R", VND: "VND", THB: "THB" };
+  const mult = { dollars: 1, thousands: 1e3, millions: 1e6 };
+  function human(v, cur, unit) {
+    if (v == null || v === "") return "–";
+    const n = parseFloat(String(v).replace(/,/g, "")) * (mult[unit] || 1);
+    const s = sym[cur] || (cur || "") + " ";
+    const sep = /^[A-Z]{3}$/.test(s) ? "" : "";
+    if (n >= 1e12) return s + sep + (n / 1e12).toFixed(2) + "tn";
+    if (n >= 1e9) return s + sep + (n / 1e9).toFixed(2) + "bn";
+    if (n >= 1e6) return s + sep + (n / 1e6).toFixed(1) + "m";
+    if (n >= 1e3) return s + sep + Math.round(n / 1e3) + "k";
+    return s + sep + Math.round(n);
+  }
+  const typeName = { ap: "advertising & promotion", sm: "sales & marketing", sd: "selling & distribution" };
+  const esc = (t) => String(t ?? "").replace(/[&<>"]/g, (c) => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;" }[c]));
+
+  const rows = DATA.rows;
+  const withFig = rows.filter((r) => r.change_pct != null);
+  const issue = DATA.issue;
+
+  $("issue-label").textContent = "Issue " + issue.number + " · " + new Date(issue.date + "T00:00:00").toLocaleDateString("en-GB", { day: "numeric", month: "long", year: "numeric" });
+  $("issue-h").textContent = issue.headline;
+  $("lines").innerHTML = issue.lines.map((l) => "<li><span>" + esc(l.text) + "</span></li>").join("");
+  $("footnote").textContent = issue.footnote;
+  $("read").textContent = issue.read;
+  $("scope").textContent = issue.scope_watch;
+  if (DATA.config.subscribe_url) { $("subscribe-link").href = DATA.config.subscribe_url; $("subscribe").hidden = false; }
+  $("curator").textContent = DATA.config.curator ? "Kept by " + DATA.config.curator + "." : "";
+  $("built").textContent = "Last updated " + DATA.built + ".";
+
+  const up = withFig.filter((r) => r.change_pct > 0).length, down = withFig.length - up;
+  $("stats").innerHTML = [
+    [rows.filter((r) => r.confidence !== "excluded").length, "companies tracked"],
+    [up, "spending more"], [down, "spending less"],
+    [rows.filter((r) => r.confidence === "none" || r.confidence === "medium" && r.change_pct == null).length, "without a usable figure"],
+  ].map(([n, t]) => '<div><b>' + n + '</b><span class="label">' + t + "</span></div>").join("");
+
+  // Diverging bar chart, one scale for bars, ticks and labels.
+  const sorted = [...withFig].sort((a, b) => b.change_pct - a.change_pct);
+  const W = 860, rowH = 30, top = 28, left = 190, right = 70;
+  const H = top + sorted.length * rowH + 10;
+  const maxAbs = Math.max(...sorted.map((r) => Math.abs(r.change_pct)));
+  const lim = Math.ceil(maxAbs / 20) * 20;
+  const x = (v) => left + ((v + lim) / (2 * lim)) * (W - left - right);
+  let svg = '<svg viewBox="0 0 ' + W + " " + H + '" role="img" aria-label="Bar chart of percentage change in marketing spend by company">';
+  for (let t = -lim; t <= lim; t += 20) {
+    svg += '<line class="' + (t === 0 ? "zero" : "grid") + '" x1="' + x(t) + '" x2="' + x(t) + '" y1="' + (top - 8) + '" y2="' + (H - 6) + '"/>';
+    svg += '<text class="ax" x="' + x(t) + '" y="14" text-anchor="middle">' + (t > 0 ? "+" : "") + t + "%</text>";
+  }
+  sorted.forEach((r, i) => {
+    const y = top + i * rowH, v = r.change_pct, x0 = x(0), x1 = x(v);
+    const cls = v >= 0 ? "up" : "down";
+    svg += '<text x="' + (left - 12) + '" y="' + (y + 19) + '" text-anchor="end">' + esc(r.company) + " · " + esc(r.period) + "</text>";
+    svg += '<rect class="' + cls + '" x="' + Math.min(x0, x1) + '" y="' + (y + 6) + '" width="' + Math.max(1, Math.abs(x1 - x0)) + '" height="18"/>';
+    svg += '<text class="v" x="' + (v >= 0 ? x1 + 6 : x1 - 6) + '" y="' + (y + 19) + '" text-anchor="' + (v >= 0 ? "start" : "end") + '">' + (v > 0 ? "+" : "") + v.toFixed(1) + "%</text>";
+  });
+  $("chart").innerHTML = svg + "</svg>";
+
+  function render(f) {
+    const list = withFig.filter((r) => f === "all" || (f === "up" && r.change_pct > 0) || (f === "down" && r.change_pct <= 0) || r.listing === f)
+      .sort((a, b) => b.change_pct - a.change_pct);
+    $("rows").innerHTML = list.map((r) => {
+      const cls = r.change_pct > 0 ? "up" : "down";
+      const latest = human(r.current, r.currency, r.unit);
+      const share = r.spend_to_revenue_current_pct != null ? r.spend_to_revenue_current_pct.toFixed(1) + "%<span class=\"sub\">was " + r.spend_to_revenue_prior_pct.toFixed(1) + "%</span>" : "–";
+      return "<tr><td><span class=\"co\">" + esc(r.company) + "</span><span class=\"sub\">" + esc(r.sector) + " · " + esc(r.listing) + "</span></td>" +
+        "<td class=\"num\">" + esc(r.period) + "</td>" +
+        "<td>" + esc(r.line_label) + "<br><span class=\"chip\">" + esc(typeName[r.line_type] || "") + "</span></td>" +
+        "<td class=\"r num\">" + esc(latest) + (r.display_current ? "<span class=\"sub\">" + esc(r.display_current) + "</span>" : "") + "</td><td class=\"r num\">" + esc(human(r.prior, r.currency, r.unit)) + "</td>" +
+        "<td class=\"r\"><span class=\"chg " + cls + "\">" + (r.change_pct > 0 ? "▲ +" : "▼ ") + r.change_pct.toFixed(1) + "%</span></td>" +
+        "<td class=\"r num\">" + share + "</td>" +
+        "<td class=\"reason\">" + (r.reason_quote ? "<q>" + esc(r.reason_quote) + "</q>" : "<span class=\"sub\">No reason given</span>") + (r.notes ? "<details class=\"n\"><summary>Notes</summary><p>" + esc(r.notes) + "</p></details>" : "") + "</td>" +
+        "<td class=\"src\"><a href=\"" + esc(r.public_link) + "\" target=\"_blank\" rel=\"noopener\">Filing" + (r.page ? ", p." + r.page : "") + "</a></td></tr>";
+    }).join("");
+  }
+  document.querySelectorAll(".filters button").forEach((b) => b.addEventListener("click", () => {
+    document.querySelectorAll(".filters button").forEach((o) => o.setAttribute("aria-pressed", String(o === b)));
+    render(b.dataset.f);
+  }));
+  render("all");
+
+  $("gaps").innerHTML = rows.filter((r) => r.change_pct == null).map((r) =>
+    "<li><b>" + esc(r.company) + "</b>. " + esc(r.notes) + (r.public_link ? ' <a href="' + esc(r.public_link) + '" target="_blank" rel="noopener">Filing</a>' : "") + "</li>").join("");
+})();
+</script>
