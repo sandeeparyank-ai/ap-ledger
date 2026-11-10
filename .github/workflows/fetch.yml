@@ -46,9 +46,11 @@ jobs:
         run: python fetch/fetch_edgar.py
 
       - name: Fetch listed documents
+        if: ${{ !cancelled() }}
         run: cd fetch && python fetch_urls.py
 
       - name: Commit new text files
+        if: ${{ !cancelled() }}
         run: |
           git config user.name "ap-ledger-bot"
           git config user.email "actions@users.noreply.github.com"
