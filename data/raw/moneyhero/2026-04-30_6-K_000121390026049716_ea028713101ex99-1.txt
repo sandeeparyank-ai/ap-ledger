@@ -1,0 +1,676 @@
+EX-99.1
+
+2
+
+ea028713101ex99-1.htm
+
+PRESS RELEASE
+
+Exhibit 99.1
+
+MoneyHero Group
+Reports Unaudited Fourth Quarter and Audited Full Year 2025 Results
+
+● | Delivery
+ of first quarterly profitability: Attained Q4 2025 net profit of US$0.5 million and first-ever Adjusted EBITDA 1 gain
+ since listing of US$0.7 million, driven by structurally lower costs and accelerating higher-margin revenue mix
+
+● | Structural cost reductions with strong top-line growth: Total
+operating costs and expenses for the quarter decreased 15% year-over-year to US$21.4 million while revenue increased 27% year-over-year
+to US$20.0 million
+
+SINGAPORE, April 30, 2026 (GLOBE NEWSWIRE) --
+
+MoneyHero Limited
+ (Nasdaq: MNY) (“MoneyHero” or the “Company”), a leading tech- and AI-powered personal
+finance aggregation and comparison platform and a digital insurance brokerage provider in Greater Southeast Asia, today announced its
+financial results for the fourth quarter and full year ended December 31, 2025.
+
+Management Commentary:
+
+Danny Leung, Interim Chief Executive Officer
+and Chief Financial Officer
+, stated:
+
+“The fourth quarter marks our first profitable quarter as a listed company despite a challenging year 2025 with total revenue falling by
+8%. Stepping into the Interim CEO role, I want to recognize the
+tremendous dedication of our entire team that brought us to this milestone. Building on that foundation, we delivered fourth quarter
+net profit of US$0.5 million, a significant improvement from a net loss of US$(18.8) million in the same period last year. This was
+achieved alongside Adjusted EBITDA of US$0.7 million, marking our first-ever Adjusted EBITDA gain since our NASDAQ listing. For the
+full year, our net loss narrowed 86% to US$(5.2) million from US$(37.8) million and Adjusted EBITDA loss improved 73% to US$(6.4)
+million from US$(23.7) million. This demonstrates clear, sequential execution toward achieving a better revenue mix, cost base,
+and technology platform.
+
+Fourth quarter revenue reached US$20.0 million, increasing 27% year-over-year, driven by a strong performance in our core markets: Singapore
+revenue surged 56% year-over-year to US$7.9 million and Hong Kong grew 27% to US$9.4 million. Together, these two markets represented
+86% of revenue during the quarter, up from 79% a year ago, reflecting our deliberate focus on markets with the strongest unit economics.
+This performance was driven by an acceleration in our higher-margin products, Insurance and Wealth, reaching nearly 30% of total revenue
+in the fourth quarter. Specifically, Wealth revenue growth accelerated 50% year-over-year during the quarter. Furthermore, Credit card
+revenue during the fourth quarter grew 38% year-over-year, demonstrating our ability to capture high-intent volume in our core verticals
+while simultaneously accelerating our revenue mix-shift into higher-margin products.
+
+On a full-year basis, our revenue mix transformation continues unabated, as our higher-margin products, Insurance and Wealth,
+now represent 26% of full year revenue, up from 21% a year ago and 12% in 2023. Insurance revenue grew 11% year-over-year to US$9.1 million
+and Wealth grew 19% to US$10.1 million. This structural improvement was driven by a shift in revenue mix and optimized rewards costs,
+resulting in our cost of revenue for the full year declining by 7 percentage points year-over-year to 51% of revenue. This revenue mix
+shift, combined with improved approval rates and rewards optimization, is directly driving margin expansion.
+
+1 | Adjusted EBITDA is a non-IFRS financial measure. See “Key Performance Metrics and Non-IFRS Financial Measures” section herein for an explanation and reconciliations of non-IFRS measures used throughout this release.
+
+Throughout 2025, we reduced total operating costs
+and expenses, excluding net foreign exchange differences, by 27% year-over-year. These efficiency gains are structural, not cyclical.
+Technology costs declined 59% for the full year and 71% year-over-year in the fourth quarter as we further consolidated vendors, retired
+legacy platforms, and streamlined our technology stack. Advertising and marketing expenses also decreased 20% from last year to US$17.3
+million through more targeted, data-driven campaign allocation. Furthermore, employee benefit expenses declined 33% for the year to US$16.2
+million, reflecting our completed restructuring and increasing AI adoption to build a structurally leaner cost base that will not reinflate
+as we scale.
+
+We are embedding intelligence across the organization through our AI transformation initiative. Our AI automation now touches up to 70%
+of customer service queries. Crucially, in December 2025, AI successfully resolved 47% of customer service queries without any human intervention,
+demonstrating how we are scaling operations and product support without proportionally adding headcount. This operating leverage is clearly
+visible in the fourth quarter, where approved applications grew 12% year-over-year, while employee benefit expenses declined 32% through
+efficiency gain. Over time, our AI initiative will drive further technology stack simplification and enable new AI-powered user journeys.
+During the quarter, we began beta-testing our Car Insurance SaverBot on WhatsApp in Singapore, delivering a conversational AI experience
+that simplifies product discovery and reduces acquisition costs. Similarly in Hong Kong, Credit Hero Club is building a recurring base
+of high-intent users through personalized credit insights and monitoring, setting the groundwork for further customer acquisition cost
+efficiencies.
+
+We ended the year with a highly resilient, debt-free balance sheet with US$37.5 million in net current assets and US$31.2 million in cash
+and cash equivalents. The US$3.3 million sequential increase in cash from the prior quarter highlights our gradual transition into a sustainable
+and cash-generative business. This capital position, supported by our 9.4 million Members and over 300 commercial partnerships as of December
+31, 2025, allows us to continuously invest in AI, product innovation and higher-margin verticals, while maintaining the strict cost discipline
+that allowed us to reach this milestone. Looking ahead, we expect our full-year 2026 Adjusted EBITDA to exceed 2025 levels, driven by
+the continued expansion of our higher-margin products, Insurance and Wealth verticals, AI-driven operating leverage, and the strong conversion
+of our member base into recurring, multi-product customers.”
+
+Fourth Quarter 2025 Financial Highlights
+
+● | Net profit was US$0.5 million, marking a significant turnaround
+from the net loss of US$(18.8) million in the same period last year.
+
+● | Adjusted EBITDA gain of US$0.7 million, compared to Adjusted
+EBITDA loss of US$(2.9) million in the fourth quarter of 2024.
+
+● | Revenue was US$20.0 million, a 27% year-over-year increase
+from US$15.7 million in the same period last year, signaling the successful stabilization and continued diversification of revenue mix
+to enhance revenue quality.
+
+o | Revenue from Insurance and Wealth products combined increased
+31% year-over-year to US$5.9 million, accounting for 30% of total revenue, compared to 29% in the same period last year.
+
+2
+
+● | Total operating costs and expenses, excluding net foreign
+exchange differences, decreased by 15% to US$21.4 million in the fourth quarter of 2025, compared to US$25.2 million during the same
+period last year, driven by a 71% year-over-year decrease in technology costs from platform consolidation and AI automation and a decrease
+in written off/impairment of intangible assets within general and administrative expenses.
+
+Full Year 2025 Financial Highlights
+
+● | Total revenue was US$73.4 million, an 8% decrease year-over-year, while net loss narrowed sharply to US$(5.2) million, from US$(37.8)
+million in the prior year, reflecting a strategic shift toward diversifying revenue mix to enhance revenue quality.
+
+o | Wealth revenue increased by 19% year-over-year to US$10.1
+million, accounting for 14% of total revenue, compared to 11% in the prior year.
+
+o | Insurance revenue grew by 11% year-over-year to US$9.1 million,
+accounting for 12% of total revenue, compared to 10% in the prior year.
+
+o | Collectively, these higher-margin verticals of Wealth and Insurance drove a structural expansion in margins, accounting for 26% of revenue in 2025, compared to 21% in the prior year.
+
+● | Cost of revenue decreased by 19% year-over-year to US$37.3
+million from US$46.2 million last year, accounting for 51% of revenue. This 7-percentage point improvement from 58% during the same period
+last year reflects improving profitability through optimized rewards costs and accelerating revenue-mix shift into higher-margin products.
+
+● | Total operating costs and expenses, excluding net foreign
+exchange differences, decreased by 27% year-over-year to US$84.2 million in 2025, primarily driven by optimized reward costs, cost-efficient
+marketing campaigns, platform efficiencies driving lower technology costs, and streamlined employee benefits expenses.
+
+● | Adjusted EBITDA loss improved significantly to US$(6.4) million,
+compared to US$(23.7) million in 2024, demonstrating clear, sequential execution toward sustainable profitability.
+
+● | The Company maintained a debt-free balance sheet with US$31.2 million in cash and cash equivalents
+ as of December 31, 2025, a US$3.3 million increase from US$27.9 million as of September 30, 2025. This highlights the
+ Company’s gradual transition into a sustainable and cash-generative business.
+
+Fourth Quarter and Full Year 2025 Operational Highlights
+
+● | Maintained 4.2 million Monthly Unique Users for the three
+months ended December 31, 2025.
+
+● | MoneyHero Group Members, to whom the Company provides more
+tailored product information and recommendations, grew by 30% year-over-year to 9.4 million as of December 31, 2025.
+
+● | Approved Application volumes increased by 12% year-over-year
+in the fourth quarter of 2025 to 190,000, driven by strong growth in Insurance and Wealth products.
+
+Capital Structure
+
+The table below summarizes the capital structure
+of the Company as of December 31, 2025:
+
+Share Class | Issued and Outstanding
+
+Class A Ordinary | 30,572,252 | 2
+
+Class B Ordinary | 13,254,838
+
+Preference Shares | 2,407,575
+
+Total
+ Issued Shares 3 | 46,234,665
+
+2 | Includes 350,483 shares issued to Computershare Hong Kong Investor Services Limited (“ Computershare ”) which are held
+in trust pending exercise and settlement of share options by Computershare to the underlying exercising option holder.
+
+3 | Public Warrants, Sponsor Warrants, Class A-1 Warrants, Class
+A-2 Warrants and Class A-3 Warrants are excluded since they are out of the money.
+
+3
+
+Summary of financial / KPI performance
+
+For the Three Months Ended December 31, | For the Year Ended December 31,
+
+(US$ in thousands, unless otherwise noted) | 2025 | 2024 | 2025 | 2024
+
+(unaudited) | (audited)
+
+Revenue | 19,967 | 15,723 | 73,426 | 79,511
+
+Adjusted EBITDA | 683 | (2,922 | ) | (6,353 | ) | (23,666 | )
+
+Clicks (in thousands) 4 | 1,663 | 2,222 | 7,650 | N/A
+
+Applications (in thousands) 5,6 | 373 | 385 | 1,664 | 1,858
+
+Approved Applications (in thousands) 5,6 | 190 | 170 | 703 | 790
+
+Revenue breakdown
+
+For the Three Months Ended December 31, | For the Year Ended December 31,
+
+2025 | 2024 | 2025 | 2024
+
+(US$ in thousands, except for percentages) | US$ | % | US$ | % | US$ | % | US$ | %
+
+(unaudited) | (audited)
+
+By Geographical Market:
+
+Hong Kong | 9,382 | 47.0 | 7,386 | 47.0 | 31,117 | 42.4 | 30,443 | 38.3
+
+Singapore | 7,869 | 39.4 | 5,060 | 32.2 | 30,934 | 42.1 | 30,890 | 38.9
+
+Philippines | 1,524 | 7.6 | 1,977 | 12.6 | 7,372 | 10.0 | 12,844 | 16.2
+
+Taiwan | 1,191 | 6.0 | 1,296 | 8.2 | 4,004 | 5.5 | 5,137 | 6.5
+
+Malaysia | - | - | 5 | - | - | - | 197 | 0.2
+
+Total Revenue | 19,967 | 100.0 | 15,723 | 100.0 | 73,426 | 100.0 | 79,511 | 100.0
+
+By Source:
+
+Online financial comparison platforms | 18,060 | 90.5 | 13,594 | 86.5 | 65,976 | 89.9 | 66,815 | 84.0
+
+Creatory | 1,907 | 9.5 | 2,129 | 13.5 | 7,450 | 10.1 | 12,696 | 16.0
+
+Total Revenue | 19,967 | 100.0 | 15,723 | 100.0 | 73,426 | 100.0 | 79,511 | 100.0
+
+By Vertical:
+
+Credit cards | 10,434 | 52.3 | 7,559 | 48.1 | 43,777 | 59.6 | 48,958 | 61.6
+
+Personal loans and mortgages | 2,908 | 14.6 | 3,373 | 21.5 | 9,309 | 12.7 | 12,185 | 15.3
+
+Wealth | 3,587 | 18.0 | 2,397 | 15.2 | 10,104 | 13.8 | 8,504 | 10.7
+
+Insurance | 2,317 | 11.6 | 2,125 | 13.5 | 9,101 | 12.4 | 8,181 | 10.3
+
+Other verticals | 720 | 3.6 | 269 | 1.7 | 1,137 | 1.5 | 1,683 | 2.1
+
+Total Revenue | 19,967 | 100.0 | 15,723 | 100.0 | 73,426 | 100.0 | 79,511 | 100.0
+
+4 | As of July 1, 2024, we transitioned from Universal Analytics
+to Google Analytics 4. While three-month quarterly comparisons are available for 2025 and 2024, we are unable to provide comparable full-year
+data for 2024 due to this methodology change. Please refer to the section titled “Key Performance Metrics and Non-IFRS Financial
+Measures” for more information regarding the change in methodology.
+
+5 | Due to the nature of our business, there is often a delay
+in receiving confirmation of the number of Applications and Approved Applications by our commercial partners. As a result, the disclosed
+figures may utilize estimations if data is unavailable.
+
+6 | Historical MoneyHero Group Members, Applications and Approved
+Applications as of and for comparative periods prior to December 31, 2024, have been restated to be presented on a comparable basis to
+our current data governance practices. These revisions had no impact on our consolidated financial statements for any of the periods
+presented.
+
+4
+
+Key Metrics
+
+For
+the Three Months Ended December 31, | For the Year Ended December 31,
+
+2025 | 2024 | 2025 | 2024
+
+(in millions, except for percentages)
+
+Monthly Unique Users 7
+
+Singapore | 1.0 | 22.7 | % | 1.4 | 23.1 | % | 1.1 | 22.0 | % | N/A | N/A
+
+Hong Kong | 1.2 | 27.6 | % | 1.1 | 17.2 | % | 1.1 | 22.3 | % | N/A | N/A
+
+Taiwan | 1.3 | 29.5 | % | 1.7 | 28.2 | % | 1.6 | 31.8 | % | N/A | N/A
+
+Philippines | 0.9 | 20.1 | % | 1.9 | 31.5 | % | 1.2 | 23.8 | % | N/A | N/A
+
+Total | 4.2 | 100.0 | % | 6.2 | 100.0 | % | 5.1 | 100.0 | % | N/A | N/A
+
+Total Traffic 7
+
+Singapore | 2.7 | 20.3 | % | 3.1 | 16.6 | % | 12.0 | 18.9 | % | N/A | N/A
+
+Hong Kong | 3.9 | 29.2 | % | 3.5 | 19.0 | % | 15.1 | 23.7 | % | N/A | N/A
+
+Taiwan | 4.1 | 30.4 | % | 5.7 | 30.7 | % | 21.2 | 33.3 | % | N/A | N/A
+
+Philippines | 2.7 | 20.1 | % | 6.3 | 33.7 | % | 15.4 | 24.2 | % | N/A | N/A
+
+Total | 13.4 | 100.0 | % | 18.6 | 100.0 | % | 63.7 | 100.0 | % | N/A | N/A
+
+As of December 31,
+
+2025 | 2024
+
+(in millions, except for percentages)
+
+MoneyHero Group Members 8
+
+Singapore | 1.4 | 15.0 | % | 1.2 | 17.2 | %
+
+Hong Kong | 1.0 | 10.2 | % | 0.8 | 11.4 | %
+
+Taiwan | 0.4 | 4.2 | % | 0.3 | 4.8 | %
+
+Philippines | 6.7 | 70.6 | % | 4.8 | 66.6 | %
+
+Total | 9.4 | 100.0 | % | 7.3 | 100.0 | %
+
+Conference Call Details
+
+The Company will host a conference call and webcast
+on Thursday, April 30, 2026, at 8:00 a.m. Eastern Standard Time / 8:00 p.m. Singapore Standard Time to discuss the Company’s financial
+results. The MoneyHero Limited (NASDAQ: MNY) Q4 and FY 2025 Earnings call can be accessed by registering at:
+
+Webcast: https://edge.media-server.com/mmc/p/ydx9uomn
+
+Conference call: https://register-conf.media-server.com/register/BIaabf02b3f3514871ad56ad5092fa9ac3
+
+The webcast replay will be available on the Investor
+Relations website for 12 months following the event.
+
+About MoneyHero Group
+
+MoneyHero Limited (NASDAQ: MNY) is a leading tech-
+and AI-powered personal finance aggregation and comparison platform that provides consumers with actionable insights to discover, compare,
+and choose the best financial products with confidence — bringing data intelligence and seamless digital access across insurance
+and banking solutions. The Company operates in Singapore, Hong Kong, Taiwan and the Philippines. Its brand portfolio includes B2C platforms
+MoneyHero, SingSaver, Money101, Moneymax and Seedly, as well as the B2B platform Creatory. The Company also retains an equity stake in
+preference shares in Malaysian fintech company, Jirnexu Pte. Ltd., parent company of Jirnexu Sdn. Bhd., the operator of RinggitPlus, Malaysia’s
+largest operating B2C platform. MoneyHero had over 300 commercial partner relationships as at December 31, 2025, and had approximately
+5.1 million Monthly Unique Users across its platform for the year ended December 31, 2025. The Company’s backers include Peter Thiel—co-founder
+of PayPal, Palantir Technologies, and the Founders Fund—and Hong Kong businessman, Richard Li, the founder and chairman of Pacific
+Century Group. To learn more about MoneyHero and how the innovative fintech company is driving APAC’s digital economy, please visit
+www.MoneyHeroGroup.com.
+
+7 | As of July 1, 2024, we transitioned
+from Universal Analytics to Google Analytics 4. While three-month quarterly comparisons are available for 2025 and 2024, we are unable
+to provide comparable full-year data for 2024 due to this methodology change. Please refer to the section titled “Key Performance
+Metrics and Non-IFRS Financial Measures” for more information regarding the change in methodology.
+
+8 | Historical MoneyHero Group Members, Applications and Approved
+Applications as of and for comparative periods prior to December 31, 2024, have been restated to be presented on a comparable basis to
+our current data governance practices. These revisions had no impact on our consolidated financial statements for any of the periods
+presented.
+
+5
+
+Key Performance Metrics and Non-IFRS Financial
+Measures
+
+Historically, we utilized data from Universal
+Analytics (“UA”), Google’s analytics platform, to measure three key business metrics: monthly unique users, traffic,
+and clicks. Effective July 1, 2024, Google Analytics 4 (“GA4”) replaced UA. The methodologies used in GA4 are different and
+not comparable to the methodologies used in UA. While Google has provided some guidance on these differences, Google has not made available
+sufficient information for us to assess the impact (whether positive or negative) of this transition on our key business metrics, nor
+can we quantify the extent of such impact. Furthermore, due to the adoption of GA4, we have adjusted our definitions of these key business
+metrics to enhance accuracy and align them more closely with previous definitions under UA. Therefore, we are unable to provide comparable
+data for monthly unique user, traffic, and clicks for any periods prior to July 1, 2024.
+
+“Monthly Unique User” means as a unique
+user with at least one session in a given month as determined by a unique device identifier from GA4. A session begins when a user opens
+an app in the foreground or views a page or screen while no other session is currently active (e.g., the prior session has ended). A session
+concludes after 30 minutes of user inactivity. To measure Monthly Unique Users over a period longer than one month, we calculate the average
+of the Monthly Unique Users for each month within that period. If an individual accesses a website or app from different devices within
+a given month, each device is counted as a separate unique user. However, if an individual logs in and accesses a website or app using
+the same login across different devices, they will only be counted as one unique user. This metric provides investors with insight into
+our market penetration and the breadth of our audience. Management uses this data to refine our content and product discovery tools, with
+the goal of increasing user loyalty and driving higher conversion rates from unique visitors into active product applicants.
+
+“Traffic” means the total number of
+unique sessions in GA4. A unique session is a group of user interactions recorded when a user accesses a website or app within a 30-minute
+window. The current session concludes when there is 30 minutes of inactivity or users have a change in traffic source. Traffic is a key
+indicator for investors of the overall engagement volume and frequency of use of our platforms. Management utilizes this metric to analyze
+the efficiency of our acquisition funnel and to optimize our marketing spend toward high-ROI organic and paid channels that deliver users
+with the highest intent to transact.
+
+“MoneyHero Group Members” means (i)
+users who have login IDs with us in Singapore, Hong Kong and Taiwan, (ii) users who subscribe to our email distributions in Singapore,
+Hong Kong, Taiwan, the Philippines and Malaysia, and (iii) users who are registered in our rewards database in Singapore and Hong Kong.
+Any duplications across the three sources above are deduplicated. This metric is useful to investors as it identifies our core base of
+registered users who have established a direct relationship with our platforms. Management uses this data to evaluate the scale of our
+market reach and to improve our AI-driven personalization. By understanding member behavior, we can provide more accurate financial recommendations,
+which encourages repeat use of our services and increases the long-term value of each user relationship.
+
+“Clicks” means the sum of unique clicks
+by product item on a tagged “Apply Now”, “Express Buy”, “Buy” or similar button on our website, including
+product result pages and blogs. We track Clicks to understand how our users engage with our platforms prior to application submission
+or purchase, which enables us to further optimize conversion rates.
+
+6
+
+“Applications” means the total number
+of product applications submitted by users and confirmed by our commercial partners. Management uses this metric to assess the conversion
+efficiency of our platforms and the effectiveness of our marketing strategies in driving users toward the final stages of the transaction
+funnel.
+
+“Approved Applications” means the
+number of applications that have been approved and confirmed by our commercial partners. Management utilizes this data to evaluate the
+quality and success rate of applications facilitated through our platforms, which is critical to our success-based fee model and our ability
+to align user demand with our commercial partners’ underwriting standards.
+
+In addition to MoneyHero Group’s results
+determined in accordance with IFRS, MoneyHero Group believes that the key performance metrics above and the non-IFRS measures below are
+useful in evaluating its operating performance. MoneyHero Group uses these measures to evaluate ongoing operations and for internal planning
+and forecasting purposes. MoneyHero Group believes that non-IFRS information may be helpful to investors because it provides consistency
+and comparability with past financial performance and may assist in comparisons with other companies to the extent that such other companies
+use similar non-IFRS measures to supplement their IFRS results. These non-IFRS measures are presented for supplemental informational purposes
+only and should not be considered a substitute for financial information presented in accordance with IFRS and may be different from similarly
+titled non-IFRS measures used by other companies. Accordingly, non-IFRS measures have limitations as analytical tools, and should not
+be considered in isolation or as substitutes for analysis of other IFRS financial measures, such as profit/(loss) for the period and profit/(loss)
+before income tax.
+
+Adjusted EBITDA is a non-IFRS financial measure defined as profit/(loss)
+for the period plus income tax expense, depreciation and amortization, interest income, finance costs, changes in fair value of financial
+instruments, written off/impairment of intangible assets, impairment of other assets, equity-settled share-based payment expenses, unrealized
+foreign exchange loss/(gain), transaction expenses, gain on disposal of assets in Malaysian operations, other non-recurring costs related
+to strategic exercises and non-recurring legal and professional fees and other expenses. For further details on the components of these
+adjustments and why management believes this non-IFRS measure provides useful supplemental information to investors, please see our Annual
+Report on Form 20-F for the year ended December 31, 2025.
+
+EBITDA is a non-IFRS financial measure
+defined as profit/(loss) for the period plus income tax expense, depreciation and amortization, interest income and finance costs.
+Adjusted EBITDA is further adjusted as described above.
+
+A reconciliation is provided for each non-IFRS
+measure to the most directly comparable financial measure stated in accordance with IFRS. Investors are encouraged to review the related
+IFRS financial measures and the reconciliations of these non-IFRS measures to their most directly comparable IFRS financial measures.
+IFRS differs from U.S. GAAP in certain material respects and thus may not be comparable to financial information presented by U.S. companies.
+We currently, and will continue to, report financial results under IFRS, which differs in certain significant respects from U.S. GAAP.
+
+7
+
+For the Three Months Ended December 31, | For the Year Ended December 31,
+
+(US$ in thousands) | 2025 | 2024 | 2025 | 2024
+
+(unaudited) | (audited)
+
+Profit/(Loss) for the period | 528 | (18,756 | ) | (5,179 | ) | (37,787 | )
+
+Income tax expense | 26 | 19 | 40 | 109
+
+Depreciation and amortization | 48 | 893 | 1,013 | 4,043
+
+Interest income | (114 | ) | (239 | ) | (582 | ) | (1,478 | )
+
+Finance costs | 15 | 8 | 54 | 25
+
+EBITDA | 504 | (18,075 | ) | (4,654 | ) | (35,088 | )
+
+Non-cash items:
+
+Changes in fair value of financial instruments | (1,814 | ) | 526 | (263 | ) | (447 | )
+
+Written off/impairment of intangible assets | 1,193 | 4,466 | 1,193 | 4,541
+
+Impairment of other assets | 33 | - | 316 | -
+
+Equity-settled share-based payment arising from employee share incentive scheme | 473 | 1,631 | 1,289 | 3,179
+
+Unrealized foreign exchange loss/(gain), net | 21 | 8,523 | (4,801 | ) | 4,197
+
+Listing and other non-recurring strategic exercises related items:
+
+Transaction expenses | - | 0 | - | 29
+
+Gain on disposal of assets in Malaysian operations | - | 0 | - | (600 | )
+
+Other non-recurring costs related to strategic exercises | - | - | - | 61
+
+Other non-recurring items:
+
+Non-recurring legal and professional fees and other expenses | 273 | 7 | 567 | 462
+
+Adjusted EBITDA | 683 | (2,922 | ) | (6,353 | ) | (23,666 | )
+
+8
+
+Forward Looking Statements
+
+This document includes “forward-looking
+statements” within the meaning of the United States federal securities laws and also contains certain financial forecasts and projections.
+All statements other than statements of historical fact contained in this communication, including, but not limited to, statements as
+to the Group’s growth strategies, future results of operations and financial position, market size, industry trends and growth opportunities,
+are forward-looking statements. Some of these forward-looking statements can be identified by the use of forward-looking words, including
+“outlook,” “believes,” “expects,” “potential,” “continues,” “may,”
+“will,” “should,” “could,” “seeks,” “predicts,” “intends,” “trends,”
+“plans,” “estimates,” “anticipates” or the negative version of these words or other comparable words.
+All forward-looking statements are based upon estimates and forecasts and reflect the views, assumptions, expectations, and opinions of
+the Company, which are all subject to change due to various factors including, without limitation, changes in general economic conditions.
+Any such estimates, assumptions, expectations, forecasts, views or opinions, whether or not identified in this communication, should be
+regarded as indicative, preliminary and for illustrative purposes only and should not be relied upon as being necessarily indicative of
+future results. The forward-looking statements and financial forecasts and projections contained in this communication are subject to
+a number of factors, risks and uncertainties. Potential risks and uncertainties that could cause the actual results to differ materially
+from those expressed or implied by forward-looking statements include, but are not limited to, changes in business, market, financial,
+political and legal conditions; the Company’s ability to attract new and retain existing customers in a cost effective manner; competitive
+pressures in and any disruption to the industries in which the Company and its subsidiaries (the “Group”) operates; the Group’s
+ability to achieve profitability despite a history of losses; and the Group’s ability to implement its growth strategies and manage
+its growth; the Group’s ability to meet consumer expectations; the success of the Group’s new product or service offerings;
+the Group’s ability to attract traffic to its websites; the Group’s internal controls; fluctuations in foreign currency exchange
+rates; the Group’s ability to raise capital; media coverage of the Group; the Group’s ability to obtain adequate insurance
+coverage; changes in the regulatory environments (such as anti-trust laws, foreign ownership restrictions and tax regimes) and general
+economic conditions in the countries in which the Group operates; the Group’s ability to attract and retain management and skilled
+employees; the impact of pandemics on the business of the Group; the success of the Group’s strategic investments and acquisitions,
+changes in the Group’s relationship with its current customers, suppliers and service providers; disruptions to the Group’s
+information technology systems and networks; the Group’s ability to grow and protect its brand and the Group’s reputation;
+the Group’s ability to protect its intellectual property; changes in regulation and other contingencies; the Group’s ability
+to achieve tax efficiencies of its corporate structure and intercompany arrangements; potential and future litigation that the Group may
+be involved in; and unanticipated losses, write-downs or write-offs, restructuring and impairment or other charges, taxes or other liabilities
+that may be incurred or required and technological advancements in the Group’s industry. The foregoing list of factors is not exhaustive.
+You should carefully consider the foregoing factors and the other risks and uncertainties described in the “Risk Factors”
+section of the Company’s annual report for the year ended December 31, 2025 on Form 20-F (File No.: 001-41838), registration statement
+on Form F-1 (File No.: 333-275205), and other documents to be filed by the Company from time to time with the U.S. Securities and Exchange
+Commission. These filings identify and address other important risks and uncertainties that could cause actual events and results to differ
+materially from those contained in the forward-looking statements. In addition, there may be additional risks that the Company currently
+does not know, or that the Company currently believes are immaterial, that could also cause actual results to differ from those contained
+in the forward-looking statements. Forward-looking statements reflect the Company’s expectations, plans, projections or forecasts
+of future events and view. If any of the risks materialize or the Company’s assumptions prove incorrect, actual results could differ
+materially from the results implied by these forward-looking statements. Forward-looking statements speak only as of the date they are
+made. The Company anticipates that subsequent events and developments may cause their assessments to change. However, while the Company
+may elect to update these forward-looking statements at some point in the future, the Company specifically disclaims any obligation to
+do so, except as required by law. The inclusion of any statement in this document does not constitute an admission by the Company or any
+other person that the events or circumstances described in such statement are material. These forward-looking statements should not be
+relied upon as representing the Company’s assessments as of any date subsequent to the date of this document. Accordingly, undue
+reliance should not be placed upon the forward-looking statements. In addition, the analyses of the Company contained herein are not,
+and do not purport to be, appraisals of the securities, assets, or business of the Company.
+
+For inquiries, please contact:
+
+Investor Relations:
+
+MoneyHero IR Team
+
+IR@MoneyHeroGroup.com
+
+Media Relations:
+
+MoneyHero PR Team
+
+Press@MoneyHeroGroup.com
+
+9
+
+Consolidated Statements of Profit or Loss and Other Comprehensive
+Loss or Income 
+
+For the Three Months Ended December 31, | For the Year Ended December 31,
+
+(US$ in thousands, except for loss per share) | 2025 | 2024 | 2025 | 2024
+
+(unaudited) | (audited)
+
+Revenue | 19,967 | 15,723 | 73,426 | 79,511
+
+Cost and expenses:
+
+Cost of revenue | (9,490 | ) | (6,603 | ) | (37,284 | ) | (46,180 | )
+
+Advertising and marketing expenses | (4,250 | ) | (3,954 | ) | (17,330 | ) | (21,619 | )
+
+Technology costs | (405 | ) | (1,397 | ) | (3,013 | ) | (7,427 | )
+
+Employee benefit expenses | (3,981 | ) | (5,837 | ) | (16,190 | ) | (24,151 | )
+
+General, administrative and other operating expenses | (3,285 | ) | (7,454 | ) | (10,425 | ) | (15,543 | )
+
+Foreign exchange differences, net | 26 | (8,921 | ) | 4,818 | (4,783 | )
+
+Operating loss | (1,418 | ) | (18,444 | ) | (5,997 | ) | (40,192 | )
+
+Other income/(expenses):
+
+Other income | 174 | 241 | 649 | 2,092
+
+Finance costs | (15 | ) | (8 | ) | (54 | ) | (25 | )
+
+Changes in fair value of financial instruments | 1,814 | (526 | ) | 263 | 447
+
+Profit/(Loss) before tax | 554 | (18,737 | ) | (5,139 | ) | (37,678 | )
+
+Income tax expense | (26 | ) | (19 | ) | (40 | ) | (109 | )
+
+Profit/(Loss) for the period | 528 | (18,756 | ) | (5,179 | ) | (37,787 | )
+
+Other comprehensive (loss)/income
+
+Other comprehensive (loss)/income that may be classified to profit or loss in subsequent periods (net of tax):
+
+Exchange differences on translation of foreign operations | (1,459 | ) | 8,071 | (4,944 | ) | 3,738
+
+Other comprehensive income that will not be reclassified to profit or loss in subsequent periods (net of tax):
+
+Remeasurement gains on defined benefit plan | 34 | 8 | 74 | 12
+
+Fair value loss on non-current financial asset | (56 | ) | - | (56 | )
+
+Other comprehensive (loss)/income for the period, net of tax | (1,480 | ) | 8,079 | (4,926 | ) | 3,750
+
+Total comprehensive loss for the period, net of tax | (952 | ) | (10,677 | ) | (10,105 | ) | (34,037 | )
+
+Earnings/(Loss) per share attributable to ordinary equity holders of the parent
+
+Basic and diluted | 0.0 | (0.5 | ) | (0.1 | ) | (0.9 | )
+
+10
+
+Consolidated Statements of Financial Position
+
+As of December 31, | As of December 31,
+
+(US$ in thousands) | 2025 | 2024
+
+(audited) | (audited)
+
+NON-CURRENT ASSETS
+
+Non-current financial asset | 544 | 600
+
+Intangible assets | 626 | 1,018
+
+Property and equipment | 171 | 215
+
+Right-of-use assets | 934 | 744
+
+Deposits | 58 | 25
+
+Total non-current assets | 2,334 | 2,601
+
+CURRENT ASSETS
+
+Accounts receivable | 18,746 | 13,538
+
+Contract assets | 17,898 | 11,825
+
+Prepayments and other assets | 6,255 | 10,149
+
+Tax recoverable | 43 | 63
+
+Pledged bank deposits | 185 | 185
+
+Cash and cash equivalents | 31,185 | 42,522
+
+Total current assets | 74,311 | 78,282
+
+CURRENT LIABILITIES
+
+Accounts and other payables | 34,935 | 30,209
+
+Warrant liabilities | 1,130 | 1,393
+
+Lease liabilities | 702 | 442
+
+Tax payable | 2 | 32
+
+Provisions | 45 | 71
+
+Total current liabilities | 36,814 | 32,147
+
+NET CURRENT ASSETS | 37,497 | 46,135
+
+TOTAL ASSETS LESS CURRENT LIABILITIES | 39,831 | 48,736
+
+NON-CURRENT LIABILITIES
+
+Lease liabilities | 240 | 294
+
+Deferred tax liabilities | 39 | 30
+
+Defined benefit liabilities | 141 | 185
+
+Total non-current liabilities | 420 | 509
+
+Net assets | 39,411 | 48,227
+
+EQUITY
+
+Issued capital | 5 | 4
+
+Reserves | 39,406 | 48,223
+
+Total equity | 39,411 | 48,227
+
+11

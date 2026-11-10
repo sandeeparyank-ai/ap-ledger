@@ -1,4 +1,19 @@
 {
+  "delfi/ccd0a570f6": {
+    "announcement_url": "https://links.sgx.com/1.0.0/corporate-announcements/QTQH21XF925E6BO3/73710949ed90eae7fcb3a9b8885142457264d9dbe32a467aae074ac77b03d469",
+    "done": true
+  },
+  "delfi/ccd0a570f6/883102_Delfi_20Annual_20Report_202025": {
+    "announcement_url": "https://links.sgx.com/1.0.0/corporate-announcements/QTQH21XF925E6BO3/73710949ed90eae7fcb3a9b8885142457264d9dbe32a467aae074ac77b03d469",
+    "chars": 820664,
+    "company": "Delfi",
+    "form": "annual_report",
+    "period": "FY2025",
+    "public_link": "https://delfilimited.listedcompany.com/newsroom/20260410_181126_P34_QTQH21XF925E6BO3.1.pdf",
+    "slug": "delfi",
+    "source_url": "https://links.sgx.com/1.0.0/corporate-announcements/QTQH21XF925E6BO3/883102_Delfi%20Annual%20Report%202025.pdf",
+    "text_file": "data/raw/delfi/FY2025_annual_report_883102_Delfi_20Annual_20Report_202025.txt"
+  },
   "fjbenjamin/0c0afc0d40": {
     "announcement_url": "https://links.sgx.com/FileOpen/SGXNET_%2031%20Dec%2025.ashx?App=Announcement&FileID=874823",
     "done": true
@@ -107,6 +122,159 @@
     "source_url": "https://links.sgx.com/1.0.0/corporate-announcements/EXO0LP78JPG8TV8C/866685_FY2025%20Full%20Year%20Results%20Deck.pdf",
     "text_file": "data/raw/fraserneave/check_full_year_results_866685_FY2025_20Full_20Year_20Results_20Deck.txt"
   },
+  "geniusgroup/000149315226009371_form20-f.htm": {
+    "chars": 783752,
+    "company": "Genius Group",
+    "filed": "2026-03-09",
+    "form": "20-F",
+    "slug": "geniusgroup",
+    "source_url": "https://www.sec.gov/Archives/edgar/data/1847806/000149315226009371/form20-f.htm",
+    "text_file": "data/raw/geniusgroup/2026-03-09_20-F_000149315226009371_form20-f.txt"
+  },
+  "geniusgroup/000149315226044455_ex99-2.htm": {
+    "chars": 34240,
+    "company": "Genius Group",
+    "filed": "2026-09-28",
+    "form": "6-K",
+    "slug": "geniusgroup",
+    "source_url": "https://www.sec.gov/Archives/edgar/data/1847806/000149315226044455/ex99-2.htm",
+    "text_file": "data/raw/geniusgroup/2026-09-28_6-K_000149315226044455_ex99-2.txt"
+  },
+  "grab/000185561225000058_a2025q3-earningspressrelea.htm": {
+    "chars": 39630,
+    "company": "Grab Holdings",
+    "filed": "2025-11-04",
+    "form": "6-K",
+    "slug": "grab",
+    "source_url": "https://www.sec.gov/Archives/edgar/data/1855612/000185561225000058/a2025q3-earningspressrelea.htm",
+    "text_file": "data/raw/grab/2025-11-04_6-K_000185561225000058_a2025q3-earningspressrelea.txt"
+  },
+  "grab/000185561225000059_a2025q3-earningspressrelea.htm": {
+    "chars": 36760,
+    "company": "Grab Holdings",
+    "filed": "2025-11-04",
+    "form": "6-K",
+    "slug": "grab",
+    "source_url": "https://www.sec.gov/Archives/edgar/data/1855612/000185561225000059/a2025q3-earningspressrelea.htm",
+    "text_file": "data/raw/grab/2025-11-04_6-K_000185561225000059_a2025q3-earningspressrelea.txt"
+  },
+  "grab/000185561225000063_pressrelease-finalfor6xk.htm": {
+    "chars": 13663,
+    "company": "Grab Holdings",
+    "filed": "2025-11-10",
+    "form": "6-K",
+    "slug": "grab",
+    "source_url": "https://www.sec.gov/Archives/edgar/data/1855612/000185561225000063/pressrelease-finalfor6xk.htm",
+    "text_file": "data/raw/grab/2025-11-10_6-K_000185561225000063_pressrelease-finalfor6xk.txt"
+  },
+  "grab/000185561226000011_a2025q4-earningspressrelea.htm": {
+    "chars": 41774,
+    "company": "Grab Holdings",
+    "filed": "2026-02-11",
+    "form": "6-K",
+    "slug": "grab",
+    "source_url": "https://www.sec.gov/Archives/edgar/data/1855612/000185561226000011/a2025q4-earningspressrelea.htm",
+    "text_file": "data/raw/grab/2026-02-11_6-K_000185561226000011_a2025q4-earningspressrelea.txt"
+  },
+  "grab/000185561226000012_a2025q4-earningspressrelea.htm": {
+    "chars": 39146,
+    "company": "Grab Holdings",
+    "filed": "2026-02-11",
+    "form": "6-K",
+    "slug": "grab",
+    "source_url": "https://www.sec.gov/Archives/edgar/data/1855612/000185561226000012/a2025q4-earningspressrelea.htm",
+    "text_file": "data/raw/grab/2026-02-11_6-K_000185561226000012_a2025q4-earningspressrelea.txt"
+  },
+  "grab/000185561226000016_exhibit992-grabholdingslim.htm": {
+    "chars": 113997,
+    "company": "Grab Holdings",
+    "filed": "2026-02-20",
+    "form": "6-K",
+    "slug": "grab",
+    "source_url": "https://www.sec.gov/Archives/edgar/data/1855612/000185561226000016/exhibit992-grabholdingslim.htm",
+    "text_file": "data/raw/grab/2026-02-20_6-K_000185561226000016_exhibit992-grabholdingslim.txt"
+  },
+  "grab/000185561226000016_exhibit993-redlinexgrabhol.htm": {
+    "chars": 115323,
+    "company": "Grab Holdings",
+    "filed": "2026-02-20",
+    "form": "6-K",
+    "slug": "grab",
+    "source_url": "https://www.sec.gov/Archives/edgar/data/1855612/000185561226000016/exhibit993-redlinexgrabhol.htm",
+    "text_file": "data/raw/grab/2026-02-20_6-K_000185561226000016_exhibit993-redlinexgrabhol.txt"
+  },
+  "grab/000185561226000020_ck0001855612-20251231.htm": {
+    "chars": 829057,
+    "company": "Grab Holdings",
+    "filed": "2026-03-06",
+    "form": "20-F",
+    "slug": "grab",
+    "source_url": "https://www.sec.gov/Archives/edgar/data/1855612/000185561226000020/ck0001855612-20251231.htm",
+    "text_file": "data/raw/grab/2026-03-06_20-F_000185561226000020_ck0001855612-20251231.txt"
+  },
+  "grab/000185561226000057_exhibit992-grabholdingslim.htm": {
+    "chars": 114025,
+    "company": "Grab Holdings",
+    "filed": "2026-03-24",
+    "form": "6-K",
+    "slug": "grab",
+    "source_url": "https://www.sec.gov/Archives/edgar/data/1855612/000185561226000057/exhibit992-grabholdingslim.htm",
+    "text_file": "data/raw/grab/2026-03-24_6-K_000185561226000057_exhibit992-grabholdingslim.txt"
+  },
+  "grab/000185561226000077_a42026q1-earningspressrele.htm": {
+    "chars": 35313,
+    "company": "Grab Holdings",
+    "filed": "2026-05-05",
+    "form": "6-K",
+    "slug": "grab",
+    "source_url": "https://www.sec.gov/Archives/edgar/data/1855612/000185561226000077/a42026q1-earningspressrele.htm",
+    "text_file": "data/raw/grab/2026-05-05_6-K_000185561226000077_a42026q1-earningspressrele.txt"
+  },
+  "grab/000185561226000078_a42026q1-earningspressrele.htm": {
+    "chars": 32945,
+    "company": "Grab Holdings",
+    "filed": "2026-05-05",
+    "form": "6-K",
+    "slug": "grab",
+    "source_url": "https://www.sec.gov/Archives/edgar/data/1855612/000185561226000078/a42026q1-earningspressrele.htm",
+    "text_file": "data/raw/grab/2026-05-05_6-K_000185561226000078_a42026q1-earningspressrele.txt"
+  },
+  "grab/000185561226000123_a2026q2-earningspressrelea.htm": {
+    "chars": 39575,
+    "company": "Grab Holdings",
+    "filed": "2026-08-04",
+    "form": "6-K",
+    "slug": "grab",
+    "source_url": "https://www.sec.gov/Archives/edgar/data/1855612/000185561226000123/a2026q2-earningspressrelea.htm",
+    "text_file": "data/raw/grab/2026-08-04_6-K_000185561226000123_a2026q2-earningspressrelea.txt"
+  },
+  "grab/000185561226000125_a52026q2-earningspressrele.htm": {
+    "chars": 37422,
+    "company": "Grab Holdings",
+    "filed": "2026-08-04",
+    "form": "6-K",
+    "slug": "grab",
+    "source_url": "https://www.sec.gov/Archives/edgar/data/1855612/000185561226000125/a52026q2-earningspressrele.htm",
+    "text_file": "data/raw/grab/2026-08-04_6-K_000185561226000125_a52026q2-earningspressrele.txt"
+  },
+  "grab/000185561226000148_a2026q3-earningspressrelea.htm": {
+    "chars": 39903,
+    "company": "Grab Holdings",
+    "filed": "2026-11-03",
+    "form": "6-K",
+    "slug": "grab",
+    "source_url": "https://www.sec.gov/Archives/edgar/data/1855612/000185561226000148/a2026q3-earningspressrelea.htm",
+    "text_file": "data/raw/grab/2026-11-03_6-K_000185561226000148_a2026q3-earningspressrelea.txt"
+  },
+  "grab/000185561226000150_a2026q3-earningspressrelea.htm": {
+    "chars": 36670,
+    "company": "Grab Holdings",
+    "filed": "2026-11-03",
+    "form": "6-K",
+    "slug": "grab",
+    "source_url": "https://www.sec.gov/Archives/edgar/data/1855612/000185561226000150/a2026q3-earningspressrelea.htm",
+    "text_file": "data/raw/grab/2026-11-03_6-K_000185561226000150_a2026q3-earningspressrelea.txt"
+  },
   "hawpar/ec64dbc3c5": {
     "announcement_url": "https://links.sgx.com/1.0.0/corporate-announcements/WZJ4ZBSPXR3H5AFG/881713_Haw%20Par%20Corp%20Annual%20Report%202025.pdf",
     "done": true
@@ -148,6 +316,123 @@
     "source_url": "https://links.sgx.com/1.0.0/corporate-announcements/9FRMA3OJJ9MV0GXD/868210_JBGL%20-%20Press%20Release.pdf",
     "text_file": "data/raw/jumbo/check_full_year_results_868210_JBGL_20_20Press_20Release.txt"
   },
+  "karooooo/000121390025098734_ea026104101ex99-1_karooo.htm": {
+    "chars": 61088,
+    "company": "Karooooo",
+    "filed": "2025-10-14",
+    "form": "6-K",
+    "slug": "karooooo",
+    "source_url": "https://www.sec.gov/Archives/edgar/data/1828102/000121390025098734/ea026104101ex99-1_karooo.htm",
+    "text_file": "data/raw/karooooo/2025-10-14_6-K_000121390025098734_ea026104101ex99-1_karooo.txt"
+  },
+  "karooooo/000121390026005643_ea027330101ex99-1_karooooo.htm": {
+    "chars": 65087,
+    "company": "Karooooo",
+    "filed": "2026-01-20",
+    "form": "6-K",
+    "slug": "karooooo",
+    "source_url": "https://www.sec.gov/Archives/edgar/data/1828102/000121390026005643/ea027330101ex99-1_karooooo.htm",
+    "text_file": "data/raw/karooooo/2026-01-20_6-K_000121390026005643_ea027330101ex99-1_karooooo.txt"
+  },
+  "karooooo/000121390026055767_ea029054101ex99-1.htm": {
+    "chars": 72763,
+    "company": "Karooooo",
+    "filed": "2026-05-13",
+    "form": "6-K",
+    "slug": "karooooo",
+    "source_url": "https://www.sec.gov/Archives/edgar/data/1828102/000121390026055767/ea029054101ex99-1.htm",
+    "text_file": "data/raw/karooooo/2026-05-13_6-K_000121390026055767_ea029054101ex99-1.txt"
+  },
+  "karooooo/000121390026066795_ea0293645-20f_karooooo.htm": {
+    "chars": 647049,
+    "company": "Karooooo",
+    "filed": "2026-06-09",
+    "form": "20-F",
+    "slug": "karooooo",
+    "source_url": "https://www.sec.gov/Archives/edgar/data/1828102/000121390026066795/ea0293645-20f_karooooo.htm",
+    "text_file": "data/raw/karooooo/2026-06-09_20-F_000121390026066795_ea0293645-20f_karooooo.txt"
+  },
+  "karooooo/000121390026078315_ea029809401ex99-1.htm": {
+    "chars": 54296,
+    "company": "Karooooo",
+    "filed": "2026-07-15",
+    "form": "6-K",
+    "slug": "karooooo",
+    "source_url": "https://www.sec.gov/Archives/edgar/data/1828102/000121390026078315/ea029809401ex99-1.htm",
+    "text_file": "data/raw/karooooo/2026-07-15_6-K_000121390026078315_ea029809401ex99-1.txt"
+  },
+  "karooooo/000121390026110687_ea030900201ex99-1.htm": {
+    "chars": 65253,
+    "company": "Karooooo",
+    "filed": "2026-10-19",
+    "form": "6-K",
+    "slug": "karooooo",
+    "source_url": "https://www.sec.gov/Archives/edgar/data/1828102/000121390026110687/ea030900201ex99-1.htm",
+    "text_file": "data/raw/karooooo/2026-10-19_6-K_000121390026110687_ea030900201ex99-1.txt"
+  },
+  "moneyhero/000121390025118440_ea026846901ex99-1_moneyhero.htm": {
+    "chars": 35477,
+    "company": "MoneyHero",
+    "filed": "2025-12-05",
+    "form": "6-K",
+    "slug": "moneyhero",
+    "source_url": "https://www.sec.gov/Archives/edgar/data/1974044/000121390025118440/ea026846901ex99-1_moneyhero.htm",
+    "text_file": "data/raw/moneyhero/2025-12-05_6-K_000121390025118440_ea026846901ex99-1_moneyhero.txt"
+  },
+  "moneyhero/000121390026005367_ea027327901ex99-1_money.htm": {
+    "chars": 25118,
+    "company": "MoneyHero",
+    "filed": "2026-01-20",
+    "form": "6-K",
+    "slug": "moneyhero",
+    "source_url": "https://www.sec.gov/Archives/edgar/data/1974044/000121390026005367/ea027327901ex99-1_money.htm",
+    "text_file": "data/raw/moneyhero/2026-01-20_6-K_000121390026005367_ea027327901ex99-1_money.txt"
+  },
+  "moneyhero/000121390026049716_ea028713101ex99-1.htm": {
+    "chars": 35876,
+    "company": "MoneyHero",
+    "filed": "2026-04-30",
+    "form": "6-K",
+    "slug": "moneyhero",
+    "source_url": "https://www.sec.gov/Archives/edgar/data/1974044/000121390026049716/ea028713101ex99-1.htm",
+    "text_file": "data/raw/moneyhero/2026-04-30_6-K_000121390026049716_ea028713101ex99-1.txt"
+  },
+  "moneyhero/000121390026049733_ea0287136-20f_moneyhero.htm": {
+    "chars": 830977,
+    "company": "MoneyHero",
+    "filed": "2026-04-30",
+    "form": "20-F",
+    "slug": "moneyhero",
+    "source_url": "https://www.sec.gov/Archives/edgar/data/1974044/000121390026049733/ea0287136-20f_moneyhero.htm",
+    "text_file": "data/raw/moneyhero/2026-04-30_20-F_000121390026049733_ea0287136-20f_moneyhero.txt"
+  },
+  "moneyhero/000121390026071274_ea029563101ex99-1.htm": {
+    "chars": 30675,
+    "company": "MoneyHero",
+    "filed": "2026-06-24",
+    "form": "6-K",
+    "slug": "moneyhero",
+    "source_url": "https://www.sec.gov/Archives/edgar/data/1974044/000121390026071274/ea029563101ex99-1.htm",
+    "text_file": "data/raw/moneyhero/2026-06-24_6-K_000121390026071274_ea029563101ex99-1.txt"
+  },
+  "moneyhero/000121390026098948_ea030518801ex99-1.htm": {
+    "chars": 42843,
+    "company": "MoneyHero",
+    "filed": "2026-09-11",
+    "form": "6-K",
+    "slug": "moneyhero",
+    "source_url": "https://www.sec.gov/Archives/edgar/data/1974044/000121390026098948/ea030518801ex99-1.htm",
+    "text_file": "data/raw/moneyhero/2026-09-11_6-K_000121390026098948_ea030518801ex99-1.txt"
+  },
+  "moneyhero/000121390026108507_ea030821501ex99-1.htm": {
+    "chars": 5144,
+    "company": "MoneyHero",
+    "filed": "2026-10-09",
+    "form": "6-K",
+    "slug": "moneyhero",
+    "source_url": "https://www.sec.gov/Archives/edgar/data/1974044/000121390026108507/ea030821501ex99-1.htm",
+    "text_file": "data/raw/moneyhero/2026-10-09_6-K_000121390026108507_ea030821501ex99-1.txt"
+  },
   "oldchangkee/6f581059ca": {
     "announcement_url": "https://links.sgx.com/1.0.0/corporate-announcements/4CAUYFJO8CKGUINZ/7242dcf4e01420bb9602876a41a48843f6bbb641ac1507cb0ed0d139ba93e000",
     "done": true
@@ -177,6 +462,21 @@
     "slug": "oldchangkee",
     "source_url": "https://links.sgx.com/1.0.0/corporate-announcements/ZF2CPZEWAXBEY5VB/866732_Half%20year%20results%20ended%2030%20Sept%202025.pdf",
     "text_file": "data/raw/oldchangkee/check_half_year_results_866732_Half_20year_20results_20ended_2030_20Sept_202025.txt"
+  },
+  "ots/b0c89f4408": {
+    "announcement_url": "https://links.sgx.com/1.0.0/corporate-announcements/5DTYQE6L5DNYFYBM/875081_OTS%20-%20Condensed%20Consolidated%20Interim%20FS%201HFY2026%20-%20Final.pdf",
+    "done": true
+  },
+  "ots/b0c89f4408/875081_OTS_20_20Condensed_20Consolidated_20Interim_20FS_201H": {
+    "announcement_url": "https://links.sgx.com/1.0.0/corporate-announcements/5DTYQE6L5DNYFYBM/875081_OTS%20-%20Condensed%20Consolidated%20Interim%20FS%201HFY2026%20-%20Final.pdf",
+    "chars": 58034,
+    "company": "OTS Holdings",
+    "form": "half_year_results",
+    "period": "1HFY2026",
+    "public_link": "https://links.sgx.com/1.0.0/corporate-announcements/5DTYQE6L5DNYFYBM/875081_OTS%20-%20Condensed%20Consolidated%20Interim%20FS%201HFY2026%20-%20Final.pdf",
+    "slug": "ots",
+    "source_url": "https://links.sgx.com/1.0.0/corporate-announcements/5DTYQE6L5DNYFYBM/875081_OTS%20-%20Condensed%20Consolidated%20Interim%20FS%201HFY2026%20-%20Final.pdf",
+    "text_file": "data/raw/ots/1HFY2026_half_year_results_875081_OTS_20_20Condensed_20Consolidated_20Interim_20FS_201H.txt"
   },
   "qaf/42a7c7a7c3": {
     "announcement_url": "https://links.sgx.com/1.0.0/corporate-announcements/S6G3FR58FAT6SQKC/082a8bc242976920138db61254af4a898f7cd7c889bb6d5a0c47e92e1a79e0e2",
@@ -219,6 +519,141 @@
     "source_url": "https://www.qaf.com.sg/wp-content/uploads/2026/02/Financial-Statements-n-Related-Announcement__Full-Yearly-Results_website_24.2.2026.pdf",
     "text_file": "data/raw/qaf/FY2025_full_year_results_Financial_Statements_n_Related_Announcement_Full_Yearly_Resu.txt"
   },
+  "ryde/000149315225017535_ex99-1.htm": {
+    "chars": 29613,
+    "company": "Ryde Group",
+    "filed": "2025-10-09",
+    "form": "6-K",
+    "slug": "ryde",
+    "source_url": "https://www.sec.gov/Archives/edgar/data/1971115/000149315225017535/ex99-1.htm",
+    "text_file": "data/raw/ryde/2025-10-09_6-K_000149315225017535_ex99-1.txt"
+  },
+  "ryde/000149315225019156_ex99-1.htm": {
+    "chars": 87362,
+    "company": "Ryde Group",
+    "filed": "2025-10-24",
+    "form": "6-K",
+    "slug": "ryde",
+    "source_url": "https://www.sec.gov/Archives/edgar/data/1971115/000149315225019156/ex99-1.htm",
+    "text_file": "data/raw/ryde/2025-10-24_6-K_000149315225019156_ex99-1.txt"
+  },
+  "ryde/000149315225019156_ex99-2.htm": {
+    "chars": 22013,
+    "company": "Ryde Group",
+    "filed": "2025-10-24",
+    "form": "6-K",
+    "slug": "ryde",
+    "source_url": "https://www.sec.gov/Archives/edgar/data/1971115/000149315225019156/ex99-2.htm",
+    "text_file": "data/raw/ryde/2025-10-24_6-K_000149315225019156_ex99-2.txt"
+  },
+  "ryde/000149315225025847_ex99-2.htm": {
+    "chars": 24693,
+    "company": "Ryde Group",
+    "filed": "2025-12-03",
+    "form": "6-K",
+    "slug": "ryde",
+    "source_url": "https://www.sec.gov/Archives/edgar/data/1971115/000149315225025847/ex99-2.htm",
+    "text_file": "data/raw/ryde/2025-12-03_6-K_000149315225025847_ex99-2.txt"
+  },
+  "ryde/000149315225025847_ex99-3.htm": {
+    "chars": 29197,
+    "company": "Ryde Group",
+    "filed": "2025-12-03",
+    "form": "6-K",
+    "slug": "ryde",
+    "source_url": "https://www.sec.gov/Archives/edgar/data/1971115/000149315225025847/ex99-3.htm",
+    "text_file": "data/raw/ryde/2025-12-03_6-K_000149315225025847_ex99-3.txt"
+  },
+  "ryde/000149315226015374_ex99-1.htm": {
+    "chars": 29605,
+    "company": "Ryde Group",
+    "filed": "2026-04-07",
+    "form": "6-K",
+    "slug": "ryde",
+    "source_url": "https://www.sec.gov/Archives/edgar/data/1971115/000149315226015374/ex99-1.htm",
+    "text_file": "data/raw/ryde/2026-04-07_6-K_000149315226015374_ex99-1.txt"
+  },
+  "ryde/000149315226018829_form20-f.htm": {
+    "chars": 489719,
+    "company": "Ryde Group",
+    "filed": "2026-04-24",
+    "form": "20-F",
+    "slug": "ryde",
+    "source_url": "https://www.sec.gov/Archives/edgar/data/1971115/000149315226018829/form20-f.htm",
+    "text_file": "data/raw/ryde/2026-04-24_20-F_000149315226018829_form20-f.txt"
+  },
+  "ryde/000149315226044986_form6-k.htm": {
+    "chars": 2378,
+    "company": "Ryde Group",
+    "filed": "2026-09-30",
+    "form": "6-K",
+    "slug": "ryde",
+    "source_url": "https://www.sec.gov/Archives/edgar/data/1971115/000149315226044986/form6-k.htm",
+    "text_file": "data/raw/ryde/2026-09-30_6-K_000149315226044986_form6-k.txt"
+  },
+  "ryde/000149315226046213_ex99-1.htm": {
+    "chars": 99961,
+    "company": "Ryde Group",
+    "filed": "2026-10-08",
+    "form": "6-K",
+    "slug": "ryde",
+    "source_url": "https://www.sec.gov/Archives/edgar/data/1971115/000149315226046213/ex99-1.htm",
+    "text_file": "data/raw/ryde/2026-10-08_6-K_000149315226046213_ex99-1.txt"
+  },
+  "ryde/000149315226046213_ex99-2.htm": {
+    "chars": 23075,
+    "company": "Ryde Group",
+    "filed": "2026-10-08",
+    "form": "6-K",
+    "slug": "ryde",
+    "source_url": "https://www.sec.gov/Archives/edgar/data/1971115/000149315226046213/ex99-2.htm",
+    "text_file": "data/raw/ryde/2026-10-08_6-K_000149315226046213_ex99-2.txt"
+  },
+  "sea/000114036126015366_ef20067274_20f.htm": {
+    "chars": 860136,
+    "company": "Sea Limited",
+    "filed": "2026-04-17",
+    "form": "20-F",
+    "slug": "sea",
+    "source_url": "https://www.sec.gov/Archives/edgar/data/1703399/000114036126015366/ef20067274_20f.htm",
+    "text_file": "data/raw/sea/2026-04-17_20-F_000114036126015366_ef20067274_20f.txt"
+  },
+  "sea/000119312525275616_d75589dex991.htm": {
+    "chars": 33303,
+    "company": "Sea Limited",
+    "filed": "2025-11-12",
+    "form": "6-K",
+    "slug": "sea",
+    "source_url": "https://www.sec.gov/Archives/edgar/data/1703399/000119312525275616/d75589dex991.htm",
+    "text_file": "data/raw/sea/2025-11-12_6-K_000119312525275616_d75589dex991.txt"
+  },
+  "sea/000119312526088151_d106475dex991.htm": {
+    "chars": 46694,
+    "company": "Sea Limited",
+    "filed": "2026-03-03",
+    "form": "6-K",
+    "slug": "sea",
+    "source_url": "https://www.sec.gov/Archives/edgar/data/1703399/000119312526088151/d106475dex991.htm",
+    "text_file": "data/raw/sea/2026-03-03_6-K_000119312526088151_d106475dex991.txt"
+  },
+  "sea/000119312526219378_d78490dex991.htm": {
+    "chars": 32931,
+    "company": "Sea Limited",
+    "filed": "2026-05-12",
+    "form": "6-K",
+    "slug": "sea",
+    "source_url": "https://www.sec.gov/Archives/edgar/data/1703399/000119312526219378/d78490dex991.htm",
+    "text_file": "data/raw/sea/2026-05-12_6-K_000119312526219378_d78490dex991.txt"
+  },
+  "sea/000119312526344596_d120948dex991.htm": {
+    "chars": 33773,
+    "company": "Sea Limited",
+    "filed": "2026-08-11",
+    "form": "6-K",
+    "slug": "sea",
+    "source_url": "https://www.sec.gov/Archives/edgar/data/1703399/000119312526344596/d120948dex991.htm",
+    "text_file": "data/raw/sea/2026-08-11_6-K_000119312526344596_d120948dex991.txt"
+  },
   "tunglok/c7b973b428": {
     "announcement_url": "https://links.sgx.com/1.0.0/corporate-announcements/1KWVH00JS2XRVYPC/6437dae2f9d624e6be7053d9a4972f1ca52055436d3d308f1eda8d3ccfbf6b4f",
     "done": true
@@ -233,6 +668,114 @@
     "slug": "tunglok",
     "source_url": "https://links.sgx.com/1.0.0/corporate-announcements/1KWVH00JS2XRVYPC/890936_Result%20Announcement%2031%20Mar%202026%20-%20Final.pdf",
     "text_file": "data/raw/tunglok/check_full_year_results_890936_Result_20Announcement_2031_20Mar_202026_20_20Final.txt"
+  },
+  "vinfast/000110465926052266_vfs-20251231x20f.htm": {
+    "chars": 1028793,
+    "company": "VinFast",
+    "filed": "2026-04-30",
+    "form": "20-F",
+    "slug": "vinfast",
+    "source_url": "https://www.sec.gov/Archives/edgar/data/1913510/000110465926052266/vfs-20251231x20f.htm",
+    "text_file": "data/raw/vinfast/2026-04-30_20-F_000110465926052266_vfs-20251231x20f.txt"
+  },
+  "vinfast/000118518525001820_vfsex99-1.htm": {
+    "chars": 38715,
+    "company": "VinFast",
+    "filed": "2025-11-21",
+    "form": "6-K",
+    "slug": "vinfast",
+    "source_url": "https://www.sec.gov/Archives/edgar/data/1913510/000118518525001820/vfsex99-1.htm",
+    "text_file": "data/raw/vinfast/2025-11-21_6-K_000118518525001820_vfsex99-1.txt"
+  },
+  "vinfast/000118518526000866_vfsex99-1.htm": {
+    "chars": 51176,
+    "company": "VinFast",
+    "filed": "2026-03-16",
+    "form": "6-K",
+    "slug": "vinfast",
+    "source_url": "https://www.sec.gov/Archives/edgar/data/1913510/000118518526000866/vfsex99-1.htm",
+    "text_file": "data/raw/vinfast/2026-03-16_6-K_000118518526000866_vfsex99-1.txt"
+  },
+  "vinfast/000118518526001801_vfsex99-1.htm": {
+    "chars": 14330,
+    "company": "VinFast",
+    "filed": "2026-05-12",
+    "form": "6-K",
+    "slug": "vinfast",
+    "source_url": "https://www.sec.gov/Archives/edgar/data/1913510/000118518526001801/vfsex99-1.htm",
+    "text_file": "data/raw/vinfast/2026-05-12_6-K_000118518526001801_vfsex99-1.txt"
+  },
+  "vinfast/000118518526001801_vfsex99-5.htm": {
+    "chars": 364454,
+    "company": "VinFast",
+    "filed": "2026-05-12",
+    "form": "6-K",
+    "slug": "vinfast",
+    "source_url": "https://www.sec.gov/Archives/edgar/data/1913510/000118518526001801/vfsex99-5.htm",
+    "text_file": "data/raw/vinfast/2026-05-12_6-K_000118518526001801_vfsex99-5.txt"
+  },
+  "vinfast/000118518526002102_vfs6k052226.htm": {
+    "chars": 4800,
+    "company": "VinFast",
+    "filed": "2026-05-26",
+    "form": "6-K",
+    "slug": "vinfast",
+    "source_url": "https://www.sec.gov/Archives/edgar/data/1913510/000118518526002102/vfs6k052226.htm",
+    "text_file": "data/raw/vinfast/2026-05-26_6-K_000118518526002102_vfs6k052226.txt"
+  },
+  "vinfast/000118518526002373_vfsex99-1.htm": {
+    "chars": 38799,
+    "company": "VinFast",
+    "filed": "2026-06-08",
+    "form": "6-K",
+    "slug": "vinfast",
+    "source_url": "https://www.sec.gov/Archives/edgar/data/1913510/000118518526002373/vfsex99-1.htm",
+    "text_file": "data/raw/vinfast/2026-06-08_6-K_000118518526002373_vfsex99-1.txt"
+  },
+  "vinfast/000118518526002445_vfsex99-4.htm": {
+    "chars": 27502,
+    "company": "VinFast",
+    "filed": "2026-06-10",
+    "form": "6-K",
+    "slug": "vinfast",
+    "source_url": "https://www.sec.gov/Archives/edgar/data/1913510/000118518526002445/vfsex99-4.htm",
+    "text_file": "data/raw/vinfast/2026-06-10_6-K_000118518526002445_vfsex99-4.txt"
+  },
+  "vinfast/000118518526002445_vfsex99-5.htm": {
+    "chars": 299204,
+    "company": "VinFast",
+    "filed": "2026-06-10",
+    "form": "6-K",
+    "slug": "vinfast",
+    "source_url": "https://www.sec.gov/Archives/edgar/data/1913510/000118518526002445/vfsex99-5.htm",
+    "text_file": "data/raw/vinfast/2026-06-10_6-K_000118518526002445_vfsex99-5.txt"
+  },
+  "vinfast/000118518526003968_vfs6k091026.htm": {
+    "chars": 4760,
+    "company": "VinFast",
+    "filed": "2026-09-14",
+    "form": "6-K",
+    "slug": "vinfast",
+    "source_url": "https://www.sec.gov/Archives/edgar/data/1913510/000118518526003968/vfs6k091026.htm",
+    "text_file": "data/raw/vinfast/2026-09-14_6-K_000118518526003968_vfs6k091026.txt"
+  },
+  "vinfast/000118518526004033_vfs6k091126.htm": {
+    "chars": 10132,
+    "company": "VinFast",
+    "filed": "2026-09-16",
+    "form": "6-K",
+    "slug": "vinfast",
+    "source_url": "https://www.sec.gov/Archives/edgar/data/1913510/000118518526004033/vfs6k091126.htm",
+    "text_file": "data/raw/vinfast/2026-09-16_6-K_000118518526004033_vfs6k091126.txt"
+  },
+  "vinfast/000118518526004821_vfsex99-1.htm": {
+    "chars": 45460,
+    "company": "VinFast",
+    "filed": "2026-10-19",
+    "form": "6-K",
+    "slug": "vinfast",
+    "source_url": "https://www.sec.gov/Archives/edgar/data/1913510/000118518526004821/vfsex99-1.htm",
+    "text_file": "data/raw/vinfast/2026-10-19_6-K_000118518526004821_vfsex99-1.txt"
   },
   "yhs/eedb003e77": {
     "announcement_url": "https://links.sgx.com/1.0.0/corporate-announcements/WPTTXJO2NMI9PGK6/395c56aee7f9360741e0f98f48a23a7af903a26397bc9b0ec714b135b67537b3",

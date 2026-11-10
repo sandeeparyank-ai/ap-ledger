@@ -1,0 +1,478 @@
+EX-99.2
+
+3
+
+ex99-2.htm
+
+EX-99.2
+
+Exhibit
+99.2
+
+MANAGEMENT’S
+DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS FOR THE SIX MONTHS ENDED JUNE 30, 2025
+
+The
+following discussion and analysis of our financial condition and results of operations should be read in conjunction with the unaudited
+interim condensed consolidated financial statements and the notes thereto, included as Exhibit 99.1 to this Report on Form 6-K. We also
+recommend that you read our discussion and analysis of financial condition and results of operations together with our audited financial
+statements and the notes thereto, which appear in our Annual Report on Form 20-F for the year ended December 31, 2024 (the “Annual
+Report”), filed with the Securities and Exchange Commission (“SEC”) on April 28, 2025.
+
+Emerging
+Growth Company Status
+
+We
+are an “emerging growth company” under the JOBS Act. The JOBS Act, permits that an “emerging growth company”
+may take advantage of the extended transition period for complying with new or revised accounting standards applicable to public companies
+until those standards would otherwise apply to private companies. We have elected to avail ourselves of delayed adoption of certain accounting
+standards. Accordingly, our financial statements may not be comparable to the financial statements of public companies that comply with
+such new or revised accounting standards. We intend to rely on other exemptions provided by the JOBS Act, including without limitation,
+not being required to comply with the auditor attestation requirements of Section 404(b) of Sarbanes-Oxley Act.
+
+We
+will remain an emerging growth company until the earliest of (i) the last day of the financial year in which we have more than US$1.235
+billion in annual revenue, (ii) the date we qualify as a “large accelerated filer” as defined in Rule 12b-2 under Exchange
+Act, which would occur if the market value of our ordinary shares held by non-affiliates exceeded US$700 million, (iii) the issuance,
+in any three-year period, by us of more than U.S.$1 billion in non-convertible debt securities, and (iv) the last day of the financial
+year ending after the fifth anniversary of our initial public offering.
+
+Overview
+
+We
+are a “Super mobility app” offering ultimate convenience and reliability for our customers through multiple mobility tools
+that can be accessed and function seamlessly out of a single app. Through the power of technology, we are committed to positively impact
+the lives of all drivers by revolutionizing the way people and goods move. Our app allows for both on-demand and scheduled carpooling
+and ride-hailing services, and on-demand, scheduled and multi-stop parcel delivery services.
+
+Headquartered
+in Singapore, we plan to expand into Southeast Asia, such as Malaysia and Thailand, and other countries, such as Australia and New Zealand.
+
+Summary
+of Our Services
+
+Our
+current app powers mobility for the community allowing real-time connection between riders, goods and drivers.
+
+a) | Mobility
+ (Ride-hailing): Ryde’s ride-hailing service allows users to book rides with drivers using a mobile app.
+
+b) | Mobility
+ (Carpooling): Ryde’s carpooling service allows users to share rides with others who are traveling in the same direction, helping
+ to reduce congestion and carbon emissions.
+
+c) | Quick
+ commerce: Ryde’s delivery service allows users to make a delivery booking using a mobile app.
+
+Financial
+Operations Overview
+
+Comparison
+of Six Months Ended June 30, 2025 and 2024
+
+For the six months ended June 30,
+
+2025 | 2025 | 2024 | Increase/(Decrease)
+
+US$’000 | S$’000 | S$’000 | S$’000 | %
+
+Revenue | 4,519 | 5,748 | 4,376 | 1,372 | 31 | %
+
+Other income | 35 | 45 | 43 | 2 | 5 | %
+
+Drivers and riders cost and related expenses | (2,297 | ) | (2,922 | ) | (1,975 | ) | 947 | 48 | %
+
+Employee benefits expenses | (950 | ) | (1,208 | ) | (1,102 | ) | 106 | 10 | %
+
+Depreciation and amortization expenses | (237 | ) | (302 | ) | (247 | ) | 55 | 22 | %
+
+Finance cost | (2 | ) | (3 | ) | (75 | ) | (72 | ) | -96 | %
+
+Other expenses | (3,664 | ) | (4,660 | ) | (4,755 | ) | (95 | ) | -2 | %
+
+Operational loss | (2,596 | ) | (3,302 | ) | (3,735 | ) | (433 | ) | -12 | %
+
+Share-based compensation | (1,212 | ) | (1,542 | ) | (9,807 | ) | (8,265 | ) | -84 | %
+
+Loss before income tax taxes | (3,808 | ) | (4,844 | ) | (13,542 | ) | (8,698 | ) | -64 | %
+
+Income tax expense | 25 | 32 | - | 32 | 100 | %
+
+Net loss | (3,783 | ) | (4,812 | ) | (13,542 | ) | (8,730 | ) | -64 | %
+
+Revenue
+
+For the six months ended June 30,
+
+2025 | 2025 | 2024 | Increase/(Decrease)
+
+US$’000 | S$’000 | S$’000 | S$’000 | %
+
+Mobility | 3,268 | 4,156 | 2,783 | 1,373 | 49 | %
+
+Quick commerce | 72 | 92 | 98 | (6 | ) | -6 | %
+
+Membership | 200 | 254 | 308 | (54 | ) | -18 | %
+
+Advertising initiatives | 943 | 1,200 | 1,140 | 60 | 5 | %
+
+Others | 36 | 46 | 47 | (1 | ) | -2 | %
+
+Total revenue | 4,519 | 5,748 | 4,376 | 1,372 | 31 | %
+
+In
+the first six months of 2025, total revenue increased by S$1,372,000 or 31% to S$5,748,000 compared to S$4,376,000
+in the first six months of 2024.
+
+In the first six months of 2025, revenue
+from mobility increased by S$1,373,000 or 49% to S$4,156,000 compared to S$2,783,000 in the first six months of 2024. The increase in
+the revenue is driven by increase in gross transaction value, which is fueled by expansion in both supply of driver-partners and demand
+of ride-hailing services.
+
+In
+the first six months of 2025, the revenue from membership decreased by S$54,000 mainly due to lesser demand.
+
+Other
+income
+
+For the six months ended June 30,
+
+2025 | 2025 | 2024 | Increase/(Decrease)
+
+US$’000 | S$’000 | S$’000 | S$’000 | %
+
+Total other income | 35 | 45 | 43 | 2 | 5 | %
+
+Other
+income increased by S$2,000 or 5% to S$45,000 in the first six months of 2025, compared to S$43,000 in the first six months of 2024.
+The increase was mainly due to increase in gain in foreign currency, partially offset by a reduction in the government grants
+from the Singapore authorities.
+
+Drivers
+and riders cost and related expenses
+
+For the six months ended June 30,
+
+2025 | 2025 | 2024 | Increase/(Decrease)
+
+US$’000 | S$’000 | S$’000 | S$’000 | %
+
+Total drivers and riders cost and related expenses | 2,297 | 2,922 | 1,975 | 947 | 48 | %
+
+In
+the first six months of 2025, our drivers and riders cost and related expenses increased by S$947,000 or 48% to S$2,922,000 compared
+to S$1,975,000 in the first six months of 2024. This increase is commensurate with the increase in gross transaction value, driven by
+higher variable costs needed to support greater user demand and driver supply.
+
+Employee
+benefits expenses
+
+For the six months ended June 30,
+
+2025 | 2025 | 2024 | Increase/(Decrease)
+
+US$’000 | S$’000 | S$’000 | S$’000 | %
+
+Total employee benefits expenses | 950 | 1,208 | 1,102 | 106 | 10 | %
+
+Our
+employee benefits expenses increased by S$106,000 or 10% to S$1,208,000 in the first six months of 2025, compared to S$1,102,000 in the
+first six months of 2024. This was mainly due to the increase in the employee’s salaries and wages in the first six months of 2025.
+
+Depreciation
+and amortization expenses
+
+For the six months ended June 30,
+
+2025 | 2025 | 2024 | Increase/(Decrease)
+
+US$’000 | S$’000 | S$’000 | S$’000 | %
+
+Total depreciation and amortization expenses | 237 | 302 | 247 | 55 | 22 | %
+
+The
+depreciation and amortization expenses increased by S$55,000 or 22% to S$302,000 in the first six months of 2025, compared to S$247,000
+in the first six months of 2024. This was mainly due to the increase in intangibles assets.
+
+Finance
+expense
+
+For the six months ended June 30,
+
+2025 | 2025 | 2024 | Increase/(Decrease)
+
+US$’000 | S$’000 | S$’000 | S$’000 | %
+
+Total finance expense | 2 | 3 | 75 | (72 | ) | -96 | %
+
+Our
+finance expense decreased by S$72,000 or 96% to S$3,000 in the first six months of 2025, compared to S$75,000 in the first six months
+of 2024. The decrease of the finance expenses is primarily attributable by the unsecured note payable to third party and shareholder
+starting from April 2023 being fully repaid in March 2024.
+
+Other
+expenses
+
+For the six months ended June 30,
+
+2025 | 2025 | 2024 | Increase/(Decrease)
+
+US$’000 | S$’000 | S$’000 | S$’000 | %
+
+Total other expenses | 3,664 | 4,660 | 4,755 | (95 | ) | -2 | %
+
+Our
+other expenses decreased by S$95,000 or 2% to S$4,660,000 in the first six months of 2025, compared to S$4,755,000 in the first six
+months of 2024. This was mainly due to decrease in legal and professional fees by S$195,000 or 8% to S$2,118,000 in the first six months
+of 2025, compared to S$2,313,000 in the first six months of 2024, and the non-recurrence of a S$192,000 foreign exchange loss recorded
+in first six months of 2024. The decrease was partially offset by a S$172,000 increase in marketing and advertising expenses, and a S$42,000
+increase in information technology expenses.
+
+Impairment
+of goodwill
+
+For the six months ended June 30,
+
+2025 | 2025 | 2024 | Increase/(Decrease)
+
+US$’000 | S$’000 | S$’000 | S$’000 | %
+
+Total impairment of goodwill | - | - | - | - | - | %
+
+In
+the first six months of 2025, no impairment of goodwill was recognized.
+
+Share-based
+compensation
+
+For six months ended June 30,
+
+2025 | 2025 | 2024 | Increase/(Decrease)
+
+US$’000 | S$’000 | S$’000 | S$’000 | %
+
+Total share-based compensation | 1,212 | 1,542 | 9,807 | (8,265 | ) | -84 | %
+
+In
+June 2024, the Company issued 1,500,00 Class A Ordinary Shares of the Company to certain consultants. The consulting services provided
+by the Consultants to the Company pursuant to the Consulting Agreements include: review and provide advice on the Company’s strategic
+plans; meet with focus groups and interested parties to discuss the Company’s strategic plans; provide advice on how best to position
+the Company and its subsidiaries in the future; propose potential acquisition targets for the Company and its subsidiaries; and assist
+in dealing with the corporate matters entrusted to the Consultants by the Company and its subsidiaries.
+
+The
+fair value of the Class A Ordinary Shares issued to consultants was measured based on the closing market share price of US$4.84 per share.
+
+During
+the six months ended June 30, 2024, the Company recognized share-based compensation of S$9,807,000 (US$7,237,000) in the consolidated
+statements of operations and comprehensive loss.
+
+In
+March 2025, the Company issued 3,000,000 Class B Ordinary Shares of the Company, to Mr. Terence Zou, the Chairman of the Board of Directors
+and Chief Executive Officer of the Company, to recognize his significant contribution to the Company’s business operations for
+the financial year 2024.
+
+The
+fair value of the Class A Ordinary Shares issued to Mr. Terence Zou was measured based on the closing market share price of US$0.3895
+per share.
+
+During
+the six months ended June 30, 2025, the Company recognized share-based compensation of S$1,542,000 (US$1,212,000) in the consolidated
+statements of operations and comprehensive loss.
+
+Liquidity
+and capital resources
+
+Cash
+flow summary
+
+For six months ended June 30,
+
+2025 | 2025 | 2024 | Increase/(Decrease)
+
+US$’000 | S$’000 | S$’000 | S$’000 | %
+
+Cash and cash equivalents – beginning of the period | 4,339 | 5,519 | 1,694 | 3,825 | 226 | %
+
+Net cash used in operating activities | (1,656 | ) | (2,106 | ) | (9,522 | ) | (7,416 | ) | -78 | %
+
+Net cash used in investing activities | (238 | ) | (303 | ) | (263 | ) | 40 | 15 | %
+
+Net cash provided by financing activities | - | - | 11,067 | (11,067 | ) | -100 | %
+
+Net change in cash and cash equivalents | (1,894 | ) | (2,409 | ) | 1,282 | (3,691 | ) | -288 | %
+
+Cash and cash equivalents – end of the period | 2,445 | 3,110 | 2,976 | 134 | 5 | %
+
+Operating
+Activities
+
+Net
+cash used in operating activities was S$2,106,000 for the six months ended June 30, 2025. This was mainly attributable to the net loss
+of S$4,844,000 adjusted for non-cash items which included depreciation of property and equipment, amortization of intangibles, debt issuance
+cost, and share-based payment expenses totaling S$1,639,000. This was partially offset against net cash outflows arising from the net
+change in operating assets and liabilities of S$1,099,000.
+
+Net
+cash used in operating activities was S$9,522,000 for the six months ended June 30, 2024. This was mainly attributable to the net loss
+of S$13,542,000 adjusted for non-cash items which included depreciation of property and equipment, amortization of intangibles, debt
+issuance cost, and share-based payment expenses totaling S$10,223,000. This was partially offset against net cash outflows arising from
+the net change in operating assets and liabilities of S$6,203,000.
+
+Investing
+Activities
+
+Net
+cash flows used in investing activities was S$303,000 for the six months ended June 30, 2025. This was due to the additions in intangible
+assets of S$300,000 and the purchase of property and equipment of S$3,000.
+
+Net
+cash flows used in investing activities was S$263,000 for the six months ended June 30, 2024. This was due to the additions in intangible
+assets of S$263,000.
+
+Financing
+Activities
+
+Net
+cash provided by financing activities was nil for the six months ended June 30, 2025.
+
+Net
+cash provided by financing activities was S$11,067,000 for the six months ended June 30, 2024. This was contributed by the IPO proceeds
+of S$15,889,000 and proceeds from the note from a shareholder amounting to S$950,000. This was partially offset by the repayment of note
+from a shareholder and convertible loans of S$3,800,000 and S$1,972,000 respectively.
+
+Off-Balance
+Sheet Arrangements
+
+We
+have not entered into any off-balance sheet arrangements and do not have any holdings in variable interest entities.
+
+Quantitative
+and Qualitative Disclosures about Market Risks
+
+Concentrations
+and credit risk
+
+Our
+primary exposure to credit risk arises from our operating activities, which primarily from our accounts receivables. We are not exposed
+to significant default risk from a single customer. We conduct credit evaluations on our customers and typically do not require collateral
+or other forms of security. In determining the allowance for doubtful accounts, we periodically assess the creditworthiness of our existing
+customers, primarily considering factors such as the age of the receivables and the specific credit risks associated with each customer.
+
+Interest
+rate risk
+
+Our
+primary exposure to interest rate risk primarily stems from our interest-bearing financial liabilities. We conduct regular reviews of
+our liabilities and closely monitor fluctuations in interest rates to ensure that our exposure remains within acceptable levels. We do
+not employ interest rate derivatives as a means to mitigate our interest rate risk.
+
+Recent
+Developments
+
+On May 21, 2025, the Company received a notice from NYSE
+American indicating that the Company was not in compliance with the continued listing standards set forth in Sections 1003(a)(ii) of the NYSE
+American Company Guide (the “Company Guide”). Section 1003(a)(ii) applies if a listed company has stockholders’ equity
+of less than US$4.0 million and has reported losses from continuing operations and/or net losses in three of its four most recent fiscal
+years. The Company is also not currently eligible for any exemption in Section 1003(a) of the Company Guide from the stockholders’ equity
+requirements. As a result, the Company has become subject to the procedures and requirements of Section 1009 of the Company Guide and must submit
+a plan to NYSE American by June 20, 2025 addressing how the Company intend to regain compliance with Section 1003(a)(ii) of the Company Guide
+by November 21, 2026. On June 20, 2025, the Company submitted a plan to the NYSE American to
+regain compliance within the required timeframe. On August 5, 2025, the Company’s plan to regain compliance within the required
+timeframe was accepted by the NYSE American. In addition, although the plan has been accepted by NYSE American, if the Company is not
+in compliance with the continued listing standards by November 21, 2026, or if the Company does not make progress consistent with the
+plan during the plan period, the Company will be subject to delisting proceedings. The Company is subject to periodic NYSE American reviews,
+including quarterly monitoring for compliance with the plan. The Company’s Class A voting shares will continue to be listed during
+the plan period pursuant to an extension and trade on the symbol “RYDE”.
+
+On
+August 21, 2025, Barentsz Capital Ltd acquired 40% shareholding of RGT (BVI) Ltd.
+
+On
+September 2, 2025, the Company’s Registration Statement on Form F-3 (File No. 333-288587) has been declared effective. The Company
+may, from time to time in one or more offerings, offer and sell up to US$100,000,000 in the aggregate of Class A Ordinary Shares of par
+value US$0.0002 per share in the capital of the Company, warrants, units and rights to purchase Class A Ordinary Shares, debt securities,
+rights or any combination of the foregoing, either individually or as units comprised of one or more of the other securities.
+
+On
+September 10, 2025, the Company completed a registered direct offering. In this offering, the Company issued 6,422,000 Class A ordinary
+shares at a price of US$0.25 per Class A share. The Company received gross proceeds in the amount of US$1.6 million.
+
+On
+September 15, 2025, the Board of Directors of the Company adopted a resolution approving the conversion of 1,365,225 Class B Ordinary
+Shares currently held at the Company’s transfer agent under the ownership of Octava Fund Limited (“Octava”) to Class
+A Ordinary Shares. The 1,365,225 Class B Ordinary Shares will be cancelled and an equivalent number of 1,365,225 Class A Ordinary shares
+will be issued to Octava on a one-for-one basis. Following the conversion, Octava will hold an aggregate of 8,030,738 Class A Ordinary
+Shares.
+
+On
+October 9, 2025, the Company completed a private offering. In this offering, the Company issued 33,340,000 Class A ordinary shares at
+a price of US$0.30 per Class A share. The Company received gross proceeds in the amount of US$10 million.
+
+On
+October 10, 2025, the Company issued 2,000,000 Class B Ordinary Shares of the Company, to Mr. Terence Zou, the Chairman of the Board
+of Directors and Chief Executive Officer of the Company. The Board has further authorized the allotment and issuance of up to 30,000,000
+additional Class B Ordinary Shares to Mr. Terence Zou, tied to performance-based milestones aligned with Ryde’s long-term value
+creation goals. After such issuance, Mr. Terence Zou beneficially owns an aggregate 7,177,175 Class B Ordinary Shares.
+
+Non-US
+GAAP Financial Measures
+
+This
+document includes references to non-US GAAP financial measures. Ryde uses these non-US GAAP financial measures for financial and operational
+decision-making and as a means to evaluate period-to-period comparisons, and Ryde’s management believes that these non-IFRS financial
+measures provide meaningful supplemental information regarding its performance by excluding certain items that may not be indicative
+of its recurring core business operating results. However, there are a number of limitations related to the use of non-US GAAP financial
+measures, and as such, the presentation of these non-US GAAP financial measures should not be considered in isolation from, or as an
+alternative to, financial measures determined in accordance with US GAAP. In addition, these non-US GAAP financial measures may differ
+from non-US GAAP financial measures with comparable names used by other companies. See below for additional explanations about the non-US
+GAAP financial measures, including their definitions and a reconciliation of these measures to the most directly comparable US GAAP financial
+measures.
+
+Explanation
+of non-IFRS financial measures:
+
+Adjusted
+EBITDA is a non-US GAAP financial measure calculated as net loss adjusted to exclude: (a) finance cost, (b) income tax expenses, (c)
+depreciation and amortization, (d) share-based compensation, and (e) impairment loss on goodwill.
+
+Adjusted
+EBITDA has limitations as a financial measure, should be considered as supplemental in nature, and is not meant as a substitute for the
+related financial information prepared in accordance with US GAAP. For a reconciliation of Adjusted EBITDA to the most directly comparable
+US GAAP measure see the section titled “
+Reconciliation of Non-IFRS Financial Measures
+”.
+
+Reconciliation
+of Non-IFRS Financial Measures
+
+To
+supplement our financial information, we use the following non-US GAAP financial measures: Adjusted EBITDA. However, the definitions
+of our non-US GAAP financial measures may be different from those used by other companies, and therefore, may not be comparable. Furthermore,
+these non-US GAAP financial measures have certain limitations in that they do not include the impact of certain expenses that are reflected
+in our consolidated financial statements that are necessary to run our business. Thus, these non-US GAAP financial measures should be
+considered in addition to, not as substitutes for, or in isolation from, measures prepared in accordance with US GAAP. We compensate
+for these limitations by providing a reconciliation of these non-US GAAP financial measures to the related US GAAP financial measures.
+We encourage investors and others to review our financial information in its entirety, not to rely on any single financial measure and
+to view these non-IFRS financial measures in conjunction with their respective related US GAAP financial measures.
+
+The
+following tables provide reconciliations of Adjusted EBITDA.
+
+For the six months ended June 30,
+
+2024 | 2025 | 2025
+
+S$’000 | S$’000 | US$’000
+
+Net loss | (13,542 | ) | (4,812 | ) | (3,783 | )
+
+Depreciation and amortization expenses | 247 | 302 | 237
+
+Finance costs | 75 | 3 | 2
+
+Share-based compensation | 9,807 | 1,542 | 1,212
+
+Income tax expenses | - | 32 | 25
+
+Adjusted EBITDA | (3,413 | ) | (2,933 | ) | (2,307 | )

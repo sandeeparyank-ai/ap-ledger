@@ -1,0 +1,1406 @@
+EX-99.1
+
+2
+
+ea030900201ex99-1.htm
+
+PRESS RELEASE DATED OCTOBER 19, 2026 - KAROOOOO LTD. ANNOUNCES SECOND QUARTER AND HALF-YEAR 2027 UNAUDITED FINANCIAL RESULTS
+
+Exhibit 99.1
+
+● Q2 Cartrack Subscription Revenue growth
+accelerated to 20% Y/Y reaching ZAR1,415 million and 23% growth in constant currency
+
+● Q2 ARR increased 19% Y/Y reaching ZAR5,708
+million and 30% Y/Y in USD equivalent reaching USD354 million
+
+● Karooooo delivered record quarterly operating
+profit of ZAR422 million with 19% growth Y/Y despite FX headwinds
+
+● Karooooo EPS increased 18% Y/Y to ZAR9.28
+(Q2 2026: ZAR7.88)
+
+● Karooooo Adjusted EPS increased 12% Y/Y
+to ZAR9.28 (Q2 2026: ZAR8.28)
+
+● Cartrack Subscriber growth increased 18%,
+reaching 2.9 million subscribers (Q2 2026: 2.5 million)
+
+SINGAPORE (October 19, 2026) - Karooooo Limited
+(“Karooooo”) reported strong results for the period ended August 31, 2026. Karooooo owns 100% of Cartrack and 91.5% of Karooooo
+Logistics, (collectively, “the group”).
+
+“We are pleased to report another quarter
+of acceleration. Cartrack’s constant currency subscription revenue growth increased to 23% in Q2, compared to 21% in Q1, with constant currency
+growth acceleration across all regions. During the quarter, we continued to balance new customer acquisition while building our cross-sell
+capabilities. Cartrack’s constant currency subscription revenue growth of 23% in Q2 is in the upper band of the FY 2027 outlook
+of 18% to 24%.
+
+Despite the strengthening ZAR, which continues
+to impact contributions from most of the countries in which we operate when reporting in ZAR, Cartrack’s subscription revenue and ARR increased
+20% and 19%, respectively. In constant currency, ARR increased 22% and presented in USD, ARR increased 30%, reaching USD354 million.
+
+Karooooo’s Q2 operating profit increased 19% to
+a record ZAR422 million despite the currency headwinds.
+
+We continue to generate strong operating cash
+flow and remain committed to accelerating subscription revenue growth. In Q2, free cash flow was temporarily impacted by investment in
+capital expenditures to support accelerated subscription revenue growth and provide a buffer against ongoing significant increases in
+RAM and memory prices.
+
+As we enter the second half of FY 2027, we remain
+focused on building on the strong momentum established in the first half of the year and on driving the adoption of AI throughout the
+organization,” said Zak Calisto, Group CEO.
+
+Second Quarter 2027 Financial Overview (Unaudited)
+
+Highlights
+
+(Comparisons are relative to Q2 2026,
+unless otherwise stated.)
+
+SCALE
+
+● | Cartrack’s subscriber growth increased 18% reaching 2,899,210 (Q2 2026: 2,456,989).
+
+● | Net Cartrack subscriber additions of 94,516, a record for the second quarter (Q2 2026: 70,740).
+
+GROWTH
+
+● | Karooooo’s subscription revenue increased 20% to ZAR1,418 million (Q2 2026: ZAR1,182 million).
+
+● | Cartrack’s subscription
+revenue increased 20% to ZAR1,415 million (Q2 2026: ZAR1,180 million).
+
+● | Cartrack’s annualized recurring revenue (“ARR”) increased 19% to ZAR5,708
+ million (Q2 2026: ZAR4,806 million).
+
+● | Karooooo Logistics’s B2B delivery-as-a-service (“DaaS”) revenue increased 36% to ZAR189 million (Q2 2026: ZAR139 million).
+
+Presented in the U.S. Dollar Equivalent
+1
+
+● | Karooooo’s subscription revenue increased 31% to USD88 million.
+
+● | Cartrack’s subscription revenue increased 31% to USD88 million.
+
+● | Cartrack’s ARR increased 30% to USD354 million.
+
+● | Karooooo Logistics’s DaaS revenue increased 49% to USD12 million.
+
+PROFITABILITY
+
+● | Karooooo’s operating profit increased 19% to ZAR422 million (Q2 2026: ZAR356 million).
+
+● | Cartrack’s operating profit increased 19% to ZAR411 million (Q2 2026: ZAR344 million).
+
+● | Cartrack’s operating profit margin was 28% (Q2 2026: 29%).
+
+● | Karooooo’s earnings per share increased 18% to ZAR9.28 (Q2 2026: ZAR7.88).
+
+● | Karooooo’s adjusted earnings per share increased 12% to ZAR9.28 (Q2 2026: ZAR8.28).
+
+1 | For convenience purposes only, amounts in South African rand as of August 31, 2026 have been translated to U.S. dollars using an exchange rate of ZAR 16.1159 to U.S.$1.00 (August 31, 2025: ZAR 17.6519), as set forth in the H.10 statistical release of the Board of Governors of the Federal Reserve System. These translations should not be considered representations that any such amounts have been, could have been or could be converted at that or any other exchange rate.
+
+2
+
+Second Quarter 2027 Financial Overview
+
+Supplemental Financial Information and Business
+Metrics
+
+Three Months Ended August 31,
+
+Cartrack | Karooooo Logistics | Karooooo Consolidated
+
+Figures in Rand Thousands | 2026 | 2025 | Y-o-Y % | 2026 | 2025 | Y-o-Y % | 2026 | 2025 | Y-o-Y %
+
+Subscription revenue | 1,414,727 | 1,179,622 | 20 | % | 3,372 | 2,662 | 27 | % | 1,418,099 | 1,182,284 | 20 | %
+
+Other revenue 1 | 36,109 | 24,865 | 45 | % | - | - | - | 36,109 | 24,865 | 45 | %
+
+Delivery service | - | - | - | 186,005 | 136,745 | 36 | % | 186,005 | 136,745 | 36 | %
+
+Revenue | 1,450,836 | 1,204,487 | 20 | % | 189,377 | 139,407 | 36 | % | 1,640,213 | 1,343,894 | 22 | %
+
+Cost of Sales | (428,481 | ) | (335,649 | ) | 28 | % | (136,600 | ) | (95,811 | ) | 43 | % | (565,081 | ) | (431,460 | ) | 31 | %
+
+Gross Profit | 1,022,355 | 868,838 | 18 | % | 52,777 | 43,596 | 21 | % | 1,075,132 | 912,434 | 18 | %
+
+Gross Profit Margin | 70 | % | 72 | % | 28 | % | 31 | % | 66 | % | 68 | %
+
+Operating Profit/(loss) | 411,088 | 344,328 | 19 | % | 11,234 | 11,693 | (4 | )% | 422,322 | 356,021 | 19 | %
+
+Operating Profit Margin | 28 | % | 29 | % | 6 | % | 8 | % | 26 | % | 26 | %
+
+Adjusted EBITDA (a non-IFRS measure) | 663,194 | 558,651 | 19 | % | 11,987 | 12,337 | (3 | )% | 675,181 | 570,988 | 18 | %
+
+Adjusted EBITDA Margin (a non-IFRS measure) | 46 | % | 46 | % | 6 | % | 9 | % | 41 | % | 42 | %
+
+1. | Other revenue is non-subscription-based revenue. Cartrack remains focused on bundled sales.
+
+3
+
+Total Revenue and Subscription Revenue
+
+Karooooo’s revenue increased 22% to ZAR1,640
+million (Q2 2026: ZAR1,344 million), and subscription revenue increased 20% to ZAR1,418 million in Q2 2027 (Q2 2026: ZAR1,182 million).
+
+Cartrack’s total revenue increased 20% to ZAR1,451
+million (Q2 2026: ZAR1,204 million). Cartrack’s subscription revenue increased 20% to a record ZAR1,415 million in Q2 2027 (Q2 2026: ZAR1,180
+million) driven primarily by the acquisition of new customers and selling Video and the Cartrack-Tag to both new and existing customers.
+Subscription revenue represented 98% of Cartrack’s total revenue. On a constant currency basis, a non-IFRS measure, Cartrack’s
+total revenue increased 24% and subscription revenue increased 23%.
+
+Karooooo Logistics’s revenue increased 36%
+to ZAR189 million (Q2 2026: ZAR139 million) driven by the demand for Q-commerce or “Quick-commerce” orders, a type of e-Commerce
+focused on ultra-fast delivery. Karooooo Logistics offers delivery-as-a-service (“DaaS”) to large enterprise customers wishing
+to scale and enable their Q-commerce operations through a capital light model by connecting them to an elastic fleet of third-party delivery
+drivers. The pace of Karooooo Logistics’s revenue growth may vary quarter to quarter as large customers invest in growing their
+Q-commerce businesses or driving traffic to their physical stores.
+
+Gross Profit and Cost of Sales 
+
+Karooooo’s cost of sales increased 31% to
+ZAR565 million (Q2 2026: ZAR431 million).
+
+Cartrack’s cost of sales increased 28% to
+ZAR428 million (Q2 2026: ZAR336 million). Cartrack’s gross profit margin was 70% (Q2 2026: 72%), and Cartrack’s subscription
+gross profit margin was 71% (Q2 2026: 72%).
+
+Karooooo Logistics’s cost of sales increased
+43% to ZAR137 million (Q2 2026: ZAR96 million) driven by the costs associated with ensuring driver availability and network expansion.
+Karooooo Logistics’s gross profit margin was 28% (Q2 2026: 31%).
+
+Operating Expenses 
+
+Three Months Ended August 31,
+
+Figures in Rand Thousands | 2026 | 2025 | Y-o-Y %
+
+Karooooo’s Operating Expenses | 654,204 | 562,657 | 16 | %
+
+- Cartrack | 612,571 | 530,751 | 15 | %
+
+- Karooooo Logistics | 41,633 | 31,906 | 30 | %
+
+4
+
+Karooooo’s operating expenses
+increased 16% to ZAR654 million (Q2 2026: ZAR563 million). Cartrack accounted for ZAR613 million (Q2 2026: ZAR531 million) in
+operating expenses including investments in infrastructure and headcount to support territorial expansion within the countries in
+which we operate and distribution growth. Karooooo Logistics accounted for ZAR42 million (Q2 2026: ZAR32 million) of total operating
+expenses as we continued to invest prudently to scale Karooooo Logistics.
+
+Cartrack’s sales and marketing expenses
+increased 16% to ZAR244 million (Q2 2026: ZAR210 million). Our strategic investment in customer acquisition is yielding the desired results
+and we believe positions us well for continued organic growth. As we begin to realize the benefits of this investment, we remain focused
+on driving further gains in new sales headcount productivity over the coming periods. Our customer lifetime value (LTV) to customer acquisition
+costs (CAC) ratio continues to exceed 9 times and underpins our disciplined approach to growth and customer acquisition.
+
+Cartrack’s general and administration expenses
+increased 6% to ZAR265 million (Q2 2026: ZAR249 million), reflecting our ability to prudently manage costs while building infrastructure
+to support our future growth. We expect to increase these costs gradually on an ongoing basis to support and drive growth.
+
+While we are adopting AI across our engineering
+and product teams, Cartrack’s R&D operating expenses increased 12% to ZAR63 million (Q2 2026: ZAR56 million). We remain committed
+to driving AI adoption to deliver more value to our customers, more efficiently and more rapidly.
+
+Cartrack provided for expected credit losses of
+ZAR41 million (Q2 2026: ZAR15 million).
+
+Cartrack’s expenses as a proportion of subscription
+revenue align with Karooooo’s long-term financial goals and reflect our continued commitment to growth at scale. 
+
+● | Cartrack’s
+sales and marketing expenses as a percentage of Cartrack’s subscription revenue decreased to 17% (Q2 2026: 18%)
+
+● | Cartrack’s
+general and administration expenses as a percentage of Cartrack’s subscription revenue decreased to 19% (Q2 2026: 21%)
+
+● | Cartrack’s
+R&D expenses as a percentage of Cartrack’s subscription revenue decreased to 4% (Q2 2026: 5%)
+
+5
+
+Operating Profit and Earnings Per Share 
+
+Karooooo’s operating profit increased 19%
+to ZAR422 million (Q2 2026: ZAR356 million). Earnings per share increased 18% to ZAR9.28 (Q2 2026: ZAR7.88). After adjustment for the
+costs of the secondary offering in the previous reported period, adjusted earnings per share, a non-IFRS measure, increased 12% to ZAR9.28
+(Q2 2026: ZAR8.28).
+
+Despite the foreign exchange headwinds, Cartrack’s
+operating profit increased 19% to ZAR411 million (Q2 2026: ZAR344 million), and Cartrack’s operating profit margin was 28% (Q2 2026:
+29%).
+
+As a result of the costs associated with ensuring
+driver availability and network expansion, Karooooo Logistics’s operating profit decreased 4% to ZAR11 million (Q2 2026: ZAR12 million).
+Karooooo Logistics’s operating profit margin was 6% (Q2 2026: 8%).
+
+See “Basic and Diluted Earnings per Share
+and Adjusted Earnings per Share (a non-IFRS measure)” below for a reconciliation of adjusted earnings to basic earnings, its most
+directly comparable IFRS financial measure.
+
+Adjusted EBITDA
+
+Karooooo’s Adjusted EBITDA (a non-IFRS measure)
+increased 18% to ZAR675 million (Q2 2026: ZAR571 million).
+
+Cartrack’s Adjusted EBITDA increased 19%
+to ZAR663 million (Q2 2026: ZAR559 million).
+
+Karooooo Logistics’s Adjusted EBITDA decreased
+3% to ZAR12 million (Q2 2026: ZAR12 million).
+
+See “Reconciliation of Profit for the Period
+to Adjusted EBITDA (a non-IFRS measure)” below for a reconciliation of Adjusted EBITDA to profit, its most directly comparable IFRS
+financial measure.
+
+6
+
+Half-Year 2027 Financial Overview (Unaudited)
+
+Highlights
+
+(Comparisons are relative to HY 2026, unless otherwise
+stated.)
+
+SCALE
+
+● | Cartrack subscribers increased 18% to 2,899,210 (HY 2026: 2,456,989).
+
+● | Net Cartrack subscriber additions accelerated to 53% reaching a record of 236,988 (HY 2026: 154,753).
+
+GROWTH
+
+● | Karooooo’s subscription revenue increased 19% to ZAR2,772 million (HY 2026: ZAR2,323 million).
+
+● | Cartrack’s
+subscription revenue increased 19% to ZAR2,765 million (HY 2026: ZAR2,317 million).
+
+● | Cartrack’s annualized recurring revenue (“ARR”) increased
+ 19% to ZAR5,708 million (HY 2026: ZAR4,806 million).
+
+● | Karooooo Logistics’s B2B delivery-as-a-service (“DaaS”) revenue increased 41% to ZAR366 million (HY 2026: ZAR261 million).
+
+Presented in the U.S. Dollar Equivalent
+1
+
+● | Karooooo’s subscription revenue increased 31% to USD172 million.
+
+● | Cartrack’s subscription revenue increased 31% to USD172 million.
+
+● | Cartrack’s ARR increased 30% to USD354 million.
+
+● | Karooooo Logistics’s DaaS revenue increased 54% to USD23 million.
+
+PROFITABILITY
+
+● | Karooooo’s operating profit increased 18% to ZAR832 million (HY 2026: ZAR708 million).
+
+● | Cartrack’s operating profit increased 17% to ZAR806 million (HY 2026: ZAR686 million).
+
+● | Cartrack’s operating profit margin was 28% (HY 2026: 29%).
+
+● | Karooooo’s adjusted earnings per share increased 12% to ZAR18.81 (HY 2026: ZAR16.83).
+
+1 | For convenience purposes only, amounts in South African rand as of August 31, 2026 have been translated to U.S. dollars using an exchange rate of ZAR 16.1159 to U.S.$1.00 (August 31, 2025: ZAR 17.6519), as set forth in the H.10 statistical release of the Board of Governors of the Federal Reserve System. These translations should not be considered representations that any such amounts have been, could have been or could be converted at that or any other exchange rate.
+
+7
+
+Half-Year 2027 Financial Overview
+
+Supplemental Financial Information and Business Metrics
+
+Six Months Ended August 31,
+
+Cartrack | Karooooo Logistics | Karooooo Consolidated
+
+Figures in Rand Thousands | 2026 | 2025 | Y-o-Y % | 2026 | 2025 | Y-o-Y % | 2026 | 2025 | Y-o-Y %
+
+Subscription revenue | 2,765,383 | 2,317,193 | 19 | % | 6,448 | 6,150 | 5 | % | 2,771,831 | 2,323,343 | 19 | %
+
+Other revenue 1 | 72,362 | 43,202 | 67 | % | - | - | 72,362 | 43,202 | 67 | %
+
+Delivery service | - | - | - | 359,967 | 254,366 | 42 | % | 359,967 | 254,366 | 42 | %
+
+Revenue | 2,837,745 | 2,360,395 | 20 | % | 366,415 | 260,516 | 41 | % | 3,204,160 | 2,620,911 | 22 | %
+
+Cost of Sales | (802,934 | ) | (653,953 | ) | 23 | % | (257,212 | ) | (181,221 | ) | 42 | % | (1,060,146 | ) | (835,174 | ) | 27 | %
+
+Gross Profit | 2,034,811 | 1,706,442 | 19 | % | 109,203 | 79,295 | 38 | % | 2,144,014 | 1,785,737 | 20 | %
+
+Gross Profit Margin | 72 | % | 72 | % | 30 | % | 30 | % | 67 | % | 68 | %
+
+Operating Profit/(loss) | 806,140 | 686,339 | 17 | % | 25,868 | 21,476 | 20 | % | 832,008 | 707,815 | 18 | %
+
+Operating Profit Margin | 28 | % | 29 | % | 7 | % | 8 | % | 26 | % | 27 | %
+
+Adjusted EBITDA (a non-IFRS measure) | 1,290,073 | 1,091,813 | 18 | % | 27,333 | 22,728 | 20 | % | 1,317,406 | 1,114,541 | 18 | %
+
+Adjusted EBITDA Margin (a non-IFRS measure) | 45 | % | 46 | % | 7 | % | 9 | % | 41 | % | 43 | %
+
+1. | Other revenue is non-subscription-based revenue. Cartrack remains focused on bundled sales.
+
+Total Revenue and Subscription Revenue
+
+Karooooo’s revenue increased 22% to ZAR3,204
+million (HY 2026: ZAR2,621 million), and subscription revenue increased 19% to ZAR2,772 million (HY 2026: ZAR2,323 million).
+
+Cartrack’s
+total revenue increased 20% to ZAR2,838 million (HY 2026: ZAR2,360 million)
+, 
+driven
+primarily by its subscription-based business model. Cartrack’s subscription revenue increased 19% to a record of ZAR2,765 million in HY
+2027 (HY 2026: ZAR2,317 million). Subscription revenue represented 97% of Cartrack’s total revenue. (HY 2026: 98%). 
+
+Karooooo Logistics’s revenue increased 41%
+to ZAR366 million (HY 2026: ZAR261 million).
+
+Gross Profit and Cost of Sales 
+
+Karooooo’s cost of sales increased 27% to
+ZAR1,060 million (HY 2026: ZAR835 million).
+
+Cartrack’s cost of sales increased 23% to
+ZAR803 million (HY 2026: ZAR654 million). Cartrack’s gross profit margin was 72% (HY 2026: 72%), and Cartrack’s subscription
+gross profit margin was 72% (HY 2026: 73%).
+
+Karooooo Logistics’s cost of sales increased
+42% to ZAR257 million (HY 2026: ZAR181 million). Karooooo Logistics’s gross profit margin was 30% (HY 2026: 30%).
+
+Operating Expenses 
+
+Six Months Ended August 31,
+
+Figures in Rand Thousands | 2026 | 2025 | Y-o-Y %
+
+Karooooo’s Operating Expenses | 1,316,340 | 1,085,623 | 21 | %
+
+- Cartrack | 1,232,827 | 1,027,801 | 20 | %
+
+- Karooooo Logistics | 83,513 | 57,822 | 44 | %
+
+8
+
+Karooooo’s operating expenses increased
+21% to ZAR1,316 million in HY 2027 (HY 2026: ZAR1,086 million).
+
+Cartrack accounted for ZAR1,233 million (HY
+2026: ZAR1,028 million) in operating expenses including investments in infrastructure and headcount to support territorial expansion
+within the countries we operate in. Karooooo Logistics accounted for ZAR84 million (HY 2026: ZAR58 million) of total operating
+expenses as we continued to invest prudently to scale Karooooo Logistics.
+
+Cartrack’s sales and marketing expenses
+increased 24% to ZAR482 million in HY 2027 (HY 2026: ZAR390 million). Our strategic investment in customer acquisition is yielding the
+desired results and positions us well for continued growth. As we begin to realize the benefits of this investment, we remain focused
+on driving further gains in new sales headcount productivity over the coming periods. Our customer LTV to CAC ratio continues to exceed
+9 times and underpins our disciplined approach to growth and customer acquisition.
+
+Cartrack’s general and administration expenses
+increased 14% to ZAR539 million (HY 2026: ZAR472 million), reflecting our ability to prudently manage costs while building infrastructure
+to support our future growth. We expect to increase these costs gradually on an ongoing basis to support and drive growth. 
+
+While we are adopting AI across our engineering
+and product teams, Cartrack’s R&D operating expenses increased 14% to ZAR133 million (HY 2026: ZAR117 million). We remain committed
+to driving AI adoption to deliver more value to our customers, more efficiently and more rapidly.
+
+Cartrack provided for expected credit losses of
+ZAR78 million (HY 2026: ZAR49 million).
+
+Operating Profit and Earnings per share 
+
+Karooooo’s operating profit increased 18%
+to ZAR832 million (HY 2026: ZAR708 million) and earnings per share increased 14% to ZAR18.81 (HY 2026: ZAR16.43). After taking into account
+the costs of the secondary offering in the previous reported period, adjusted earnings per share increased 12% to ZAR18.81 (HY 2026: ZAR16.83).
+
+Despite the foreign exchange headwinds, Cartrack’s
+operating profit increased by 17% to ZAR806 million (HY 2026: ZAR686 million), and Cartrack’s operating profit margin was 28% (HY
+2026: 29%).
+
+Karooooo Logistics’s operating profit increased
+20% to ZAR26 million (HY 2026: ZAR21 million), and as a result of the costs associated with ensuring driver availability and network expansion,
+Karooooo Logistics’s operating profit margin was 7% (HY 2026: 8%). 
+
+Adjusted EBITDA 
+
+Karooooo’s Adjusted EBITDA (a non-IFRS measure)
+increased 18% to ZAR1,317 million (HY 2026: ZAR1,115 million).
+
+Cartrack’s Adjusted EBITDA (a non-IFRS measure)
+increased 18% to ZAR1,290 million (HY 2026: ZAR1,092 million).
+
+Karooooo Logistics’s Adjusted EBITDA (a
+non-IFRS measure) increased by 20% to ZAR27 million (HY 2026: ZAR23 million).
+
+See “Reconciliation of Profit for the Period
+to Adjusted EBITDA (a non-IFRS measure)” below for a reconciliation of Adjusted EBITDA to profit, its most directly comparable IFRS
+financial measure.
+
+Outlook 
+
+We operate in an expanding and largely underpenetrated
+physical AI market, where strong and sustained customer demand is driven by digital transformation, the ongoing need to improve operational
+efficiency and reduce costs and increasing attention to safety and compliance in physical operations. Our easy-to-use, operational intelligence
+platform empowers our customers to improve operational efficiencies, reduce risk and enhance the safety of their physical operations.
+
+Year to date, we have delivered record net subscriber
+additions and healthy retention driving 22% Cartrack constant currency subscription revenue growth. We believe we are on track to accelerate
+Cartrack subscription revenue growth in FY 2027 as we realize the benefits of our recent investments in sales capacity. We aim to drive
+our growth by balancing subscriber growth with the increased adoption of Video and Cartrack-Tag. We also believe increased sales efficiency,
+coupled with realizing other efficiencies in the business due to scale and leveraging AI, will support strong EPS growth.
+
+9
+
+We believe our ongoing investments in AI innovation,
+platform capabilities and customer experience position us to drive durable long-term growth. We remain confident that our track record
+of success, specifically our ability to generate healthy cash flows, is sustainable.
+
+Actual results may differ materially from Karooooo’s
+outlook due to various factors, including those described under “Forward-Looking Statements” below and described under “Risk
+Factors” in our latest Annual Report on Form 20-F filed with the U.S. Securities and Exchange Commission.
+
+With Cartrack’s revenue making up the majority
+of group revenue, the guidance below relates primarily to Cartrack and assumes constant foreign exchange rates.
+
+We model our outlook on constant exchange rates
+based on the prior financial year, and we are maintaining our outlook for FY 2027.
+
+Our guidance for FY 2027 remains unchanged:
+
+● | Cartrack’s
+subscription revenue between ZAR5,700 million and ZAR6,000 million, which implies subscription revenue growth between 18% and 24%;
+
+● | Cartrack’s
+gross profit margin between 70% and 72%;
+
+● | Cartrack’s
+operating profit margin between 27% and 30%; and
+
+● | Karooooo’s
+Earnings Per Share between ZAR38.50 and ZAR40.00, which implies EPS growth between 18% and 23% compared to FY 2026 Adjusted EPS, which
+excludes secondary offering costs.
+
+10
+
+Balance Sheet, Liquidity and Cash Flow
+
+As we re-invest our earnings for customer acquisition,
+as of August 31, 2026, our investment in in-vehicle IoT devices increased by ZAR240 million, or 12% to ZAR2,186 million (February 28,
+2026: ZAR1,946 million). Owing to our accelerated growth, increased lead times and ongoing memory price increases, IoT devices held for
+future use increased by ZAR332 million, or 92%, to ZAR694 million (February 28, 2026: ZAR362 million).
+
+Capitalized commission assets increased by ZAR90
+million, or 19% to ZAR560 million (February 28, 2026: ZAR470 million).
+
+Trade and other receivables increased by ZAR268
+million to ZAR855 million (February 28, 2026: ZAR586 million), primarily driven by an acceleration in subscription sales and a ZAR57 million
+increase in prepayments for IoT components.
+
+Debtor collection days remain within our range
+of historical norms at a healthy 33 days (February 28, 2026: 27 days).
+
+Cash and Cash Equivalents
+
+During the quarter, we increased our bank short-term
+working capital facilities as we made upfront investment in both in-vehicle IoT devices and IoT devices for future use to maintain our
+current momentum. The significant and ongoing increases in memory chips also contributed to the increased levels of IoT devices for future
+use. The investments increased by 86% to ZAR966 million (HY 2026: ZAR519 million). As a result, bank overdrafts are now considered part
+of our financing arrangements rather than cash management and will be classified within financing activities in the Statement of Cash
+Flows. At August 31, 2026, the group had finance facilities for growth initiatives and other general corporate purposes of ZAR900 million,
+between Capitec Bank and Standard Bank.
+
+Karooooo reported cash and cash equivalents of
+ZAR649 million at August 31, 2026 (February 28, 2026: ZAR1,154 million). The decrease was mainly due to dividends of ZAR752 million paid
+in July 2026. As we hold our cash reserves in USD, the strengthening of the ZAR also reduced the ZAR value of our cash and cash equivalents balance.
+
+Our cash generation remains strong, underpinned
+by prudent financial management and disciplined capital allocation.
+
+In line with the group’s cash management
+policy, overseen by our capital allocation committee, Karooooo’s excess cash reserves will remain held in US Dollars.
+
+Free Cash Flow (a non-IFRS measure)
+
+Karooooo reported a healthy quarterly increase
+of 23% in cash generated from operations before working capital changes of ZAR729 million (Q2 2026: ZAR591 million), driven by strong
+accelerated subscription revenue growth. Net cash generated from operating activities, the most directly comparable IFRS measure, increased
+109% to ZAR558 million (Q2 2026: ZAR267 million), driven by increased profit and favourable working capital movements.
+
+Three Months Ended August 31, | Six Months Ended August 31,
+
+2026 | 2025 | 2026 | 2025
+
+(Rand Thousands)
+
+Free Cash Flow (a non-IFRS measure) | 40,716 | 19,576 | 100,378 | 357,701
+
+11
+
+Free Cash Flow (a non-IFRS measure) for the three months ended August
+31, 2026, was ZAR41 million (Q2 2026: ZAR20 million). This movement was mainly driven by an increase in trade and other receivables as
+a result of increased subscription revenue and the investment in in-vehicle IoT devices to support our growth. We have increased our PPE
+levels given our accelerated growth and ongoing significant increases in RAM and memory prices.
+
+Free Cash Flow (a non-IFRS measure) for the six
+months ended August 31, 2026 was ZAR100 million (HY 2026: ZAR358 million). We believe that our current PPE levels have now been adjusted
+for our accelerated growth and supply chain challenges.
+
+The Free Cash Flow (a non-IFRS measure) generated
+is in line with Karooooo’s disciplined capital allocation strategy and supports the group’s current accelerated growth and
+pragmatic planning for future growth.
+
+See “Reconciliation of Free Cash Flow (a
+non-IFRS measure)” for a reconciliation of free cash flow to net cash generated from operating activities, the most directly comparable
+IFRS financial measure.
+
+Share Capital and Reserves
+
+As of August 31, 2026, Karooooo had 30,893,300
+ordinary shares issued and outstanding, and paid-up share capital of USD505,956,659 plus SGD1,000.
+
+The negative common control reserve of ZAR2.7
+billion on the balance sheet relates to a common control transaction on November 18, 2020, in which the loan of USD194 million from Isaias
+Jose Calisto was converted into Karooooo share capital. Consequently, Karooooo acquired control of Cartrack. On that date, 20,331,894
+shares were issued to Isaias Jose Calisto and Karooooo registered ZAR2.7 billion in paid-up capital, resulting in the common control reserve.
+
+The ZAR3.6 billion capital reserve on the balance
+sheet relates to the buyout of 95,350,657 Cartrack shares at ZAR42.00 per share from minorities when Cartrack delisted from the JSE, totaling
+ZAR4.0 billion. This was offset by the ZAR0.4 billion previously reported in the non-controlling interest. The ZAR0.4 billion relates
+to the net asset value of 95,350,657 Cartrack minority shares acquired by Karooooo.
+
+ZAR27.3 million of capital reserve on the balance
+sheet relates to the cancellation of Karooooo’s treasury shares and ZAR11.4 million of capital reserve relates to the repurchase
+and cancellation of 279 ordinary shares of Karooooo Logistics, which represented 6.29% of Karooooo Logistics’s issued ordinary shares
+as of April 30, 2024. A further ZAR18.6 million of capital reserves relates to the repurchase and cancellation of 316 ordinary shares
+of Karooooo Logistics, which represented 7.60% of Karooooo Logistics’s issued ordinary shares. ZAR5.2 million relates to the repurchase
+and cancellation of 150 ordinary shares of Cartrack New Zealand, which represented 15% of Cartrack New Zealand’s issued ordinary
+shares. A further ZAR29.6 million of capital reserves relates to the repurchase and cancellation of 444 ordinary shares of Karooooo Logistics,
+which represented 11.55% of Karooooo Logistics’s issued ordinary shares as of July 31, 2026.
+
+12
+
+Geographical Overview for Cartrack 
+
+South Africa 
+
+Cartrack’s number of subscribers in this
+region increased 18% to 2,185,798 at August 31, 2026 (August 31, 2025: 1,850,646). Q2 2027 subscription revenue growth increased 25%.
+The pace of growth reflects our deliberate strategy to cement our leadership position in South Africa through a balanced combination of
+subscriber additions and selling Video and Cartrack-Tag to our existing and new customers.
+
+We are encouraged by the strength of the teams
+we are building, which positions us well to continue to broaden our customer base and increase product adoption in South Africa. We are
+committed to continue building our distribution capabilities to service the demand for our products from both new customers and existing
+customers, and we are confident that our recent investments in operating capacity will have a positive impact on Cartrack’s growth.
+
+Despite some macro-economic stress in the South
+African economy, we continue to see a compelling market opportunity in South Africa and are excited about the potential ahead.
+
+We believe that we are the largest and fastest
+growing operational intelligence platform provider on the African continent.
+
+Asia Pacific and Middle East 
+
+Cartrack’s number of subscribers in this
+region increased 21% to 367,270 at August 31, 2026 (August 31, 2025: 302,892). Q2 2027 subscription revenue growth increased to 12% (25%
+on a constant currency basis, a non-IFRS measure).
+
+As the second largest contributor to group revenue,
+Southeast Asia continues to present the most compelling growth opportunity for the group in the medium to long term. We plan to continue
+with a strong, yet prudent drive to increase our operating capacity in Southeast Asia.
+
+Europe
+
+Cartrack’s number of subscribers in this
+region increased 13% to 244,878 at August 31, 2026 (August 31, 2025: 215,921). Q2 2027 subscription revenue growth was 4% (14% on a constant
+currency basis, a non-IFRS measure).
+
+We continue to expand our customer base and drive
+our distribution capabilities in the region.
+
+We have partnered with leading OEMs to provide
+easy access to our platform, seamlessly integrating their connected vehicle data to our platform through application programming interfaces.
+We expect these partnerships to contribute to our results in the medium to long term. In addition, we are experiencing encouraging demand
+for our proprietary compliance technology in the region as customers seek to simplify compliance with evolving legislation and enforcement.
+
+13
+
+Africa (excluding South Africa)
+
+Cartrack’s number of subscribers in this
+region increased 16% to 101,264 at August 31, 2026 (August 31, 2025: 87,530). Q2 2027 subscription revenue growth was 6% (13% on a constant
+currency basis, a non-IFRS measure).
+
+This region remains a positive cash generator
+and is strategic to support our South African customers.
+
+Events subsequent to the Second Quarter of
+2027
+
+In October 2026, the Board approved a resolution
+for Cartrack Polska Sp.z o.o. to repurchase its ordinary shares in accordance with the Companies Act of Poland and to cancel the repurchased
+shares. As a result, the group’s effective shareholding in Cartrack Polska Sp.z o.o. increased from 90.9% to 93.5%.
+
+Dividend Policy
+
+The Board recognizes the importance of investment
+in achieving growth at scale, and endeavours to avoid swings in dividend profile.
+
+However, the payment and timing of dividends
+in cash or other distributions (such as a return of capital to shareholders through share buy-backs, for example) are determined by the
+Board after considering factors that include: earnings and free cash flow; current and anticipated capital requirements; economic conditions;
+contractual, legal, tax and regulatory restrictions (including covenants contained in any financing agreements); the ability of group
+subsidiaries to distribute funds to Karooooo; and such other factors the Board may deem relevant. 
+
+Karooooo aims to reinvest retained earnings to
+the extent that it aligns with the group’s required return on incrementally reinvested capital, return on equity, and short- to
+medium-term growth strategy.
+
+Subject to Karooooo’s constitution and in
+accordance with the Singapore Companies Act, the Board may, without the approval of shareholders, declare and pay interim dividends.
+Any final dividends must be approved by an ordinary resolution at a general meeting of shareholders.
+
+The Board may review and amend the dividend policy
+from time to time.
+
+14
+
+Corruption, Bribery and Whistleblowing
+
+The Karooooo Anti-Bribery and Corruption policy,
+Code of Ethics, Whistleblowing policy and employment contracts contain clear guidelines with regard to bribery, corruption, client confidentiality
+and acceptable behavior towards fellow employees, customers, contractors and suppliers. Annual awareness and practical training are provided
+to all employees, reinforced by individual affirmations on an annual basis. These measures ensure awareness and understanding of our business
+principles and the consequences of non-compliance. Our policies also apply to third-party providers.
+
+We provide a contact email and hotline for whistleblowing
+and reporters are assured of confidentiality.
+
+Webinar Information
+
+The Company will host a Zoom
+webinar on Tuesday, October 20, 2026 at 08:00 a.m. Eastern Time (02:00 p.m. South African time; 08:00 p.m. Singaporean time). Investors
+are invited to join the Zoom webinar at: https://us02web.zoom.us/j/88565158011
+
+Webinar ID: 
+885 6515 8011 
+
+Telephone:
+
+● | US
+(New York) Toll-free: +1 646 558 8656
+
+● | South
+Africa Toll-free: +27 87 551 7702
+
+A replay will be available at www.karooooo.com
+approximately three hours after the conclusion of the live event.
+
+IFRS Accounting
+
+We prepare our consolidated financial statements
+in accordance with IFRS as issued by the IASB. The summary consolidated financial information presented has been derived from the consolidated
+financial statements of Karooooo.
+
+About Karooooo
+
+Karooooo digitally transforms physical operations
+by simplifying decision making. Its Operational Intelligence Platform serves as the central nervous system for connected operations, integrating
+vehicles, assets, field workforces and operational workflows into a single intelligent ecosystem. Through proprietary hardware technology
+and software, the platform captures, processes and analyzes real-world operational data, transforming billions of data points into actionable
+intelligence that helps customers make faster, better decisions across safety, productivity, compliance, cost control and service execution.
+Delivered through intuitive cloud-based applications, the platform combines operational visibility, workflow automation, AI-powered video
+intelligence and decision-support capabilities to help businesses improve performance, reduce risk and operate more efficiently.
+
+Karooooo is headquartered in Singapore and services
+more than 125,000 commercial customers and more than 2.9 million active subscribers in more than 20 countries.
+
+For more information, visit www.karooooo.com.
+
+Investor Relations Contact | IR@karooooo.com
+
+Media Contact | media@karooooo.com
+
+15
+
+KAROOOOO LTD.
+
+CONSOLIDATED STATEMENT OF PROFIT AND LOSS
+
+(UNAUDITED)
+
+Three Months Ended August 31, | Six Months Ended August 31,
+
+2026 | 2025 | 2026 | 2025
+
+(Rand Thousands)
+
+Revenue | 1,640,213 | 1,343,894 | 3,204,160 | 2,620,911
+
+Cost of sales | (565,081 | ) | (431,460 | ) | (1,060,146 | ) | (835,174 | )
+
+Gross profit | 1,075,132 | 912,434 | 2,144,014 | 1,785,737
+
+Other income | 1,394 | 6,244 | 4,334 | 7,701
+
+Operating expenses | (654,204 | ) | (562,657 | ) | (1,316,340 | ) | (1,085,623 | )
+
+Sales and marketing | (244,500 | ) | (210,280 | ) | (484,024 | ) | (390,967 | )
+
+General and administration | (300,614 | ) | (276,946 | ) | (611,147 | ) | (521,859 | )
+
+Research and development | (68,054 | ) | (60,050 | ) | (143,215 | ) | (123,830 | )
+
+Expected credit losses on financial assets | (41,036 | ) | (15,381 | ) | (77,954 | ) | (48,967 | )
+
+Operating profit | 422,322 | 356,021 | 832,008 | 707,815
+
+Offering costs | - | (12,172 | ) | - | (12,172 | )
+
+Finance income | 8,298 | 10,926 | 16,861 | 21,355
+
+Finance costs | (32,144 | ) | (17,245 | ) | (57,679 | ) | (32,411 | )
+
+Profit before taxation | 398,476 | 337,530 | 791,190 | 684,587
+
+Taxation | (107,460 | ) | (88,961 | ) | (201,218 | ) | (167,144 | )
+
+Profit for the period | 291,016 | 248,569 | 589,972 | 517,443
+
+Profit attributable to:
+
+Owners of the parent | 286,770 | 243,576 | 581,029 | 507,671
+
+Non-controlling interest | 4,246 | 4,993 | 8,943 | 9,772
+
+291,016 | 248,569 | 589,972 | 517,443
+
+Earnings per share
+
+Basic and diluted earnings per share (ZAR) | 9.28 | 7.88 | 18.81 | 16.43
+
+16
+
+KAROOOOO LTD.
+
+CONSOLIDATED STATEMENT OF FINANCIAL POSITION
+
+(UNAUDITED)
+
+As of August 31, 2026 | As of February 28, 2026 | As of August 31, 2025
+
+(Rand Thousands)
+
+ASSETS
+
+Non-current assets
+
+Property, plant and equipment 1 | 3,738,086 | 3,150,690 | 2,915,371
+
+Capitalized commission assets | 560,254 | 470,406 | 467,292
+
+Intangible assets | 88,591 | 81,720 | 85,330
+
+Goodwill 2 | 166,985 | 167,315 | 177,685
+
+Loans to related parties | 28,700 | 28,700 | 28,700
+
+Long-term other receivables and prepayments | 152 | 679 | 2,428
+
+Deferred tax assets | 145,984 | 133,320 | 132,230
+
+Total non-current assets | 4,728,752 | 4,032,830 | 3,809,036
+
+Current assets
+
+Inventories | 5,959 | 5,742 | 4,915
+
+Trade and other receivables and prepayments | 854,778 | 586,374 | 646,234
+
+Income tax receivables | 25,869 | 15,324 | 48,089
+
+Cash and cash equivalents | 648,512 | 1,153,874 | 420,819
+
+Total current assets | 1,535,118 | 1,761,314 | 1,120,057
+
+Total assets | 6,263,870 | 5,794,144 | 4,929,093
+
+EQUITY AND LIABILITIES
+
+Equity
+
+Share capital | 7,142,853 | 7,142,853 | 7,142,853
+
+Other capital reserve 3,4 | (3,674,677 | ) | (3,645,108 | ) | (3,621,245 | )
+
+Common control reserve 5 | (2,709,236 | ) | (2,709,236 | ) | (2,709,236 | )
+
+Actuarial reserve | 162 | (58 | ) | 114
+
+Foreign currency translation reserve | 67,656 | 81,168 | 256,204
+
+Retained earnings | 2,246,372 | 2,412,384 | 1,926,136
+
+Equity attributable to equity holders of parent | 3,073,130 | 3,282,003 | 2,994,826
+
+Non-controlling interest | 43,370 | 45,025 | 51,997
+
+Total equity | 3,116,500 | 3,327,028 | 3,046,823
+
+Liabilities
+
+Non-current liabilities
+
+Term loans 6,7 | 373,795 | 398,931 | 47,078
+
+Lease liabilities | 157,581 | 158,577 | 187,926
+
+Deferred revenue | 127,393 | 122,722 | 125,356
+
+Deferred tax liabilities | 103,536 | 118,842 | 113,530
+
+Total non-current liabilities | 762,305 | 799,072 | 473,890
+
+Current liabilities
+
+Term loans 6,7 | 50,352 | 49,721 | 268,526
+
+Trade and other payables | 935,206 | 585,832 | 533,703
+
+Loans from related parties | 168 | 85 | -
+
+Lease liabilities | 129,592 | 129,288 | 123,398
+
+Deferred revenue | 429,585 | 405,605 | 371,964
+
+Bank overdraft | 714,602 | 407,668 | 28,052
+
+Income tax payables | 125,560 | 89,845 | 82,737
+
+Total current liabilities | 2,385,065 | 1,668,044 | 1,408,380
+
+Total liabilities | 3,147,370 | 2,467,116 | 1,882,270
+
+Total equity and liabilities | 6,263,870 | 5,794,144 | 4,929,093
+
+17
+
+1. | Included
+in property, plant and equipment are:
+
+As of August 31, 2026 | As of February 28, 2026 | As of August 31, 2025
+
+(Rand Thousands)
+
+Capitalized telematics devices – Work in progress | 237,205 | 147,207 | 147,084
+
+Capitalized telematic devices – Uninstalled | 456,672 | 214,517 | 222,932
+
+Capitalized telematic devices – Installed | 2,186,063 | 1,945,837 | 1,701,262
+
+South African Central Office Property | 446,042 | 441,580 | 439,226
+
+Other Fixed Assets | 412,104 | 401,549 | 404,867
+
+Total | 3,738,086 | 3,150,690 | 2,915,371
+
+2. | Goodwill is net of an impairment charge of ZAR43.6 million related to the Mozambique operations during Q4 2025.
+
+3. | The ZAR3.6 billion negative capital reserve on the balance sheet relates to the buyout of 95,350,657 Cartrack shares at ZAR42.00 per share from minorities when Cartrack delisted from the JSE totalling ZAR4.0 billion, offset by the ZAR0.4 billion previously reported in the non-controlling interest reserve line item. The ZAR0.4 billion relates to the net asset value of the 95,350,657 Cartrack minority shares bought by Karooooo.
+
+4. | Included in capital reserves are ZAR27.3
+million relating to the cancellation of Karooooo’s treasury shares, ZAR59.6 million of capital reserve relating to the repurchase
+and cancellation of Karooooo Logistics’s’ ordinary shares and ZAR5.2 million of capital reserve relating to the repurchase
+and cancellation of Cartrack New Zealand’s ordinary shares.
+
+5. | The negative common control reserve of ZAR2.7 billion on the balance sheet relates to a common control transaction on November 18, 2020 in which the loan of USD194 million from Isaias Jose Calisto was converted into Karooooo share capital and as a consequence Karooooo acquired control of Cartrack. On that date, 20,331,894 shares were issued to Isaias Jose Calisto and Karooooo registered ZAR2.7 billion paid-up capital resulting in the common control reserve.
+
+6. | In June 2024, The Standard Bank of South Africa Limited extended a loan of ZAR250 million to Purple Rain Properties No. 444
+Proprietary Limited (the owner of the regional South Africa central office) at the South Africa Prime Interest Rate less 1.5%. In February
+2026, an additional tranche of ZAR191.7 million was drawn down.
+
+7 . | In September 2024 and June 2025, Cartrack Portugal, S.A., secured loans of EUR2 million and EUR1 million, respectively, from Banco Comercial Português, S.A. The loans bear an interest rate of 6-month Euribor rate plus 0.75%, with repayments scheduled over a seven-year and five-year period.
+
+18
+
+KAROOOOO LTD.
+
+CONDENSED CONSOLIDATED STATEMENT OF CASH FLOWS
+
+(UNAUDITED)
+
+Three Months Ended August 31, | Six Months Ended August 31,
+
+2026 | 2025 | 2026 | 2025
+
+(Rand Thousands)
+
+Cash generated from operations before working capital changes | 728,610 | 591,284 | 1,418,159 | 1,162,961
+
+Changes to working capital | 31,831 | (163,071 | ) | (97,778 | ) | (85,325 | )
+
+Cash generated from operations | 760,441 | 428,213 | 1,320,381 | 1,077,636
+
+Finance income received | 8,298 | 10,926 | 16,861 | 21,355
+
+Finance cost paid | (32,533 | ) | (17,015 | ) | (58,010 | ) | (33,658 | )
+
+Income tax paid | (178,254 | ) | (155,307 | ) | (183,995 | ) | (156,557 | )
+
+Net cash flows from operating activities | 557,952 | 266,817 | 1,095,237 | 908,776
+
+Net cash flows utilized by investing activities | (533,636 | ) | (262,347 | ) | (1,026,688 | ) | (579,465 | )
+
+Net cash flows utilized by financing activities | (526,443 | ) | (705,619 | ) | (575,462 | ) | (740,914 | )
+
+Net cash and cash equivalents movements for the period | (502,127 | ) | (701,149 | ) | (506,913 | ) | (411,603 | )
+
+Reclassification of bank overdraft to financing activities | 407,668 | - | 407,668 | -
+
+Cash and cash equivalents as at the beginning of the period | 755,532 | 1,102,667 | 746,206 | 837,583
+
+Translation differences on cash and cash equivalents | (12,561 | ) | (8,751 | ) | 1,551 | (33,213 | )
+
+Total cash and cash equivalents at the end of the period | 648,512 | 392,767 | 648,512 | 392,767
+
+19
+
+KAROOOOO LTD.
+
+RECONCILIATION OF FREE CASH FLOW (A NON-IFRS MEASURE) 
+
+(UNAUDITED)
+
+Three Months Ended August 31, | Six Months Ended August 31,
+
+2026 | 2025 | 2026 | 2025
+
+(Rand Thousands)
+
+Net cash generated from operating activities | 557,952 | 266,817 | 1,095,237 | 908,776
+
+Less: purchase of property, plant and equipment 1 | (517,236 | ) | (247,241 | ) | (994,859 | ) | (551,075 | )
+
+Free Cash Flow (a non-IFRS measure) | 40,716 | 19,576 | 100,378 | 357,701
+
+1. | For the quarter ended August 31, 2026, included in the purchase of property, plant and equipment are
+development cost of ZAR 3.0 million (August 31, 2025: ZAR 4.3 million) for the new South African Central Office in Rosebank, Johannesburg.
+
+20
+
+KAROOOOO LTD.
+
+RECONCILIATION OF PROFIT FOR THE PERIOD TO ADJUSTED EBITDA (A NON-IFRS MEASURE)
+
+(UNAUDITED)
+
+Three Months Ended August 31, | Six Months Ended August 31,
+
+2026 | 2025 | 2026 | 2025
+
+(Rand Thousands)
+
+Profit for the period | 291,016 | 248,569 | 589,972 | 517,443
+
+Taxation | 107,460 | 88,961 | 201,218 | 167,144
+
+Finance income | (8,298 | ) | (10,926 | ) | (16,861 | ) | (21,355 | )
+
+Finance costs | 32,144 | 17,245 | 57,679 | 32,411
+
+Offering costs | - | 12,172 | - | 12,172
+
+Depreciation of property, plant and equipment and amortization of intangible assets | 252,859 | 214,967 | 485,398 | 406,726
+
+Adjusted
+ EBITDA (a non-IFRS measure) | 675,181 | 570,988 | 1,317,406 | 1,114,541
+
+Profit margin | 18 | % | 18 | % | 18 | % | 20 | %
+
+Adjusted EBITDA
+ margin (a non-IFRS measure) | 41 | % | 42 | % | 41 | % | 43 | %
+
+21
+
+KAROOOOO LTD.
+
+BASIC AND DILUTED EARNINGS PER SHARE AND 
+
+ADJUSTED EARNINGS PER SHARE (A NON-IFRS MEASURE)
+
+(UNAUDITED)
+
+Three Months Ended August 31, | Six Months Ended August 31,
+
+2026 | 2025 | 2026 | 2025
+
+(Rand Thousands)
+
+Reconciliation between basic earnings and adjusted earnings (a non-IFRS measure)
+
+Profit attributable to ordinary shareholders | 286,770 | 243,576 | 581,029 | 507,671
+
+Adjust for:
+
+Offering costs | - | 12,172 | - | 12,172
+
+Adjusted
+ profit attributable to ordinary shareholders (a non-IFRS measure) | 286,770 | 255,748 | 581,029 | 519,843
+
+Weighted average number of ordinary shares in issue at period end (000’s) on which the per share figures have been calculated | 30,893 | 30,893 | 30,893 | 30,893
+
+Basic and diluted earnings per share | 9.28 | 7.88 | 18.81 | 16.43
+
+Adjusted basic and diluted earnings per share 1 (a non-IFRS measure) | 9.28 | 8.28 | 18.81 | 16.83
+
+1. | Adjusted earnings per share, (a non-IFRS measure) is defined
+as earnings per share defined by IFRS excluding the impact of specific non-recurring operational expenses as outlined in the reconciliation.
+
+22
+
+KAROOOOO LTD.
+
+RECONCILIATION OF BASIC AND DILUTED EARNINGS PER SHARE 
+
+TO HEADLINE EARNINGS PER SHARE (A NON-IFRS MEASURE)
+
+(UNAUDITED)
+
+Three Months Ended August 31, | Six Months Ended August 31,
+
+2026 | 2025 | 2026 | 2025
+
+(Rand Thousands)
+
+Reconciliation between basic earnings to headline earnings (a non-IFRS measure)
+
+Profit attributable to ordinary shareholders | 286,770 | 243,576 | 581,029 | 507,671
+
+Adjust for:
+
+(Gain)/loss on disposal of property, plant and equipment | (692 | ) | (890 | ) | (1,434 | ) | (1,512 | )
+
+Tax effect on (gain)/loss on disposal of property, plant and equipment | 187 | 240 | 387 | 408
+
+Headline
+ earnings (a non-IFRS measure) | 286,265 | 242,926 | 579,982 | 506,567
+
+Weighted average number of ordinary shares in issue at period end (000’s) on which the per share figures have been calculated | 30,893 | 30,893 | 30,893 | 30,893
+
+Basic and diluted earnings per share | 9.28 | 7.88 | 18.81 | 16.43
+
+Basic and
+ diluted headline earnings per share (a non-IFRS measure) | 9.27 | 7.86 | 18.77 | 16.40
+
+The inclusion of headline earnings per share
+(“HEPS”), a non-IFRS measure, in this announcement is a requirement of our inward listing on the JSE. Basic and diluted HEPS
+is calculated using profit attributable to ordinary shareholders which has been determined based on IFRS. Accordingly, this may differ
+from the headline earnings per share calculation of other companies listed on the JSE as these companies may report their financial results
+under a different financial reporting framework. Basic or diluted HEPS is calculated using profit attributable to shareholders adjusted
+for (gain)/loss on disposal of property, plant and equipment divided by the weighted average number of ordinary shares in issue. We have
+provided a reconciliation between our profit attributable to shareholders used to calculate basic and diluted earnings per share and
+headline earnings used to calculate the HEPS and have included the weighted average number of shares in issue for the period.
+
+23
+
+CONSTANT CURRENCY (A NON-IFRS MEASURE)
+
+Constant currency information has been presented
+to illustrate the impact of changes in currency rates on the group’s results. The tables below provide the unaudited constant currency
+reconciliation to the reported measure for the periods presented.
+
+Three Months and Half Year Ended August 31,
+2026
+
+The constant currency information has been determined
+by adjusting the current financial reporting period results to the results reported for the three months and half year ended August 31,
+2025. The measurement has been performed for each of the group’s operating currencies.
+
+SUBSCRIPTION REVENUE
+
+Three Months Ended August 31,
+
+2026 | 2025 | Quarter- on-Quarter Change
+
+(Rand Thousands) | Percentage
+
+Subscription revenue as reported | 1,418,099 | 1,182,284 | 20 | %
+
+Conversion impact of other currencies | 39,877 | -
+
+Subscription revenue on a constant currency basis | 1,457,976 | 1,182,284 | 23 | %
+
+TOTAL REVENUE
+
+Three Months Ended August 31,
+
+2026 | 2025 | Quarter- on-Quarter Change
+
+(Rand Thousands) | Percentage
+
+Total revenue as reported | 1,640,213 | 1,343,894 | 22 | %
+
+Conversion impact of other currencies | 40,688 | -
+
+Total revenue on a constant currency basis | 1,680,901 | 1,343,894 | 25 | %
+
+SUBSCRIPTION REVENUE
+
+Six Months Ended August 31,
+
+2026 | 2025 | Year- on-Year Change
+
+(Rand Thousands) | Percentage
+
+Subscription revenue as reported | 2,771,831 | 2,323,343 | 19 | %
+
+Conversion impact of other currencies | 70,746 | - | -
+
+Subscription revenue on a constant currency basis | 2,842,577 | 2,323,343 | 22 | %
+
+TOTAL REVENUE
+
+Six Months Ended August 31,
+
+2026 | 2025 | Year- on-Year Change
+
+(Rand Thousands) | Percentage
+
+Total revenue as reported | 3,204,160 | 2,620,911 | 22 | %
+
+Conversion impact of other currencies | 72,136 | - | -
+
+Total revenue on a constant currency basis | 3,276,296 | 2,620,911 | 25 | %
+
+24
+
+DEFINITIONS 
+
+Adjusted Earnings per Share
+
+Adjusted earnings per share, (a non-IFRS measure)
+is defined as, earnings per share defined by IFRS excluding the impact of non-recurring operational expenses relating to offering costs.
+
+Adjusted EBITDA
+
+We define Adjusted EBITDA (a non-IFRS measure)
+as profit less finance income, plus finance costs, taxation, depreciation and amortization, plus impact of non-recurring operational expenses,
+if any. In addition to our results determined in accordance with IFRS, we believe Adjusted EBITDA (a non-IFRS measure) is useful in evaluating
+our operating performance. We use Adjusted EBITDA in our operational and financial decision-making and believe Adjusted EBITDA is useful
+to investors because similar measures are frequently used by securities analysts, investors, ratings agencies and other interested parties
+to evaluate our competitors and to measure profitability. However, non-IFRS financial information is presented for supplemental informational
+purposes only, has limitations as an analytical tool and should not be considered in isolation or as a substitute for financial information
+presented in accordance with IFRS. Investors are encouraged to review the related IFRS financial measure and the reconciliation of Adjusted
+EBITDA to profit, its most directly comparable IFRS financial measure, and not to rely on any single financial measure to evaluate our
+business.
+
+Adjusted EBITDA Margin
+
+We define Adjusted EBITDA Margin (a non-IFRS measure)
+as Adjusted EBITDA (a non-IFRS measure) divided by revenue. In addition to our results determined in accordance with IFRS, we believe
+Adjusted EBITDA Margin (a non-IFRS measure) is useful in evaluating our operating performance. We use Adjusted EBITDA Margin in our operational
+and financial decision-making and believe Adjusted EBITDA Margin is useful to investors because similar measures are frequently used by
+securities analysts, investors, ratings agencies and other interested parties to evaluate our competitors and to measure profitability.
+However, non-IFRS financial information is presented for supplemental informational purposes only, has limitations as an analytical tool
+and should not be considered in isolation or as a substitute for financial information presented in accordance with IFRS.
+
+Delivery-as-a-service Revenue (DaaS)
+
+We define Delivery-as-a-Service (DaaS) revenue
+as the total revenue generated from last-mile delivery services, including subscription-based revenue associated with these services.
+
+Annualized Recurring Revenue (ARR)
+
+ARR (a non-IFRS measure) is defined as the annual
+run-rate subscription revenue of subscription agreements from all customers at a point in time, calculated by taking the monthly subscription
+revenue for all customers during that month and multiplying by twelve. ARR is not adjusted for the impact of any known or projected future
+customer cancellations, service upgrades or downgrades or price increases or decreases. The amount of actual revenue that we recognize
+over any 12-month period is likely to differ from ARR at the beginning of that period, sometimes significantly. This may occur due to
+subsequent changes in our pricing, service cancellations, upgrades or downgrades and acquisitions or divestitures.
+
+Average Revenue per Subscriber per month (ARPU)
+
+ARPU (a non-IFRS measure) is calculated on a periodic
+basis by dividing the cumulative subscription revenue for the period by the average of the opening subscriber balance at the beginning
+of the period and closing subscriber balance at the end of the period and dividing this by the number of months in the period.
+
+Cartrack Holdings 
+(“Cartrack”)
+
+Earnings per share
+
+Basic earnings per share in accordance with IFRS.
+
+25
+
+Free Cash Flow 
+
+We define Free Cash Flow (a non-IFRS measure)
+as net cash generated from operating activities less purchases of property, plant and equipment. In addition to our results determined
+in accordance with IFRS, we believe Free Cash Flow (a non-IFRS measure) is useful in evaluating our operating performance. We believe
+that Free Cash Flow is a useful indicator of liquidity and the ability of the group to turn revenues into Free Cash Flow, that provides
+information to management and investors about the amount of cash generated from our operations that, after the investments in property,
+plant and equipment, can be used for strategic initiatives, including investing in our business, and strengthening our financial position.
+However, non-IFRS financial information is presented for supplemental informational purposes only, has limitations as an analytical tool
+and should not be considered in isolation or as a substitute for financial information presented in accordance with IFRS. Investors are
+encouraged to review the related IFRS financial measure and the reconciliation of Free Cash Flow to net cash generated from operating
+activities and net cash generated from operating activities as a percentage of revenue, their most directly comparable IFRS financial
+measure, and not to rely on any single financial measure to evaluate our business.
+
+Rule of 40
+
+The sum of revenue growth and operating margin
+for a period of 12 months sum to greater than 40.
+
+Rule of 60
+
+The sum of revenue growth and adjusted EBITDA
+margin for the period of 12 months sum to greater than 60.
+
+Unit economics
+
+These are non-IFRS financial measures that are
+used as reference of Cartrack’s performance.
+
+Lifetime value (LTV of a Customer) of customer
+relationships to customer acquisition costs (CAC)
+
+We calculate the LTV of our customer relationships
+as of a measurement date by dividing (i) the product of our subscription revenue gross margin measured over the past twelve months, and
+the difference between our current period ARR and prior comparative period (twelve months) ARR by (ii) the percentage of ARR lost as a
+result of customer churn over the past twelve months. We calculate our CAC as our annual sales and marketing expense measured over the
+past twelve months.
+
+Lifetime value (LTV of a Subscriber), cost
+of acquiring a subscriber (CAS) and 
+cost of servicing a subscriber (CSS)
+
+It is important to distinguish between the subscriber
+contract life cycle (the life cycle of a vehicle or other equipment on our connected cloud) and the customer lifecycle (one customer normally
+has multiple ongoing subscriber contract life cycles as customers de-fleet and re-fleet their vehicle parc and other equipment on our
+connected cloud).
+
+We calculate the LTV of a subscriber by multiplying
+the ARPU with the expected contract life cycle months, multiplied by the subscription revenue gross margin percentage, which is defined
+as gross profit relating to subscription revenue divided by subscription revenue.
+
+We calculate CAS, which is calculated on a per
+subscriber basis, as (i) sales and marketing expenses, plus (ii) sales commissions, plus (iii) cost of installing IoT equipment, divided
+by (iv) the average subscriber base for such period.
+
+We calculate CSS, which is calculated on a per
+subscriber basis, as (i) operating expenses excluding estimated general business expansion costs, plus (ii) costs of sales that relates
+to subscription revenue, less (iii) all costs used to calculate CAS, divided by (iv) the average subscriber balance for such period.
+
+We estimate our long-term unit economics operational
+profit by multiplying (i) the product of the expected life cycle of a subscriber on our connected cloud by ARPU, minus (ii) CAS added
+to the product of the expected life cycle of a subscriber on our connected cloud by CSS.
+
+26
+
+Forward-Looking Statements
+
+The information in this announcement and press
+release (which includes any oral statements made in connection therewith, as applicable) includes “forward-looking statements.”
+Forward-looking statements are based on our beliefs and assumptions and on information currently available to us, and include, without
+limitation, statements regarding our business, financial condition, growth, strategy, results of operations, certain of our plans, objectives,
+assumptions, expectations, prospects and beliefs and statements regarding other future events or prospects, including outlook statements.
+Forward-looking statements include all statements that are not historical facts and can be identified by the use of forward-looking terminology
+such as the words “believe,” “expect,” “plan,” “intend,” “seek,” “anticipate,”
+“estimate,” “predict,” “potential,” “assume,” “continue,” “may,”
+“will,” “should,” “could,” “shall,” “risk” or the negative of these terms
+or similar expressions that are predictions of or indicate future events and future trends.
+
+By their nature, forward-looking statements involve
+risks and uncertainties because they relate to events and depend on circumstances that may or may not occur in the future. We caution
+you that forward-looking statements are not guarantees of future performance and that our actual results of operations, financial condition
+and liquidity, the development of the industry in which we operate, the effect of acquisitions and operating decisions on us may differ
+materially from those made in or suggested by the forward-looking statements contained in this announcement. In addition, even if our
+results of operations, financial condition and liquidity, the development of the industry in which we operate, the effect of acquisitions
+and operating decisions on us are consistent with the forward-looking statements contained in this announcement, those results or developments
+may not be indicative of results or developments in subsequent periods.
+
+Factors that could cause actual results to vary
+from projected results include, but are not limited to:
+
+● | our ability to acquire new customers and retain existing customers;
+
+● | our expectations regarding the effects of macroeconomic and geopolitical events on our business, customers and partners – including pandemic or widespread illness outbreaks, the Russia-Ukraine and Middle Eastern conflicts, political and economic uncertainty in Mozambique, geopolitical tensions involving China, financial distress caused by bank failures, global supply chain disruptions, foreign currency fluctuations, elevated inflation and interest rates, and shifting trade and monetary policies;
+
+● | our anticipated growth strategies, including our ability to increase sales to existing customers, the introduction of new solutions and international expansion;
+
+● | our ability to adapt to rapid technological change in our industry, including artificial intelligence;
+
+● | our dependence on cellular networks;
+
+● | competition from industry consolidation;
+
+● | market adoption of operational intelligence and fleet management platforms;
+
+● | automotive market conditions and the evolving nature of the automotive industry towards autonomous vehicles;
+
+● | expected changes in our profitability and certain cost or expense items as a percentage of our revenue;
+
+● | our dependence on certain key component suppliers and vendors;
+
+● | our ability to maintain or enhance our brand recognition;
+
+● | our ability to maintain our key personnel or attract, train, and retain other highly qualified personnel;
+
+27
+
+● | the impact and evolving nature of laws and regulations relating to the internet, including cybersecurity and data privacy;
+
+● | our ability to protect our intellectual property and proprietary technologies and address any infringement claims;
+
+● | significant disruption in service on, or security breaches of, our websites or computer systems, including as a result of artificial intelligence;
+
+● | dependence on third-party technology and licenses;
+
+● | fluctuations in the value of the South African rand and inflation rates in the countries in which we conduct business;
+
+● | our ability to access the capital markets in the future; and
+
+● | other risk factors discussed under “Risk Factors” in our latest Annual Report on Form 20-F and other reports filed with the U.S. Securities and Exchange Commission.
+
+You are cautioned not to place undue reliance
+on any forward-looking statements, which speak only as of the date of this announcement. We disclaim any duty to update and do not intend
+to update any forward-looking statements, all of which are expressly qualified by the statements in this section, to reflect events or
+circumstances after the date of this announcement or to reflect the occurrence of unanticipated events.
+
+Non-IFRS Financial Measures
+
+This announcement includes certain non-IFRS financial
+measures. These non-IFRS financial measures are not measures of financial performance in accordance with IFRS and may exclude items that
+are significant in understanding and assessing our financial results. Therefore, these measures should not be considered in isolation
+or as an alternative or superior to IFRS measures. You should be aware that our announcement of these measures may not be comparable to
+similarly titled measures used by other companies.
+
+Market and Industry Data
+
+We include statements and information in this
+announcement concerning our industry ranking and the markets in which we operate, including our general expectations and market opportunity,
+which are based on information from independent industry organizations and other third-party sources (including a third-party market study,
+industry publications, surveys and forecasts). While Karooooo believes these third-party sources to be reliable as of the date of this
+announcement, we have not independently verified any third-party information and such information is inherently imprecise. In addition,
+projections, assumptions and estimates of the future performance of the industry in which we operate, and our future performance are necessarily
+subject to a high degree of uncertainty and risk due to a variety of risks. These and other factors could cause results to differ materially
+from those expressed in the estimates made by the independent parties and by us.
+
+Trademarks and Trade Names
+
+In our key markets, we have rights to use, or
+hold, certain trademarks relating to Cartrack, or the respective applications for trademark registration are underway. We do not hold
+or have rights to any other additional patents, trademarks or licenses, that, if absent, would have had a material adverse effect on our
+business operations. Solely for convenience, trademarks and trade names referred to in this announcement may appear without the “
+®
+”
+or “™” symbols, but such references are not intended to indicate, in any way, that we will not assert, to the fullest
+extent possible under applicable law, our rights or the rights of the applicable licensor to these trademarks and trade names. We do not
+intend our use or display of other companies’ trade names, trademarks or service marks to imply a relationship with, or endorsement
+or sponsorship of us by, any other companies. Each trademark, trade name or service mark of any other company appearing in this announcement
+is the property of its respective holder.
+
+28

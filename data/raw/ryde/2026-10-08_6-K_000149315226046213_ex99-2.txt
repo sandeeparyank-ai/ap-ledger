@@ -1,0 +1,483 @@
+EX-99.2
+
+3
+
+ex99-2.htm
+
+EX-99.2
+
+Exhibit
+99.2
+
+MANAGEMENT’S
+DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS FOR THE SIX MONTHS ENDED JUNE 30, 2026 AND 2025
+
+The
+following discussion and analysis of our financial condition and results of operations should be read in conjunction with the unaudited
+condensed consolidated financial statements and the notes thereto, included as Exhibit 99.1 to this Report on Form 6-K. We also recommend
+that you read our discussion and analysis of financial condition and results of operations together with our audited financial statements
+and the notes thereto, which appear in our Annual Report on Form 20-F for the year ended December 31, 2025 (the “Annual Report”),
+filed with the Securities and Exchange Commission (“SEC”) on April 24, 2026.
+
+Emerging
+Growth Company Status
+
+We
+are an “emerging growth company” under the JOBS Act. The JOBS Act permits an “emerging growth company” to
+take advantage of the extended transition period for complying with new or revised accounting standards applicable to public companies
+until those standards would otherwise apply to private companies. We have elected to avail ourselves of delayed adoption of certain accounting
+standards. Accordingly, our financial statements may not be comparable to the financial statements of public companies that comply with
+such new or revised accounting standards. We intend to rely on other exemptions provided by the JOBS Act, including without limitation,
+not being required to comply with the auditor attestation requirements of Section 404(b) of the Sarbanes-Oxley Act.
+
+We
+will remain an emerging growth company until the earliest of (i) the last day of the financial year in which we have more than
+US$1.235 billion in annual revenue, (ii) the date we qualify as a “large accelerated filer” as defined in Rule 12b-2
+under the Securities Exchange Act of 1934, as amended, which would occur if the market value of our ordinary shares held by
+non-affiliates exceeded US$700 million, (iii) the issuance, in any three-year period, by us of more than US$1 billion in
+non-convertible debt securities, and (iv) the last day of the financial year ending after the fifth anniversary of our initial
+public offering.
+
+Overview
+
+Our mission is to positively impact the lives of all drivers through leveraging technology to better facilitate the
+movement of people and goods. Our vision is to become a “Super mobility app” where multiple mobility tools can be accessed
+and function seamlessly out of a single app, offering ultimate convenience and reliability for our customers. Our app allows for both on-demand and scheduled carpooling
+and ride-hailing services, and on-demand, scheduled and multi-stop parcel delivery services.
+
+Summary
+of Our Services
+
+Our
+current app powers mobility for the community allowing real-time connection between riders, goods and drivers.
+
+a) | Mobility (Ride-hailing):
+ Ryde’s ride-hailing service allows users to book rides with drivers using a mobile app.
+
+b) | Mobility (Carpooling):
+ Ryde’s carpooling service allows users to share rides with others who are traveling in the same direction, helping to reduce
+ congestion and carbon emissions.
+
+c) | Quick commerce: Ryde’s
+ delivery service allows users to make a delivery booking using a mobile app.
+
+Financial
+Operations Overview
+
+Comparison
+of Six Months Ended June 30, 2026 and 2025
+
+For the six months ended June 30,
+
+2026 | 2026 | 2025 | Increase/(Decrease)
+
+US$’000 | S$’000 | S$’000 | S$’000 | %
+
+Revenue | 5,204 | 6,735 | 5,748 | 987 | 17
+
+Other income | 45 | 58 | 45 | 13 | 29
+
+Drivers and riders cost and related expenses | (2,745 | ) | (3,552 | ) | (2,922 | ) | 630 | 22
+
+Employee benefits expenses | (896 | ) | (1,160 | ) | (1,208 | ) | (48 | ) | (4 | )
+
+Depreciation and amortization expenses | (251 | ) | (325 | ) | (302 | ) | 23 | 8
+
+Finance cost | (1 | ) | (1 | ) | (3 | ) | (2 | ) | (67 | )
+
+Other expenses | (3,077 | ) | (3,982 | ) | (4,660 | ) | (678 | ) | (15 | )
+
+Operational loss | (1,721 | ) | (2,227 | ) | (3,302 | ) | (1,075 | ) | (33 | )
+
+Share of results of a joint venture | 153 | 198 | - | 198 | N/M
+
+Share-based compensation | (8,803 | ) | (11,392 | ) | (1,542 | ) | 9,850 | 639
+
+Loss before income taxes | (10,371 | ) | (13,421 | ) | (4,844 | ) | 8,577 | 177
+
+Income tax benefit | - | - | 32 | (32 | ) | (100 | )
+
+Net loss | (10,371 | ) | (13,421 | ) | (4,812 | ) | 8,609 | 179
+
+Revenue
+
+For the six months ended June 30,
+
+2026 | 2026 | 2025 | Increase/(Decrease)
+
+US$’000 | S$’000 | S$’000 | S$’000 | %
+
+Mobility | 3,464 | 4,483 | 4,156 | 327 | 8
+
+Quick commerce | 65 | 84 | 92 | (8 | ) | (9 | )
+
+Membership | 244 | 316 | 254 | 62 | 24
+
+Advertising initiatives | 927 | 1,200 | 1,200 | - | 0
+
+Management consultancy | 479 | 620 | - | 620 | N/M
+
+Others | 25 | 32 | 46 | (14 | ) | (30 | )
+
+Total revenue | 5,204 | 6,735 | 5,748 | 987 | 17
+
+In
+the first six months of 2026, total revenue increased by S$987,000 or 17% to S$6,735,000 compared to S$5,748,000 in the first six months
+of 2025.
+
+In
+the first six months of 2026, revenue from mobility increased by S$327,000 or 8% to S$4,483,000 compared to S$4,156,000 in the first
+six months of 2025. The increase was driven by higher gross transaction value, reflecting growth in both
+the supply of driver-partners and the demand for ride-hailing services.
+
+In
+the first six months of 2026, revenue from membership increased by S$62,000 or 24% to S$316,000, while revenue from quick commerce
+decreased by S$8,000 or 9% to S$84,000 and other revenue decreased by S$14,000 or 30% to S$32,000. Revenue from advertising
+initiatives was unchanged at S$1,200,000. This revenue is earned under a barter arrangement, in which the Company receives
+advertising services in return, and an equal amount is included in marketing and advertising expenses.
+
+Management
+consultancy income of S$620,000 was new in the period. It was earned by RGT (BVI) Ltd, our 60%-owned subsidiary, from two short-term consultancy engagements for the holder of the other 40% of RGT (BVI) Ltd, both completed in March
+2026. The work was performed by external consultants engaged by RGT (BVI) Ltd, whose fees of S$617,000, shown as management consultancy
+expenses, largely offset the income.
+
+Other
+income
+
+For the six months ended June 30,
+
+2026 | 2026 | 2025 | Increase/(Decrease)
+
+US$’000 | S$’000 | S$’000 | S$’000 | %
+
+Total other income | 45 | 58 | 45 | 13 | 29
+
+Other
+income increased by S$13,000 or 29% to S$58,000 in the first six months of 2026, compared to S$45,000 in the first six months of 2025.
+The increase was mainly due to higher income from expired customer vouchers.
+
+Drivers
+and riders cost and related expenses
+
+For the six months ended June 30,
+
+2026 | 2026 | 2025 | Increase/(Decrease)
+
+US$’000 | S$’000 | S$’000 | S$’000 | %
+
+Total drivers and riders cost and related expenses | 2,745 | 3,552 | 2,922 | 630 | 22
+
+In
+the first six months of 2026, our drivers and riders cost and related expenses increased by S$630,000 or 22% to S$3,552,000 compared
+to S$2,922,000 in the first six months of 2025. The increase was mainly due to higher driver-partner costs of S$237,000, higher CPF contributions
+for platform workers of S$140,000, higher membership benefit costs of S$182,000 and higher payment processing charges of S$128,000, partly
+offset by lower rider-related costs of S$33,000 and lower work injury compensation insurance costs of S$16,000, compared to the first six months of 2025.
+
+Employee
+benefits expenses
+
+For the six months ended June 30,
+
+2026 | 2026 | 2025 | Increase/(Decrease)
+
+US$’000 | S$’000 | S$’000 | S$’000 | %
+
+Total employee benefits expenses | 896 | 1,160 | 1,208 | (48 | ) | (4 | )
+
+Our
+employee benefits expenses decreased by S$48,000 or 4% to S$1,160,000 in the first six months of 2026, compared to S$1,208,000 in the
+first six months of 2025. This was mainly due to a leaner headcount following the streamlining of our operations.
+
+Depreciation
+and amortization expenses
+
+For the six months ended June 30,
+
+2026 | 2026 | 2025 | Increase/(Decrease)
+
+US$’000 | S$’000 | S$’000 | S$’000 | %
+
+Total depreciation and amortization expenses | 251 | 325 | 302 | 23 | 8
+
+The
+depreciation and amortization expenses increased by S$23,000 or 8% to S$325,000 in the first six months of 2026, compared to S$302,000
+in the first six months of 2025. This was mainly due to the increase in intangible assets.
+
+Finance
+expense
+
+For the six months ended June 30,
+
+2026 | 2026 | 2025 | Increase/(Decrease)
+
+US$’000 | S$’000 | S$’000 | S$’000 | %
+
+Total finance expense | 1 | 1 | 3 | (2 | ) | (67 | )
+
+Our
+finance expense decreased by S$2,000 or 67% to S$1,000 in the first six months of 2026, compared to S$3,000 in the first six months of
+2025.
+
+Other
+expenses
+
+For the six months ended June 30,
+
+2026 | 2026 | 2025 | Increase/(Decrease)
+
+US$’000 | S$’000 | S$’000 | S$’000 | %
+
+Total other expenses | 3,077 | 3,982 | 4,660 | (678 | ) | (15 | )
+
+Our
+other expenses decreased by S$678,000 or 15% to S$3,982,000 in the first six months of 2026, compared to S$4,660,000 in the first six
+months of 2025. This was mainly due to a decrease in legal and professional fees of S$1,336,000 or 63% to S$782,000 in the first six
+months of 2026, compared to S$2,118,000 in the first six months of 2025. The decrease was partially offset by management consultancy
+expenses of S$617,000 incurred in the first six months of 2026 (first six months of 2025: nil), a S$49,000 increase in marketing and
+advertising expenses and a S$33,000 increase in information technology expenses.
+
+Share
+of results of a joint venture
+
+Share
+of results of a joint venture was a gain of S$198,000 in the first six months of 2026, compared to nil in the first six months of
+2025. 
+
+Share-based
+compensation
+
+For the six months ended June
+ 30,
+
+2026 | 2026 | 2025 | Increase/(Decrease)
+
+US$’000 | S$’000 | S$’000 | S$’000 | %
+
+Total share-based compensation | 8,803 | 11,392 | 1,542 | 9,850 | 639
+
+During
+the six months ended June 30, 2026, the Company recognized share-based compensation of S$11,392,000 (US$8,803,000) in the consolidated
+statements of operations and comprehensive loss, compared to S$1,542,000 in the six months ended June 30, 2025.
+
+The charge for the period comprised
+(i) S$5,104,000 under the Chief Executive Officer’s performance-based Class B award, for the milestones achieved on completion
+of the US$14.9 million private offering on April 13, 2026, (ii) S$5,348,000 for restricted stock units granted in 2024 to the Chief
+Executive Officer and the then Chief Financial Officer, settled in March 2026 by the issue of 929,250 Class A Ordinary Shares, and
+(iii) S$940,000 for 755,000 Class A Ordinary Shares issued to consultants (see Note 13 to the financial statements). The charge in
+the six months ended June 30, 2025 related to the 3,000,000 Class B Ordinary Shares awarded to the Chief Executive Officer in March
+2025.
+
+The fair value of the shares issued was measured based on the closing market
+share price of the Company’s Class A Ordinary Shares on the respective grant dates.
+
+Liquidity
+and capital resources
+
+Cash
+flow summary
+
+For the six months ended June
+ 30,
+
+2026 | 2026 | 2025 | Increase/(Decrease)
+
+US$’000 | S$’000 | S$’000 | S$’000 | %
+
+Cash and cash equivalents – beginning of the period | 3,865 | 5,002 | 5,519 | (517 | ) | (9 | )
+
+Net cash used in operating activities | (2,127 | ) | (2,752 | ) | (2,106 | ) | 646 | 31
+
+Net cash used in investing activities | (16,032 | ) | (20,748 | ) | (303 | ) | 20,445 | 6,748
+
+Net cash provided by financing activities | 16,486 | 21,335 | - | 21,335 | N/M
+
+Net change in cash and cash equivalents | (1,673 | ) | (2,165 | ) | (2,409 | ) | (244 | ) | (10 | )
+
+Cash and cash equivalents – end of the period | 2,192 | 2,837 | 3,110 | (273 | ) | (9 | )
+
+Operating
+Activities
+
+Net
+cash used in operating activities was S$2,752,000 for the six months ended June 30, 2026. This was mainly attributable to the net loss
+of S$13,421,000, adjusted for non-cash items of S$11,832,000, and net cash outflows arising from the net change in operating assets and
+liabilities of S$1,163,000.
+
+Net
+cash used in operating activities was S$2,106,000 for the six months ended June 30, 2025. This was mainly attributable to the net loss
+of S$4,812,000, partly offset by non-cash items of S$1,607,000 (mainly share-based payment expenses, amortization of intangibles and
+depreciation of property and equipment) and net cash inflows from the net change in operating assets and liabilities of S$1,099,000.
+
+Investing
+Activities
+
+Net
+cash used in investing activities was S$20,748,000 for the six months ended June 30, 2026. This was primarily due to the refundable deposit of S$18,574,000 placed under the Call Option and Agency Agreement entered into in April 2026
+and advances of S$8,015,000 to an unrelated third party and the joint venture, partly offset by the settlement of advances of S$4,868,000
+and the refund of a deposit of S$1,296,000.
+
+Net
+cash used in investing activities was S$303,000 for the six months ended June 30, 2025. This was due to the additions in intangible
+assets of S$300,000 and the purchase of property and equipment of S$3,000.
+
+Financing
+Activities
+
+Net
+cash provided by financing activities was S$21,335,000 for the six months ended June 30, 2026. This was attributable to the private offering
+of 37,250,000 Class A Ordinary Shares completed in April 2026 and the exercise of warrants over 2,150,230 Class A Ordinary Shares during
+the period.
+
+Net
+cash provided by financing activities was nil for the six months ended June 30, 2025.
+
+Off-Balance
+Sheet Arrangements
+
+We
+have not entered into any off-balance sheet arrangements.
+
+Quantitative
+and Qualitative Disclosures about Market Risks
+
+Concentrations
+and credit risk
+
+Our primary exposure to credit risk arises from the
+refundable deposits, convertible notes and advances described in Note 3 to the financial statements, which totaled S$50,861,000 as of
+June 30, 2026 and are due from a small number of counterparties, and from our accounts receivable. These deposits and advances are unsecured.
+The convertible notes are secured under their terms by a debenture over the issuer’s assets. The debenture was not registered within the
+period required under Singapore law. In an insolvency of the issuer, we would therefore rank as an unsecured creditor. Our annual report
+on Form 20-F for the year ended December 31, 2025 described the notes as secured without noting this.We are in the process of registering
+this debenture. We conduct credit evaluations on our customers and typically do not require collateral or other forms of security. In
+determining the allowance for credit losses, we periodically assess the creditworthiness of our existing customers, primarily considering
+factors such as the age of the receivables and the specific credit risks associated with each customer.
+
+Interest
+rate risk
+
+Our
+primary exposure to interest rate risk stems from our interest-bearing financial liabilities. We conduct regular reviews of
+our liabilities and closely monitor fluctuations in interest rates to ensure that our exposure remains within acceptable levels. We do
+not employ interest rate derivatives as a means to mitigate our interest rate risk.
+
+Recent
+Developments
+
+On
+April 7, 2026, the Company entered into a securities purchase agreement with several investors for a private offering of 37,250,000
+Class A Ordinary Shares at US$0.40 per share. The offering closed on April 13, 2026, with gross proceeds of approximately US$14.9
+million.
+
+On
+May 14, 2026, the Company announced that it had received a letter from NYSE Regulation dated May 13, 2026, confirming that the
+Company is back in compliance with all of the NYSE American LLC continued listing standards set forth in Part 10 of the NYSE
+American Company Guide (“Company Guide”). Specifically, the Company has resolved the continued listing deficiency with
+respect to Section 1003(a)(ii) of the Company Guide referenced in the Exchange’s letter dated May 21, 2025 since it
+demonstrated compliance with the continued listing standards for a period of two consecutive quarters pursuant to Section 1009(f) of
+the Company Guide.
+
+The
+Company will be subject to NYSE Regulation’s normal continued listing monitoring. However, in accordance with Section 1009(h)
+of the Company Guide, if the Company is again determined to be below any of the continued listing standards within 12 months of the date
+of the letter, NYSE American will examine the relationship between the two incidents of noncompliance and re-evaluate the Company’s
+method of financial recovery from the first incident. NYSE Regulation will then take the appropriate action, which, depending on the
+circumstances, may include truncating the compliance procedures described in Section 1009 of the Company Guide or immediately initiating
+delisting proceedings.
+
+The
+below compliance (“BC”) indicator will no longer be disseminated, and the Company will be removed from the list of NYSE American
+noncompliant issuers on the Exchange’s website.
+
+On April 7, 2026 and May 18, 2026, the Company issued 3,500,000 Class B Ordinary Shares on each date to its Founder,
+Chairman and Chief Executive Officer, Mr. Terence Zou, following the satisfaction of performance-based milestones under the award authorized
+by the Board of Directors on October 10, 2025. On July 2, 2026, the Company issued a further 10,500,000 Class B Ordinary Shares to Mr.
+Zou under the same award. Mr. Zou holds these shares through ABJZ Holding Ltd, a company wholly owned by him. For more information, see
+Notes 13 and 15(a) to the financial statements.
+
+For
+other events after June 30, 2026, see Note 15 to the financial statements. These include the approval by shareholders on September 29, 2026 of an increase in the authorized share capital and of a 1-for-150
+reverse share split to be effected on December 4, 2026.
+
+Mr. Lang Chen Fei resigned as Chief Financial Officer with effect from July 3, 2026, and the board of directors appointed
+Mr. Tee Kok Siong @ Tommy Tee as Chief Financial Officer with effect from the same date. On September 30, 2026, the board of directors
+appointed Mr. Ou Yuyang as an executive director.
+
+Legal Proceedings
+
+A shareholder of the Company has
+presented a petition before the Grand Court of the Cayman Islands (the “Cayman Court”) concerning certain matters
+relating to the Company’s issuance of shares. The principal relief sought by the petitioner is an order requiring the Company
+to purchase of the petitioner’s remaining shares at fair value, with the winding up of the Company sought in the alternative in accordance with section 92(e) of the Cayman Islands Companies Act which allows the Grand Court to order a company’s
+winding up if it is “just and equitable”.
+The Company is treated as a nominal respondent. A putative shareholders class action has also been filed against the Company in the
+United States District Court for the Southern District of New York. The outcome of these proceedings is uncertain, and an unfavorable outcome could adversely affect the Company’s
+business, financial condition and results of operations. For more information, see Note 15(b) to the unaudited condensed
+consolidated financial statements included as Exhibit 99.1 to this Report on Form 6-K.
+
+Non-US
+GAAP Financial Measures
+
+This
+document includes references to non-US GAAP financial measures. Ryde uses these non-US GAAP financial measures for financial and operational
+decision-making and as a means to evaluate period-to-period comparisons, and Ryde’s management believes that these non-US GAAP
+financial measures provide meaningful supplemental information regarding its performance by excluding certain items that may not be indicative
+of its recurring core business operating results. However, there are a number of limitations related to the use of non-US GAAP financial
+measures, and as such, the presentation of these non-US GAAP financial measures should not be considered in isolation from, or as an
+alternative to, financial measures determined in accordance with US GAAP. In addition, these non-US GAAP financial measures may differ
+from non-US GAAP financial measures with comparable names used by other companies. See below for additional explanations about the non-US
+GAAP financial measures, including their definitions and a reconciliation of these measures to the most directly comparable US GAAP financial
+measures.
+
+Explanation
+of non-US GAAP financial measures:
+
+Adjusted
+EBITDA is a non-US GAAP financial measure calculated as net loss adjusted to exclude: (a) finance cost, (b) income tax expense or benefit, (c)
+depreciation and amortization, (d) share-based compensation, and (e) impairment loss on goodwill. Commencing with the six months ended
+June 30, 2026, the Company also excludes its share of results of joint ventures, which management does not consider indicative of the
+Company’s operating performance. No such amounts arose in the six months ended June 30, 2025 and the comparative amount is therefore
+unaffected.
+
+Adjusted
+EBITDA has limitations as a financial measure, should be considered as supplemental in nature, and is not meant as a substitute for the
+related financial information prepared in accordance with US GAAP. For a reconciliation of Adjusted EBITDA to the most directly comparable
+US GAAP measure see the section titled “
+Reconciliation of Non-US GAAP Financial Measures
+”.
+
+Reconciliation
+of Non-US GAAP Financial Measures
+
+To
+supplement our financial information, we use the following non-US GAAP financial measures: Adjusted EBITDA. However, the definitions
+of our non-US GAAP financial measures may be different from those used by other companies, and therefore, may not be comparable. Furthermore,
+these non-US GAAP financial measures have certain limitations in that they do not include the impact of certain expenses that are reflected
+in our consolidated financial statements that are necessary to run our business. Thus, these non-US GAAP financial measures should be
+considered in addition to, not as substitutes for, or in isolation from, measures prepared in accordance with US GAAP. We compensate
+for these limitations by providing a reconciliation of these non-US GAAP financial measures to the related US GAAP financial measures.
+We encourage investors and others to review our financial information in its entirety, not to rely on any single financial measure and
+to view these non-US GAAP financial measures in conjunction with their respective related US GAAP financial measures.
+
+The
+following tables provide reconciliations of Adjusted EBITDA.
+
+For the six months ended June 30,
+
+2025 | 2026 | 2026
+
+S$’000 | S$’000 | US$’000
+
+Net loss | (4,812 | ) | (13,421 | ) | (10,371 | )
+
+Depreciation and amortization expenses | 302 | 325 | 251
+
+Finance costs | 3 | 1 | 1
+
+Share-based compensation | 1,542 | 11,392 | 8,803
+
+Income tax benefit | (32 | ) | - | -
+
+Share of results of a joint venture | - | (198 | ) | (153 | )
+
+Adjusted EBITDA | (2,997 | ) | (1,901 | ) | (1,469 | )

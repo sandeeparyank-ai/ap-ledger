@@ -1,0 +1,682 @@
+EX-99.3
+
+4
+
+exhibit993-redlinexgrabhol.htm
+
+EX-99.3
+
+Document
+Exhibit 99.3
+THE COMPANIES ACT (REVISED)
+OF THE CAYMAN ISLANDS
+COMPANY LIMITED BY SHARES
+SECOND
+THIRD
+ AMENDED AND RESTATED
+MEMORANDUM AND ARTICLES OF ASSOCIATION
+OF
+GRAB HOLDINGS LIMITED
+(Adopted pursuant to a special resolution passed on 
+12 April 2021 and
+effective at the Initial Merger Effective Time (as defined herein
+[*]
+)
+)
+Registered Office:
+c/o 
+International Corporation Services Ltd.
+Harbour Place, 2nd Floor
+103 South Church Street
+INTERNATIONAL CORPORATION SERVICES LTD
+P.O. Box 472
+Harbour Place, 2nd Floor, North Wing
+103 South Church Street
+George Town
+Grand Cayman KYI-1106
+Cayman Islands
+THE COMPANIES ACT (REVISED) 
+OF THE CAYMAN ISLANDS
+COMPANY LIMITED BY SHARES
+SECOND
+THIRD
+ AMENDED AND RESTATED
+MEMORANDUM OF ASSOCIATION
+OF
+GRAB HOLDINGS LIMITED
+(adopted by a Special Resolution passed on 
+April 12, 2021 and
+effective at the Initial Merger Effective Time on 1 December 2021
+[*]
+)
+1 The name of the Company is 
+Grab Holdings Limited
+. 
+2 The registered office of the Company shall be at the offices of 
+International Corporation Services Ltd., Harbour Place, 2nd Floor, 103 South Church Street
+INTERNATIONAL CORPORATION SERVICES LTD
+, P.O. Box 472
+, Harbour Place, 2nd Floor, North Wing, 103 South Church Street
+, George Town, Grand Cayman KYI-1106, Cayman Islands, or at such other place as the Directors may from time to time decide. 
+3 The objects for which the Company is established are unrestricted and the Company shall have full power and authority to carry out any object not prohibited by the Companies Act (Revised) as the same may be revised from time to time, or any other law of the Cayman Islands. 
+4 The Company shall have and be capable of exercising all the functions of a natural person of full capacity irrespective of any question of corporate benefit as provided by Section 27(2) of the Companies Act (Revised).
+5 The Company will not trade in the Cayman Islands with any person, firm or corporation except in furtherance of the business of the Company carried on outside the Cayman Islands; 
+provided
+, that nothing in this section shall be construed as to prevent the Company effecting and concluding contracts in the Cayman Islands, and exercising in the Cayman Islands all of its powers necessary for the carrying on of its business outside the Cayman Islands. 
+6 The liability of each Shareholder is limited to the amount, if any, from time to time unpaid on such Shareholder’s shares. 
+7 The authorized share capital of the Company is US$50,000.00 divided into 50,000,000,000 shares of a par value of US$0.000001 each, of which 49,500,000,000 shall be designated as Class A ordinary shares and 500,000,000 shall be designated as convertible Class B ordinary shares. Subject to the provisions of the Companies Act (Revised) and the Articles of Association, the Company has the power to redeem or purchase any of its shares and to increase or reduce the said capital and to issue any 
+part of its capital, whether original, redeemed or increased with or without any preference, priority or special privilege or subject to any postponement of rights or to any conditions or restrictions and so that unless the conditions of issue shall otherwise expressly declare every issue of shares whether declared to be preference or otherwise shall be subject to the powers hereinbefore contained. 
+8 The Company has the power to register by way of continuation as a body corporate limited by shares under the laws of any jurisdiction outside the Cayman Islands and to be deregistered in the Cayman Islands. 
+9 Capitalized terms that are not defined in this Memorandum of Association bear the same meaning as those given in the Articles of Association of the Company. 
+THE COMPANIES ACT (REVISED)
+OF THE CAYMAN ISLANDS
+COMPANY LIMITED BY SHARES
+SECOND
+THIRD
+ AMENDED AND RESTATED 
+ARTICLES OF ASSOCIATION
+OF
+GRAB HOLDINGS LIMITED
+(adopted by a Special Resolution passed on 
+12 April 2021 and
+effective at the Initial Merger Effective Time on 1 December 2021
+-[*]
+)
+INTERPRETATION 6
+PRELIMINARY 13
+ISSUE OF SHARES 13
+RIGHTS AND RESTRICTIONS ATTACHING TO ORDINARY SHARES 15
+REGISTER OF MEMBERS AND SHARE CERTIFICATES 18
+TRANSFER OF SHARES 19
+REDEMPTION AND PURCHASE OF OWN SHARES 20
+TREASURY SHARES 20
+VARIATION OF RIGHTS ATTACHING TO SHARES 20
+COMMISSION ON SALE OF SHARES 21
+NON-RECOGNITION OF TRUSTS 21
+LIEN ON SHARES 21
+CALLS ON SHARES 22
+FORFEITURE OF SHARES 23
+TRANSMISSION OF SHARES 23
+ALTERATION OF CAPITAL 24
+CLOSING REGISTER OF MEMBERS OR FIXING RECORD DATE 25
+GENERAL MEETINGS 25
+NOTICE OF GENERAL MEETINGS 26
+PROCEEDINGS AT GENERAL MEETINGS 26
+VOTES OF SHAREHOLDERS 28
+COMPANIES ACTING BY REPRESENTATIVES AT MEETING 29
+DEPOSITARY AND CLEARING HOUSES 29
+SHARES THAT MAY NOT BE VOTED 30
+DIRECTORS 30
+DIRECTORS’ FEES AND EXPENSES 31
+ALTERNATE DIRECTOR 31
+POWERS AND DUTIES OF DIRECTORS 32
+VACATION OF OFFICE OF DIRECTOR 33
+PROCEEDINGS OF DIRECTORS 34
+PRESUMPTION OF ASSENT 35
+DIRECTORS’ INTERESTS 36
+DIVIDENDS, DISTRIBUTIONS AND RESERVE 37
+BOOK OF ACCOUNTS 38
+ANNUAL RETURNS AND FILINGS 38
+AUDIT 38
+THE SEAL 39
+OFFICERS 39
+CAPITALISATION OF PROFITS 39
+NOTICES 40
+INFORMATION 42
+INDEMNITY 42
+FINANCIAL YEAR 43
+WINDING UP 43
+AMENDMENT OF MEMORANDUM AND ARTICLES OF ASSOCIATION AND 
+NAME OF COMPANY 43
+REGISTRATION BY WAY OF CONTINUATION 43
+MERGERS AND CONSOLIDATIONS 44
+INTERPRETATION
+1 In these Articles, Table A in the Schedule in the Companies Act does not apply and unless otherwise defined, the defined terms shall have the meanings assigned to them as follows: 
+
+" Acquisition Effective Time " | has the meaning ascribed to such term in the Business Combination Agreement;
+
+" Affiliate " | means a Person that directly, or indirectly through one or more intermediaries, Controls, is Controlled by, or is under common Control with, another Person; provided , that in the case of a Key Executive AT , the term "Affiliate" shall include such Key Executive’s AT’s Permitted Entities, notwithstanding anything to the contrary contained herein;
+
+" Articles " | means these Articles of Association of the Company as altered or added to, from time to time;
+
+" AT " | means Anthony Tan Ping Yeow, and, where these Articles refer to AT in his capacity as Shareholder, such references shall include him, his Permitted Entities and Permitted Transferees with respect to any shares held by him, his Permitted Entities or Permitted Transferees (as applicable);
+
+" Auditor " | has the meaning ascribed to such term in Article 133;
+
+" Board " or " Board of Directors " | means the board of Directors for the time being of the Company;
+
+" Business Combination Agreement " | means that certain Business Combination Agreement among the Company, Grab Holdings Inc., an exempted company limited by shares incorporated under the laws of the Cayman Islands, Altimeter Growth Corp., an exempted company limited by shares incorporated under the laws of the Cayman Islands, J2 Holdings Inc., an exempted company limited by shares incorporated under the laws of the Cayman Islands and J3 Holdings Inc., an exempted company limited by shares incorporated under the laws of the Cayman Islands, dated as of April 12, 2021;
+
+" Business Day " | means any day, excluding Saturdays, Sundays, and any other day on which commercial banks are authorized or required by Law to close in New York, New York, the Cayman Islands, or the Republic of Singapore;
+
+" Cause " | has the meaning ascribed to such term in AT’s employment agreement with the Company as in effect from time to time;
+
+" Chairman " | means the Chairman appointed pursuant to Article 84(c);
+
+" Class A Ordinary Share " | means a Class A ordinary share in the capital of the Company of a par value of US$0.000001;
+
+" Class B Director " | has the meaning ascribed to such term in Article 84(d);
+
+" Class B Ordinary Share " | means a convertible Class B ordinary share in the capital of the Company of a par value of US$0.000001;
+
+" Class B Ordinary Shareholder " | means a holder of Class B Ordinary Shares and any Permitted Transferee of such holder for so long as such Permitted Transferee is a holder of any Class B Ordinary Shares;
+
+" Co-Chairman " | has the meaning ascribed to such term in Article 84(c);
+
+" Companies Act " | means the Companies Act (Revised) of the Cayman Islands;
+
+" Company " | means Grab Holdings Limited, an exempted company limited by shares incorporated under the laws of the Cayman Islands;
+
+" Company’s Website " | means the website of the Company, the address or domain name of which has been notified to the Shareholders;
+
+" Control, " " Controlling ," " under common Control with " | means, directly or indirectly: (i) the ownership or control of a majority of the outstanding voting securities of such Person; (ii) the right to control the exercise of a majority of the votes at a meeting of the board of directors (or equivalent governing body) of such Person; or (iii) the ability to direct or cause the direction of the management and policies of such Person (whether by contract, through other legally enforceable rights or howsoever arising);
+
+" Designated Stock Exchange " | means NASDAQ or any other internationally recognized stock exchange on which the Company’s securities are traded;
+
+" Directors " | means the directors of the Company for the time being, or as the case may be, the Directors assembled as a Board or as a committee thereof;
+
+" electronic " | has the meaning ascribed to such term in the Electronic Transactions Act;
+
+" electronic communication " | means an electronic posting to the Company’s Website, transmission to any number, address or internet website or other electronic delivery methods as otherwise decided and approved by not less than two-thirds of the vote of the Board;
+
+" Electronic Record " | has the meaning given to it in the Electronic Transactions Act;
+
+" Electronic Transactions Act " | means the Electronic Transactions Act (Revised) of the Cayman Islands;
+
+" Family Members " | means and includes only the following individuals: the applicable individual, the spouse of the applicable individual (including former spouses), the parents of the applicable individual, the lineal descendants of the applicable individual, the siblings of the applicable individual, and the lineal descendants of a sibling of the applicable individual. For purposes of the preceding sentence, the descendants of any individual shall include adopted individuals and their issue but only if the adopted individual was adopted prior to attaining age 18;
+
+" GrabforGood Fund " | means the GrabforGood endowment fund, a subsidiary of the Company or other fund or entity designed to grant financial support for long-term social and environmental impact benefiting communities across Southeast Asia, or any successor or replacement entity approved by the Board from time to time;
+
+" Incapacity " | means, with respect to an individual, the permanent and total disability of such individual so that such individual is unable to engage in any substantial gainful activity by reason of any medically determinable mental impairment which can be expected to result in death or which has lasted or can be expected to last for a continuous period of not less than twelve (12) months as determined by a licensed medical practitioner. In the event of a dispute regarding whether an individual has suffered an Incapacity, no Incapacity of such individual will be deemed to have occurred unless and until an affirmative ruling regarding such Incapacity has been made by a court or arbitral panel of competent jurisdiction, and such ruling has become final and non-appealable;
+
+" Indemnified Person " | has the meaning ascribed to such term in Article 149;
+
+" Initial Merger Effective Time " | has the meaning ascribed to such term in the Business Combination Agreement;
+
+" Key Executives " | means AT, Ming-Hokng Maa and Tan Hooi Ling, and the Permitted Entities and Permitted Transferees of each of them;
+
+" Memorandum " | means the Memorandum of Association of the Company;
+
+" Notice Period " | has the meaning ascribed to such term in Article 104(a);
+
+" Ordinary Resolution " | means a resolution passed by a simple majority of votes cast, including by all holders of a specific class of shares, if applicable;
+
+" Ordinary Shares " | means, collectively, the Class A Ordinary Shares and the Class B Ordinary Shares;
+
+" paid up " | means paid up as to the par value and any premium payable in respect of the issue of any shares and includes credited as paid up;
+
+" Permitted Entity " | means, with respect to any Key Executive AT : (a) any Person in respect of which such Key Executive AT has, directly or indirectly: (i) Control with respect to the voting of all the Class B Ordinary Shares held or to be transferred to such Person; (ii) the ability to direct or cause the direction of the management and policies of such Person or any other Person having the authority referred to in the preceding clause (a)(i) (whether by contract, as executor, trustee, trust protector or otherwise); or (iii) the operational or practical control of such Person, including through the right to appoint, designate, remove or replace the Person having the authority referred to in the preceding clauses (a)(i) or (ii); (b) any trust the beneficiaries of which consist primarily of a Key Executive AT , his or her Family Members, and/or any Persons Controlled directly or indirectly Controlled by such a trust; (c) any Person Controlled by a trust described in the immediately preceding clause (b); or (d) for the avoidance of doubt, with respect to AT, Hibiscus Worldwide Ltd.;
+
+" Permitted Transferee " | means, with respect to the Class B Ordinary Shareholders, any or all of the following: (a) any Key Executive AT ; (b) any Key Executive’s AT’s Permitted Entities; (c) the transferee or other recipient in any transfer of any Class B Ordinary Shares by any Class B Ordinary Shareholder: (i) to: (A) his or her Family Members; (B) any other relative or individual approved by the Board; or (C) any trust or estate planning entity (including partnerships, limited companies, and limited liability companies), that is primarily for the benefit of, or the ownership interests of which are Controlled by, such Class B Ordinary Shareholder, his or her Family Members, and/or other trusts or estate planning entities described in this paragraph (c), or any entity Controlled by such a trust or estate planning entity; or (ii) occurring by operation of law, including in connection with divorce proceedings; (d) any charitable organization, foundation, or similar entity; (e) the GrabforGood Fund; and (f) the Company or any of its subsidiaries; and (g) in connection with a transfer as a result of, or in connection with, the death or Incapacity of a Key Executive other than AT: any Key Executive’s Family Members, another Class B Ordinary Shareholder, or a designee approved by a majority of all Directors (and Class B Directors shall form a majority of such majority of all Directors); provided , that: (x) as a condition to the applicable transfer, any Permitted Transferee (other than AT) shall have executed an original, a counterpart of, or a deed of adherence with respect to, a Proxy and Voting Deed; and (y) in case of any transfer of Class B Ordinary Shares pursuant to clauses (b) through (e) above to a Person who at any later time ceases to be a Permitted Transferee under the relevant clause, the Company shall be entitled to refuse registration of any subsequent transfer of such Class B Ordinary Shares except back to the transferor of such Class B Ordinary Shares pursuant to clauses (b) through (e) (or to a Key Executive AT or his or her Permitted Transferees) in which case the preceding proviso (x) shall apply, and in the absence of such transfer back to the transferor (or to a Key Executive AT or his or her Permitted Transferees), the applicable Class B Ordinary Shares shall convert in accordance with Article 10(d)(iv) applied mutatis mutandis;
+
+" Person " | means any individual, corporation, partnership, joint venture, trust, unincorporated organization, limited liability company, estate, association, joint stock company, unincorporated organization, company or other form of business or legal entity or government authority;
+
+" Proxy and Voting Deed " | means a deed or agreement conveying to AT the voting rights of outstanding Class B Ordinary Shares, which includes, for signatories thereof, the proxy and voting rights conveyed to AT by signatories thereof dated as of the date on which the Acquisition Effective Time occurs; for the avoidance of doubt, the Shareholders’ Deed dated April 12, 2021 by and among the Company, Altimeter Growth Holdings, a Cayman Islands limited liability company, Grab Holdings Inc., an exempted company limited by shares incorporated under the laws of the Cayman Islands, AT and the other signatories thereto shall be deemed to be a Proxy and Voting Deed;
+
+" Register of Members " | means the register of Shareholders to be kept by the Company in accordance with the Companies Act;
+
+" Seal " | means the Common Seal of the Company (if adopted), including any facsimile thereof;
+
+" Securities Act " | means the U.S. Securities Act of 1933;
+
+" share " | means any share in the capital of the Company and includes a fraction of a share;
+
+" Shareholder " | has the meaning ascribed to the term "member" in the Companies Act;
+
+" signed " | includes a signature or representation of a signature affixed by mechanical means or an electronic symbol or process attached to or logically associated with an electronic communication and executed or adopted by a Person with the intent to sign the electronic communication;
+
+" Special Resolution " | has the meaning ascribed to such term in the Companies Act and includes a unanimous written resolution of all Shareholders;
+
+" Statutes " | means the Companies Act and every other law and regulation of the Cayman Islands for the time being in force concerning companies and affecting the Company;
+
+" subsidiary " | of any Person means any other Person in respect of which such first Person possesses ownership, or the power to direct the voting, of securities entitling to (i) more than fifty percent (50%) of the voting rights and/or (ii) the appointment of a majority of the directors (or Persons performing a similar function);
+
+" Treasury Share " | means a share held in the name of the Company as a treasury share in accordance with the Companies Act;
+
+2 In these Articles, save where the context requires otherwise: 
+(a) words importing the singular number shall include the plural number and vice versa; 
+(b) words importing one gender only shall include any gender, as the context requires; 
+(c) the terms "hereof," "herein," "hereby," "herewith," "hereto" and derivative or similar words refer to these Articles; 
+(d) the word "extent" in the phrase "to the extent" means the degree to which a subject or thing extends and such phrase shall not simply mean "if;"
+(e) words importing natural persons and references to a "company" shall include any Person, and references to any Person includes such Person’s predecessors, successors and permitted assigns;
+(f) "written" and "in writing" include all modes of representing or reproducing words in visible form, including in the form of an Electronic Record, and, only where used in connection with a notice served by the Company on Shareholders or other Persons entitled to receive notices hereunder, shall also include a record maintained in an electronic medium which is accessible in visible form so as to be useable for subsequent reference;
+(g) "may" shall be construed as permissive and "shall," "will," and "agrees" shall be construed as imperative; 
+(h) a reference to "$", "US$", "USD", or dollar(s) is a reference to the lawful currency of the United States of America; 
+(i) references to provisions of any Statute, law or regulation shall be construed as references to those provisions as amended, modified, re-enacted or replaced, and including all regulations promulgated thereunder;
+(j) references to any agreement, deed or other instrument (including to these Articles and the Memorandum) is a reference to that agreement or instrument as amended, restated, or novated from time to time;
+(k) any phrase introduced by the terms "including", "include", "in particular" or any similar expression shall be construed as illustrative and shall not limit the sense 
+of the words preceding those terms, in each case as if followed by the words "but not limited to"; 
+(l) the term "and/or" is used herein to mean both "and" as well as "or." The use of "and/or" in certain contexts in no respects qualifies or modifies the use of the terms "and" or "or" in others. The term "or" shall not be interpreted to be exclusive, unless the context otherwise requires; 
+(m) headings are inserted for reference only and shall be ignored in construing the Articles; 
+(n) any requirements as to delivery under the Articles include delivery in the form of an Electronic Record; 
+(o) any requirements as to execution or signature under the Articles including the execution of the Articles themselves can be satisfied in the form of an electronic signature as defined in the Electronic Transactions Act; 
+(p) notwithstanding the references in these Articles to an Electronic Record and to the Electronic Transactions Act (Revised), Sections 8 and 19(3) of the Electronic Transactions Act shall not apply;
+(q) "day" means calendar day, "month" means calendar month, and "year" means calendar year unless otherwise specifically stated. Time periods within or following which any payment is to be made or act is to be done under these Articles shall be calculated by excluding the calendar day on which the period commences and including the calendar day on which the period ends, and by extending the period to the next following Business Day if the last calendar day of the period is not a Business Day;
+(r) the term "clear days" in relation to the period of a notice means that period excluding the day when the notice is received or deemed to be received and the day for which it is given or on which it is to take effect;
+(s) "directly or indirectly" means, except where the context requires otherwise, directly or indirectly through one or more intermediate Persons or through contractual or other arrangements, and "direct or indirect" has the correlative meaning; and
+(t) the term "holder" in relation to a share means a Person whose name is entered in the Register of Members as the holder of such share. 
+3 Subject to the last two preceding Articles, any words defined in the Companies Act shall, if not inconsistent with the subject or context, bear the same meaning in these Articles. 
+PRELIMINARY
+4 The business of the Company may be conducted as the Directors see fit. 
+5 The registered office of the Company shall be at such address in the Cayman Islands as the Directors shall from time to time determine. The Company may in addition establish and maintain such other offices and places of business and agencies in such places as the Directors may from time to time determine. 
+ISSUE OF SHARES
+6 Subject to the provisions, if any, in the Memorandum or these Articles and to any direction that may be given by the Shareholders in a general meeting, and except as set forth otherwise in Article 10(c)(iv), the Directors may, in their absolute discretion and without approval of the existing Shareholders, issue shares, grant rights over existing shares or issue other securities in one or more series as they deem necessary and appropriate and determine designations, powers, preferences, privileges and other rights, including dividend rights, conversion rights, terms of redemption and liquidation preferences, any or all of which may be greater than the powers and rights associated with the shares held by existing Shareholders, at such times and on such other terms as they think proper. No holder of Ordinary Shares shall have preemptive rights.
+7 The Company shall not issue shares in bearer form. 
+8 Except as set forth otherwise in Article 10(c)(iv), the Directors may provide, out of the unissued shares, for series of preference shares. Before any preference shares of any such series are issued, the Directors shall fix, by resolution or resolutions, the following provisions of the preference shares thereof, if applicable: 
+(a) the designation of such series, the number of preference shares to constitute such series and the subscription price thereof if different from the par value thereof;
+(b) whether the shares of such series shall have voting rights, in addition to any voting rights provided by law, and, if so, the terms of such voting rights, which may be general or limited;
+(c) the dividends, if any, payable on such series, whether any such dividends shall be cumulative, and, if so, from what dates, the conditions and dates upon which such dividends shall be payable, the preference or relation which such dividends shall bear to the dividends payable on any shares of any other class or any other series of preference shares;
+(d) whether the preference shares of such series shall be subject to redemption by the Company, and, if so, the times, prices and other conditions of such redemption;
+(e) the amount or amounts payable upon preference shares of such series upon, and the rights of the holders of such series in, a voluntary or involuntary liquidation, dissolution or winding up, or upon any distribution of the assets, of the Company;
+(f) whether the preference shares of such series shall be subject to the operation of a retirement or sinking fund and, if so, the extent to and manner in which any 
+such retirement or sinking fund shall be applied to the purchase or redemption of the preference shares of such series for retirement or other corporate purposes and the terms and provisions relative to the operation thereof;
+(g) whether the preference shares of such series shall be convertible into, or exchangeable for, shares of any other class or any other series of preference shares or any other securities and, if so, the price or prices or the rate or rates of conversion or exchange and the method, if any, of adjusting the same, and any other terms and conditions of conversion or exchange;
+(h) the limitations and restrictions, if any, to be effective while any preference shares of such series are outstanding upon the payment of dividends or the making of other distributions on, and upon the purchase, redemption or other acquisition by the Company of, the existing shares or shares of any other class of shares or any other series of preference shares;
+(i) the conditions or restrictions, if any, upon the creation of indebtedness of the Company or upon the issue of any additional shares, including additional shares of such series or of any other class of shares or any other series of preference shares; and
+(j) any other powers, preferences and relative, participating, optional and other special rights, and any qualifications, limitations and restrictions thereof.
+Without limiting the foregoing and subject to Article 10(c)(iv), Article 72, Article 84(a), and Article 84(d), the voting powers of any series of preference shares may include the right, in the circumstances specified in the resolution or resolutions providing for the issuance of such preference shares, to elect one or more Directors who shall serve for such term and have such voting powers as shall be stated in the resolution or resolutions providing for the issuance of such preference shares. The term of office and voting powers of any Director elected in the manner provided in the immediately preceding sentence of this Article 8 may be greater than or less than those of any other Director or class of Directors. 
+9 The powers, preferences and relative, participating, optional and other special rights of each series of preference shares, and the qualifications, limitations or restrictions thereof, if any, may differ from those of any and all other series at any time outstanding. All shares of any one series of preference shares shall be identical in all respects with all other shares of such series, except that shares of any one series issued at different times may differ as to the dates from which dividends thereon shall be cumulative.
+RIGHTS AND RESTRICTIONS ATTACHING TO ORDINARY SHARES
+10 Except as otherwise provided in these Articles (including Article 10(c)(iv) and 10(d), Article 72, Article 84(a) and Article 84(d)), the Class A Ordinary Shares and Class B Ordinary Shares have the same rights and powers, and rank equally (including as to dividends and distributions, and upon the occurrence of any liquidation or winding up of the Company), share ratably and be identical in all respects and as to all matters, unless different treatment of the shares of each such class is approved by the affirmative vote of 
+the holders of a majority of the Class A Ordinary Shares and the holders of a majority of the Class B Ordinary Shares, each voting exclusively and as a separate class. 
+(a)
+
+Income 
+Holders of Ordinary Shares shall be entitled to such dividends as the Directors may in their absolute discretion lawfully declare from time to time. 
+(b)
+
+Capital 
+Holders of Ordinary Shares shall be entitled to a return of capital on liquidation, dissolution or winding-up of the Company in accordance with Article 153 et seq. 
+(c)
+
+Attendance at General Meetings; Class Voting 
+(i) Holders of Ordinary Shares have the right to receive notice of, attend, speak and vote at general meetings of the Company. 
+(ii) Except as otherwise provided in these Articles (including Articles 10(c)(iv), 84(a) and 84(d)), holders of Class A Ordinary Shares and Class B Ordinary Shares shall at all times vote together as one class on all matters submitted to a vote for Shareholders’ consent. 
+(iii) On all matters subject to a vote of the Shareholders, Ordinary Shares shall be entitled to voting rights as set forth in Article 72. 
+(iv) In addition to any rights provided by applicable law or otherwise set forth in these Articles, the Company shall not, without the approval by vote or written consent of the holders of a majority of the voting power of the Class B Ordinary Shares, voting exclusively and as a separate class, directly or indirectly, or whether by amendment or through merger, recapitalization, consolidation or otherwise:
+(A) increase the number of authorized Class B Ordinary Shares;
+(B) issue any Class B Ordinary Shares or securities convertible into or exchangeable for Class B Ordinary Shares, other than to 
+any Key Executive
+AT
+ or his 
+or her 
+Affiliates
+ (
+provided
+, that such Key Executive (other than AT) or his or her applicable Affiliate shall have executed an original, a counterpart of, or a deed of adherence with respect to, a Proxy and Voting Deed in respect of such Class B Ordinary Shares);
+;
+(C) create, authorize, issue, or reclassify into, any preference shares in the capital of the Company or any shares in the capital of the Company that carry more than one (1) vote per share;
+(D) reclassify any Class B Ordinary Shares into any other class of shares or consolidate or combine any Class B Ordinary Shares 
+without proportionately increasing the number of votes per Class B Ordinary Share; or
+(E) amend, restate, waive, adopt any provision inconsistent with or otherwise vary or alter any provision of the Memorandum or these Articles relating to the voting, conversion or other rights, powers, preferences, privileges or restrictions of the Class B Ordinary Shares. 
+(d)
+
+Optional and Automatic Conversion of Class B Ordinary Shares
+(i) Each Class B Ordinary Share is convertible into one (1) Class A Ordinary Share (as adjusted for share splits, share combinations and similar transactions occurring after the Acquisition Effective Time) at any time at the option of the holder thereof. In no event shall any Class A Ordinary Share be convertible into any Class B Ordinary Shares.
+(ii) Each Class B Ordinary Share will automatically convert into one (1) Class A Ordinary Share (as adjusted for share splits, share combinations and similar transactions occurring after the Acquisition Effective Time) on the earliest to occur of 5:00 p.m., Singapore time:
+(A) on the first anniversary of AT’s death or Incapacity;
+(B) on a date determined by the Board during the period commencing 90 days after, and ending 180 days after, the date on which AT is terminated for Cause (and in the event of a dispute regarding whether there was Cause, Cause will be deemed not to exist unless and until an affirmative ruling regarding such Cause has been made by a court or arbitral panel of competent jurisdiction, and such ruling has become final and non-appealable); or
+(C) on a date determined by the Board during the period commencing 90 days and ending 180 days after the date that AT and his Affiliates and Permitted Transferees together own less than thirty-three percent (33%) of the number of Class B Ordinary Shares that AT and his Affiliates and Permitted Transferees owned immediately following the Acquisition Effective Time, as adjusted for share splits, share combinations and similar transactions occurring after the Acquisition Effective Time.
+For the avoidance of doubt, this Article 10(d)(ii) also applies to Class B Ordinary Shares that are not held by AT or his Affiliates or Permitted Transferees. 
+(iii) No Class B Ordinary Shares shall be issued by the Company after conversion of all Class B Ordinary Shares into Class A Ordinary Shares. 
+(iv) Upon any sale, pledge, transfer, assignment or other disposition of Class B Ordinary Shares by a holder thereof to any Person which is not a 
+Permitted Transferee of such holder, each such Class B Ordinary Share shall be automatically and immediately converted into one (1) Class A Ordinary Share (as adjusted for share splits, share combinations and similar transactions occurring after the Acquisition Effective Time); 
+provided
+ that, notwithstanding anything to the contrary in these Articles, any pledge of Class B Ordinary Shares by a holder thereof that creates a security interest in such Class B Ordinary Shares pursuant to a bona fide loan or indebtedness transaction shall be permitted (and not result in any such conversion) for so long as such holder or its Affiliates (or AT, if such pledgor is 
+a Key Executive other than
+not
+ AT) continue to control, directly or indirectly, the exercise of the voting rights of such pledged Class B Ordinary Shares; 
+provided
+, 
+further
+, 
+however
+, that a foreclosure on such Class B Ordinary Shares or other similar action by the pledgee will result in automatic and immediate conversion of such Class B Ordinary Shares into Class A Ordinary Shares unless the transferee in such foreclosure or similar action qualifies as a Permitted Transferee at such time. For the avoidance of doubt, any sale, pledge, transfer, assignment or disposition of Class B Ordinary Shares to a Permitted Transferee does not result in automatic conversion into Class A Ordinary Shares.
+(e) 
+Procedures of Conversion
+. 
+
+The Company may, from time to time, establish such policies and procedures relating to the conversion of the Class B Ordinary Shares to Class A Ordinary Shares, including the issuance of share certificates with respect thereto, as it may deem necessary or advisable. 
+(f) 
+Reservation of Class A Ordinary Shares Issuable upon Conversion of Class B Ordinary Shares
+. The Company shall at all times reserve and keep available out of its authorized but unissued Class A Ordinary Shares, solely for the purpose of effecting the conversion of the Class B Ordinary Shares, such number of its Class A Ordinary Shares as shall from time to time be sufficient to effect the conversion of all outstanding Class B Ordinary Shares; and if at any time the number of authorized but unissued Class A Ordinary Shares shall not be sufficient to effect the conversion of all then-outstanding Class B Ordinary Shares, the Company will take such corporate action as may, in the opinion of its counsel, be necessary to increase its authorized but unissued Class A Ordinary Shares to such numbers of shares as shall be sufficient for such purpose.
+REGISTER OF MEMBERS AND SHARE CERTIFICATES
+11 The Company shall maintain a register of its Shareholders. A Shareholder shall only be entitled to a share certificate if the Directors resolve that share certificates shall be issued. Share certificates (if any) shall specify the share or shares held by that Shareholder and the amount paid up thereon; 
+provided
+, that in respect of a share or shares held jointly by several Persons the Company shall not be bound to issue more than one certificate, and delivery of a certificate for a share to one of several joint holders shall be sufficient delivery to all. All certificates for shares shall be delivered personally or sent through the post addressed to the Shareholder entitled thereto at the Shareholder’s registered address as appearing in the register. 
+12 All share certificates shall bear legends required under the applicable laws, including the Securities Act. 
+13 Any two or more certificates representing shares of any one class held by any Shareholder may at the Shareholder’s request be cancelled and a single new certificate for such shares issued in lieu on payment (if the Directors shall so require) of US$1.00 or such smaller sum as the Directors shall determine. 
+14 If a share certificate shall be damaged or defaced or alleged to have been lost, stolen or destroyed, a new certificate representing the same shares may be issued to the relevant Shareholder upon request subject to delivery up of the old certificate or (if alleged to have been lost, stolen or destroyed) compliance with such conditions as to evidence and indemnity and the payment of out-of-pocket expenses of the Company in connection with the request as the Directors may think fit. 
+15 In the event that shares are held jointly by several Persons, any request may be made by any one of the joint holders and if so made shall be binding on all of the joint holders. 
+TRANSFER OF SHARES
+16 (a) Any member may transfer all or any of his Class A Ordinary Shares by an instrument of transfer in the usual or common form or in a form prescribed by the Designated Stock Exchange or in any other form approved by the Board and may be under hand or, if the transferor or transferee is a clearing house or its nominee(s), by hand or by machine imprinted signature or by such other manner of execution as the Board may approve from time to time.
+(b) The Directors shall not refuse to register any transfer of a share which is permitted under these Articles save that the Directors may decline to register any transfer of any share in the event that any of the following is known by the Directors not to be both applicable and true with respect to such transfer:
+(i) the instrument of transfer is lodged with the Company, or the designated transfer agent or share registrar, accompanied by the certificate for the shares to which it relates (if any) and such other evidence as the Board may reasonably require to show the right of the transferor to make the transfer; 
+(ii) the instrument of transfer is in respect of only one class of shares; 
+(iii) the instrument of transfer is properly stamped, if required; 
+(iv) the transferred shares are fully paid up and free of any lien in favor of the Company (it being understood and agreed that all other liens, e.g. pursuant to a bona fide loan or indebtedness transaction, shall be permitted); or 
+(v) a fee of such maximum sum as the Designated Stock Exchange may determine to be payable, or such lesser sum as the Board may from time to time require, is paid to the Company in respect thereof.
+(c) If the Directors refuse to register a transfer they shall, within two months after the date on which the instrument of transfer was lodged, send to each of the transferor and the transferee notice of such refusal stating the facts which are considered to justify the refusal to register the transfer.
+17 The registration of transfers may, on 14 days’ notice being given by advertisement in such one or more newspapers or by electronic means, be suspended and the register closed at such times and for such periods as the Board may from time to time determine; 
+provided
+, 
+however
+, that the registration of transfers shall not be suspended nor the register closed for more than 30 days in any year. 
+18 The instrument of transfer of any share shall be in writing and executed by or on behalf of the transferor (and if the Directors so require, signed by the transferee). The transferor shall be deemed to remain a holder of the share until the name of the transferee is entered in the Register of Members. 
+19 All instruments of transfer that shall be registered shall be retained by the Company. 
+REDEMPTION AND PURCHASE OF OWN SHARES
+20 Subject to the provisions of the Companies Act, the Company may issue shares that are to be redeemed or are liable to be redeemed at the option of the Shareholder or the Company. The redemption of such shares shall be effected in such manner and upon such other terms as the Company may, by Special Resolution, determine before the issue of the shares.
+21 Subject to the provisions of the Companies Act, the Company may purchase its own shares (including any redeemable shares) in such manner and on such other terms as the Directors may agree with the relevant Shareholder.
+22 The Company may make a payment in respect of the redemption or purchase of its own shares in any manner permitted by the Companies Act, including out of capital. 
+23 The Directors may accept the surrender for no consideration of any fully paid share.
+TREASURY SHARES
+24 The Directors may, prior to the purchase, redemption or surrender of any share, determine that such share shall be held as a Treasury Share. 
+25 The Directors may determine to cancel a Treasury Share or transfer a Treasury Share on such terms as they think proper (including, without limitation, for nil consideration). 
+VARIATION OF RIGHTS ATTACHING TO SHARES
+26 Subject to Article 10(c)(iv), if at any time the share capital of the Company is divided into different classes of shares, all or any of the rights attached to any class (unless otherwise provided by the terms of issue of the shares of that class) may, whether or not the Company is being wound up, be varied without the consent of the holders of the issued shares of that class where such variation would not have a material adverse 
+effect upon such rights; otherwise, any such variation that would have a material adverse effect upon such rights shall be made only with the consent in writing of the holders of not less than two-thirds of the issued shares of that class, or with the approval of a resolution passed by a majority of not less than two-thirds of the votes cast at a separate meeting of the holders of the shares of that class. 
+27 The provisions of these Articles relating to general meetings shall apply to every such general meeting of the holders of one class or series of shares except the following: 
+(a) separate general meetings of the holders of a class or series of shares may be called only by:
+(i) the Chairman;
+(ii) a majority of the entire Board of Directors (unless otherwise specifically provided by the terms of issue of the shares of such class or series); or
+(iii) with respect to general meetings of the holders of Class B Ordinary Shares, AT; 
+(b) except as set forth in clause(a) above or provided in Article 59(b) below, nothing in this Article 27 or in Article 26 shall be deemed to give any Shareholder or Shareholders the right to call a class or series meeting; and
+(c) the necessary quorum shall be one or more Persons holding or representing by proxy at least one-third of the issued shares of the class or series and that any holder of shares of the class or series present in person or by proxy may demand a poll. 
+28 The rights conferred upon the holders of the shares of any class or series shall not, unless otherwise expressly provided by the terms of issue of the shares of that class or series, be deemed to be varied by the creation or issue of further shares ranking in priority thereto or pari passu therewith.
+COMMISSION ON SALE OF SHARES
+29 The Company may, insofar as the Statutes from time to time permit, pay a commission to any Person in consideration of his subscribing or agreeing to subscribe whether absolutely or conditionally for any shares of the Company. Such commissions may be satisfied by the payment of cash or the lodgement of fully or partly paid-up shares or partly in one way and partly in the other. The Company may also on any issue of shares pay such brokerage as may be lawful. 
+NON-RECOGNITION OF TRUSTS
+30 No Person shall be recognised by the Company as holding any share upon any trust (other than any trust recognized as a Permitted Entity or Permitted Transferee). The Company shall not be bound by or be compelled in any way to recognise (even when having notice thereof) any equitable, contingent, future, or partial interest in any share, or any interest in any fractional part of a share, or (except only as is otherwise provided by 
+these Articles or the Statutes) any other rights in respect of any share except an absolute right to the entirety thereof in the registered holder. It is understood that a Proxy and Voting Deed shall not be the holding of any share upon trust.
+LIEN ON SHARES
+31 The Company shall have a first and paramount lien and charge on all shares (whether fully paid-up or not) registered in the name of a Shareholder (whether solely or jointly with others) for all debts, liabilities or engagements to or with the Company (whether presently payable or not) by such Shareholder or his estate, either alone or jointly with any other Person, whether a Shareholder or not, but the Directors may at any time declare any share to be wholly or in part exempt from the provisions of this Article. The registration of a transfer of any such share shall operate as a waiver of the Company’s lien (if any) thereon. The Company’s lien (if any) on a share shall extend to all dividends or other monies payable in respect thereof. 
+32 The Company may sell, in such manner as the Directors think fit, any shares on which the Company has a lien, but no sale shall be made unless some sum in respect of which the lien exists is presently payable nor until the expiration of 14 calendar days after a notice in writing, stating and demanding payment of such part of the amount in respect of which the lien exists as is presently payable, has been given to the registered holder for the time being of the share, or the Persons entitled thereto by reason of his death or bankruptcy. 
+33 For giving effect to any such sale, the Directors may authorise some Person to transfer the shares sold to the purchaser thereof. The purchaser shall be registered as the holder of the shares comprised in any such transfer and he shall not be bound to see to the application of the purchase money, nor shall his title to the shares be affected by any irregularity or invalidity in the proceedings in reference to the sale. 
+34 The net proceeds of the sale after payment of costs shall be applied in payment of such part of the amount in respect of which the lien exists as is presently payable, and the residue shall (subject to a like lien for sums not presently payable as existed upon the shares prior to the sale) be paid to the Person entitled to the shares at the date of the sale. 
+CALLS ON SHARES
+35 Subject to the terms of allotment, the Directors may from time to time make calls upon the Shareholders in respect of any money unpaid for the purchase of their shares, and each Shareholder shall (subject to receiving at least 14 calendar days’ notice specifying the time or times of payment) pay to the Company at the time or times so specified the amount called on his shares. A call shall be deemed to have been made at the time when the resolution of the Directors authorising such call was passed. 
+36 The joint holders of a share shall be jointly and severally liable to pay calls in respect thereof. 
+37 If a sum called in respect of a share is not paid before or on the day appointed for payment thereof, the Person from whom the sum is due shall pay interest upon the sum 
+at the rate of eight percent per annum from the day appointed for the payment thereof to the time of the actual payment, but the Directors shall be at liberty to waive payment of that interest wholly or in part. 
+38 The provisions of these Articles as to the liability of joint holders and as to payment of interest shall apply in the case of non-payment of any sum which, by the terms of issue of a share, becomes payable at a fixed time, whether on account of the amount of the share, or by way of premium, as if the same had become payable by virtue of a call duly made and notified. 
+39 The Directors may make arrangements on the issue of shares for a difference between the Shareholders, or the particular shares, in the amount of calls to be paid and in the times of payment. 
+40 The Directors may, if they think fit, receive from any Shareholder willing to advance the same all or any part of the monies uncalled and unpaid upon any shares held by him, and upon all or any of the monies so advanced may (until the same would, but for such advance, become presently payable) pay interest at such rate (not exceeding without the sanction of an Ordinary Resolution, eight percent per annum) as may be agreed upon between the Shareholder paying the sum in advance and the Directors. No such sum paid in advance of calls shall entitle the Shareholder paying such sum to any portion of a dividend declared in respect of any period prior to the date upon which such sum would, but for such payment, become presently payable. 
+FORFEITURE OF SHARES
+41 If a Shareholder fails to pay any call or instalment of a call on the day appointed for payment thereof, the Directors may, at any time thereafter during such time as any part of such call or instalment remains unpaid, serve a notice on him requiring payment of such much of the call or instalment as is unpaid, together with any interest which may have accrued. 
+42 The notice shall name a further day (not earlier than the expiration of 14 calendar days from the date of the notice) on or before which the payment required by the notice is to be made, and shall state that, in the event of non-payment at or before the time appointed, the shares in respect of which the call was made will be liable to be forfeited. 
+43 If the requirements of any such notice as aforesaid are not complied with, any share in respect of which the notice has been given may at any time thereafter, before the payment required by notice has been made, be forfeited by a resolution of the Directors to that effect. 
+44 A forfeited share may be sold or otherwise disposed of on such terms and in such manner as the Directors think fit, and at any time before a sale or disposition the forfeiture may be cancelled on such terms as the Directors think fit. 
+45 A Person whose shares have been forfeited shall cease to be a Shareholder in respect of the forfeited shares, but shall, notwithstanding, remain liable to pay to the Company all monies which at the date of forfeiture were payable by him to the Company in respect of 
+the shares, but his liability shall cease if and when the Company receives payment in full of the fully paid up amount of the shares. 
+46 A certificate in writing under the hand of a Director of the Company, which certifies that a share has been forfeited on a date stated in the certificate, shall be conclusive evidence of the facts therein stated as against all Persons claiming to be entitled to the share. The Company may receive the consideration, if any, given for the share or any sale or disposition thereof and may execute a transfer of the share in favour of the Person to whom the share is sold or disposed of and he shall thereupon be registered as the holder of the share, and shall not be bound to see to the application of the purchase money, if any, nor shall his title to the share be affected by any irregularity or invalidity in the proceedings in reference to the forfeiture, sale or disposal of the share. 
+47 The provisions of these Articles as to forfeiture shall apply in the case of non-payment of any sum which by the terms of issue of a share becomes due and payable, whether on account of the amount of the share, or by way of premium, as if the same had been payable by virtue of a call duly made and notified. 
+TRANSMISSION OF SHARES
+48 The legal personal representative of a deceased sole holder of a share shall be the only Person recognised by the Company as having any title to the share. In the case of a share registered in the name of two or more holders, the survivors or survivor, or the legal personal representatives of the deceased survivor, shall be the only Person recognised by the Company as having any title to the share. 
+49 Any Person becoming entitled to a share in consequence of the death or bankruptcy of a Shareholder shall upon such evidence being produced as may from time to time be properly required by the Directors, have the right either to be registered as a Shareholder in respect of the share or, instead of being registered himself, to make such transfer of the share as the deceased or bankrupt Person could have made. If the Person so becoming entitled shall elect to be registered himself as holder he shall deliver or send to the Company a notice in writing signed by him stating that he so elects.
+50 A Person becoming entitled to a share by reason of the death or bankruptcy of the holder shall be entitled to the same dividends and other advantages to which he would be entitled if he were the registered holder of the share, except that he shall not, before being registered as a Shareholder in respect of the share, be entitled in respect of it to exercise any right conferred by membership in relation to meetings of the Company; 
+provided
+, 
+however
+, that the Directors may at any time give notice requiring any such Person to elect either to be registered himself or to transfer the share, and if the notice is not complied with within 90 calendar days, the Directors may thereafter withhold payment of all dividends, bonuses or other monies payable in respect of the share until the requirements of the notice have been complied with. 
+ALTERATION OF CAPITAL
+51 The Company may by Ordinary Resolution, subject to the rights of Class B Ordinary Shares, including under Article 10(c)(iv): 
+(a) increase the share capital by such sum, to be divided into shares of such classes and amount, as the resolution shall prescribe;
+(b) consolidate and divide all or any of its share capital into shares of a larger amount than its existing shares; 
+(c) sub-divide its existing shares or any of them into shares of a smaller amount; 
+provided
+, that in the subdivision the proportion between the amount paid and the amount, if any, unpaid on each reduced share shall be the same as it was in case of the share from which the reduced share is derived; or
+(d) cancel any shares which, at the date of the passing of the resolution, have not been taken or agreed to be taken by any Person and diminish the amount of its share capital by the amount of the shares so cancelled. 
+52 Subject to the rights of Class B Ordinary Shares, including under Article 10(c)(iv), the provisions of the Statutes and these Articles as regards to the matters to be dealt with by Ordinary Resolution, the Company may by Special Resolution reduce its share capital and any capital redemption reserve in any manner authorized by law.
+53 All new shares created hereunder shall be subject to the same provisions with reference to the payment of calls, liens, transfer, transmission, forfeiture, and otherwise as the shares in the original share capital. 
+CLOSING REGISTER OF MEMBERS OR FIXING RECORD DATE
+54 For the purpose of determining those Shareholders that are entitled to receive notice of, attend or vote at any meeting of Shareholders or any adjournment thereof, or those Shareholders that are entitled to receive payment of any dividend, or in order to make a determination as to who is a Shareholder for any other purpose, the Directors may provide that the Register of Members shall be closed for transfers for a stated period but not to exceed in any case 30 calendar days. If the Register of Members shall be so closed for the purpose of determining those Shareholders that are entitled to receive notice of, attend or vote at a meeting of Shareholders such register shall be so closed for at least 10 calendar days immediately preceding such meeting and the record date for such determination shall be the date of the closure of the Register of Members. 
+55 In lieu of or apart from closing the Register of Members, the Directors may fix in advance a date as the record date for any such determination of those Shareholders that are entitled to receive notice of, attend or vote at a meeting of the Shareholders and for the purpose of determining those Shareholders that are entitled to receive payment of any dividend, the Directors may, at or within 90 calendar days prior to the date of declaration of such dividend fix a subsequent date as the record date of such determination. 
+56 If the Register of Members is not so closed and no record date is fixed for the determination of those Shareholders entitled to receive notice of, attend or vote at a meeting of Shareholders or those Shareholders that are entitled to receive payment of a dividend, the date on which notice of the meeting is posted or the date on which the resolution of the Directors declaring such dividend is adopted, as the case may be, shall be the record date for such determination of Shareholders. When a determination of 
+those Shareholders that are entitled to receive notice of, attend or vote at a meeting of Shareholders has been made as provided in this section, such determination shall apply to any adjournment thereof. 
+GENERAL MEETINGS
+57 All general meetings of the Company other than annual general meetings shall be called extraordinary general meetings. 
+58 (a) The Company shall hold an annual general meeting and shall specify the meeting as such in the notices calling it. The annual general meeting shall be held at such time and place as the Directors shall determine. 
+(b) At these annual general meetings, the report of the Directors (if any) shall be presented. 
+59 (a) The Directors may call general meetings, and they shall on a Shareholders requisition forthwith proceed to convene an extraordinary general meeting of the Company. 
+(b) A Shareholders requisition is a requisition of:
+(i) Shareholders of the Company holding at the date of deposit of the requisition not less than a majority of the votes that may be cast by all of the issued share capital of the Company as at that date carries the right of voting at general meetings of the Company; or
+(ii) the holders of Class B Ordinary Shares entitled to cast (including by proxy) a majority of the votes that all Class B Ordinary Shares are entitled to cast.
+(c) The requisition must state the objects of the meeting and must be signed by the requisitionists and deposited at the principal place of business of the Company (with a copy forwarded to the registered office), and may consist of several documents in like form each signed by one or more requisitionists. 
+(d) If the Directors do not within 21 calendar days from the date of the deposit of the requisition duly proceed to convene a general meeting to be held within a further 21 calendar days, the requisitionists, or any of them representing more than one half of the total voting rights of all of them, may themselves convene a general meeting, but any meeting so convened shall not be held after the expiration of three months after the expiration of the second said 21 calendar days. 
+(e) A general meeting convened as aforesaid by requisitionists shall be convened in the same manner as nearly as possible as that in which general meetings are to be convened by Directors. 
+NOTICE OF GENERAL MEETINGS
+60 At least seven calendar days’ notice shall be given for any general meeting. Every notice shall be exclusive of the day on which it is given or deemed to be given and of the day for which it is given and shall specify the place, the day and the hour of the meeting and the general nature of the business and shall be given in the manner hereinafter mentioned or in such other manner if any as may be prescribed by the Company, 
+provided
+, that a general meeting of the Company shall, whether or not the notice specified in this regulation has been given and whether or not the provisions of these Articles regarding general meetings have been complied with, be deemed to have been duly convened if it is so agreed: 
+(a) in the case of an annual general meeting by all the Shareholders (or their proxies) entitled to attend and vote thereat; and 
+(b) in the case of an extraordinary general meeting by Shareholders (or their proxies) having a right to attend and vote at the meeting, together holding shares entitling the holders thereof to not less than two thirds of the votes entitled to be cast at such extraordinary general meeting. 
+61 The accidental omission to give notice of a meeting to or the non-receipt of a notice of a meeting by any Shareholder shall not invalidate the proceedings at any meeting. 
+PROCEEDINGS AT GENERAL MEETINGS
+62 No business shall be transacted at any general meeting unless a quorum of Shareholders is present at the time when the meeting proceeds to business. One or more Shareholders holding not less than an aggregate of one-third of all votes that may be cast in respect of the share capital of the Company in issue present in person or by proxy and entitled to vote shall be a quorum for all purposes; 
+provided
+, that the presence in person or by proxy of holders of a majority of Class B Ordinary Shares shall be required in any event. 
+63 If provided for by the Company, a Person may participate at a general meeting by conference telephone, video conference or other communications equipment by means of which all the Persons participating in the meeting can communicate with each other and such participation shall be deemed to constitute presence in person at the meeting. 
+64 If within half an hour from the time appointed for the meeting a quorum is not present, the meeting, if convened upon the requisition of Shareholders, shall be dissolved. In any other case it shall stand adjourned to the same day in the next week, at the same time and place or such later time or other place as may be determined by the Chairman, and if at the adjourned meeting a quorum is not present within half an hour from the time appointed for the meeting, the meeting shall be dissolved. 
+65 The Chairman shall preside as chairman at every general meeting of the Company. 
+66 If at any meeting the Chairman is not present within fifteen minutes after the time appointed for holding the meeting or is unwilling to act as chairman, the Directors present shall elect one of their members to be chairman of the meeting, or, if no Director 
+is so elected and willing to be chairman of the meeting, the Shareholders present shall choose a chairman of the meeting. 
+67 The chairman may with the consent of any meeting at which a quorum is present (and shall if so directed by the meeting) adjourn a meeting from time to time and from place to place (
+provided
+, that no special meeting called by a holder of Class B Ordinary Shares may be adjourned unless a quorum does not exist), but no business shall be transacted at any adjourned meeting other than the business left unfinished at the meeting from which the adjournment took place. When a meeting is adjourned for ten (10) calendar days or more, not less than seven (7) Business Days’ notice of the adjourned meeting shall be given as in the case of an original meeting. Save as aforesaid it shall not be necessary to give any notice of an adjournment or of the business to be transacted at an adjourned meeting. 
+68 At any general meeting a resolution put to the vote of the meeting shall be decided on a show of hands, unless a poll is (before or on the declaration of the result of the show of hands) demanded by one or more Shareholders present in person or by proxy entitled to vote and who together hold shares entitling to not less than ten percent (10%) of the votes entitled to be cast at such general meeting, and unless a poll is so demanded, a declaration by the chairman that a resolution has, on a show of hands, been carried, or carried unanimously, or by a particular majority, or lost, and an entry to that effect in the book of the proceedings of the Company, shall be conclusive evidence of the fact, without proof of the number or proportion of the votes recorded in favour of, or against, that resolution. 
+69 If a poll is duly demanded it shall be taken in such manner as the chairman directs, and the result of the poll shall be deemed to be the resolution of the meeting at which the poll was demanded. The demand for a poll may be withdrawn. 
+70 In the case of an equality of votes, whether on a show of hands or on a poll, the chairman of the meeting at which the show of hands takes place or at which the poll is demanded, shall be entitled to a second or casting vote. 
+71 A poll demanded on the election of a chairman or on a question of adjournment shall be taken forthwith (
+provided
+, that no special meeting called by a holder of Class B Ordinary Shares may be adjourned unless a quorum does not exist). A poll demanded on any other question shall be taken at such time as the chairman of the meeting directs. 
+VOTES OF SHAREHOLDERS
+72 Subject to any rights and restrictions for the time being attached to any class or classes of shares, including in Articles 10(c)(iv), 10(d), 84(a) and 84(d), each Class A Ordinary Share shall be entitled to one (1) vote on all matters subject to a vote of the Shareholders, and each Class B Ordinary Share shall be entitled to 
+forty-five
+ninety
+ (
+45
+90
+) votes on all matters subject to a vote of the Shareholders.
+73 In the case of joint holders the vote of the senior who tenders a vote whether in person or by proxy shall be accepted to the exclusion of the votes of the joint holders and for this purpose seniority shall be determined by the order in which the names stand in the Register of Members. 
+74 A Shareholder of unsound mind, or in respect of whom an order has been made by any court having jurisdiction in lunacy, may vote, whether on a show of hands or on a poll, by his committee, or other Person in the nature of a committee appointed by that court, and any such committee or other Person, may on a poll, vote by proxy. 
+75 No Shareholder shall be entitled to vote at any general meeting unless all calls or other sums presently payable by him in respect of shares in the Company have been paid. 
+76 On a poll, votes may be given either personally or by proxy. 
+77 A resolution (including a Special Resolution) in writing (in one or more counterparts) signed by all Shareholders for the time being entitled to receive notice of and to attend and vote at general meetings (or, being entities, signed by their duly authorised representatives) shall be as valid and effective as if the resolution had been passed at a general meeting of the Company duly convened and held.
+78 The instrument appointing a proxy shall be in writing under the hand of the appointor or of his attorney duly authorized in writing or, if the appointor is a company, either under seal or under the hand of an officer or attorney duly authorized. A proxy need not be a Shareholder of the Company. An instrument appointing a proxy may be in any usual or common form or such other form as the Directors may approve. The instrument appointing a proxy shall be deemed to confer authority to demand or join in demanding a poll. Any Proxy and Voting Deed is deemed approved by the Directors.
+79 The instrument appointing a proxy shall be deposited at the registered office or at such other place as is specified for that purpose in the notice convening the meeting, or in any instrument of proxy sent out by the Company:
+(a) not less than 48 hours before the time for holding the meeting or adjourned meeting at which the Person named in the instrument proposes to vote; or 
+(b) in the case of a poll taken more than 48 hours after it is demanded, be deposited as aforesaid after the poll has been demanded and not less than 24 hours before the time appointed for the taking of the poll; or
+(c) where the poll is not taken forthwith but is taken not more than 48 hours after it was demanded, be delivered at the meeting at which the poll was demanded to the chairman or to the secretary or to any Director;
+provided
+, that the Directors may in the notice convening the meeting, or in an instrument of proxy sent out by the Company, direct that the instrument appointing a proxy may be deposited (no later than the time for holding the meeting or adjourned meeting) at the registered office or at such other place as is specified for that purpose in the notice convening the meeting, or in any instrument of proxy sent out by the Company. The chairman may in any event at his discretion direct that an instrument of proxy shall be deemed to have been duly deposited. An instrument of proxy that is not deposited in the manner permitted shall be invalid.
+80 Votes given in accordance with the terms of an instrument of proxy shall be valid notwithstanding the previous death or insanity of the principal or revocation of the proxy 
+or of the authority under which the proxy was executed, or the transfer of the share in respect of which the proxy is given unless notice in writing of such death, insanity, revocation or transfer was received by the Company before the commencement of the general meeting, or adjourned meeting at which it is sought to use the proxy.
+COMPANIES ACTING BY REPRESENTATIVES AT MEETING
+81 Any corporation or other non-natural person which is a Shareholder may in accordance with its constitutional documents, or in the absence of such provision by resolution of its directors or other governing body, authorise such person as it thinks fit to act as its representative at any meeting of the Company or of any class of Shareholders, and the person so authorised shall be entitled to exercise the same powers on behalf of such corporation or other non-natural person which he represents as such corporation or other non-natural person could exercise if it were an individual Shareholder. 
+DEPOSITARY AND CLEARING HOUSES
+82 If a recognised clearing house (or its nominee(s)) or depositary (or its nominee(s)) is a Shareholder of the Company it may, by resolution of its directors or other governing body or by power of attorney, authorise such Person(s) as it thinks fit to act as its representative(s) at any general meeting of the Company or of any class of Shareholders of the Company; 
+provided
+, that, if more than one Person is so authorised, the authorisation shall specify the number and class of shares in respect of which each such Person is so authorised. A Person so authorised pursuant to this Article shall be entitled to exercise the same powers on behalf of the recognised clearing house (or its nominee(s)) or depositary (or its nominee(s)) which he represents as that recognised clearing house (or its nominee(s)) or depositary (or its nominee(s)) could exercise if it were an individual Shareholder holding the number and class of shares specified in such authorisation, including the right to vote individually on a show of hands.
+SHARES THAT MAY NOT BE VOTED
+83 Treasury Shares and other shares that are owned by the Company (but not by any of its subsidiaries) shall not be voted, directly or indirectly, at any meeting and shall not be counted in determining the total number of outstanding shares at any given time.
+DIRECTORS
+84 (a) The number of Directors shall not be more than seven Directors; 
+provided
+, that, at any time and from time to time, the number of Directors may be increased to eight or nine (or reduced to any number smaller than nine, as the case may be, as long as the provisions in Articles 84(d) and 85 regarding the removal of Directors are complied with), if and as determined by the holders of a majority of the Class B Ordinary Shares, voting exclusively and as a separate class in a meeting or by written notice served upon the Company signed by or on behalf of the holders of a majority of the Class B Ordinary Shares for the time being in issue. Such appointment or removal shall have immediate effect when the vote is passed or the notice served, or take effect at such later time as may be stated in such resolution or notice. Such resolution or notice shall include the specifications provided for in Article 84(d) as to additional Class B Director(s), if 
+any, to be appointed to maintain the rights of the Class B Ordinary Shares set forth in Article 84(d). Where these Articles refer to an addition to the existing Board beyond nine Directors, it is understood that this Article 84(a) shall first have been amended by Special Resolution subject to Article 10(c)(iv)(E). 
+(b) Each Director shall hold office until the earlier to occur of:
+(i) his or her successor having been elected;
+(ii) his or her removal as set out in Article 84(d) or Article 85, as applicable; or
+(iii) such time as determined in accordance with Article 101.
+(c) The Board of Directors shall have a Chairman (the "
+Chairman
+") elected and appointed by a majority of the Directors then in office. The Directors may also elect a Co-Chairman or a Vice-Chairman of the Board of Directors (the "
+Co-Chairman
+"). The Chairman shall preside as chairman at every meeting of the Board of Directors. To the extent the Chairman is not present at a meeting of the Board of Directors, the Co-Chairman, or in his absence, the attending Directors may choose one Director to be the chairman of the meeting. The Chairman’s voting right as to the matters to be decided by the Board of Directors shall be the same as other Directors.
+(d) A majority of the Directors for the time being permitted under Article 84(a) shall be designated as "
+Class B Directors
+." The Class B Directors shall be nominated, appointed and removed only by the Class B Ordinary Shareholders, voting exclusively and as a separate class in a meeting or by written notice served upon the Company signed by or on behalf of the holders of a majority of the Class B Ordinary Shares for the time being in issue. Such appointment or removal by the Class B Ordinary Shareholders shall have immediate effect when the vote is passed or the notice served, or take effect at such later time as may be stated in such resolution or notice. Such resolution or notice shall specify whether the applicable Director is designated as a Class B Director or not.
+(e) Subject always to the rights of the Class B Ordinary Shareholders in Article 84(d) and the maximum number of Directors set forth in Article 84(a), the Shareholders may by Ordinary Resolution elect any individual to be a Director (but not a Class B Director, for the avoidance of doubt) either to fill a vacancy on the Board or as an addition to the existing Board. No Shareholder will be permitted to cumulate votes at any such election of Directors.
+85 Any Director (other than any Class B Director) may be removed from office at any time before the expiration of his or her term by Ordinary Resolution. 
+86 A vacancy on the Board created by the removal of a Director (other than any Class B Director) under the provisions of Article 85 above may be filled in accordance with Article 84(e).
+87 The Board may, from time to time, and except as required by applicable law or the listing rules of the Designated Stock Exchange where the Company’s securities are traded, 
+adopt, institute, amend, modify or revoke the corporate governance policies or initiatives, which shall be intended to set forth the policies of the Company and the Board on various corporate governance related matters as the Board shall determine by resolution from time to time. 
+88 A Director shall not be required to hold any shares in the Company by way of qualification. A Director who is not a Shareholder of the Company shall nevertheless be entitled to receive notice of and to attend and speak at general meetings of the Company and all classes of shares of the Company. 
+DIRECTORS’ FEES AND EXPENSES
+89 The Directors may receive such remuneration as the Board may from time to time determine. The Directors may be entitled to be repaid all travelling, hotel and incidental expenses reasonably incurred or expected to be incurred by him in attending meetings of the Board or committees of the Board or general meetings or separate meetings of any class of shares or of debentures of the Company or otherwise in connection with the discharge of his duties as a Director. 
+90 Any Director who, by request, goes or resides abroad for any purpose of the Company or who performs services which in the opinion of the Board go beyond the ordinary duties of a Director may be paid such extra remuneration (whether by way of salary, commission, participation in profits or otherwise) as the Board may determine and such extra remuneration shall be in addition to or in substitution for any ordinary remuneration provided for by or pursuant to any other Article. 
+ALTERNATE DIRECTOR
+91 Any Director may in writing appoint another individual to be his alternate to act in his place at any meeting of the Directors at which he is unable to be present. Every such alternate shall be entitled to notice of meetings of the Directors and to attend and vote thereat as a Director when the Director appointing such alternate is not personally present and, where he is a Director, to have a separate vote on behalf of the Director he is representing in addition to his own vote. A Director may at any time in writing revoke the appointment of an alternate appointed by him. Such alternate shall be deemed for all purposes to be a Director and shall not be deemed to be the agent of the Director appointing him. An alternate Director shall cease to be an alternate Director if his appointor ceases to be a Director. 
+92 Any Director may appoint any individual, whether or not a Director, to be the proxy of that Director to attend and vote on his behalf, in accordance with instructions given by that Director, or in the absence of such instructions at the discretion of the proxy, at a meeting or meetings of the Directors which that Director is unable to attend personally. The instrument appointing the proxy shall be in writing under the hand of the appointing Director and shall be in any usual or common form or such other form as the Directors may approve, and must be lodged with the chairman of the meeting at which such proxy is to be used, or first used, prior to the commencement of the meeting.
+POWERS AND DUTIES OF DIRECTORS
+93 Subject to the provisions of the Companies Act, these Articles and to any resolutions made in a general meeting, the business of the Company shall be managed by the Directors, who may pay all expenses incurred in setting up and registering the Company and may exercise all powers of the Company. No resolution made by the Shareholders in a general meeting shall invalidate any prior act of the Directors that would have been valid if that resolution had not been made. 
+94 Subject to these Articles, the Directors may from time to time appoint any individual, whether or not a Director of the Company, to hold such office in the Company as the Directors may think necessary for the administration of the Company, including without prejudice to the foregoing generality, the office of the Chief Executive Officer, President, Chief Operating Officer, Chief Technology Officer, Chief Financial Officer, one or more Vice Presidents, Managers or Controllers, and for such term and at such remuneration (whether by way of salary or commission or participation in profits or partly in one way and partly in another), and with such powers and duties as the Directors may think fit. The Directors may also appoint one or more of their body (but not an alternate Director) to the office of Managing Director upon like terms, but any such appointment shall ipso facto determine if any Managing Director ceases from any cause to be a Director, or if the Shareholders by Ordinary Resolution resolves that his tenure of office be terminated. 
+95 The Directors may from time to time and at any time by power of attorney appoint any Person, whether nominated directly or indirectly by the Directors, to be the attorney or attorneys of the Company for such purposes and with such powers, authorities and discretion (not exceeding those vested in or exercisable by the Directors under these Articles) and for such period and subject to such conditions as they may think fit, and any such power of attorney may contain such provisions for the protection and convenience of Persons dealing with any such attorney as the Directors may think fit, and may also authorise any such attorney to delegate all or any of the powers, authorities and discretion vested in him. 
+96 The Directors may from time to time provide for the management of the affairs of the Company in such manner as they shall think fit and the provisions contained in the following paragraphs shall be without prejudice to the general powers conferred by this paragraph. 
+97 The Directors from time to time and at any time may establish any committees, local boards or agencies for managing any of the affairs of the Company and, subject to the following sentence, may appoint any Persons to be members of such committees, local boards or agencies, and may appoint any managers or agents of the Company and may fix the remuneration of any of the aforesaid. Any committee of the Board (other than the audit committee) shall consist of at least one (1) Class B Director.
+98 The Directors from time to time and at any time may delegate to any such committee, local board or agency any of the powers, authorities and discretions for the time being vested in the Directors, and may authorise the members for the time being of any such local board, or any of them, to fill up any vacancies therein and to act notwithstanding vacancies, and any such appointment or delegation may be made on such terms and subject to such conditions as the Directors may think fit and the Directors may at any 
+time remove any Person so appointed and may annul or vary any such delegation, but no Person dealing in good faith and without notice of any such annulment or variation shall be affected thereby. Any committee, local board or agency so formed shall in the exercise of the powers so delegated conform to any regulations that may be imposed on it by the Directors.
+99 Any such delegates as aforesaid may be authorised by the Directors to sub-delegate all or any of the powers, authorities, and discretions for the time being vested to them. 
+100 The Directors may exercise all the powers of the Company to borrow money and to mortgage or charge its undertaking, property and uncalled capital or any part thereof, to issue debentures, debenture stock and other securities whenever money is borrowed or as security for any debt, liability or obligation of the Company or of any third party. 
+VACATION OF OFFICE OF DIRECTOR
+101 Notwithstanding anything in these Articles, the office of any Director shall be vacated if: 
+(a) such Director dies, becomes bankrupt or makes any arrangement or composition with his creditors; 
+(b) (i) with respect to any Director other than AT, a licensed medical practitioner who has evaluated that Director gives a written opinion to the Company stating he has become physically or mentally incapable of acting as a Director and may remain so for more than three (3) months and (ii) with respect to AT, his Incapacity shall have been determined; 
+(c) such Director resigns his office by notice in writing to the Company; or
+(d) such Director shall be removed from office pursuant to Article 84(d) (in the case a Class B Director) or Article 85.
+PROCEEDINGS OF DIRECTORS
+102 The Directors may meet together (whether within or outside the Cayman Islands) for the dispatch of business, adjourn, and otherwise regulate their meetings and proceedings as they think fit. 
+103 A Board meeting may be called by a Director by giving notice in writing to the Board specifying a date, time and agenda for such meeting. The Board shall upon receipt of such notice give a copy of such notice of such meeting to all Directors and their respective alternates (if any).
+104 (a) At least one (1) Business Day notice shall be given to all Directors and their respective alternates (if any) for a Board meeting; 
+provided
+, that such notice period may be reduced or waived with the consent of all the Directors or their respective alternates (if any); 
+provided
+, 
+further
+, that such notice period may, in the event of an emergency as determined by a majority of all Directors (and Class B Directors shall form a majority of such majority of all Directors), be shortened to such notice period as the Chairman may determine to be 
+appropriate. The applicable notice period under this Article 104(a) for the applicable meeting of the Board shall be referred to as the "
+Notice Period
+."
+(b) An agenda identifying in reasonable detail the issues to be considered by the Directors at any such meeting and copies (in printed or electronic form) of any relevant papers to be discussed at the meeting together with all relevant information shall be provided to and received by all Directors and their alternates (if any) within the Notice Period. The agenda for each meeting shall include any matter submitted to the Company by any Director within the Notice Period. 
+(c) Unless approved by all Directors (whether or not present or represented at such meeting), matters not set out in the agenda need not be considered at a Board meeting.
+105 A Director or Directors may participate in any meeting of the Board of Directors, or of any committee appointed by the Board of Directors of which such Director or Directors are members, by means of conference telephone, video conference or similar communication equipment by way of which all Persons participating in such meeting can communicate with each other and such participation shall be deemed to constitute presence in person at the meeting. 
+106 The quorum necessary for the transaction of the business of the Directors may be fixed by the Directors and unless so fixed shall be a majority of the Directors then in office, 
+provided
+, that a Director and his appointed alternate Director shall be considered only one person for this purpose. 
+107 If a quorum is not present at a Board meeting within thirty (30) minutes following the time appointed for such Board meeting, the relevant meeting shall be adjourned for a period of at least three (3) Business Days and the presence of any three (3) Directors shall constitute a quorum at such adjourned meeting. A meeting of the Directors at which a quorum is present when the meeting proceeds to business shall be competent to exercise all powers and discretions for the time being exercisable by the Directors.
+108 Questions arising at any meeting of the Directors shall be decided by a majority of votes and each Director shall be entitled to one (1) vote in deciding matters deliberated at any meeting of the Directors.
+109 The Directors shall cause minutes to be made in books or electronic records provided for the purpose of recording: 
+(a) all appointments of officers made by the Directors; 
+(b) the names of the Directors present at each meeting of the Directors and of any committee of the Directors; and 
+(c) all resolutions and proceedings at all meetings of the Company, and of the Directors and of committees of Directors. 
+110 When the chairman of a meeting of the Directors signs the minutes of such meeting, the same shall be deemed to have been duly held notwithstanding that all the Directors have 
+not actually come together or that there may have been a technical defect in the proceedings. 
+111 A resolution signed by all the Directors shall be as valid and effectual as if it had been passed at a meeting of the Directors duly called and constituted. Such resolution may consist of several documents each signed by one or more of the Directors. 
+112 The continuing Directors may act, notwithstanding any vacancy in their body, but if their number is reduced below the number fixed pursuant to these Articles as the necessary quorum of Directors, then the continuing Directors may act only to summon a general meeting of the Company, but for no other purpose. 
+113 A committee appointed by the Directors may elect a chairman of its meetings. If no such chairman is elected, or if at any meeting the chairman is not present within five minutes after the time appointed for holding the same, the members present may choose one of their number to be chairman of the meeting. 
+114 A committee appointed by the Directors may meet and adjourn as it thinks proper. Questions arising at any meeting shall be determined by a majority of votes of the committee members present and in case of an equality of votes the chairman of the committee shall have a second or casting vote. 
+115 All acts done by any meeting of the Directors or of a committee of Directors, or by any individual acting as a Director, shall notwithstanding that it be afterwards discovered that there was some defect in the appointment of any such Director or individual acting as aforesaid, or that they or any of them were disqualified, be as valid as if every such individual had been duly appointed and was qualified to be a Director. 
+PRESUMPTION OF ASSENT
+116 A Director who is present at a meeting of the Board of Directors at which action on any Company matter is taken shall be presumed to have assented to the action taken unless his dissent shall be entered in the minutes of the meeting or unless he shall file his written dissent from such action with the individual acting as the chairman or secretary of the meeting before the adjournment thereof or shall forward such dissent by registered post to such individual immediately after the adjournment of the meeting. Such right to dissent shall not apply to a Director who voted in favour of such action. 
+DIRECTORS’ INTERESTS
+117 (a) A Director or alternate Director may hold any other office or place of profit under the Company (other than the office of the Auditor) in conjunction with his office of Director for such period and on such terms as to remuneration and otherwise as the Directors may determine.
+(b) A Director or alternate Director may act by himself or by, through or on behalf of his firm in a professional capacity for the Company and he or his firm shall be entitled to remuneration for professional services as if he were not a Director or alternate Director; 
+provided
+, that nothing herein contained shall authorise a Director or his firm to act as auditor to the Company. 
+(c) A Director or alternate Director may be or become a director or other officer of or otherwise interested in any company promoted by the Company or in which the Company may be interested as a shareholder, a contracting party or otherwise, and no such Director or alternate Director shall be accountable to the Company for any remuneration or other benefits received by him as a director or officer of, or from his interest in, such other company.
+(d) No individual shall be disqualified from the office of Director or alternate Director or prevented by such office from contracting with the Company, either as vendor, purchaser or otherwise, nor shall any such contract or any contract or transaction entered into by or on behalf of the Company in which any Director or alternate Director shall be in any way interested be or be liable to be avoided, nor shall any Director or alternate Director so contracting or being so interested be liable to account to the Company for any profit realised by or arising in connection with any such contract or transaction by reason of such Director or alternate Director holding office or of the fiduciary relationship thereby established. A Director (or his alternate Director in his absence) shall be at liberty to vote in respect of any contract or transaction in which he is interested; 
+provided
+, that the nature of the interest of any Director or alternate Director in any such contract or transaction shall be disclosed by him at or prior to its consideration and any vote thereon.
+(e) A Director or alternate Director who is in any way, whether directly or indirectly, interested in a contract or proposed contract with the Company shall declare the nature of his interest at a meeting of the Directors. A general notice that a Director or alternate Director is a shareholder, director, officer or employee of any specified firm or company and is to be regarded as interested in any transaction with such firm or company shall be sufficient disclosure for the purposes of voting on a resolution in respect of a contract or transaction in which he has an interest and he may be counted in the quorum, and after such general notice it shall not be necessary to give special notice relating to any particular transaction.
+DIVIDENDS, DISTRIBUTIONS AND RESERVE
+118 Subject to any rights and restrictions for the time being attached to any class or classes of shares and these Articles, the Directors may from time to time declare dividends (including interim dividends) and other distributions on shares in issue and authorise payment of the same out of the funds of the Company lawfully available therefor. 
+119 Subject to any rights and restrictions for the time being attached to any class or classes of shares and these Articles, the Company by Ordinary Resolution may declare dividends, but no dividend shall exceed the amount recommended by the Directors. 
+120 The Directors may, before recommending or declaring any dividend, set aside out of the funds legally available for distribution such sums as they think proper as a reserve or reserves which shall, at the discretion of the Directors, be applicable for meeting contingencies, or for equalising dividends or for any other purpose to which those funds may be properly applied and pending such application may, at the like discretion, either be employed in the business of the Company or be invested in such investments (other than shares of the Company) as the Directors may from time to time think fit. 
+121 Any dividend may be paid by cheque or wire transfer to the registered address of the Shareholder entitled thereto, or in the case of joint holders, to any one of such joint holders at his registered address or to such Person and such address as the Shareholder entitled, or such joint holders as the case may be, may direct. Every such cheque shall be made payable to the order of the Person to whom it is sent or to the order of such other Person as the Shareholder entitled, or such joint holders as the case may be, may direct. 
+122 The Directors when paying dividends to the Shareholders in accordance with the foregoing provisions may make such payment either in cash or in specie; 
+provided
+, that no dividend shall be made in specie on any Class A Ordinary Shares unless a dividend in specie in equal proportion is made on the Class B Ordinary Shares. 
+123 No dividend shall be paid otherwise than out of profits or, subject to the restrictions of the Companies Act, the share premium account. 
+124 Subject to the rights of Persons, if any, entitled to shares with special rights as to dividends, all dividends shall be declared and paid according to the amounts paid or credited as fully paid on the shares, but if and so long as nothing is paid up on any of the shares in the Company dividends may be declared and paid according to the amounts of the shares. No amount paid on a share in advance of calls shall, while carrying interest, be treated for the purposes of this Article as paid on the share. 
+125 If several Persons are registered as joint holders of any share, any of them may give effectual receipts for any dividend or other monies payable on or in respect of the share. 
+126 No dividend shall bear interest against the Company. 
+127 Any dividend or other distribution which cannot be paid to a Shareholder and/or which remains unclaimed after six months from the date on which such dividend or other distribution becomes payable may, in the discretion of the Directors, be paid into a separate account in the Company’s name, 
+provided
+ that the Company shall not be constituted as a trustee in respect of that account and the dividend or other distribution shall remain as a debt due to the Shareholder. Any dividend or other distribution which remains unclaimed after a period of six years from the date on which such dividend or other distribution becomes payable shall be forfeited and shall revert to the Company.
+BOOK OF ACCOUNTS
+128 The Directors shall cause proper books of account (including, where applicable, material underlying documentation including contracts and invoices) to be kept with respect to all sums of money received and expended by the Company and the matters in respect of which the receipt or expenditure takes place, all sales and purchases of goods by the Company and the assets and liabilities of the Company. Such books of account must be retained for a minimum period of five years from the date on which they are prepared. Proper books shall not be deemed to be kept if there are not kept such books of account as are necessary to give a true and fair view of the state of the Company’s affairs and to explain its transactions. 
+129 The Directors shall determine whether and to what extent and at what times and places and under what conditions or regulations the accounts and books of the Company or any of them shall be open to the inspection of Shareholders not being Directors and no Shareholder (not being a Director) shall have any right of inspecting any account or book or document of the Company except as conferred by Statutes or authorised by the Directors or by the Shareholders in a general meeting. 
+130 The Directors may cause to be prepared and to be laid before the Company in general meeting profit and loss accounts, balance sheets, group accounts (if any) and such other reports and accounts as may be required by law and the listing rules of the Designated Stock Exchange. 
+131 Subject to the requirements of applicable law and the listing rules of the Designated Stock Exchange, the accounts relating to the Company’s affairs shall be audited with such financial year end as set forth in Article 152 and in such manner as may be determined from time to time by the Company by Ordinary Resolution or failing any such determination by the Directors or failing any determination as aforesaid shall not be audited. 
+ANNUAL RETURNS AND FILINGS
+132 The Board shall make the requisite annual returns and any other requisite filings in accordance with the Companies Act. 
+AUDIT
+133 The Directors may appoint an auditor of the Company who shall hold office until removed from office by a resolution of the Directors and may fix his or their remuneration (the "
+Auditor
+"). 
+134 Every Auditor of the Company shall have a right of access at all times to the books and accounts and vouchers of the Company and shall be entitled to require from the Directors and officers of the Company such information and explanation as may be necessary for the performance of the duties of auditors. 
+135 Auditors shall, if so required by the Directors, make a report on the accounts of the Company during their tenure of office at the next annual general meeting following their appointment in the case of a company which is registered with the Registrar of Companies as an ordinary company, and at the next special meeting following their appointment in the case of a company which is registered with the Registrar of Companies as an exempted company, and at any time during their term of office, upon request of the Directors at any general meeting of the Shareholders. 
+THE SEAL
+136 The Seal of the Company shall not be affixed to any instrument except by the authority of a resolution of the Board of Directors; 
+provided
+, always that such authority may be given prior to or after the affixing of the Seal and if given after may be in general form confirming a number of affixings of the Seal. The Seal shall be affixed in the presence of any one or more individuals as the Directors may appoint for the purpose, and every 
+individual as aforesaid shall sign every instrument to which the Seal of the Company is so affixed in their presence. 
+137 The Company may maintain a facsimile of its Seal in such countries or places as the Directors may appoint, and such facsimile Seal shall not be affixed to any instrument except by the authority of a resolution of the Board of Directors; 
+provided
+, always that such authority may be given prior to or after the affixing of such facsimile Seal and if given after may be in general form confirming a number of affixings of such facsimile Seal. The facsimile Seal shall be affixed in the presence of such individual or individuals as the Directors may for this purpose appoint, and such individual or individuals as aforesaid shall sign every instrument to which the facsimile Seal of the Company is so affixed in their presence. 
+138 Notwithstanding the foregoing, a Director shall have the authority to affix the Seal, or the facsimile Seal, to any instrument for the purposes of attesting authenticity of the matter contained therein but which does not create any obligation binding on the Company. 
+OFFICERS
+139 Subject to Article 94, the Company may have a Chief Executive Officer, President, Chief Operating Officer, Chief Technology Officer, Chief Financial Officer, one or more Vice Presidents, Manager or Controller, each appointed by the Directors. The Directors may also from time to time appoint such other officers as they consider necessary, all for such terms, at such remuneration and to perform such duties, and subject to such provisions as to disqualification and removal as the Directors from time to time determine. 
+CAPITALISATION OF PROFITS
+140 Subject to the Companies Act and these Articles, the Board may, with the authority of an Ordinary Resolution: 
+(a) resolve to capitalise any amount standing to the credit of reserves (including a share premium account, capital redemption reserve and profit and loss account) or otherwise available for distribution; 
+(b) appropriate the sum resolved to be capitalised to the Shareholders in the proportions in which such sum would have been divisible amongst such Shareholders had the same been a distribution of profits by way of dividend or other distribution, and apply that sum on their behalf in or towards: 
+(i) paying up the amounts (if any) for the time being unpaid on shares held by them respectively; or 
+(ii) paying up in full unissued shares or debentures of a nominal amount equal to that sum, 
+and allot the shares or debentures, credited as fully paid, to the Shareholders (or as they may direct) in those proportions, or partly in one way and partly in the other, but the share premium account, the capital redemption reserve and profits which are not available for distribution may, for the purposes of this Article, only 
+be applied in paying up unissued shares to be allotted to Shareholders credited as fully paid; 
+(c) make any arrangements it thinks fit to resolve a difficulty arising in the distribution of a capitalised reserve and in particular, without limitation, where shares or debentures become distributable in fractions the Board may deal with the fractions as it thinks fit (including provisions whereby the benefit of fractional entitlements accrue to the Company rather than to the Shareholders concerned); 
+(d) authorise a Person to enter (on behalf of all the Shareholders concerned) an agreement with the Company providing for either: 
+(i) the allotment to the Shareholders respectively, credited as fully paid, of shares or debentures to which they may be entitled on the capitalisation, or 
+(ii) the payment by the Company on behalf of the Shareholders (by the application of their respective operations of the reserves resolved to be capitalised) of the amounts or part of the amounts remaining unpaid on their existing shares, 
+an agreement made under the authority being effective and binding on all those Shareholders; and 
+(e) generally do all acts and things required to give effect to the resolution. 
+NOTICES
+141 Except as otherwise provided in these Articles, any notice shall be in writing and may be given by the Company to any Shareholder either personally or by sending it by courier, post, fax, or e-mail to him or to his address as shown in the Register of Members (or where the notice is given by e-mail by sending it to the e-mail address provided by such Shareholder), or by placing it on the Company’s Website. In the case of joint holders of a share, all notices shall be given to that one of the joint holders whose name stands first in the Register of Members in respect of the joint holding, and notice so given shall be sufficient notice to all the joint holders. 
+142 Notices posted to addresses outside the Cayman Islands shall be forwarded by prepaid airmail. 
+143 Any Shareholder present, either personally or by proxy, at any meeting of the Company shall for all purposes be deemed to have received due notice of such meeting and, where requisite, of the purposes for which such meeting was convened. 
+144 Any notice or other document, if served by:
+(a) post, service of the notice shall be deemed to have been served five calendar days after the time when the letter containing the same is posted (in proving such service it shall be sufficient to prove that the letter containing the notice or document was properly addressed and duly posted); 
+(b) fax, service of the notice shall be deemed to be effected by properly addressing and sending such notice and shall be deemed to have been received on the same day that it was transmitted; 
+(c) recognised courier service, service of the notice shall be deemed to have been served 48 hours after the time when the letter containing the same is delivered to the courier service and in proving such service it shall be sufficient to prove that the letter containing the notice or documents was properly addressed and duly delivered to the courier; or 
+(d) e-mail, service of the notice shall be deemed to be effected by transmitting the e-mail to the e-mail address provided by the intended recipient and shall be deemed to have been received on the same day that it was sent, and it shall not be necessary for the receipt of the e-mail to be acknowledged by the recipient. 
+145 Any notice or document delivered or sent to any Shareholder in accordance with the terms of these Articles shall notwithstanding that such Shareholder be then dead or bankrupt, and whether or not the Company has notice of his death or bankruptcy, be deemed to have been duly served in respect of any share registered in the name of such Shareholder as sole or joint holder, unless his name shall at the time of the service of the notice or document, have been removed from the Register of Members as the holder of the share, and such service shall for all purposes be deemed a sufficient service of such notice or document on all Persons interested (whether jointly with or as claiming through or under him) in the share. 
+146 Notice of every general meeting shall be given to: 
+(a) all Shareholders who have supplied to the Company an address for the giving of notices to them; 
+(b) every Person entitled to a share in consequence of the death or bankruptcy of a Shareholder, who but for his death or bankruptcy would be entitled to receive notice of the meeting; and 
+(c) each Director and alternate Director. 
+No other Person shall be entitled to receive notices of general meetings. 
+INFORMATION
+147 No Shareholder shall be entitled to require discovery of any information in respect of any detail of the Company’s trading or any information which is or may be in the nature of a trade secret or secret process which may relate to the conduct of the business of the Company and which in the opinion of the Board would not be in the interests of the Shareholders of the Company to communicate to the public. 
+148 The Board shall be entitled to release or disclose any information in its possession, custody or control regarding the Company or its affairs to any of its members including, without limitation, information contained in the Register of Members and transfer books of the Company. 
+INDEMNITY
+149 To the maximum extent permitted by applicable law, every Director and officer of the Company (which for the avoidance of doubt, shall not include auditors of the Company), together with every former Director and former officer of the Company (each an "
+Indemnified Person
+") shall be indemnified out of the assets of the Company against any liability, action, proceeding, claim, demand, costs, damages or expenses, including legal expenses, whatsoever which they or any of them may incur as a result of any act or failure to act in carrying out their functions other than such liability (if any) that they may incur by reason of their own actual fraud or wilful default. No Indemnified Person shall be liable to the Company for any loss or damage incurred by the Company as a result (whether direct or indirect) of the carrying out of their functions unless that liability arises through the actual fraud or wilful default of such Indemnified Person. No Person shall be found to have committed actual fraud or wilful default under this Article unless or until a court of competent jurisdiction shall have made a finding to that effect, and such finding shall have become final and non-appealable. 
+150 To the maximum extent permitted by applicable law, the Company shall advance to each Indemnified Person reasonable attorneys’ fees and other costs and expenses incurred in connection with the defence of any action, suit, proceeding or investigation involving such Indemnified Person for which indemnity will or could be sought. In connection with any advance of any expenses hereunder, the Indemnified Person shall execute an undertaking to repay the advanced amount to the Company if it shall be determined by final and non-appealable judgment by a court of competent jurisdiction that such Indemnified Person was not entitled to indemnification pursuant to this Article, in which case such party shall not be indemnified with respect to such judgment, costs or expenses and any advancement shall be returned to the Company (without interest) by the Indemnified Person. 
+151 The Directors, on behalf of the Company, may purchase and maintain insurance for the benefit of any Director or other officer of the Company against any liability which, by virtue of any rule of law, would otherwise attach to such Person in respect of any negligence, default, breach of fiduciary or other duty or breach of trust of which such Person may be guilty in relation to the Company.
+FINANCIAL YEAR
+152 Unless the Directors otherwise prescribe, the financial year of the Company shall end on December 31st in each year and shall begin on January 1st in each year. 
+WINDING UP
+153 If the Company shall be wound up, the liquidator shall apply the assets of the Company in satisfaction of creditors’ claims in such manner and order as such liquidator thinks fit. Subject to the rights attaching to any shares, in a winding up:
+(a) if the assets available for distribution amongst the Shareholders shall be insufficient to repay the whole of the Company’s issued share capital, such assets shall be distributed so that, as nearly as may be, the losses shall be borne by the Shareholders in proportion to the par value of the shares held by them; or
+(b) if the assets available for distribution amongst the Shareholders shall be more than sufficient to repay the whole of the Company’s issued share capital at the commencement of the winding up, the surplus shall be distributed amongst the Shareholders in proportion to the par value of the shares held by them at the commencement of the winding up subject to a deduction from those shares in respect of which there are monies due, of all monies payable to the Company for unpaid calls or otherwise.
+154 If the Company shall be wound up, the liquidator may, subject to the rights attaching to any shares and with the approval of a Special Resolution and any other approval required by the Statutes, divide amongst the Shareholders in kind the whole or any part of the assets of the Company (whether such assets shall consist of property of the same kind or not) and may for that purpose value any assets and determine how the division shall be carried out as between the Shareholders or different classes of Shareholders. The liquidator may, with the like approval, vest the whole or any part of such assets in trustees upon such trusts for the benefit of the Shareholders as the liquidator, with the like approval, shall think fit, but so that no Shareholder shall be compelled to accept any asset upon which there is a liability.
+AMENDMENT OF MEMORANDUM AND ARTICLES OF ASSOCIATION AND 
+NAME OF COMPANY
+155 Subject to Article 10(c)(iv)(E), the Company may at any time and from time to time by Special Resolution alter or amend these Articles or the Memorandum, in whole or in part, or change the name of the Company. 
+REGISTRATION BY WAY OF CONTINUATION
+156 The Company may by Special Resolution resolve to be registered by way of continuation in a jurisdiction outside the Cayman Islands or such other jurisdiction in which it is for the time being incorporated, registered or existing. In furtherance of a resolution adopted pursuant to this Article, the Directors may cause an application to be made to the Registrar of Companies to deregister the Company in the Cayman Islands or such other jurisdiction in which it is for the time being incorporated, registered or existing and may cause all such further steps as they consider appropriate to be taken to effect the transfer by way of continuation of the Company. 
+MERGERS AND CONSOLIDATIONS
+157 The Company shall have the power to merge or consolidate with one or more other constituent companies (as defined in the Companies Act) upon such terms as the Directors may determine and (to the extent required by the Companies Act) with the approval of a Special Resolution.
+* * *

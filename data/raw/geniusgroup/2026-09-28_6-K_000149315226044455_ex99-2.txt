@@ -1,0 +1,835 @@
+EX-99.2
+
+3
+
+ex99-2.htm
+
+EX-99.2
+
+Exhibit
+99.2
+
+Genius
+Group Limited Reports Unaudited Financial Results for H1 2026
+
+● | 140%
+ increase in revenue from continuing operations of $6.2 million, compared to $2.6 million
+ in the first half of 2025. The increase was driven by $2.1 million of Resorts revenue following
+ the acquisitions completed in July 2025 and growth in School revenue to $2.3 million from
+ $0.4 million. Academy revenue was $1.7 million.
+
+● | 188%
+ increase in gross profit to $3.5 million from $1.2 million, driven by a focus on higher margin
+ education programs with gross margin improving to 56.6% from 47.1%.
+
+● | A
+ decrease in operating expenses to $12.1 million, compared to $12.7 million in the first half
+ of 2025. The decrease was primarily driven by a $2.8 million reduction in stock-based compensation
+ together with lower depreciation and amortization and lower foreign exchange losses, and
+ a reduction in underlying general and administrative costs.
+
+● | A
+ reversal in operational performance to $6.4 million net profit from operations, compared
+ to $2.8 million net loss from operations in the first half of 2025.
+
+● | 35%
+ reduction in net loss from treasury and central costs to $10.5 million from $16.2 million
+ in the first half of 2025, after taking into account one-off costs including a $3.1 million
+ charge from the reduction in its Bitcoin Treasury and $1.2 million in non-recurring expenses.
+
+● | 79%
+ reduction in total net loss to $4.0 million, compared to $19 million in the first half of
+ 2025.
+
+● | Basic
+ and diluted loss per share of $(0.06), based on 162.6 million weighted-average shares outstanding,
+ compared to a loss per share of $(0.34) on 53.2 million weighted-average shares in the first
+ half of 2025 on a continuing basis.
+
+● | Cash
+ and cash equivalents of $1.9 million as of June 30, 2026, compared to $2.4 million as of
+ December 31, 2025. The decrease reflects $8.2 million used in investing activities: principally
+ a $7.7 million investment in a senior secured convertible note in Jewel Bank which
+ was partly offset by $6.7 million generated from operating activities and $1.5 million from
+ financing activities (primarily $11.3 million of share issuance proceeds, net of $8.6 million
+ of debt repayment).
+
+● | Total
+ current assets of $10.10 million, compared to $23.9 million as of December 31, 2025 due to
+ the disposal of the Group’s digital assets, the proceeds of which were applied to repay
+ the associated Bitcoin-backed loan and the Group’s remaining third-party debt.
+
+● | Total
+ assets of $131.5 million, compared to $136.9 million as of December 31, 2025, with total
+ liabilities reduced by 37% to $25.5 million from $40.3 million.
+
+● | Net
+ assets of $105.97 million as of June 30, 2026, compared to $96.62 million as of December
+ 31, 2025, representing a 10% increase, and resulting in Net Asset Value per Share (NAVPS)
+ of $0.61 per share.
+
+The
+unaudited condensed consolidated financial statements set out below have been prepared using the recognition and measurement principles
+applied in the Company’s most recent audited annual financial statements and do not include the notes required for a complete set
+of financial statements. They have been reviewed by the Company’s auditor and have not been audited.
+
+SINGAPORE,
+September 28, 2026 (GLOBE NEWSWIRE) - Genius Group Limited (NYSE American: GNS), a leading AI-powered education group, today announced
+its unaudited financial results for the six months ended June 30, 2026.
+
+Key
+Business Metrics
+
+We
+monitor the key business metrics and non-IFRS financial measures set forth below to help us evaluate our business and growth trends,
+set growth targets and budgets, and measure the effectiveness of our sales and marketing efforts. These key business metrics and non-IFRS
+financial measures are presented for supplemental informational purposes only, are not a substitute for IFRS financial measures, and
+may differ from similarly titled metrics or measures presented by other companies. See “Management’s Discussion and Analysis
+of Financial Condition and Results of Operations — Key Business Metrics and Non-IFRS Financial Measures” for detailed descriptions
+of the measures and metrics shown below.
+
+Management’s
+Discussion and Analysis of Financial Condition and Results of Operations
+
+Overview
+
+We
+deliver AI-powered education and acceleration solutions for the future of work, serving 6 million users in over 100 countries through
+our Genius City model and our online marketplace of AI training, AI tools and AI talent. Our mission is to disrupt the current education
+model with a personalized, student-centered, AI-powered lifelong learning curriculum that prepares our global community with the leadership,
+entrepreneurial and life skills to succeed in today’s market.
+
+Our
+financial growth model is based on a combination of three main factors:
+
+1. | Growth of our Bitcoin Treasury
+ and net assets, through the acquisition and custody of Bitcoin, which we believe will deliver long term value preservation to our
+ shareholders.
+
+2. | Growth of our Edtech platforms
+ GeniusU and GeniusGroup.AI, with its digital curriculum and global student base, via wholly owned curriculum, hosting partners, and
+ their content.
+
+3. | Growth of our Genius City
+ model, delivering a full lifelong learning curriculum in physical learning communities, from early learning to primary, secondary
+ and adult learning.
+
+To
+provide an accurate discussion and analysis of financial condition and results of operations, the financial information discussed below
+is presented for the Group on the following basis:
+
+⮚ | Financials
+ for the Group: unaudited condensed consolidated financial statements for the six months ended June 30, 2026 and June 30, 2025, together
+ with audited consolidated financial statements for the financial years ended December 31, 2025 and 2024. The Group comprises Genius
+ Group Limited, GeniusU Ltd (launched October 2019), Property Investors Network (acquired April 2022), Education Angels (acquired
+ April 2022), University of Antelope Valley (acquired July 2022), Entrepreneur Resorts Pte Ltd (acquired July 2025), Tau Game Lodge
+ (acquired July 2025), Matla Game Lodge (acquired July 2025), Vision Villa (acquired July 2025), Genius Cafe (acquired July 2025)
+ and ProEd Global School (acquired November 2025). Revealed Films, previously included in the Group, closed on May 13, 2026
+ and its results are reported within discontinued operations for the period. E-Squared Education Enterprises (“ESQ”) ceased
+ all operations in December 2024 and is subject to liquidation proceedings in South Africa; ESQ was de-recognized from the consolidated
+ balance sheet as of the financial year ended December 31, 2025, with prior-period results classified within discontinued operations.
+
+Results
+of Operations
+
+Period
+Ended June 30, 2026, Compared to Period Ended June 30, 2025
+
+The
+below discussion and analysis are for the unaudited financials of June 30, 2026 compared to June 30, 2025. For simplicity, any reference
+to the first half of 2026 is with reference to the 6 months financials as of and for the period ended June 30, 2026, and any reference
+to the first half of 2025 is with reference to the 6 months financials as of and for the period ended June 30, 2025.
+
+Revenue:
+
+Our Group revenues from continuing operations increased from $2.6 million in first half of 2025 to $6.2 million in the first half
+of 2026, representing a 140% year-on-year increase. The increase was primarily driven by $2.1 million of Resorts Revenue following the
+acquisition of Entrepreneur Resorts Pte Ltd (ERPL), Tau Game Lodge, Matla Game Lodge, Vision Villa Resort and Genius Cafe, and
+growth in School Revenue to $2.3 million from $0.4 million in the prior-year period due to acquisition of ProEd, partly offset by a decrease
+in Academy Revenue to $1.7 million from $2.2 million. Revenue and results of Revealed Films, which was closed during the period,
+are presented within discontinued operations and are excluded from continuing-operations revenue above for both periods.
+
+Our
+three main revenue segments are Academy Revenue, School Revenue, and Resorts Revenue. Academy Revenue and School Revenue together
+represent the Group’s education-related revenue, delivered through GeniusU and the Group’s school entities. Resorts
+Revenue consists of revenue generated from the Group’s locations through accommodation, food and beverage charges, and
+reflects the acquisition of Tau Game Lodge, Matla Game Lodge, Genius Cafe and Vision Villa completed at the end of July 2025.
+The following table shows the breakdown of this revenue into segments for Genius Group, on unaudited basis:
+
+Group
+ Unaudited Financials Six Months Ended (USD 000’s) | Group
+ Audited Financials Year
+Ended (USD 000’s)
+
+June 30, 2026 | June 30, 2025 | December 31, 2025 | December 31, 2024
+
+Academy Revenue | 1,736 | 2,185 | 4,445 | 4,543
+
+School Revenue | 2,336 | 401 | 1,459 | 2,200
+
+Resorts Revenue | 2,127 | - | 2,198 | -
+
+Revenue from continuing operations | 6,199 | 2,586 | 8,102 | 6,743
+
+Discontinued Operations Revenue | 269 | 131 | 285 | 1,170
+
+Total Revenue | 6,468 | 2,717 | 8,387 | 7,913
+
+Cost
+of Revenue:
+ The Group’s cost of revenue from continuing operations was $2.7 million in the first half of 2026, giving gross
+profit of $3.5 million and a gross margin of 56.6%, compared to cost of revenue of $1.4 million, gross profit of $1.2 million and a gross
+margin of 47.1% in the first half of 2025. The improvement in gross margin was primarily driven by the addition of higher-margin Resorts
+and School revenue following the Group’s 2025 acquisitions.
+
+Operating
+Expenses: 
+The Group had operating expenses from continuing operations of $12.1 million in the first half of 2026, compared to $12.7
+million in the first half of 2025, a 4% decrease. The decrease reflects lower depreciation and amortization of $0.4 million and lower
+foreign exchange losses, together with a reduction in underlying general and administrative costs despite absorbing a full six months
+of general and administrative costs from the entities acquired in the second half of 2025, partly offset by a $0.2 million increase in
+legal expenses. Staff costs, development costs, marketing, rental, legal and general expenses remain the primary components of the Group’s
+operating expenses.
+
+During
+the six months ended June 30, 2026, the Group recognized a reversal of impairment of $3,179,313 in respect of amounts due from related
+parties that had been impaired in prior periods. The Group will reassess the recoverability of these balances as of December 31, 2026
+in connection with the annual audit, and the amount ultimately recognized may differ from the amount recorded in this interim period.
+
+Non-IFRS
+Financial Measure — Adjusted EBITDA:
+ We have included Adjusted EBITDA because it is a key measure used by our management and
+board of directors to understand and evaluate our core operating performance and trends, to prepare and approve our annual budget and
+to develop short- and long-term operational plans. In particular, the exclusion of certain expenses in calculating Adjusted EBITDA can
+provide a useful measure for period-to-period comparisons of our core business.
+
+We
+calculate Adjusted EBITDA from continuing operations as net loss from continuing operations, plus income tax expense or benefit, net
+interest expense, depreciation and amortization, non-recurring legal expenses, impairment charges and reversals of impairment, revaluation
+adjustments, the loss on disposal of Bitcoin, share-based compensation expense, bad debt provisions and write-offs. Adjusted EBITDA for
+the financial years ended December 31, 2025 and December 31, 2024 has been recalculated on the same continuing-operations basis and therefore
+differs from the amounts previously reported. The difference arises solely from the change in presentation, under which the results of
+divisions now reported within discontinued operations are excluded from Adjusted EBITDA in all periods presented; the amounts previously
+reported in the Company’s Annual Report on Form 20-F were calculated on a total-operations basis and are therefore not directly
+comparable.
+
+Derived
+from Financial Statements
+
+Genius
+ Group Unaudited Financials Six Months Ended (USD 000’s) | Group Audited Financials Year
+ Ended (USD 000’s)
+
+June 30, 2026 | June 30, 2025 | December 31, 2025 | December 31, 2024
+
+Net Income/Loss from continuing operations | (9,063 | ) | (18,048 | ) | (49,367 | ) | (17,329 | )
+
+Tax Benefits | 1 | (1 | ) | 653 | (2,252 | )
+
+Interest Expense, net | 501 | 736 | 3,391 | 1,146
+
+Depreciation and Amortization | 618 | 1,021 | 2,332 | 2,059
+
+Legal expense (non-recurring) | 1,247 | 1,023 | 3,407 | 2,579
+
+Addition/ (Reversal) of Impairment | (3,179 | ) | - | 16,372 | 7,647
+
+Revaluation adjustment | - | - | 3,641 | (3,714 | )
+
+Loss on disposal of bitcoin | 3,138 | 5,874 | 5,805 | -
+
+Stock Based Compensation | 1,010 | 3,860 | 7,574 | 4,218
+
+Bad Debt Provision | - | 2 | (267 | ) | (575 | )
+
+Write off | 2 | - | - | -
+
+Adjusted EBITDA from continuing operations | (5,725 | ) | (5,533 | ) | (6,459 | ) | (6,221 | )
+
+Adjusted
+EBITDA (Operational Metrics)
+
+June 30, 2026 | June 30, 2025
+
+Operational | Central | Total | Operational | Central | Total
+
+Net Income (Loss) from continuing operations | 1,389 | (10,452 | ) | (9,063 | ) | (1,845 | ) | (16,203 | ) | (18,048 | )
+
+Tax Expense | 1 | - | 1 | - | (1 | ) | (1 | )
+
+Interest Expense, net | 373 | 128 | 501 | 736 | - | 736
+
+Depreciation and Amortization | 618 | - | 618 | 1,019 | 2 | 1,021
+
+Reversal of impairment (due from related parties) | (3,179 | ) | - | (3,179 | ) | - | - | -
+
+Loss on Disposal of Bitcoin | - | 3,138 | 3,138 | - | 5,874 | 5,874
+
+One off expenses (non-recurring) | - | 1,247 | 1,247 | - | 1,023 | 1,023
+
+Stock Based Compensation | - | 1,010 | 1,010 | - | 3,860 | 3,860
+
+Write off | - | 2 | 2 | - | - | -
+
+Bad Debt Provision | - | - | - | 2 | - | 2
+
+Adjusted EBITDA, from continuing operations | (798 | ) | (4,927 | ) | (5,725 | ) | (88 | ) | (5,445 | ) | (5,533 | )
+
+The
+Group recorded negative Adjusted EBITDA of $(5.73) million in the first half of 2026, compared to negative $(5.53) million in
+the first half of 2025, broadly in line year on year. The reconciliation excludes the reversal of a related-party impairment, which
+drove much of the reduction in net loss, while adding back the loss on disposal of digital assets and the period’s one-off items,
+including $1.2 million of legal expense and $1.0 million of stock-based compensation. 
+
+Cash
+and Cash Equivalents: 
+The Group held $1.9 million in cash and cash equivalents as of June 30, 2026, compared to $2.4 million as of
+December 31, 2025. Operating activities generated $6.7 million of cash in the period, principally from the realization of the Group’s
+digital assets, and financing activities generated $1.5 million; these inflows were more than offset by $8.2 million used in investing
+activities, mainly the purchase of investments at fair value, and $0.5 million of adverse exchange rate movements
+.
+
+Current
+Assets: 
+The Group’s current assets reduced from $23.87 million as of December 31, 2025 to $10.10 million as of June 30, 2026,
+with a current ratio of 0.68 compared to 0.86 as of December 31, 2025. The primary reason for the decrease was the disposal of the Group’s
+digital assets during the period, which fell from $14.9 million to nil.
+
+Non-Current
+Assets: 
+The Group’s non-current assets increased from $113.07 million as of December 31, 2025 to $121.39 million as of June
+30, 2026, primarily due to an $8.6 million increase in investments at fair value
+.
+
+Current
+Liabilities: 
+The Group’s current liabilities decreased from $27.62 million as of December 31, 2025 to $14.91 million as of
+June 30, 2026, primarily due to the repayment of current loans payable, including the Bitcoin-backed loan, and the settlement of related-party
+balances during the period.
+
+Non-Current
+Liabilities: 
+The Group’s non-current liabilities decreased from $12.70 million as of December 31, 2025 to $10.56 million as
+of June 30, 2026, due to a combination of loan repayments during the period and a movement in the Group’s deferred tax position
+.
+
+Shareholders’
+Equity: 
+The Group’s shareholders’ equity increased from $96.62 million as of December 31, 2025 to $105.97 million as
+of June 30, 2026. The increase was driven by approximately $12.4 million of share capital issued during the period, comprising the ATM
+offering, the American Ventures share issuance, shares issued for the Jewel Bank convertible note, shares issued in satisfaction
+of a liability and employee shares, net of share buybacks, together with a $0.9 million favourable foreign currency translation movement,
+partly offset by the Group’s net loss of $4.0 million for the period.
+
+Liquidity
+and Capital Resources
+
+Our
+principal sources of liquidity are our cash and cash equivalents, short-term investments and cash generated from operations. Cash and
+cash equivalents and short-term investments consist mostly of cash on deposit with banks. As of June 30, 2026 we held cash and cash equivalents
+of $1.89 million at various financial institutions, compared to $2.42 million as of December 31, 2025.
+
+Investments at Fair Value:
+
+ During Q2, the Company entered
+into an agreement to acquire a senior secured convertible note, convertible at the Company’s election into 9.9% equity in
+Jewel Bank. The Company has determined that cost represents the most appropriate estimate of fair value as of June 30, 2026, in
+accordance with IFRS 9. The Company will reassess this estimate at each reporting date and will remeasure the investment at fair
+value once sufficient information becomes available. 
+
+ The Company’s investment in Entrepreneur
+Resorts Limited (“ERL”) is carried at fair value of $1,381,666 as of June 30, 2026. As no new information or transactions have
+occurred since December 31, 2025 that would indicate a change in value, the Company has determined that the fair value as of December
+31, 2025 remains the best available estimate as of June 30, 2026. Fair value will be reassessed at the next reporting period or upon
+the occurrence of an event providing evidence of a change in value. 
+
+Going
+Concern
+
+Pursuant
+to IAS 1, Presentation of Financial Statements, the Company is required to evaluate, at each annual and interim reporting date, whether
+conditions or events, considered in the aggregate, raise substantial doubt about its ability to continue as a going concern within one
+year after the date on which the financial statements are issued. The Group incurred net loss of US$3.98 million and generated
+cash flows from operations of US$6.66 million during the period ended June 30, 2026. As of June 30, 2026 the Group’s current liabilities
+of $14.91 million exceeded its current assets of $10.10 million, and the Group had accumulated losses of US$141.68 million.
+On that basis, management has determined that, without additional capital being raised in the next twelve months, there is substantial
+doubt about the Company’s ability to continue as a going concern.
+
+The
+Company’s unaudited consolidated financial statements as of June 30, 2026 have been prepared on a going concern basis. Although
+the Company has taken, and plans to continue to take, proactive measures to strengthen its liquidity position and provide additional
+financial flexibility, including the capital plan announced on August 27, 2026 and discussions with lenders and bankers, there can be
+no assurance that these measures, including their timing and terms, will be successful or sufficient.
+
+Subsequent
+events
+
+Subsequent
+to June 2026, the Company has issued 9,905,782 ordinary shares for the consideration of $1.65 million for the utilization of At The Market
+Offering.
+
+Subsequent
+to June 30, 2026, on September 25, 2026 the Company delivered a notice of acceleration to Jewel Bank under its Senior Secured Convertible
+Note, citing certain breaches of the Note and related agreements. The parties are in communication regarding the various matters and
+the outcome cannot be determined at this time.
+
+Subsequent
+to June 2026, the record date of July 31, 2026 was set for the second round of the Company’s Share Loyalty Bonus Program, under
+which a cash bonus of $0.10 per qualifying share is payable to shareholders holding shares in book entry through January 30, 2027.
+
+Subsequent
+to June 2026, the Company announced a five-year capital plan under its $1.2 billion shelf registration, to be funded through the issuance
+of a publicly registered Perpetual Preferred Security with an initial offering targeted at $12.5 million.
+
+Two
+developments in the Company’s legal proceedings occurred after the end of the period:
+
+● | By summary order dated
+ August 31, 2026, the U.S. Court of Appeals for the Second Circuit vacated the preliminary injunction entered by the U.S. District
+ Court for the Southern District of New York on March 13, 2025, which had restrained the Company from issuing shares, raising capital
+ and purchasing Bitcoin, and remanded the matter to the district court for further proceedings.
+
+● | The Company received a
+ final ICC arbitration award in its favor entitling it to the return of 7,387,374 ordinary shares, monetary damages of $6,595,180
+ and legal fees and expenses of $1,375,988.53, a total of $7,971,168.53. No asset has been recognized in respect of the award in the
+ financial statements for the six months ended June 30, 2026.
+
+GENIUS
+GROUP LIMITED AND ITS SUBSIDIARIES
+
+CONSOLIDATED
+BALANCE SHEETS
+
+(Expressed
+in US Dollars)
+
+As of June 30, 2026 | As of December 31, 2025
+
+(Unaudited) | (Audited)
+
+Assets
+
+Current Assets
+
+Cash and cash equivalents | 1,883,775 | 2,422,988
+
+Accounts receivable, net | 1,066,049 | 1,122,988
+
+Other receivables | 1,734,079 | 1,734,281
+
+Due from related parties | 3,572,192 | 388,129
+
+Digital assets | - | 14,901,321
+
+Inventories | 211,532 | 682,575
+
+Prepaid expenses and other current assets | 1,631,115 | 2,613,014
+
+Total Current Assets | 10,098,742 | 23,865,296
+
+Property and equipment, net | 13,046,614 | 12,946,708
+
+Operating lease right-of-use asset | 2,136,932 | 2,315,726
+
+Investments at fair value | 9,998,751 | 1,396,266
+
+Investments in joint venture | 5,100,000 | 5,100,000
+
+Goodwill | 44,784,037 | 44,792,535
+
+Intangible assets, net | 9,580,637 | 9,763,092
+
+Other receivables | 795,492 | 814,457
+
+Other non-current assets | 35,941,962 | 35,941,961
+
+Total Assets | 131,483,167 | 136,936,041
+
+Liabilities and Shareholders’ Equity
+
+Current Liabilities
+
+Accounts payable | 6,539,417 | 4,253,912
+
+Accrued expenses and other current liabilities | 2,677,214 | 3,564,543
+
+Deferred revenue | 4,059,913 | 3,886,345
+
+Income tax payable | 50,630 | 71,263
+
+Due to related parties | 1,169,741 | 7,009,162
+
+Operating lease liabilities – current portion | 325,264 | 234,169
+
+Loans payable – current portion | 101,532 | 8,577,774
+
+Short term debt | 25,000 | 25,000
+
+Total Current Liabilities | 14,948,711 | 27,622,168
+
+Due to related parties | 9,239,094 | 9,722,569
+
+Operating lease liabilities – non current portion | 1,939,977 | 2,066,167
+
+Deferred tax liability | (626,267 | ) | 907,500
+
+Loans payable – non-current portion | 6,784 | -
+
+Total Liabilities | 25,508,299 | 40,318,404
+
+Commitments and Contingencies Shareholders’ Equity:
+
+Contributed capital | 251,089,794 | 238,695,979
+
+Treasury shares | (4,346,764 | ) | (4,346,764 | )
+
+Reserves | (6,188,838 | ) | (7,131,612 | )
+
+Accumulated deficit | (141,681,155 | ) | (137,963,053 | )
+
+Capital and reserves attributable to owners of Genius Group Ltd | 98,873,037 | 89,254,550
+
+Non controlling interest | 7,101,831 | 7,363,087
+
+Total Shareholders’ Equity | 105,974,868 | 96,617,637
+
+Total Liabilities and Shareholders’ Equity | 131,483,167 | 136,936,041
+
+GENIUS
+GROUP LIMITED AND ITS SUBSIDIARIES
+
+CONSOLIDATED
+STATEMENTS OF OPERATIONS AND COMPREHENSIVE LOSS
+
+(Expressed
+
+In US Dollars)
+
+For the 6 months period ended June 30, 2026 | For
+the 6 months period ended June 30, 2025
+
+(Unaudited) | (Unaudited)
+
+Revenue | $ | 6,199,005 | $ | 2,585,564
+
+Cost of revenue | (2,690,593 | ) | (1,367,536 | )
+
+Gross profit | 3,508,412 | 1,218,028
+
+Operating (Expenses) Income
+
+General and administrative | (10,539,710 | ) | (10,638,567 | )
+
+Depreciation and amortization | (357,282 | ) | (727,573 | )
+
+Other operating income | 17,214 | 418
+
+Legal expenses | (1,247,189 | ) | (1,023,496 | )
+
+Loss from foreign currency transactions | (22,933 | ) | (272,299 | )
+
+Total operating expenses | (12,149,900 | ) | (12,661,517 | )
+
+Loss from Operations | (8,641,488 | ) | (11,443,489 | )
+
+(Expense) Income
+
+Interest expense, net | (500,962 | ) | (735,670 | )
+
+Loss on sale of Digital asset | (3,138,337 | ) | (5,873,799 | )
+
+Reversal of impairment loss | 3,179,313 | -
+
+Other expense | (8,293 | ) | -
+
+Other income | 45,828 | 3,083
+
+Total Other Expense | (422,451 | ) | (6,606,386 | )
+
+Loss Before Income Tax from continuing operations | (9,063,939 | ) | (18,049,875 | )
+
+Income Tax (Expense) / Benefit | (544 | ) | 1,186
+
+Net Loss from continuing operations | (9,064,483 | ) | (18,048,689 | )
+
+Profit/(Loss) from discontinued operations, net of tax | 5,085,125 | (954,852 | )
+
+Net Loss | (3,979,358 | ) | (19,003,541 | )
+
+Other comprehensive loss:
+
+Foreign currency translation | 942,774 | 481,899
+
+Total Comprehensive Loss | (3,036,584 | ) | (18,521,642 | )
+
+Total Comprehensive Loss is attributable to:
+
+Owners of Genius Group Ltd | (2,775,328 | ) | (18,492,255 | )
+
+Non controlling interest | (261,256 | ) | (29,387 | )
+
+Total Comprehensive Loss | (3,036,584 | ) | (18,521,642 | )
+
+Weighted-average number of shares outstanding, basic and diluted | 162,675,202 | 53,195,540
+
+Basic and diluted loss per share from continuing operations | (0.06 | ) | (0.34 | )
+
+GENIUS
+GROUP LIMITED AND ITS SUBSIDIARIES
+
+CONSOLIDATED
+STATEMENTS OF CHANGES IN SHAREHOLDERS’ EQUITY
+
+(Expressed
+
+In
+US dollars)
+
+Contributed Capital | Non- controlling Interest | Foreign Currency | Reserves | Accumulated Deficit | Total Equity
+
+Balance, January 1, 2025 | 166,301,870 | 5,631,729 | (110,313 | ) | (8,398,000 | ) | (84,014,856 | ) | 79,410,430
+
+Net loss | — | (29,387 | ) | — | — | (18,974,154 | ) | (19,003,541 | )
+
+Foreign currency translation adjustments | — | — | 481,899 | — | — | 481,899
+
+Genius Group- ATM shares | 6,576,331 | — | — | — | — | 6,576,331
+
+CEO purchase of shares | 336,000 | — | — | — | — | 336,000
+
+Acquisition of Assets of XD Academy | 40,000 | — | — | — | — | 40,000
+
+Share based compensation | (405,897 | ) | — | — | — | — | (405,897 | )
+
+H1 2025 Share Plan | 398,792 | — | — | — | — | 398,792
+
+Balance, June 30, 2025 | 173,247,096 | 5,602,342 | 371,586 | (8,398,000 | ) | (102,989,010 | ) | 67,834,014
+
+Contributed Capital | Treasury Shares | Non- controlling Interest | Foreign Currency | Reserves | Accumulated Deficit | Total Equity
+
+Balance, January 1, 2026 | 238,695,979 | (4,346,764 | ) | 7,363,087 | 1,041,958 | (8,173,570 | ) | (137,963,053 | ) | 96,617,637
+
+Net loss | — | — | (261,256 | ) | — | — | (3,718,102 | ) | (3,979,358 | )
+
+Foreign currency translation adjustments | — | — | — | 942,774 | — | — | 942,774
+
+Genius Group – ATM shares | 3,735,505 | — | — | — | — | — | 3,735,505
+
+Shares buyback | (58,325 | ) | — | — | — | — | — | (58,325 | )
+
+American Ventures – share issuance | 7,209,999 | — | — | — | — | — | 7,209,999
+
+Employee shares | 435,566 | — | — | — | — | — | 435,566
+
+Share issuance for Jewel Investment | 944,860 | — | — | — | — | — | 944,860
+
+Share issuance in satisfaction of liability | 126,210 | — | — | — | — | — | 126,210
+
+Balance, June 30, 2026 | 251,089,794 | (4,346,764 | ) | 7,101,831 | 1,984,732 | (8,173,570 | ) | (141,681,155 | ) | 105,974,868
+
+GENIUS
+GROUP LIMITED AND ITS SUBSIDIARIES
+
+CONSOLIDATED
+STATEMENTS OF CASH FLOWS
+
+(Expressed 
+
+In
+US Dollars)
+
+For the Six months Ended
+
+June 30, 2026 | June 30, 2025
+
+(Unaudited) | (Unaudited)
+
+Cash Flows from Operating Activities
+
+Net loss | $ | (3,979,358 | ) | $ | (19,003,541 | )
+
+Adjustments to reconcile net loss to net cash used in operating activities:
+
+Stock-based compensation | 1,010,000 | (405,897 | )
+
+Depreciation and amortization | 618,126 | 1,021,476
+
+Interest expense | 500,962 | 735,670
+
+Provision for credit loss | - | 2,080
+
+Loss on foreign exchange transactions | 22,933 | 272,299
+
+Loss on sale of Digital asset | 3,138,337 | 5,873,799
+
+Reversal of impairment loss | (3,179,313 | ) | -
+
+Gain on dissolution of a subsidiary | (5,495,192 | ) | -
+
+Non-cash share issuance | 126,210 | -
+
+Changes in operating assets and liabilities:
+
+Accounts receivable | 56,939 | 1,243,818
+
+Other receivable | 19,167 | (73,594 | )
+
+Prepaid expenses and other current assets | 61,392 | (3,920,266 | )
+
+Digital assets | 11,762,984 | 13,842,727
+
+Inventories | 471,041 | -
+
+Accounts payable | 2,285,505 | 830,599
+
+Accrued expenses and other current liabilities | (887,329 | ) | (445,310 | )
+
+Deferred revenue | 173,568 | (296,561 | )
+
+Income tax payable | (41,828 | ) | (59,611 | )
+
+Net Cash Provided by (Used in) Operating Activities | 6,664,144 | (382,312 | )
+
+Cash Flows from Investing Activities
+
+Internally developed software | (78,389 | ) | (149,873 | )
+
+Purchase of property, equipment and intangibles, net | (429,750 | ) | (4,499 | )
+
+Investment at fair value | (7,657,625 | ) | (40,000 | )
+
+Net Cash Used in Investing Activities | (8,165,764 | ) | (194,372 | )
+
+Cash Flows from Financing Activities
+
+Amount due to/from related party, net | (832,454 | ) | 341,042
+
+Interest paid | (372,760 | ) | (735,670 | )
+
+Proceeds from equity issuances, net | 11,322,745 | 7,311,098
+
+Repayment of borrowings, net | (8,597,662 | ) | (5,416,255 | )
+
+Lease payments | (35,096 | ) | -
+
+Net Cash Provided by Financing Activities | 1,484,773 | 1,500,215
+
+Effect of Exchange Rate Changes on Cash | (522,366 | ) | 155,515
+
+Net Increase / (Decrease) in Cash | (539,213 | ) | 1,079,046
+
+Cash – Beginning of period | 2,422,988 | 1,614,933
+
+Cash – End of period | 1,883,775 | 2,693,979
+
+Summary
+Consolidated Financial Data
+
+Unaudited Financials Six Months Ended (USD 000’s) | Audited Financials Year Ended (USD 000’s)
+
+Summary Income Data: | June 30, 2026 | June 30, 2025 | December 31, 2025 | December 31, 2024
+
+Revenue | 6,199 | 2,586 | 8,102 | 6,743
+
+Cost of revenue | (2,691 | ) | (1,368 | ) | (4,346 | ) | (3,754 | )
+
+Gross profit | 3,508 | 1,218 | 3,756 | 2,989
+
+Other Operating Income | 17 | - | 258 | 24
+
+Operating Expenses | (12,167 | ) | (12,661 | ) | (26,836 | ) | (20,804 | )
+
+Operating Loss | (8,642 | ) | (11,443 | ) | (22,822 | ) | (17,791 | )
+
+Other income | 3,226 | 3 | - | 5,032
+
+Other Expense | (3,646 | ) | (6,609 | ) | (25,892 | ) | (6,822 | )
+
+Net Loss Before Tax | (9,062 | ) | (18,049 | ) | (48,714 | ) | (19,581 | )
+
+Tax (Expense)/Benefits | (1 | ) | 1 | (653 | ) | 2,252
+
+Net Loss from continuing operations | (9,063 | ) | (18,048 | ) | (49,367 | ) | (17,329 | )
+
+(Loss)/ Profit from discontinued operations, net of tax | 5,085 | (955 | ) | (6,090 | ) | (7,611 | )
+
+Net loss | (3,978 | ) | (19,003 | ) | (55,457 | ) | (24,940 | )
+
+Other Comprehensive Income/(Loss) | 942 | 482 | 1,151 | (49 | )
+
+Total Loss | (3,036 | ) | (18,521 | ) | (54,306 | ) | (24,989 | )
+
+Net loss per share, basic and diluted from continuing operations | (0.06 | ) | (0.34 | ) | (0.48 | ) | (0.71 | )
+
+Weighted-average number of shares outstanding, basic and diluted | 162,675,202 | 53,195,540 | 101,452,196 | 24,153,220
+
+Unaudited Financials Six Months Ended, (USD 000’s) | Audited Financials Year
+Ended (USD 000’s)
+
+June 30, 2026 | December 31, 2025 | December 31, 2024
+
+Summary Balance Sheet Data:
+
+Total current assets | 10,099 | 23,865 | 42,419
+
+Total non-current assets | 121,385 | 113,071 | 58,636
+
+Total Assets | 131,484 | 136,936 | 101,055
+
+Total current liabilities | 14,949 | 27,622 | 11,609
+
+Total non-current liabilities | 10,560 | 12,696 | 10,036
+
+Total Liabilities | 25,509 | 40,318 | 21,645
+
+Total Shareholders’ Equity | 105,975 | 96,618 | 79,410
+
+Total Liabilities and Shareholders’ Equity | 131,484 | 136,936 | 101,055
+
+Operational
+and Central Results
+
+In
+addition to our IFRS results, we present our results split between “Operational” and “Central”. Operational comprises
+the Group’s operating businesses — Genius School, Genius Academy and Genius Resorts, together with the entities that support
+them — and includes all of the Group’s revenue and cost of revenue and the operating expenses of those businesses. Central
+comprises the holding company: group head office and corporate costs, financing costs, and the Group’s treasury activities, including
+its digital asset holdings. Each line of the Operational and Central columns sums to the corresponding line of the consolidated statement
+of operations, and the Total column agrees to that statement in every period presented.
+
+Summary
+Financial Data (Operational Metrics)
+
+June 30, 2026 | June 30, 2025
+
+Summary Income Data: | Operational | Central | Total | Operational | Central | Total
+
+Revenue | 6,199 | - | 6,199 | 2,586 | - | 2,586
+
+Cost of revenue | (2,691 | ) | - | (2,691 | ) | (1,368 | ) | - | (1,368 | )
+
+Gross profit | 3,508 | - | 3,508 | 1,218 | - | 1,218
+
+Other Operating Income | 17 | - | 17 | - | - | -
+
+Operating Expenses | (4,856 | ) | (7,311 | ) | (12,167 | ) | (2,331 | ) | (10,330 | ) | (12,661 | )
+
+Operating profit (Loss) | (1,331 | ) | (7,311 | ) | (8,642 | ) | (1,113 | ) | (10,330 | ) | (11,443 | )
+
+Other income | 3,220 | 6 | 3,226 | 3 | - | 3
+
+Other Expense | (499 | ) | (3,147 | ) | (3,646 | ) | (735 | ) | (5,874 | ) | (6,609 | )
+
+Net Income (Loss) Before Tax | 1,390 | (10,452 | ) | (9,062 | ) | (1,845 | ) | (16,204 | ) | (18,049 | )
+
+Tax Expense | (1 | ) | - | (1 | ) | - | 1 | 1
+
+Net Income (Loss) After Tax from continuing operations | 1,389 | (10,452 | ) | (9,063 | ) | (1,845 | ) | (16,203 | ) | (18,048 | )
+
+(Loss)/ Profit from discontinued operations, net of tax | 5,085 | - | 5,085 | (955 | ) | - | (955 | )
+
+Net Income (Loss) After Tax | 6,474 | (10,452 | ) | (3,978 | ) | (2,800 | ) | (16,203 | ) | (19,003 | )
+
+Other Comprehensive Income/(loss) | 942 | - | 942 | 482 | - | 482
+
+Total Income (Loss) | 7,416 | (10,452 | ) | (3,036 | ) | (2,318 | ) | (16,203 | ) | (18,521 | )

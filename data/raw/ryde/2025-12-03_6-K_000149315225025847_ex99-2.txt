@@ -1,0 +1,483 @@
+EX-99.2
+
+4
+
+ex99-2.htm
+
+EX-99.2
+
+Exhibit
+99.2
+
+Securities
+Purchase Agreement
+
+This
+
+Securities Purchase Agreement 
+(this “
+Agreement
+”) is dated as
+of December 2, 2025 between Ryde Group Ltd, a Cayman Islands exempted company (the “
+Company
+”), and the purchaser identified
+on the signature page hereto (including its successors and assigns, the “
+Purchaser
+”).
+
+WHEREAS,
+subject to the terms and conditions set forth in this Agreement and pursuant to an effective registration statement under the U.S. Securities
+Act of 1933, as amended (the “
+Securities Act
+”), the Company desires to issue and sell to the Purchaser, and the Purchaser
+desires to purchase from the Company, securities of the Company as more fully described in this Agreement.
+
+NOW,
+THEREFORE, IN CONSIDERATION of the mutual covenants contained in this Agreement, and for other good and valuable consideration the receipt
+and adequacy of which are hereby acknowledged, the Company and the Purchaser agree as follows:
+
+1.
+
+Sale and Purchase.
+
+1.1
+
+Sale and Purchase of Class A Ordinary Shares
+. Subject to the terms and conditions set forth herein, the Company hereby agrees
+to sell, and the Purchaser, agrees to purchase, certain number of Class A ordinary shares, par value US$0.0002 per share, of the Company
+(“
+Class A Ordinary Shares
+”), at a purchase price of US$0.36 per Class A Ordinary Share. The number of Class A Ordinary
+Shares to be purchased by the Purchaser and the corresponding aggregate purchase price (the “
+Aggregate Purchase Price
+”)
+are as specified below the Purchaser’s name on the signature page of this Agreement.
+
+1.2
+
+Closing
+. The consummation of the sale and purchase of the Class A Ordinary Shares hereunder (the “
+Closing
+”,
+and the date of the Closing, the “
+Closing Date
+”) shall take place on the date as agreed by the Company and the Purchaser
+and be held remotely via electronic exchange of documents or at such other location and date as may be agreed upon in writing by the
+Company and the Purchaser. The Closing shall take place on the terms and subject to the satisfaction or, to the extent permissible, waiver
+by the party entitled to the benefit of the conditions set forth in Section 1.4 (other than conditions that by their nature are to be
+satisfied at that Closing, but subject to the satisfaction or, to the extent permissible, waiver of those conditions).
+
+1.3
+
+Payment for and Issuance of Class A Ordinary Shares
+. Prior to the Closing Date, the Purchaser shall deliver the Aggregate Purchase
+Price by wire transfer of immediately available funds in U.S. dollars to the bank account designated by the Company. On the Closing Date,
+the Company shall issue and direct VStock, the transfer agent of the Company’s Class A Ordinary Shares (the “
+Transfer
+Agent
+”), to deliver the number of Class A Ordinary Shares fully paid for by the Purchaser to the Purchaser’s brokerage
+account as specified below the Purchaser’s name on the signature page of this Agreement.
+
+1.4
+
+Closin
+g 
+Conditions
+.
+
+(a)
+The obligations of the Company hereunder in connection with the Closing are subject to the following conditions being met:
+
+(i)
+the accuracy of the representations and warranties of the Purchaser contained herein (unless as of a specific date therein in which case
+they shall be accurate as of such date) in all material respects on the Closing Date;
+
+(ii)
+ all obligations, covenants and agreements of the Purchaser required to be performed on or prior to the Closing Date shall have
+been performed;
+
+(iii)
+the delivery by the Purchaser of this Agreement duly executed by the Purchaser; and
+
+(iv)
+the receipt by the Company of the Aggregate Purchase Price.
+
+(b)
+The obligations of the Purchaser hereunder in connection with the Closing are subject to the following conditions being met:
+
+(i)
+the accuracy of the representations and warranties of the Company contained herein (unless as of a specific date therein) in all material
+respects when made and on the Closing Date;
+
+(ii)
+ all obligations, covenants and agreements of the Company required to be performed on or prior to the Closing Date shall have been
+performed; and
+
+(iii)
+the delivery by the Company of this Agreement duly executed by the Company.
+
+2.
+
+Representations and
+Warranties of the Company
+.
+
+Except as set forth in the final prospectus filed for the Shelf Registration Statement (as defined below) in relation to the sale and
+purchase of the Class A Ordinary Shares hereunder (the “
+Prospectus
+”) or the supplement to the Prospectus complying
+with Rule 424(b) of the Securities Act (the “
+Prospectus Supplement
+”), the Company hereby makes the following representations
+and warranties to the Purchaser that as of the Closing Date:
+
+(a)
+
+Organization and Qualification
+. The Company is an exempted company with limited liability duly incorporated, validly existing
+and in good standing under the laws of the Cayman Islands, and each subsidiary of the Company is duly incorporated or organized, validly
+existing and in good standing (with respect to jurisdictions that recognize the concept of good standing) under the laws of its jurisdiction
+of organization. Each of the Company and its subsidiaries has the requisite power and authority to own, lease and operate its properties
+and to carry on its business as currently being conducted, and is duly qualified or licensed to do business in all material respects
+in each jurisdiction in which the property owned, leased or operated by it or the nature of the business conducted by it makes such qualification
+or licensing necessary.
+
+(b)
+
+Authorization; Enforcement; Validity
+. The Company has the requisite corporate power and authority to execute and deliver this
+Agreement and any other documents or agreements executed in connection with the transactions contemplated hereunder (the “
+Transaction
+Documents
+”) and to perform its obligations thereunder. The execution, delivery and performance by the Company of the Transaction
+Documents, including the issuance of the Class A Ordinary Shares, have been duly authorized by all necessary corporate action on the
+part of the Company. Each Transaction Document to which the Company is a party has been or will be duly executed and delivered by the
+Company, and, assuming the due authorization, execution and delivery by the Purchaser and the other parties thereto, constitutes a legal,
+valid and binding obligation of the Company, enforceable against it in accordance with its terms, except as limited by general equitable
+principles and applicable bankruptcy, insolvency, reorganization, moratorium and other laws of general application affecting enforcement
+of creditors’ rights generally.
+
+(c)
+
+Issuance of the Class A Ordinary Shares; Registration
+. The Class A Ordinary Shares are duly authorized and, when issued
+and paid for in accordance with the applicable Transaction Documents, will be duly and validly issued, fully paid and nonassessable,
+free and clear of all liens imposed by the Company. The Company has prepared and filed with the U.S. Securities and Exchange Commission
+(the “
+SEC
+”) a Registration Statement on Form F-3 (File No. 333-288587) (the “
+Shelf Registration Statement
+”)
+in conformity with the requirements of the Securities Act which registers the sale of the Class A Ordinary Shares, which became effective
+on September 2, 2025, including the Prospectus, and such amendments and supplements thereto as may have been required to the date of
+this Agreement. The Shelf Registration Statement is effective under the Securities Act and no stop order preventing or suspending the
+effectiveness of the Shelf Registration Statement or suspending or preventing the use of the Prospectus has been issued by the SEC and
+no proceedings for that purpose have been instituted or, to the knowledge of the Company, are threatened by the SEC. The Company was
+at the time of the filing of the Shelf Registration Statement eligible to use Form F-3. The Company is eligible to use Form F-3 under
+the Securities Act and it meets the transaction requirements with respect to the aggregate market value of securities being sold pursuant
+to this offering and during the twelve (12) months prior to this offering, as set forth in General Instruction I.B.5 of Form F-3.
+
+(d)
+
+Capitalization
+. All issued and outstanding Class A Ordinary Shares of the Company have been duly authorized and validly issued
+and are fully paid and non-assessable, were issued in compliance with applicable U.S. and other applicable securities laws and were not
+issued in violation of any preemptive right, resale right or right of first refusal.
+
+(e)
+
+No Conflicts
+. The execution, delivery and performance by the Company of the Transaction Documents, including the issuance of the
+Shares, will not (i) result in a violation of the Memorandum and Articles of Association of the Company in effect as of the date of this
+Agreement, (ii) conflict with, or constitute a default (or an event which with notice or lapse of time or both would become a default)
+under, or give to others any rights of termination, amendment, acceleration or cancellation of, any agreement to which the Company is
+a party, or (iii) result in a violation of any law applicable to the Company or by which any property or asset thereof is bound, except
+in the case of clauses (ii) and (iii) above, for such conflicts, defaults, rights or violations which would not, individually or in the
+aggregate, reasonably be expected to have a material adverse effect on the ability of the Company to perform its obligations under the
+Transaction Documents to which it is a party.
+
+(f)
+
+Filings, Consents and Approvals
+. The Company is not required to obtain any consent, waiver, authorization or order of,
+give any notice to, or make any filing or registration with, any court or other federal, state, local or other governmental authority
+or other person in connection with the execution, delivery and performance by the Company of the Transaction Documents, other than: (i)
+the filing with the SEC of the Prospectus Supplement and (ii) such other filings as are required to be made under applicable federal
+and state securities laws.
+
+(g)
+
+NYSE American Listing
+. The Class A Ordinary Shares are registered pursuant to Section 12(b) of the U.S. Securities Exchange Act
+of 1934, as amended (the “
+Exchange Act
+”) and the Class A Ordinary Shares are listed on NYSE American. The issuance
+and sale of the Class A Ordinary Shares under this Agreement and the transactions contemplated hereby do not contravene the rules and
+regulations of NYSE American.
+
+(h)
+
+No Additional Representations
+. The Company makes no representations or warranties as to any matter whatsoever except as expressly
+set forth in the Transaction Documents or in any certificate delivered by the Company to the Purchaser in accordance with the terms thereof.
+
+3.
+
+Representations and
+Warranties of the Purchaser
+. The Purchaser hereby
+represents and warrants as of the date hereof and as of the Closing Date to the Company as follows (unless as of a specific date therein,
+in which case they shall be accurate as of such date):
+
+(a)
+
+Or
+g
+anization; Authority
+. The Purchaser is either an individual or an entity duly incorporated or formed, validly existing
+and in good standing under the laws of the jurisdiction of its incorporation or formation with full right, corporate, partnership limited
+liability company or similar power and authority to enter into and to consummate the transactions contemplated by this Agreement and
+otherwise to carry out its obligations hereunder and thereunder. The execution and delivery of this Agreement and performance by the
+Purchaser of the transactions contemplated by this Agreement have been duly authorized by all necessary corporate, partnership, limited
+liability company or similar action, as applicable, on the part of the Purchaser. Each Transaction Document to which it is a party has
+been duly executed by the Purchaser, and when delivered by the Purchaser in accordance with the terms hereof, will constitute the valid
+and legally binding obligation of the Purchaser, enforceable against it in accordance with its terms, except: (i) as limited by general
+equitable principles and applicable bankruptcy, insolvency, reorganization, moratorium and other laws of general application affecting
+enforcement of creditors’ rights generally, (ii) as limited by laws relating to the availability of specific performance, injunctive
+relief or other equitable remedies and (iii) insofar as indemnification and contribution provisions may be limited by applicable law.
+
+(b)
+
+Understandin
+g
+s or Arrangements
+. The Purchaser is acquiring the Class A Ordinary Shares as principal for its own account
+and has no direct or indirect arrangement or understandings with any other persons to distribute or regarding the distribution of such
+Class A Ordinary Shares (this representation and warranty not limiting the Purchaser’s right to sell the Class A Ordinary Shares
+pursuant to the Shelf Registration Statement or otherwise in compliance with applicable federal and state securities laws). The Purchaser
+is acquiring the Class A Ordinary Shares hereunder in the ordinary course of its business.
+
+(c)
+
+Experience of the Purchaser
+. The Purchaser, either alone or together with its representatives, has such knowledge, sophistication
+and experience in business and financial matters so as to be capable of evaluating the merits and risks of the prospective investment
+in the Class A Ordinary Shares, and has so evaluated the merits and risks of such investment. The Purchaser is able to bear the economic
+risk of an investment in the Class A Ordinary Shares and, at the present time, is able to afford a complete loss of such investment.
+
+(d)
+
+Access to Information
+. The Purchaser acknowledges that it has had the opportunity to review the Transaction Documents (including
+all exhibits and schedules thereto) and all reports, schedules, forms, statements and other documents filed by the Company under the
+Securities Act and the Exchange Act, including pursuant to Section 13(a) or 15(d) thereof, including the exhibits thereto and documents
+incorporated by reference therein, together with the Prospectus and the Prospectus Supplement and, subject to the Company’s need
+to comply with Regulation FD, has been afforded (i) the opportunity to ask such questions as it has deemed necessary of, and to receive
+answers from, representatives of the Company concerning the terms and conditions of the offering of the Class A Ordinary Shares and the
+merits and risks of investing in the Class A Ordinary Shares; (ii) access to information about the Company and its financial condition,
+results of operations, business, properties, management and prospects sufficient to enable it to evaluate its investment; and (iii) the
+opportunity to obtain such additional information that the Company possesses or can acquire without unreasonable effort or expense that
+is necessary to make an informed investment decision with respect to the investment.
+
+(e)
+
+General Solicitation
+. The Purchaser is not purchasing the Class A Ordinary Shares as a result of any advertisement, article, notice
+or other communication regarding the Class A Ordinary Shares published in any newspaper, magazine or similar media or broadcast over
+television or radio or presented at any seminar or, to our knowledge, any other general solicitation or general advertisement.
+
+4.
+
+Confidentiality
+
+(a)
+Each party hereto shall and shall cause its representatives to, unless otherwise required by applicable law or stock exchange rules,
+(i) keep confidential and shall not disclose to any person the existence and substance of any Transaction Document, the negotiations
+relating to any Transaction Document and any non-public information with respect to the foregoing (collectively, “
+Confidential
+Information
+”); provided, however, that each party and its respective representatives may disclose such information to their
+respective affiliates, permitted assignees, financing sources, partners, shareholders, senior management, employees, professional advisors,
+agents in each case only where such persons are bound by appropriate non-disclosure obligations and have agreed to maintain the confidentiality
+of such information, or as otherwise required by any regulatory authority, law or regulation, or by legal process. Nothing herein shall
+restrict the Company from making required disclosure as reasonably necessary.
+
+(b)
+Confidential Information shall not include any information that is (i) previously known on a non-confidential basis by the receiving
+party or any of its representatives, (ii) in the public domain through no fault of such receiving party or any of its representatives,
+(iii) received from a person (other than the other party hereto or its representatives), so long as such person was not subject to a
+duty of confidentiality to that other party hereto, or (iv) developed independently by or on behalf of the receiving party or any of
+its representatives without reference to Confidential Information of the disclosing party.
+
+5.
+
+Miscellaneous.
+
+5.1
+
+Termination
+.
+
+This Agreement may be terminated by the Company by written notice to the Purchaser if the Closing has not been consummated on or before
+December 3, 2025.
+
+5.2
+
+Fees and Expenses
+. Except as expressly set forth in the Transaction Documents to the contrary, each party shall pay the fees and
+expenses of its advisers, counsel, accountants and other experts, if any, and all other expenses incurred by such party incident to the
+negotiation, preparation, execution, delivery and performance of this Agreement.
+
+5.3
+
+Entire A
+g
+reement
+. The Transaction Documents, together with the exhibits and schedules thereto, the Prospectus and the Prospectus
+Supplement, contain the entire understanding of the parties with respect to the subject matter hereof and thereof and supersede all prior
+agreements and understandings, oral or written, with respect to such matters, which the parties acknowledge have been merged into such
+documents, exhibits and schedules.
+
+5.4
+
+Notices
+. Any and all notices or other communications or deliveries required or permitted to be provided hereunder shall be in
+writing and shall be deemed given and effective on the earliest of: (a) the date of transmission, if such notice or communication is
+delivered via facsimile at the facsimile number or email attachment at the email address as set forth on the signature pages attached
+hereto at or prior to 6:00 p.m. (Singapore time) on a business day, (b) the next business day after the date of transmission, if such
+notice or communication is delivered via facsimile at the facsimile number or email attachment at the email address as set forth on the
+signature pages attached hereto on a day that is not a business day or later than 6:00 p.m. (Singapore time) on any business day, (c)
+the second (2nd) business day following the date of mailing, if sent by U.S. nationally recognized overnight courier service or (d) upon
+actual receipt by the party to whom such notice is required to be given. The address for such notices and communications shall be as
+set forth on the signature pages attached hereto.
+
+5.5
+
+Amendments; Waivers
+. No provision of this Agreement may be waived, modified, supplemented or amended except in a written instrument
+signed, in the case of an amendment, by the Company and the Purchaser or, in the case of a waiver, by the party against whom enforcement
+of any such waived provision is sought. Any amendment effected in accordance with this Section 5.5 shall be binding upon the Purchaser
+and holder of Class A Ordinary Shares and the Company.
+
+5.6
+
+Headings
+. The headings herein are for convenience only, do not constitute a part of this Agreement and shall not be deemed to
+limit or affect any of the provisions hereof.
+
+5.7
+
+Successors and Assi
+g
+ns
+. This Agreement shall be binding upon and inure to the benefit of the parties and their successors
+and permitted assigns. The Company may not assign this Agreement or any rights or obligations hereunder without the prior written consent
+of the Purchaser (other than by merger). The Purchaser may assign any or all of its rights under this Agreement to any person to whom
+such Purchaser assigns or transfers any Class A Ordinary Shares, provided that such transferee agrees in writing to be bound, with respect
+to the transferred Class A Ordinary Shares, by the provisions of the Transaction Documents that apply to the “Purchaser.”
+
+5.8
+
+No Third-Party Beneficiaries
+. This Agreement is intended for the benefit of the parties hereto and their respective successors
+and permitted assigns and is not for the benefit of, nor may any provision hereof be enforced by, any other person.
+
+5.9
+
+Governing Law
+. This Agreement will be governed by, and construed in accordance with, the laws of the State of New York applicable
+to agreements made and to be performed entirely in such State, without regard to the conflicts of laws principles thereof.
+
+5.10
+
+Execution
+. This Agreement may be executed in two or more counterparts, all of which when taken together shall be considered one
+and the same agreement and shall become effective when counterparts have been signed by each party and delivered to each other party,
+it being understood that the parties need not sign the same counterpart. In the event that any signature is delivered by facsimile transmission
+or by e-mail delivery of a “.pdf” format data file, such signature shall create a valid and binding obligation of the party
+executing (or on whose behalf such signature is executed) with the same force and effect as if such facsimile or “.pdf” signature
+page were an original thereof.
+
+5.11
+
+Severabilit
+y. If any term, provision, covenant or restriction of this Agreement is held by a court of competent jurisdiction to
+be invalid, illegal, void or unenforceable, the remainder of the terms, provisions, covenants and restrictions set forth herein shall
+remain in full force and effect and shall in no way be affected, impaired or invalidated, and the parties hereto shall use their commercially
+reasonable efforts to find and employ an alternative means to achieve the same or substantially the same result as that contemplated
+by such term, provision, covenant or restriction. It is hereby stipulated and declared to be the intention of the parties that they would
+have executed the remaining terms, provisions, covenants and restrictions without including any of such that may be hereafter declared
+invalid, illegal, void or unenforceable.
+
+5.12
+
+Remedies
+. The parties hereto acknowledge and agree that irreparable harm would occur for which money damages would not be an adequate
+remedy if any provision of this Agreement was not performed in accordance with its specific terms or was otherwise breached. It is accordingly
+agreed that, in addition to any other remedies at law or in equity, each party hereto shall be entitled to injunctions to prevent breaches
+or threatened breaches of this Agreement and to enforce specifically the terms and provisions of this Agreement without posting any bond
+or other undertaking.
+
+5.13
+
+Construction
+. The parties agree that each of them and/or their respective counsel have reviewed and had an opportunity to revise
+the Transaction Documents and, therefore, the normal rule of construction to the effect that any ambiguities are to be resolved against
+the drafting party shall not be employed in the interpretation of the Transaction Documents or any amendments thereto. In addition, each
+and every reference to share prices and Class A Ordinary Shares in any Transaction Document shall be subject to adjustment for reverse
+and forward share splits, share dividends, share combinations and other similar transactions of the Class A Ordinary Shares that occur
+after the date of this Agreement.
+
+[Remainder
+of page intentionally left blank; signature page follows]
+
+[SIGNATURE
+PAGE TO SECURITIES PURCHASE AGREEMENT]
+
+IN
+WITNESS WHEREOF, the parties hereto have caused this Securities Purchase Agreement to be duly executed by their respective authorized
+signatories as of the date first indicated above.
+
+The
+ Company : | The
+ Purchaser :
+
+Ryde
+ Group Ltd
+
+By: | By:
+
+Name: | Zou
+ Junming Terence | Name:
+
+Title: | Chairman
+ and Chief Executive Officer | Title:
+
+Address
+ for Notice : | Address
+ for Notice :
+
+Email : | Attention :
+
+Email :
+
+Number
+ of Class A Ordinary Shares :
+
+Aggregate
+ Purchase Price :
+
+Beneficial
+ Account Name :
+
+Beneficial
+ Account Number :
+
+DTC
+ Participant Name :
+
+DTC
+ Participant Number :
+
+DTC
+ Participant Contact Information :

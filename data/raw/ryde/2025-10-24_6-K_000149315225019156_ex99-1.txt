@@ -1,0 +1,2928 @@
+false
+
+2025-06-30
+
+Q2
+
+2025
+
+--12-31
+
+0001971115
+
+0001971115
+
+2025-01-01
+
+2025-06-30
+
+0001971115
+
+2024-12-31
+
+0001971115
+
+2025-06-30
+
+0001971115
+
+us-gaap:CommonClassAMember
+
+2025-06-30
+
+0001971115
+
+us-gaap:CommonClassAMember
+
+2024-12-31
+
+0001971115
+
+us-gaap:CommonClassBMember
+
+2025-06-30
+
+0001971115
+
+us-gaap:CommonClassBMember
+
+2024-12-31
+
+0001971115
+
+2024-01-01
+
+2024-06-30
+
+0001971115
+
+us-gaap:CommonStockMember
+
+us-gaap:CommonClassBMember
+
+2023-12-31
+
+0001971115
+
+us-gaap:AdditionalPaidInCapitalMember
+
+2023-12-31
+
+0001971115
+
+us-gaap:RetainedEarningsMember
+
+2023-12-31
+
+0001971115
+
+us-gaap:AccumulatedTranslationAdjustmentMember
+
+2023-12-31
+
+0001971115
+
+us-gaap:AccumulatedOtherComprehensiveIncomeMember
+
+2023-12-31
+
+0001971115
+
+us-gaap:NoncontrollingInterestMember
+
+2023-12-31
+
+0001971115
+
+2023-12-31
+
+0001971115
+
+us-gaap:CommonStockMember
+
+us-gaap:CommonClassAMember
+
+2023-12-31
+
+0001971115
+
+us-gaap:CommonStockMember
+
+us-gaap:CommonClassBMember
+
+2024-12-31
+
+0001971115
+
+us-gaap:AdditionalPaidInCapitalMember
+
+2024-12-31
+
+0001971115
+
+us-gaap:RetainedEarningsMember
+
+2024-12-31
+
+0001971115
+
+us-gaap:AccumulatedTranslationAdjustmentMember
+
+2024-12-31
+
+0001971115
+
+us-gaap:AccumulatedOtherComprehensiveIncomeMember
+
+2024-12-31
+
+0001971115
+
+us-gaap:NoncontrollingInterestMember
+
+2024-12-31
+
+0001971115
+
+us-gaap:CommonStockMember
+
+us-gaap:CommonClassAMember
+
+2024-12-31
+
+0001971115
+
+us-gaap:CommonStockMember
+
+us-gaap:CommonClassBMember
+
+2024-01-01
+
+2024-06-30
+
+0001971115
+
+us-gaap:AdditionalPaidInCapitalMember
+
+2024-01-01
+
+2024-06-30
+
+0001971115
+
+us-gaap:RetainedEarningsMember
+
+2024-01-01
+
+2024-06-30
+
+0001971115
+
+us-gaap:AccumulatedTranslationAdjustmentMember
+
+2024-01-01
+
+2024-06-30
+
+0001971115
+
+us-gaap:AccumulatedOtherComprehensiveIncomeMember
+
+2024-01-01
+
+2024-06-30
+
+0001971115
+
+us-gaap:NoncontrollingInterestMember
+
+2024-01-01
+
+2024-06-30
+
+0001971115
+
+us-gaap:CommonStockMember
+
+us-gaap:CommonClassAMember
+
+2024-01-01
+
+2024-06-30
+
+0001971115
+
+us-gaap:CommonStockMember
+
+us-gaap:CommonClassBMember
+
+2025-01-01
+
+2025-06-30
+
+0001971115
+
+us-gaap:AdditionalPaidInCapitalMember
+
+2025-01-01
+
+2025-06-30
+
+0001971115
+
+us-gaap:RetainedEarningsMember
+
+2025-01-01
+
+2025-06-30
+
+0001971115
+
+us-gaap:AccumulatedTranslationAdjustmentMember
+
+2025-01-01
+
+2025-06-30
+
+0001971115
+
+us-gaap:AccumulatedOtherComprehensiveIncomeMember
+
+2025-01-01
+
+2025-06-30
+
+0001971115
+
+us-gaap:NoncontrollingInterestMember
+
+2025-01-01
+
+2025-06-30
+
+0001971115
+
+us-gaap:CommonStockMember
+
+us-gaap:CommonClassAMember
+
+2025-01-01
+
+2025-06-30
+
+0001971115
+
+us-gaap:CommonStockMember
+
+us-gaap:CommonClassBMember
+
+2024-06-30
+
+0001971115
+
+us-gaap:AdditionalPaidInCapitalMember
+
+2024-06-30
+
+0001971115
+
+us-gaap:RetainedEarningsMember
+
+2024-06-30
+
+0001971115
+
+us-gaap:AccumulatedTranslationAdjustmentMember
+
+2024-06-30
+
+0001971115
+
+us-gaap:AccumulatedOtherComprehensiveIncomeMember
+
+2024-06-30
+
+0001971115
+
+us-gaap:NoncontrollingInterestMember
+
+2024-06-30
+
+0001971115
+
+2024-06-30
+
+0001971115
+
+us-gaap:CommonStockMember
+
+us-gaap:CommonClassAMember
+
+2024-06-30
+
+0001971115
+
+us-gaap:CommonStockMember
+
+us-gaap:CommonClassBMember
+
+2025-06-30
+
+0001971115
+
+us-gaap:AdditionalPaidInCapitalMember
+
+2025-06-30
+
+0001971115
+
+us-gaap:RetainedEarningsMember
+
+2025-06-30
+
+0001971115
+
+us-gaap:AccumulatedTranslationAdjustmentMember
+
+2025-06-30
+
+0001971115
+
+us-gaap:AccumulatedOtherComprehensiveIncomeMember
+
+2025-06-30
+
+0001971115
+
+us-gaap:NoncontrollingInterestMember
+
+2025-06-30
+
+0001971115
+
+us-gaap:CommonStockMember
+
+us-gaap:CommonClassAMember
+
+2025-06-30
+
+0001971115
+
+RYDE:RydeGroupLimitedMember
+
+2025-01-01
+
+2025-06-30
+
+0001971115
+
+RYDE:RydeGroupLimitedMember
+
+2025-06-30
+
+0001971115
+
+RYDE:RCSMember
+
+2025-01-01
+
+2025-06-30
+
+0001971115
+
+RYDE:RCSMember
+
+2025-06-30
+
+0001971115
+
+RYDE:RGTMember
+
+2025-01-01
+
+2025-06-30
+
+0001971115
+
+RYDE:RGTMember
+
+2025-06-30
+
+0001971115
+
+RYDE:RydeTechnologiesPteLtdMember
+
+2025-01-01
+
+2025-06-30
+
+0001971115
+
+RYDE:RydeTechnologiesPteLtdMember
+
+2025-06-30
+
+0001971115
+
+RYDE:RGTCPteLtdMember
+
+2025-01-01
+
+2025-06-30
+
+0001971115
+
+RYDE:RGTCPteLtdMember
+
+2025-06-30
+
+0001971115
+
+RYDE:RCSRPteLtdMember
+
+2025-01-01
+
+2025-06-30
+
+0001971115
+
+RYDE:RCSRPteLtdMember
+
+2025-06-30
+
+0001971115
+
+RYDE:MeiliTechnologiesPteLtdMember
+
+2025-01-01
+
+2025-06-30
+
+0001971115
+
+RYDE:MeiliTechnologiesPteLtdMember
+
+2025-06-30
+
+0001971115
+
+RYDE:MeiliTechnologiesSdnBhdMember
+
+2025-01-01
+
+2025-06-30
+
+0001971115
+
+RYDE:MeiliTechnologiesSdnBhdMember
+
+2025-06-30
+
+0001971115
+
+2024-01-01
+
+2024-12-31
+
+0001971115
+
+us-gaap:SubsequentEventMember
+
+us-gaap:CommonClassAMember
+
+2025-09-02
+
+2025-09-02
+
+0001971115
+
+us-gaap:SubsequentEventMember
+
+us-gaap:CommonClassAMember
+
+2025-09-02
+
+0001971115
+
+us-gaap:SubsequentEventMember
+
+RYDE:RegisteredDirectOfferingMember
+
+us-gaap:CommonClassAMember
+
+2025-09-10
+
+2025-09-10
+
+0001971115
+
+us-gaap:SubsequentEventMember
+
+RYDE:RegisteredDirectOfferingMember
+
+us-gaap:CommonClassAMember
+
+2025-09-10
+
+0001971115
+
+us-gaap:SubsequentEventMember
+
+us-gaap:CommonClassAMember
+
+2025-10-13
+
+2025-10-13
+
+0001971115
+
+us-gaap:SubsequentEventMember
+
+us-gaap:CommonClassAMember
+
+2025-10-13
+
+0001971115
+
+srt:MinimumMember
+
+2025-06-30
+
+0001971115
+
+srt:MaximumMember
+
+2025-06-30
+
+0001971115
+
+us-gaap:SalesRevenueNetMember
+
+us-gaap:CustomerConcentrationRiskMember
+
+RYDE:CustomersMember
+
+2025-01-01
+
+2025-06-30
+
+0001971115
+
+us-gaap:SalesRevenueNetMember
+
+us-gaap:CustomerConcentrationRiskMember
+
+RYDE:CustomersMember
+
+2024-01-01
+
+2024-12-31
+
+0001971115
+
+us-gaap:ComputerEquipmentMember
+
+2025-06-30
+
+0001971115
+
+us-gaap:OfficeEquipmentMember
+
+2025-06-30
+
+0001971115
+
+RYDE:RenovationsMember
+
+2025-06-30
+
+0001971115
+
+RYDE:OperatingLeaseRightOfUseAssetsMember
+
+2025-06-30
+
+0001971115
+
+RYDE:ConsultantsMember
+
+RYDE:ConsultingAgreementsMember
+
+2025-06-30
+
+0001971115
+
+RYDE:ConsultantsMember
+
+RYDE:ConsultingAgreementsMember
+
+2024-06-30
+
+0001971115
+
+us-gaap:ComputerEquipmentMember
+
+2024-12-31
+
+0001971115
+
+us-gaap:OfficeEquipmentMember
+
+2024-12-31
+
+0001971115
+
+us-gaap:BuildingImprovementsMember
+
+2024-12-31
+
+0001971115
+
+us-gaap:BuildingImprovementsMember
+
+2025-06-30
+
+0001971115
+
+RYDE:OperatingLeaseRightOfUseAssetsMember
+
+2024-12-31
+
+0001971115
+
+us-gaap:DevelopedTechnologyRightsMember
+
+2024-12-31
+
+0001971115
+
+us-gaap:DevelopedTechnologyRightsMember
+
+2025-06-30
+
+0001971115
+
+us-gaap:OtherIntangibleAssetsMember
+
+2024-12-31
+
+0001971115
+
+us-gaap:OtherIntangibleAssetsMember
+
+2025-06-30
+
+0001971115
+
+2023-02-20
+
+2023-02-20
+
+0001971115
+
+2023-01-01
+
+2023-12-31
+
+0001971115
+
+RYDE:JointVentureMember
+
+2024-12-31
+
+0001971115
+
+RYDE:JointVentureMember
+
+2025-06-30
+
+0001971115
+
+RYDE:RydeGroupLtdMember
+
+2025-01-01
+
+2025-06-30
+
+0001971115
+
+RYDE:RydeGroupLtdMember
+
+us-gaap:CommonClassAMember
+
+2025-01-01
+
+2025-06-30
+
+0001971115
+
+RYDE:JointVentureMember
+
+2024-01-01
+
+2024-06-30
+
+0001971115
+
+RYDE:JointVentureMember
+
+2025-01-01
+
+2025-06-30
+
+0001971115
+
+RYDE:DLGVenturesPteLtdMember
+
+2025-01-01
+
+2025-06-30
+
+0001971115
+
+RYDE:DLGVenturesPteLtdMember
+
+2024-01-01
+
+2024-12-31
+
+0001971115
+
+us-gaap:DomesticCountryMember
+
+2025-01-01
+
+2025-06-30
+
+0001971115
+
+us-gaap:ForeignCountryMember
+
+2025-01-01
+
+2025-06-30
+
+0001971115
+
+RYDE:MobilityMember
+
+2024-01-01
+
+2024-06-30
+
+0001971115
+
+RYDE:MobilityMember
+
+2025-01-01
+
+2025-06-30
+
+0001971115
+
+RYDE:QuickCommerceMember
+
+2024-01-01
+
+2024-06-30
+
+0001971115
+
+RYDE:QuickCommerceMember
+
+2025-01-01
+
+2025-06-30
+
+0001971115
+
+us-gaap:MembershipMember
+
+2024-01-01
+
+2024-06-30
+
+0001971115
+
+us-gaap:MembershipMember
+
+2025-01-01
+
+2025-06-30
+
+0001971115
+
+RYDE:AdvertisingInitiativesMember
+
+2024-01-01
+
+2024-06-30
+
+0001971115
+
+RYDE:AdvertisingInitiativesMember
+
+2025-01-01
+
+2025-06-30
+
+0001971115
+
+RYDE:OthersMember
+
+2024-01-01
+
+2024-06-30
+
+0001971115
+
+RYDE:OthersMember
+
+2025-01-01
+
+2025-06-30
+
+0001971115
+
+us-gaap:CommonClassAMember
+
+RYDE:ConsultantsMember
+
+2024-06-01
+
+2024-06-30
+
+0001971115
+
+us-gaap:CommonClassAMember
+
+RYDE:ConsultantsMember
+
+2024-06-30
+
+0001971115
+
+us-gaap:CommonClassBMember
+
+RYDE:MrTerenceZouMember
+
+2025-03-01
+
+2025-03-31
+
+0001971115
+
+us-gaap:CommonClassBMember
+
+RYDE:MrTerenceZouMember
+
+2025-03-31
+
+0001971115
+
+2025-05-21
+
+2025-05-21
+
+0001971115
+
+us-gaap:SubsequentEventMember
+
+RYDE:BarentszCapitalLtdMember
+
+RYDE:RGTMember
+
+2025-08-21
+
+0001971115
+
+us-gaap:SubsequentEventMember
+
+us-gaap:CommonClassBMember
+
+2025-09-15
+
+2025-09-15
+
+0001971115
+
+us-gaap:SubsequentEventMember
+
+us-gaap:CommonClassAMember
+
+2025-09-15
+
+2025-09-15
+
+0001971115
+
+us-gaap:SubsequentEventMember
+
+us-gaap:CommonClassAMember
+
+2025-10-09
+
+2025-10-09
+
+0001971115
+
+us-gaap:SubsequentEventMember
+
+us-gaap:CommonClassAMember
+
+2025-10-09
+
+0001971115
+
+us-gaap:SubsequentEventMember
+
+us-gaap:CommonClassBMember
+
+RYDE:MrTerenceZouMember
+
+2025-10-10
+
+2025-10-10
+
+0001971115
+
+us-gaap:SubsequentEventMember
+
+RYDE:RegisteredDirectOfferingMember
+
+us-gaap:CommonClassBMember
+
+2025-10-10
+
+2025-10-10
+
+0001971115
+
+us-gaap:SubsequentEventMember
+
+us-gaap:CommonClassBMember
+
+2025-10-10
+
+2025-10-10
+
+0001971115
+
+us-gaap:SubsequentEventMember
+
+us-gaap:CommonClassBMember
+
+RYDE:MrTerenceZouMember
+
+2025-10-10
+
+iso4217:USD
+
+xbrli:shares
+
+iso4217:USD
+
+xbrli:shares
+
+iso4217:SGD
+
+xbrli:pure
+
+iso4217:SGD
+
+xbrli:shares
+
+RYDE:Consultant
+
+Exhibit
+99.1
+
+RYDE
+GROUP LTD
+
+INDEX
+TO UNAUDITED INTERIM CONDENSED CONSOLIDATED FINANCIAL STATEMENTS
+
+Page
+
+Unaudited Interim Condensed Consolidated Balance Sheets as of December 31, 2024 and June 30, 2025 | F-2
+
+Unaudited Interim Condensed Consolidated Statements of Operations and Comprehensive Loss for the Six months Ended June 30, 2024 and 2025 | F-3
+
+Unaudited Interim Condensed Consolidated Statements of Changes in Shareholders’ Equity for the Six months Ended June 30, 2024 and 2025 | F-4
+
+Unaudited Interim Condensed Consolidated Statements of Cash Flows for the Six Months Ended June 30, 2024 and 2025 | F-5
+
+Notes to Unaudited Interim Condensed Consolidated Financial Statements | F-6
+ to F-21
+
+F- 1
+
+RYDE
+GROUP LTD
+
+UNAUDITED
+INTERIM CONDENSED CONSOLIDATED BALANCE SHEETS
+
+December 31, 2024 | June 30, 2025 | June 30, 2025
+
+S$’000 | S$’000 | US$’000
+
+ASSETS
+
+Current assets
+
+Cash and cash equivalents | 5,519 | 3,110 | 2,445
+
+Accounts receivable, net | 11 | 78 | 61
+
+Deposits, prepaid expenses and other current assets | 2,658 | 1,313 | 1,032
+
+Total current assets | 8,188 | 4,501 | 3,538
+
+Non-current assets
+
+Property and equipment, net | 155 | 113 | 89
+
+Intangible assets, net | 741 | 784 | 616
+
+Goodwill, net | - | - | -
+
+Investment in a joint venture | - | 1,867 | 1,468
+
+Total non-current assets | 896 | 2,764 | 2,173
+
+TOTAL ASSETS | 9,084 | 7,265 | 5,711
+
+LIABILITIES
+
+Current liabilities
+
+Accounts payable | 4,075 | 3,860 | 3,035
+
+Accrued expenses and other current liabilities | 974 | 1,051 | 826
+
+Operating lease obligations | 76 | 77 | 60
+
+Total current liabilities | 5,125 | 4,988 | 3,921
+
+Non-current liabilities
+
+Operating lease obligation | 59 | 20 | 16
+
+Deferred tax liabilities | 32 | - | -
+
+Total non-current liabilities | 91 | 20 | 16
+
+TOTAL LIABILITIES | 5,216 | 5,008 | 3,937
+
+SHAREHOLDERS’ EQUITY
+
+Ordinary shares, US$ 0.0002 of nominal or par value, 175,000,000 Class A Ordinary Shares and 75,000,000 Class B Ordinary Shares authorized, 27,597,426 Class A Ordinary Shares as of June 30, 2025 (2024: 22,747,426 ) and 6,542,400 Class B Ordinary Shares as of June 30, 2025 (2024: 3,542,000 ) | 7 | 9 | 7
+
+Additional paid-in capital | 48,397 | 51,829 | 40,749
+
+Accumulated deficit | ( 44,543 | ) | ( 49,353 | ) | ( 38,803 | )
+
+Foreign currency translation reserve | 111 | ( 122 | ) | ( 96 | )
+
+Equity attributable to owners of the Company | 3,972 | 2,363 | 1,857
+
+Non-controlling interests | ( 104 | ) | ( 106 | ) | ( 83 | )
+
+Total shareholders’ equity | 3,868 | 2,257 | 1,774
+
+TOTAL LIABILITIES AND SHAREHOLDERS’ EQUITY | 9,084 | 7,265 | 5,711
+
+The
+accompanying notes are an integral part of these unaudited interim condensed consolidated financial statements.
+
+F- 2
+
+RYDE
+GROUP LTD
+
+UNAUDITED
+INTERIM CONDENSED CONSOLIDATED STATEMENTS OF OPERATIONS AND COMPREHENSIVE LOSS
+
+2024 | 2025 | 2025
+
+For the six months ended June 30,
+
+2024 | 2025 | 2025
+
+S$’000 | S$’000 | US$’000
+
+Revenue | 4,376 | 5,748 | 4,519
+
+Other income | 43 | 45 | 35
+
+Drivers and riders cost and related expenses | ( 1,975 | ) | ( 2,922 | ) | ( 2,297 | )
+
+Employee benefits expenses | ( 1,102 | ) | ( 1,208 | ) | ( 950 | )
+
+Depreciation and amortization expenses | ( 247 | ) | ( 302 | ) | ( 237 | )
+
+Finance costs | ( 75 | ) | ( 3 | ) | ( 2 | )
+
+Other expenses | ( 4,755 | ) | ( 4,660 | ) | ( 3,664 | )
+
+Operational loss | ( 3,735 | ) | ( 3,302 | ) | ( 2,596 | )
+
+Share-based compensation | ( 9,807 | ) | ( 1,542 | ) | ( 1,212 | )
+
+Loss before income taxes | ( 13,542 | ) | ( 4,844 | ) | ( 3,808 | )
+
+Income tax expense | - | 32 | 25
+
+Loss for the year | ( 13,542 | ) | ( 4,812 | ) | ( 3,783 | )
+
+Other comprehensive loss:
+
+Foreign currency translation adjustment | 37 | ( 233 | ) | ( 183 | )
+
+Net loss and total other comprehensive loss | ( 13,505 | ) | ( 5,045 | ) | ( 3,966 | )
+
+Loss for the year attributable to:
+
+Owners of the Company | ( 13,530 | ) | ( 4,810 | ) | ( 3,781 | )
+
+Non-controlling interest | ( 12 | ) | ( 2 | ) | ( 2 | )
+
+Net income (loss) | ( 13,542 | ) | ( 4,812 | ) | ( 3,783 | )
+
+Net loss and total comprehensive loss attributable to:
+
+Owners of the Company | ( 13,493 | ) | ( 5,043 | ) | ( 3,964 | )
+
+Non-controlling interest | ( 12 | ) | ( 2 | ) | ( 2 | )
+
+Net loss and total comprehensive
+ loss | ( 13,505 | ) | ( 5,045 | ) | ( 3,966 | )
+
+Net loss per share attributable to ordinary shareholders
+
+Basic and diluted | ( 0.81 | ) | ( 0.18 | ) | ( 0.14 | )
+
+Weighted average number of ordinary shares used in computing net loss per share
+
+Basic and diluted (‘000) | 16,577 | 27,391 | 27,391
+
+The
+accompanying notes are an integral part of these unaudited interim condensed consolidated financial statements.
+
+F- 3
+
+RYDE
+GROUP LTD
+
+UNAUDITED
+INTERIM CONDENSED CONSOLIDATED STATEMENTS OF CHANGES IN SHAREHOLDERS’ EQUITY
+
+Class A Shares Outstanding | Class B Shares Outstanding | Par value | Additional paid-in capital | Accumulated deficit | Foreign currency translation reserve | Deficit attributable to owners of the Company | Non- controlling interests | Total equity
+
+Ordinary Shares
+
+Class A Shares Outstanding | Class B Shares Outstanding | Par value | Additional paid-in capital | Accumulated deficit | Foreign currency translation reserve | Deficit/ Equity attributable to owners of the Company | Non- controlling interests | Total equity
+
+‘000 | ‘000 | S$’000 | S$’000 | S$’000 | S$’000 | S$’000 | S$’000 | S$’000
+
+For the six months ended June 30, 2024
+
+Balance as of January 1, 2024 | 12,571 | 3,543 | 4 | 18,663 | ( 25,893 | ) | ( 117 | ) | ( 7,343 | ) | ( 79 | ) | ( 7,422 | )
+
+Net loss | - | - | - | - | ( 13,530 | ) | 37 | ( 13,493 | ) | ( 12 | ) | ( 13,505 | )
+
+Conversion of convertible loan from third parties | 68 | - | - | * | 372 | - | - | 372 | - | 372
+
+Share-based compensation | 1,500 | - | 1 | 9,863 | - | - | 9,864 | - | 9,864
+
+Issuance of new Class A Shares | 3,200 | - | 1 | 13,810 | - | - | 13,811 | - | 13,811
+
+Balance as of June 30, 2024 | 17,339 | 3,543 | 6 | 42,708 | ( 39,423 | ) | ( 80 | ) | 3,211 | ( 91 | ) | 3,120
+
+For the six months ended June 30, 2025
+
+Balance as of January 1, 2025 | 22,747 | 3,542 | 7 | 48,397 | ( 44,543 | ) | 111 | 3,972 | ( 104 | ) | 3,868
+
+Balance | 22,747 | 3,542 | 7 | 48,397 | ( 44,543 | ) | 111 | 3,972 | ( 104 | ) | 3,868
+
+Net loss | - | - | - | - | ( 4,810 | ) | ( 233 | ) | ( 5,043 | ) | ( 2 | ) | ( 5,045 | )
+
+Share-based compensation | - | 3,000 | 1 | 1,566 | - | - | 1,567 | - | 1,567
+
+Issuance of new Class A Shares | 4,850 | - | 1 | 1,866 | - | - | 1,867 | - | 1,867
+
+Balance as of June 30, 2025 | 27,597 | 6,542 | 9 | 51,829 | ( 49,353 | ) | ( 122 | ) | 2,363 | ( 106 | ) | 2,257
+
+US$’000 | US$’000 | US$’000 | US$’000 | US$’000 | US$’000 | US$’000
+
+Balance as of June 30, 2025 | 27,597 | 6,542 | 7 | 40,749 | ( 38,803 | ) | ( 96 | ) | 1,857 | ( 83 | ) | 1,774
+
+Balance | 27,597 | 6,542 | 7 | 40,749 | ( 38,803 | ) | ( 96 | ) | 1,857 | ( 83 | ) | 1,774
+
+* | Amount
+ less than S$1,000.
+
+The
+accompanying notes are an integral part of these unaudited interim condensed consolidated financial statements.
+
+F- 4
+
+RYDE
+GROUP LTD
+
+UNAUDITED
+INTERIM CONDENSED CONSOLIDATED STATEMENTS OF CASH FLOWS
+
+2024 | 2025 | 2025
+
+For the six months ended June 30,
+
+2024 | 2025 | 2025
+
+S$’000 | S$’000 | US$’000
+
+CASH FLOWS FROM OPERATING ACTIVITIES
+
+Loss before income taxes | ( 13,542 | ) | ( 4,844 | ) | ( 3,808 | )
+
+Adjustments to reconcile net loss to net cash provided by (used in) operating activities:
+
+Amortization | 218 | 257 | 202
+
+Depreciation | 29 | 45 | 35
+
+Amortization of debt issuance cost | 15 | - | -
+
+Interest expense | 60 | 3 | 2
+
+Share-based compensation | 9,807 | 1,542 | 1,212
+
+Net effect of exchange rates changes | 94 | ( 208 | ) | ( 164 | )
+
+Changes in assets and liabilities:
+
+Accounts receivable, net | ( 7 | ) | ( 67 | ) | ( 53 | )
+
+Deposits, prepaid expenses and other current assets | ( 3,612 | ) | 1,345 | 1,059
+
+Accounts payable | ( 1,654 | ) | ( 217 | ) | ( 171 | )
+
+Accrued expenses and other current liabilities | ( 905 | ) | 78 | 61
+
+Operating lease obligations | ( 25 | ) | ( 40 | ) | ( 31 | )
+
+Net cash used in operating activities | ( 9,522 | ) | ( 2,106 | ) | ( 1,656 | )
+
+CASH FLOWS FROM INVESTING ACTIVITIES
+
+Purchase of plant and equipment | - | ( 3 | ) | ( 2 | )
+
+Additions in intangible assets | ( 263 | ) | ( 300 | ) | ( 236 | )
+
+Net cash used in investing activities | ( 263 | ) | ( 303 | ) | ( 238 | )
+
+CASH FLOWS FROM FINANCING ACTIVITIES
+
+Issuance of new Class A Shares | 15,889 | - | -
+
+Proceeds from note from a shareholder | 950 | - | -
+
+Repayments of note from a shareholder | ( 3,800 | ) | - | -
+
+Repayments of convertible loans | ( 1,972 | ) | - | -
+
+Net cash provided by financial activities | 11,067 | - | -
+
+Net change in cash and cash equivalents | 1,282 | ( 2,409 | ) | ( 1,894 | )
+
+Cash and cash equivalents at beginning of year | 1,694 | 5,519 | 4,339
+
+Cash and cash equivalents at end of period | 2,976 | 3,110 | 2,445
+
+SUPPLEMENTAL CASH FLOW INFORMATION
+
+Cash paid for interest | 60 | 3 | 2
+
+Non-cash investing activities
+
+Non-cash transactions from acquisition of joint venture | - | 1,867 | 1,468
+
+Non-cash financing activities
+
+Issuance of shares by way of share-based compensation | 9,807 | 1,542 | 1,212
+
+The
+accompanying notes are an integral part of these unaudited interim condensed consolidated financial statements.
+
+F- 5
+
+RYDE
+GROUP LTD
+
+NOTES
+TO UNAUDITED INTERIM CONDENSED CONSOLIDATED FINANCIAL STATEMENTS
+
+1 | Organization
+ and business overview
+
+Ryde
+Group Ltd (the “Company”) is an investment holding company incorporated on February 21, 2023 under the laws of the Cayman
+Islands. The Company has no substantial operations other than holding all of the outstanding share capital of Ryde Group (BVI) Ltd (“Ryde
+BVI”) incorporated under the laws of the British Virgin Islands (“BVI) on February 22, 2023. Ryde BVI has no substantial
+operations other than holding all of the equity interest of Ryde Technologies Pte. Ltd., a Singapore company incorporated on September
+2, 2014.
+
+The
+Company through its subsidiaries provide mobility and quick commerce solutions to its consumers. Ryde is a technology-driven platform
+that offers reliable, affordable, and sustainable mobility and quick commerce solutions to our consumers. The Company’s core business
+is divided into two categories: (i) mobility, which involves providing flexible and scheduled carpooling and ride-hailing services, matching
+riders with our network of driver partners; and (ii) quick commerce, which involves on-demand, scheduled, and multi-stop parcel delivery
+services. Our technology-enabled platform enables us to provide efficient, personalized, and cashless payment services, ensuring a seamless
+user experience for both riders and partners. Ultimately, Ryde is dedicated to providing sustainable, affordable, and convenient mobility
+and delivery solutions to our consumers.
+
+Ryde
+Group Ltd, and its subsidiaries are collectively referred to as the “Group” or “Ryde”.
+
+The
+Company is headquartered in Singapore.
+
+The
+condensed consolidated interim financial statements of the Company include the following entities:
+
+Schedule
+of financial statements of the company
+
+Name | Date of incorporation | Percentage of direct or indirect interests | Place of incorporation | Principal activities
+
+Ryde Group (BVI) Ltd | February 22, 2023 | 100 | % | British Virgin Islands | Dormant
+
+RCS (BVI) Ltd | May 14, 2024 | 100 | % | British Virgin Islands | Dormant
+
+RGT (BVI) Ltd | May 14, 2024 | 100 | % | British Virgin Islands | Dormant
+
+Ryde Technologies Pte. Ltd. | September 2, 2014 | 99.26 | % | Singapore | Mobility and quick commerce solutions
+
+RGTC Pte Ltd | August 2, 2024 | 100 | % | Singapore | Dormant
+
+RCSR Pte Ltd | November 1, 2024 | 100 | % | Singapore | Dormant
+
+Meili Technologies Pte. Ltd. | November 30, 2020 | 99.26 | % | Singapore | Quick Commerce solutions
+
+Meili Technologies (M) Sdn. Bhd. | December 16, 2021 | 99.26 | % | Malaysia | Dormant
+
+The
+major rights, preferences and privileges of the Class A and Class B Ordinary Shares are as follows:
+
+Conversion
+rights
+
+Class
+B Ordinary Shares may be converted into the same number of Class A Ordinary Shares at the option of the holders thereof at any time,
+while Class A Ordinary Shares cannot be converted into Class B Ordinary Shares under any circumstances.
+
+F- 6
+
+RYDE
+GROUP LTD
+
+NOTES
+TO UNAUDITED INTERIM CONDENSED CONSOLIDATED FINANCIAL STATEMENTS
+
+1 | Organization
+ and business overview (continued)
+
+Dividend
+rights
+
+The
+holders of Class A and Class B ordinary shares are entitled to such dividends as may be declared by our board of directors or declared
+by our shareholders by ordinary resolution (provided that no dividend may be declared by our shareholders which exceeds the amount recommended
+by our directors).
+
+No
+
+dividends on ordinary shares have been declared for the period/year ended June 30, 2025 and December 31, 2024.
+
+Liquidation
+preferences
+
+In
+the event of any liquidation, dissolution, or winding up of the Company, either voluntarily or involuntarily, the holders of Class A
+and Class B ordinary shares are entitled to any distribution of any assets or funds in proportion to the par value of the shares held
+by them.
+
+Voting
+rights
+
+Holders
+of Class A Ordinary Shares and Class B Ordinary Shares shall, at all times, vote together as one class on all matters submitted to a
+vote by the members at any general meeting of the Company. 
+Each Class A Ordinary Share shall be entitled to one vote and each Class B
+Ordinary Share shall be entitled to 10 votes on all matters subject to the vote at general meetings of our Company.
+
+2 | Summary
+ of significant accounting policies
+
+Basis
+of presentation
+
+The
+accompanying condensed consolidated interim financial statements have been prepared in accordance with accounting principles generally
+accepted in the United States of America (“US GAAP”) and pursuant to the rules and regulations of the Securities and Exchange
+Commission (“SEC”).
+
+Consolidation
+
+The
+accompanying condensed consolidated interim financial statements include the accounts of the Company and its subsidiaries. Significant
+inter-company balances, investment and capital, if any, have been eliminated upon consolidation.
+
+Liquidity
+
+In
+assessing the Company’s liquidity, the Company monitors and evaluates its cash and cash equivalent and its operating and capital
+expenditure commitments. The Company’s liquidity needs are to meet its working capital requirements, operating expenses and capital
+expenditure obligations.
+
+Cash
+flow from operations and capital contributions and loans from shareholders have been utilized to finance the working capital
+requirements of the Company. For the six months ended June 30, 2025, the Company recorded a net loss of S$
+4,812,000
+
+(US$
+3,783,000
+) and has negative cash flow from operating activities of S$
+2,106,000
+
+(US$
+1,656,000
+).
+The Company’s working capital was negative S$
+487,000
+
+(US$
+383,000
+) as of June
+30, 2025 and the Company had S$
+3,110,000
+
+(US$
+2,445,000
+)
+in cash and cash equivalents, which is unrestricted as to withdrawal and use as of June 30, 2025.
+
+On
+September 2, 2025, the Company’s Registration Statement on Form F-3 (File No. 333-288587) has been declared effective. The Company
+may, from time to time in one or more offerings, offer and sell up to US$
+100,000,000
+ in the aggregate of Class A Ordinary Shares of par
+value US$
+0.0002
+ per share in the capital of the Company, warrants, units and rights to purchase Class A Ordinary Shares, debt securities,
+rights or any combination of the foregoing, either individually or as units comprised of one or more of the other securities.
+
+On
+September 10, 2025, the Company completed a registered direct offering. In this offering, the Company issued 
+6,422,000
+ Class A ordinary
+shares at a price of US$
+0.25
+ per Class A share. The Company received gross proceeds in the amount of US$
+1.6
+ million.
+
+On October 13, 2025, the Company completed a private offering. In this offering, the Company issued 
+33,340,000
+ Class A ordinary
+shares at a price of US$
+0.30
+ per Class A share. The Company received gross proceeds in the amount of US$
+10
+ million.
+
+To
+sustain its ability to support the Company’s operating activities, the Company considered supplementing its sources of funding
+through the following:
+
+● | cash
+ and cash equivalents generated from operations;
+
+● | other
+ available sources of financing from Singapore banks and other financial institutions;
+
+● | financial
+ support from the Company’s related parties and shareholders;
+
+● | issuance
+ of additional convertible notes; and
+
+● | obtaining
+ funds through a future raise debt and equity.
+
+Management
+has commenced a strategy to raise debt and equity. However, there can be no certainty that these additional financings will be available
+on acceptable terms or at all. If management is unable to execute this plan, there would likely be a material adverse effect on the Company’s
+business.
+
+Based
+on the above considerations, management believes that the Company has sufficient funds to meet its operating and capital expenditure
+needs and obligations in the next 12 months. However, there is no assurance that the Company will be successful in implementing the foregoing
+plans or additional financing will be available to the Company on commercially reasonable terms. There are a number of factors that could
+potentially arise that could undermine the Company’s plans such as (i) changes in the demand for the Company’s services,
+(ii) government policies, and (iii) economic conditions in Singapore and worldwide. The Company’s inability to secure needed financing
+when required may require material changes to the Company’s business plan and could have a material impact on the Company’s
+financial conditions and result of operations.
+
+Use
+of estimates
+
+The
+preparation of consolidated financial statements in conformity with US GAAP requires management to make judgements, estimates and assumptions
+that affect the application of policies and reported amounts of assets, liabilities, income and expenses. The estimates and associated
+assumptions are based on historical experience and various other factors that are believed to be reasonable under the circumstances,
+the results of which form the basis of making the judgements about carrying values of assets and liabilities that are not readily apparent
+from other sources. Significant accounting estimates reflected in the Company’s consolidated financial statements include, but
+are not limited to, impairment of long-lived assets and provision for expired credit. Actual results may differ from these estimates.
+
+F- 7
+
+RYDE
+GROUP LTD
+
+NOTES
+TO UNAUDITED INTERIM CONDENSED CONSOLIDATED FINANCIAL STATEMENTS
+
+2 | Summary
+ of significant accounting policies (continued)
+
+Foreign
+currency translation and transaction
+
+The
+accompanying consolidated financial statements are presented in the Singapore Dollars (“SGD” or “S$”), which
+is the reporting currency of the Company. The functional currency of the Company and its subsidiaries in the British Virgin Islands is
+United States Dollars (“USD” or “US$”). All information presented in S$ have been rounded to the nearest thousand,
+unless otherwise stated.
+
+Convenience
+translation
+
+Translations
+of balances in the unaudited interim condensed consolidated balance sheets, unaudited interim condensed consolidated statements of operations
+and comprehensive loss, unaudited interim condensed consolidated statements of changes in shareholders’ equity and unaudited interim
+condensed consolidated statements of cash flows from SGD into USD as of June 30, 2025 are solely for the convenience of the readers and
+are calculated at the rate of 
+SGD1.00 = USD0.7862
+, representing the exchange rate set forth in the H.10 statistical release of the Federal
+Reserve Board on June 30, 2025. No representation is made that the SGD amounts could have been, or could be, converted, realized or settled
+into USD at such rate, or at any other rate.
+
+Cash
+and cash equivalents
+
+Cash
+and cash equivalents represent cash in bank and are unrestricted as to withdrawal or use.
+
+Accounts
+receivable, net
+
+Accounts
+receivable mainly represent amounts due from clients that meet the revenue recognition criteria. These accounts receivable are recorded
+net of any allowance for doubtful accounts. Management reviews its receivables on a regular basis to determine whether the allowance
+for doubtful accounts is adequate and provides an allowance when necessary. The allowance is based on management’s best estimates
+of specific losses on individual customer exposures, as well as the historical trends of collections. Account balances are charged off
+against the allowance after all means of collection have been exhausted and the likelihood of collection is not probable.
+
+Deposits
+and prepayments
+
+Deposits
+and prepayments are classified as either current or non-current based on the terms of the respective agreements. These advances are unsecured
+and are reviewed periodically to determine whether their carrying value has become impaired. As of June 30, 2025 and December 31, 2024,
+management believes that the Company’s prepayments and deposits are not impaired.
+
+Joint
+Ventures
+
+The
+Company accounts for investments in joint ventures using the equity method of accounting. Under the equity method, the Company initially
+records its investment at cost and subsequently adjusts the carrying amount to recognize its share of the joint venture’s net income
+or loss, which is reflected in the consolidated statements of operations. The Company’s share of the joint venture’s other
+comprehensive income (loss) is recognized in the Company’s consolidated statements of comprehensive income (loss).
+
+The
+Company evaluates its equity method investments for impairment whenever events or changes in circumstances indicate that the carrying
+amount of the investment might not be recoverable. An impairment is recorded when the decline in fair value of an investment is determined
+to be other-than-temporary.
+
+F- 8
+
+RYDE
+GROUP LTD
+
+NOTES
+TO UNAUDITED INTERIM CONDENSED CONSOLIDATED FINANCIAL STATEMENTS
+
+2 | Summary
+ of significant accounting policies (continued)
+
+Provision
+for expired credit
+
+Provision
+for expired credit represent all expired credits that are not redeemed by consumers. A provision for expired credit is recognized when
+the credit expires, if the amount of the obligation can be estimated reliably. The provision is recognized as a reduction of expense
+in the consolidated income statement, and as an asset on the consolidated balance sheet. The amount of the provision for expired credit
+is estimated based on historical experience and the expected rate of redemption. The estimate is reviewed regularly and adjusted if necessary,
+based on actual experience.
+
+Property
+and equipment, net
+
+Property
+and equipment are stated at cost less accumulated depreciation and impairment if applicable. The Company computes depreciation using
+the straight-line method over the estimated useful lives of the assets as follows:
+
+Schedule
+of property and equipment estimated useful lives
+
+Computer | 3 years
+
+Office
+ equipment | 3 years
+
+Renovations | 3 years
+
+Operating
+ lease right-of-use assets | 2 years
+
+The
+cost and related accumulated depreciation of assets sold or otherwise retired are eliminated from the accounts and any gain or loss is
+included in the consolidated statement of income. Expenditures for maintenance and repairs are charged to expense as incurred, while
+additions renewals and betterments, which are expected to extend the useful life of assets, are capitalized. The Company also re-evaluates
+the periods of depreciation to determine whether subsequent events and circumstances warrant revised estimates of useful lives.
+
+Intangible
+assets, net
+
+Developed
+technology
+
+Research
+costs are expensed as incurred. An intangible asset arising from development expenditure on an individual project is recognized only
+when the Company can demonstrate the technical feasibility of completing the intangible asset so that it will be available for use or
+sale, its intention to complete and its ability to use or sell the assets, how that asset will generate future economic benefits, the
+availability of resources to complete and the ability to measure reliably the expenditure during the development. Deferred development
+costs have finite useful life and are amortized over a period of expected sales from the related project of 
+3
+ to 
+5
+ years on a straight-line
+basis from the date that they are available for use.
+
+Business
+combinations
+
+We
+account for our business combinations using the acquisition method of accounting, which requires, among other things, allocation of the
+fair value of purchase consideration to the tangible and intangible assets acquired and liabilities assumed at their estimated fair values
+on the acquisition date. The excess of the fair value of purchase consideration over the values of these identifiable assets and liabilities
+is recorded as goodwill. When determining the fair value of assets acquired and liabilities assumed, the Company make significant estimates
+and assumptions, especially with respect to intangible assets. Our estimates of fair value are based upon assumptions believed to be
+reasonable, but which are inherently uncertain and unpredictable and, as a result, actual results may differ from estimates. During the
+measurement period, not to exceed one year from the date of acquisition, the Company may record adjustments to the assets acquired and
+liabilities assumed, with a corresponding offset to goodwill if new information is obtained related to facts and circumstances that existed
+as of the acquisition date. After the measurement period, any subsequent adjustments are reflected on the consolidated statements of
+operations. Acquisition costs, such as legal and consulting fees, are expensed as incurred.
+
+Goodwill
+
+Goodwill
+is measured at cost less accumulated impairment losses. Goodwill is not subject to amortization, but is tested for impairment on an annual
+basis during the fourth quarter or whenever events or changes in circumstances indicate the carrying value of the reporting unit may
+be in excess of its fair value. As part of the annual goodwill impairment test, the Company first performs a qualitative assessment to
+determine whether further impairment testing is necessary. If, as a result of its qualitative assessment, it is more-likely-than-not
+that the fair value of the Company’s reporting unit is less than its carrying amount, the quantitative impairment test will be
+required. Alternatively, the Company may bypass the qualitative assessment and perform a quantitative impairment test.
+
+No
+
+goodwill or impairment of goodwill is recognized in the six months ended June 30, 2025.
+
+F- 9
+
+RYDE
+GROUP LTD
+
+NOTES
+TO UNAUDITED INTERIM CONDENSED CONSOLIDATED FINANCIAL STATEMENTS
+
+2 | Summary
+ of significant accounting policies (continued)
+
+Impairment
+of long-lived assets
+
+The
+Company evaluates the recoverability of its long-lived assets (asset groups), including property and equipment, intangible assets, and
+operating lease right-of-use assets, for impairment whenever events or changes in circumstances indicate that the carrying amount of
+its asset (asset group) may not be fully recoverable. When these events occur, the Company measures impairment by comparing the carrying
+amount of the assets to the estimated undiscounted future cash flows expected to result from the use of the asset (asset group) and their
+eventual disposition. If the sum of the expected undiscounted cash flows is less than the carrying amount of the asset (asset group),
+the Company recognizes an impairment loss based on the excess of the carrying amount of the asset (asset group) over their fair value.
+Fair value is generally determined by discounting the cash flows expected to be generated by the asset (asset group), when the market
+prices are not readily available. The adjusted carrying amount of the asset is the new cost basis and is depreciated over the asset’s
+remaining useful life. Long-lived assets are grouped with other assets and liabilities at the lowest level for which identifiable cash
+flows are largely independent of the cash flows of other assets and liabilities.
+
+Operating
+lease right-of-use assets
+
+The
+Company determines if an arrangement is a lease at inception. Operating leases are included in operating lease right-of-use (“ROU”)
+assets, operating lease liability, and operating lease liability, non-current in the Company’s consolidated balance sheets. ROU
+assets represent the Company’s right to use an underlying asset for the lease term and lease liabilities represent the Company’s
+obligation to make lease payments arising from the lease. Operating lease ROU assets and liabilities are recognized at commencement date
+based on the present value of lease payments over the lease term. When determining the lease term, the Company includes options to extend
+or terminate the lease when it is reasonably certain that it will exercise that option, if any. As the Company’s leases do not
+provide an implicit rate, the Company used an incremental borrowing rate based on the information available at commencement date in determining
+the present value of lease payments. The Company has elected not to recognize ROU asset and lease obligations for its short-term leases,
+which are defined as leases with an initial term of 12 months or less.
+
+Fair
+value measurements
+
+ASC
+820 defines fair value as the price that would be received from selling an asset or paid to transfer a liability in an orderly transaction
+between market participants at the measurement date. When determining the fair value measurements for assets and liabilities required
+or permitted to be recorded at fair value, the Company considers the principal or most advantageous market in pricing the asset or liability.
+ASC 820 establishes a three-tier fair value hierarchy, which prioritizes the inputs used in measuring fair value as follows:
+
+Level
+ 1 - | observable
+ inputs that reflect quoted prices (unadjusted) for identical assets or liabilities in active markets.
+
+Level
+ 2 - | other
+ inputs that are directly or indirectly observable in the marketplace.
+
+Level
+ 3 - | unobservable
+ inputs which are supported by little or no market activity.
+
+The
+carrying amounts of cash and cash equivalents, accounts receivable, deposits and prepayments, accounts payable, other payables to related
+parties, and accruals and other payables approximate their fair values because of their generally short maturities.
+
+Warrants
+
+The
+Company accounts for warrants as either equity-classified or liability-classified instruments based on an assessment of the warrant’s
+specific terms and applicable authoritative guidance in ASC 815, “Derivatives and Hedging.” This assessment, which requires
+the use of professional judgment, is conducted at the time of warrant issuance and as of each subsequent year end date while the warrants
+are outstanding. Warrants that are determined to be equity-classified are recorded as a component of additional paid-in capital at the
+time of issuance and are not remeasured thereafter.
+
+F- 10
+
+RYDE
+GROUP LTD
+
+NOTES
+TO UNAUDITED INTERIM CONDENSED CONSOLIDATED FINANCIAL STATEMENTS
+
+2 | Summary
+ of significant accounting policies (continued)
+
+Revenue
+recognition
+
+Mobility
+and quick commerce arrangement
+
+The
+Company recognizes revenue for its ride-hailing and quick commerce marketplace in accordance with ASC 606. The Company generates revenue
+from commissions and service fees (collectively, “fees”) paid by driver partners and consumers for use of the Ryde platform
+to connect driver partners with consumers to facilitate and successfully complete transaction via the App where the Company operates
+as an agent. The Company recognizes revenue upon completion of each transaction. Driver partners and consumers enter into terms of service
+(“ToS”) with the Company in order to use the Ryde App. Under the ToS, driver partners and consumers agree that the Company
+retains the applicable fee as consideration for their use of the Ryde platform from the fare and related charges it collects from consumers
+on behalf of driver partners. The Company is acting as an agent in facilitating the ability for a driver partner to provide a mobility
+and quick commerce service to a consumer. The Company reports revenue on a net basis, reflecting the fee owed to the Company from a driver
+partner as revenue, and not the gross amount collected from the consumer.
+
+As
+the Company’s customary business practice, a contract exists between the driver partner and consumer and the Company when the driver
+partner’s and consumer’s ability to cancel the transaction lapses, which typically is upon pickup of the consumer or goods.
+The Company’s single performance obligation in the transaction is to connect driver partners with consumer to facilitate the completion
+of a successful mobility or quick commerce service for consumer. The Company recognizes revenue upon completion of a transaction as its
+performance obligation is satisfied upon the completion of the transaction. The Company collects the fare and related charges from consumers
+on behalf of driver partners using the consumer’s pre-authorized credit card or other payment mechanism and retains its fees before
+making the remaining disbursement to driver partners; thus the driver partner’s ability and intent to pay is not subject to significant
+judgment.
+
+Principle
+vs Agent consideration
+
+Judgment
+is required in determining whether the Company is the principal or agent in transactions with driver partners, and consumer. The Company
+evaluate the presentation of revenue on a gross or net basis based on whether the Company control the service provided to the consumers
+and are the principal (i.e. “gross”), or the Company arrange for other parties to provide the service to the consumers and
+are an agent (i.e. “net”). This determination also impacts the presentation of incentives provided to driver partners and
+discounts and promotions offered to consumers to the extent they are not customers.
+
+For
+the mobility and quick-commerce transactions, the Company’s role is to provide the service to driver partners to facilitate a successful
+trip or quick-commerce service to consumer. The Company concluded the Company do not control the good or service provided by driver partners
+to consumers as (i) the Company do not pre-purchase or otherwise obtain control of the goods or services prior to its transfer to the
+consumers; (ii) the Company do not direct driver partners to perform the service on our behalf, and (iii) the Company do not integrate
+services provided by driver partners with our other services and then provide them to consumers. As part of our evaluation of control,
+the Company review other specific indicators to assist in the principal versus agent conclusions. The Company are not primarily responsible
+for mobility and quick commerce services provided to consumers, nor do the Company have inventory risk related to these services. While
+the Company facilitate setting the price for mobility and quick commerce services, the driver partners and consumers have the ultimate
+discretion in accepting the transaction price and this indicator alone does not result in us controlling the services provided to consumers.
+
+In
+transactions with consumers, the Company act as an agent of the driver partners by connecting consumers seeking mobility and quick commerce
+services with driver partners looking to provide these services. Driver partners and consumers are our customers and pay us a fee for
+each successfully completed transaction with consumers. Accordingly, the Company recognize revenue on a net basis, representing the fee
+the Company expect to receive in exchange for us providing the service to driver partners and consumers.
+
+F- 11
+
+RYDE
+GROUP LTD
+
+NOTES
+TO UNAUDITED INTERIM CONDENSED CONSOLIDATED FINANCIAL STATEMENTS
+
+2 | Summary
+ of significant accounting policies (continued)
+
+Revenue
+recognition (continued)
+
+Mobility
+and quick commerce
+
+The
+Company derives its mobility and quick commerce revenue primarily from fees paid by driver partners and consumers for use of the platform
+and related service to connect with consumers and successfully complete a transaction via the platform. The Company recognizes revenue
+when a transaction is completed.
+
+The
+presentation of revenue is on a net basis. The Company is an agent as its performance obligation is to arrange for another party (i.e.
+the driver partners) to provide the mobility and quick commerce services. Through the Company’s application, it allows for the
+connecting of the driver partners and consumers. The Company only facilitates by connecting the driver partners and consumers. The driver
+partners are responsible for fulfilling the contract.
+
+Incentives
+provided to driver partners are recorded as a reduction of revenue if the Company does not receive a distinct good or service or cannot
+reasonably estimate the fair value of the good or service received. Incentives to driver partners that are not provided in exchange for
+a distinct good or service are evaluated as variable consideration, in the most likely amount to be earned by the driver partners at
+the time or as they are earned by the driver partners, depending on the type of incentive. Since incentives are earned over a short period
+of time, there is limited uncertainty when estimating variable consideration.
+
+Excess
+driver partners incentives refer to cumulative payments to driver partners that exceed the cumulative revenue that are recognize from
+driver partners with no future guarantee of additional revenue. Cumulative payments to driver partners could exceed cumulative revenue
+from driver partners as a result of driver partners incentives or when the amount paid to driver partners for a trip exceeds the fare
+charged to the consumer. Driver partners incentives largely depend on the business decisions based on market conditions.
+
+When
+the cumulative amount of driver partners incentives exceeds the cumulative revenue earned since inception of the driver partners relationship,
+the excess driver partners incentives are recorded in profit or loss as an expense. As a result, driver partners incentives provided
+to driver partners at the beginning of a relationship are typically classified as cost of revenue, while driver partners incentives provided
+to driver partners with a more mature relationship are typically classified as a reduction of revenue.
+
+Incentive
+to consumers
+
+The
+Company provides consumer incentives in the form of credit upon completion of transaction, with the aim of encouraging consumers to utilize
+the Ryde platform for their future transactions. These credits are offered to consumers in the market to acquire new consumers, re-engage
+existing customers, or generally increase overall use of the platform, and are similar to coupons. The Company records these credits
+as liability on the balance sheet and as driver and riders cost and related expenses in the statement of operations and comprehensive
+loss at the time these credits are redeemed by the consumers.
+
+Revenue
+from Advertising
+
+Revenue
+from advertising is recognized when the advertising services are provided to the merchant. The revenue is recognized at the amount of
+consideration that the company expects to be entitled to receive, net of any discounts or refunds. If the consideration for the advertising
+services includes barter trade, the revenue and cost are recognized separately based on the fair value of the barter trade.
+
+The
+Company derives revenue from digital advertising services provided to merchants under contractual agreements. These services encompass
+the display of merchants’ advertisements within our mobile/web platform and email channels. Revenue recognition commences at the
+initiation of the contract period, as stipulated in the signed agreement with our merchant clients. The Company employs the ‘output
+method’ to measure progress towards fulfilling its performance obligations. Under this method, revenue is recognized proportionately
+over the duration of the contractual period. This method accurately reflects the faithful depiction of the transfer of services, as it
+aligns with the nature of the services provided, where revenue is recognized based on the contractual period.
+
+Membership
+
+Revenue
+from membership is recognized over the period of the membership. The subscription fee is recognized as revenue over the subscription
+period. Any relevant costs incurred to provide the membership benefits are recognized as cost. The cashback bonuses, exclusive lifestyle
+and food and beverage perks, and discounts provided to the members are not recognized as revenue.
+
+F- 12
+
+RYDE
+GROUP LTD
+
+NOTES
+TO UNAUDITED INTERIM CONDENSED CONSOLIDATED FINANCIAL STATEMENTS
+
+2 | Summary
+ of significant accounting policies (continued)
+
+Segments
+
+In
+accordance with ASC 280, Segment Reporting, the Company is required to report financial and descriptive information about its reportable
+segments. Reportable segments are operating segments or aggregations of operating segments that meet specific quantitative thresholds.
+The identification of operating segments is based on the internal reporting used by the Chief Operating Decision Maker (“CODM”)
+to assess performance and allocate resources.
+
+The
+Company has determined that it operates as a single operating and reportable segment. This conclusion is based on the following considerations:
+
+● | The
+ Company is managed as a single business, with a single set of operating metrics used to assess performance and allocate resources;
+
+● | The
+ CODM, who is the Company’s Chief Executive Officer, reviews consolidated financial information to make operational and strategic
+ decisions;
+
+● | The
+ nature of the products and services, customer base, and methods of distribution are consistent across the business.
+
+All
+significant operations, including assets and revenues, are located in and derived from Singapore. As of June 30, 2025 and December 31,
+2024, substantially all of the Company’s long-lived assets were located in Singapore, and all revenue was generated from customers
+based in Singapore.
+
+Concentrations
+and credit risk
+
+Financial
+instruments that potentially expose the Company to concentration of credit risk consist primarily of accounts receivable. The Company
+has designed their credit policies with an objective to minimize their exposure to credit risk. The Company’s accounts receivable
+are short term in nature and the associated risk is minimal. The Company conducts credit evaluations on its clients and generally does
+not require collateral or other security. The Company periodically evaluates the creditworthiness of the existing clients in determining
+the allowance for credit losses primarily based upon the age of the receivables and factors surrounding the credit risk of specific clients.
+
+Concentration
+of customers
+
+None
+of the customers consisted of more than 
+10
+% of revenue as of June 30, 2025 and December 31, 2024, respectively.
+
+Employee
+benefits
+
+Employee
+benefits are recognized as an expense, unless the cost qualifies to be capitalized as an asset.
+
+Defined
+contribution plans are post-employment benefit plans under which the Company pays fixed contributions into separate entities such as
+the Central Provident Fund on a mandatory, contractual or voluntary basis. The Company has no further payment obligations once the contributions
+have been paid. The Central Provident Fund paid to The Central Provident Fund Board in Singapore is S$
+109,000
+ (US$
+83,000
+) and S$
+99,000
+
+for the six months ended June 30, 2025 and 2024 respectively.
+
+Share-based
+compensation
+
+The
+Company follows ASC 718, Compensation —Stock Compensation (“ASC 718”), which requires the measurement and recognition
+of compensation expense for all share-based payment awards, including restricted stock units, based on estimated grant date fair values.
+Share-based compensation are valued using the market price of the Company’s common shares on the date of grant. The Company records
+compensation expense, net of estimated forfeitures, over the requisite service period.
+
+Awards
+classified in equity under ASC 718 that may be subject to temporary equity classification include:
+
+● | Shares
+ with a repurchase feature that the employee can exercise only after the shares have been vested for at least six months, as well
+ as options on such shares.
+
+● | Shares
+ that have a contingent repurchase feature that is outside the control of the employee and the entity if it is currently probable
+ that the contingency would not occur. Examples include shares redeemable only on the occurrence of a liquidity event, such as a change
+ of control.
+
+● | Options
+ that have a contingent cash-settlement provision not within the employee’s or the entity’s control if it is not currently
+ probable that the contingency would occur.
+
+Related
+parties
+
+Parties
+are considered to be related if one party has the ability, directly or indirectly, to control the other party or exercise significant
+influence over the other party in making financial and operating decisions. Parties are also considered to be related if they are subject
+to common control or significant influence of the same party, such as a family member or relative, shareholder, or a related corporation.
+
+Income
+taxes
+
+The
+Company accounts for income taxes under ASC 740. Deferred tax assets and liabilities are recognized for the future tax consequences attributable
+to differences between the consolidated financial statement carrying amounts of existing assets and liabilities and their respective
+tax bases. Deferred tax assets are also provided for net operating loss carry forwards that can be utilized to offset future taxable
+income.
+
+Deferred
+tax assets and liabilities are measured using enacted tax rates expected to apply to taxable income in the years in which those temporary
+differences are expected to be recovered or settled. The effect on deferred tax assets and liabilities of a change in tax rates is recognized
+in income in the period including the enactment date. A valuation allowance is established, when necessary, to reduce net deferred tax
+assets to the amount expected to be realized. Current income taxes are provided for in accordance with the laws of the relevant taxing
+authorities.
+
+An
+uncertain tax position is recognized as a benefit only if it is “more likely than not” that the tax position would be sustained
+in a tax examination, with a tax examination being presumed to occur. The amount recognized is the largest amount of tax benefit that
+is greater than 50% likely of being realized on examination. For tax positions not meeting the “more likely than not” test,
+no tax benefit is recorded.
+
+F- 13
+
+RYDE
+GROUP LTD
+
+NOTES
+TO UNAUDITED INTERIM CONDENSED CONSOLIDATED FINANCIAL STATEMENTS
+
+2 | Summary
+ of significant accounting policies (continued)
+
+Government
+grants
+
+Government
+grants are recognized when there is reasonable assurance that the grant will be received, and all attaching conditions will be complied
+with. Government grants shall be recognized in profit or loss on a systematic basis over the periods in which the entity recognizes as
+expenses the related costs for which the grants are intended to compensate. Government grant is recognized as ‘Other income’
+in profit or loss.
+
+The
+following is a description of the government grants the Company have received for the six months ended June 30, 2025 and 2024:
+
+● | The
+ Progressive Wage Credit Scheme: It was introduced in Singapore Budget 2022 to provide transitional wage support for employers to
+ adjust to upcoming mandatory wage increases for lower-wage workers covered by the Progressive Wage and Local Qualifying Salary requirements
+ and voluntarily raise wages of lower-wage workers.
+
+● | CPF
+ Transition Offset: Transitory wage offsets provided by the Government equivalent to 50% of each year’s increase in employer
+ CPF contribution rates for every Singaporean and Permanent Resident employee aged above 55 to 70 to alleviate the rise in business
+ costs due to the increase in CPF contribution rates for senior workers.
+
+● | Government-Paid
+ Leave schemes: Leave schemes provided by the Government to support parents in having and raising children by reimbursing the companies
+ for leaves taken by eligible employees.
+
+● | Corporate
+ Income Tax Rebate Cash Grant : A cash grant provided by the Government to support eligible companies that have employed at least
+ one local employee, to help them manage rising costs.
+
+Earnings
+(loss) per share
+
+Basic
+earnings (loss) per share is computed by dividing net earnings (loss) attributable to ordinary shareholders by the weighted average number
+of ordinary shares outstanding during the year. Diluted earnings per share reflect the potential dilution that could occur if outstanding
+stock options, warrants and convertible debt were exercised or converted into ordinary shares. When the Company has a loss, diluted shares
+are not included as their effect would be anti-dilutive. The Company has 
+no
+ dilutive securities or debt for each of the six months ended
+30 June 2025 and 2024.
+
+Interest
+rate risk
+
+Interest
+rate risk is the risk that the fair value or future cash flows of the Company’s financial instruments will fluctuate because of
+changes in market interest rates. The Company’s exposure to interest rate risk arises mainly from its interest-bearing financial
+liabilities. The Company periodically reviews its liabilities and monitors interest rate fluctuations to ensure that the exposure to
+interest rate risk is within acceptable levels. The interest-bearing financial liabilities are usually at fixed interest rates except
+for money market loans, bank overdrafts and floating interest rate loans. The Company does not utilize interest rate derivatives to minimize
+its interest rate risk.
+
+Commitments
+and Contingencies
+
+In
+the normal course of business, the Company is subject to contingencies, including legal proceedings and claims arising out of the business
+that relate to a wide range of matters, such as government investigations and tax matters. The Company recognizes its liability for such
+contingency if it determines it is probable that a loss has occurred and a reasonable estimate of the loss can be made. The Company may
+consider many factors in making these assessments including historical and the specific facts and circumstances of each matter.
+
+F- 14
+
+RYDE
+GROUP LTD
+
+NOTES
+TO UNAUDITED INTERIM CONDENSED CONSOLIDATED FINANCIAL STATEMENTS
+
+2 | Summary
+ of significant accounting policies (continued)
+
+Recent
+Adopted Accounting Pronouncements
+
+In
+December 2023, the FASB issued ASU 2023-09, “Income Taxes (Topic 740): Improvements to Income Tax Disclosures,” which requires
+disaggregated information about a reporting entity’s effective tax rate reconciliation as well as information on income taxes paid.
+The standard is intended to benefit investors by providing more detailed income tax disclosures that would be useful in making capital
+allocation decisions. The standard will be effective for public companies for fiscal years beginning after December 15, 2024. We adopted
+the ASU on January 1, 2025. The additional required disclosures did not have a material impact on our condensed consolidated financial
+statements.
+
+In
+March 2024, the FASB issued ASU 2024-01, Compensation—Stock Compensation (Topic 718). This ASU illustrates how to apply the scope
+guidance to determine whether a profits interest award should be accounted for as a share-based payment arrange under Accounting Standards
+Codification (“ASC”) 718 or another accounting standard. The amendments in this update are effective for public entities
+for fiscal years beginning after December 15, 2024. We adopted the ASU on January 1, 2025. The additional required disclosures did not
+have a material impact on our condensed consolidated financial statements.
+
+In
+March 2024, the FASB issued ASU 2024-02 Codification Improvements – Amendments to Remove References to the Concepts Statements.
+This ASU amends the ASC by removing references to various FASB Concepts Statements to simplify the ASC and draw a distinction between
+authoritative and non-authoritative literature. The amendments in this update apply to all reporting entities within the scope of the
+affected accounting guidance and are effective for public entities for fiscal years beginning after December 15, 2024. We adopted the
+ASU on January 1, 2025. The additional required disclosures did not have a material impact on our condensed consolidated financial statements.
+
+Recently
+Issued Accounting Pronouncements Not Yet Adopted
+
+In
+November 2024, the FASB issued ASU 2024-03 Income Statement-Reporting Comprehensive Income-Expense Disaggregation Disclosures. This ASU
+requires disclosure in the notes to the financial statements of specified information about certain costs and expenses. ASU 2024-03 is
+effective for fiscal years beginning after December 15, 2026 and for interim periods within fiscal years beginning after December 15,
+2027. ASU 2024-03 should be applied either prospectively to financial statements issued for reporting periods after the effective date
+of this ASU or retrospectively to any or all prior periods presented in the financial statements. The Company is in the process of assessing
+the impact of this ASU on its consolidated financial statements.
+
+In
+November 2024, the FASB issued ASU 2024-04 Debt—Debt With Conversion And Other Options (Subtopic 470-20): Induced Conversions Of
+Convertible Debt Instruments. This ASU amends ASC 470-20 to clarify the requirements related to accounting for the settlement of a debt
+instrument as an induced conversion. Based primarily on the consensus-for-exposure reached on Issue 23-A12 by the Emerging Issues Task
+Force (EITF) on September 14, 2023, the ASU is intended to “improve the relevance and consistency in application of the induced
+conversion guidance in Subtopic 470-20 for (a) convertible debt instruments with cash conversion features and (b) debt instruments that
+are not currently convertible. For all entities, the amendments in ASU 2024-04 are effective for annual reporting periods beginning after
+December 15, 2025 (and interim reporting periods within those annual reporting periods). Early adoption is permitted as of the beginning
+of a reporting period if the entity has also adopted ASU 2020-0613 for that period. The Company is in the process of assessing the impact
+of this ASU on its consolidated financial statements.
+
+In
+January 2025, the FASB issued ASU 2025-01, Income Statement—Reporting Comprehensive Income—Expense Disaggregation Disclosures
+(Subtopic 220-40): Clarifying the Effective Date. This ASU clarifies that the amendments in ASU 2024-03 are effective for annual reporting
+periods beginning after December 15, 2026, and interim periods within fiscal years beginning after December 15, 2027. Early adoption
+is permitted. ASU 2025-01 reaffirms that the guidance should be applied either prospectively or retrospectively. The Company is in the
+process of assessing the impact of this ASU on its consolidated financial statements.
+
+In
+May 2025, the FASB issued ASU 2025-03, Business Combinations (Topic 805) and Consolidation (Topic 810): Determining the Accounting Acquirer
+in the Acquisition of a Variable Interest Entity. This ASU amends the guidance for identifying the accounting acquirer in a business
+combination involving a variable interest entity. The amendments require that the reporting entity that consolidates the variable interest
+entity be treated as the accounting acquirer. ASU 2025-03 is effective for fiscal years beginning after December 15, 2026, and for interim
+periods within those fiscal years. The amendments in this ASU should be applied prospectively. The Company is in the process of assessing
+the impact of this ASU on its consolidated financial statements.
+
+In
+May 2025, the FASB issued ASU 2025-04, Compensation—Stock Compensation (Topic 718) and Revenue from Contracts with Customers (Topic
+606): Clarifications to Share-Based Consideration Payable to a Customer. This ASU clarifies the accounting for share-based payments issued
+to a customer in conjunction with a contract for goods or services. The amendments are intended to reduce diversity in practice and provide
+more consistent and comparable financial information. ASU 2025-04 is effective for fiscal years beginning after December 15, 2026, and
+for interim periods within those fiscal years. Early adoption is permitted. The Company is in the process of assessing the impact of
+this ASU on its consolidated financial statements.
+
+In
+July 2025, the FASB issued ASU 2025-05, Financial Instruments—Credit Losses (Topic 326): Measurement of Credit Losses for Accounts
+Receivable and Contract Assets. This ASU provides a practical expedient that allows entities to measure expected credit losses on current
+accounts receivable and contract assets by assuming that current economic conditions will remain unchanged over the asset’s life.
+ASU 2025-05 is effective for fiscal years beginning after December 15, 2025, and for interim periods within those fiscal years. ASU 2025-05
+should be applied on a prospective basis. The Company is in the process of assessing the impact of this ASU on its consolidated financial
+statements.
+
+Except
+as mentioned above, the Company does not believe other recently issued but not yet effective accounting standards, if currently adopted,
+would have a material effect on the Company’s consolidated financial statements.
+
+F- 15
+
+RYDE
+GROUP LTD
+
+NOTES
+TO UNAUDITED INTERIM CONDENSED CONSOLIDATED FINANCIAL STATEMENTS
+
+3 | Deposits,
+ prepaid expenses and other current assets
+
+Schedule
+of deposits prepaid expenses and other current assets
+
+December 31, 2024 | June 30, 2025 | June 30, 2025
+
+S$’000 | S$’000 | US$’000
+
+Deposits | 214 | 214 | 168
+
+Prepayments | 2,161 | 808 | 635
+
+Other receivables | 143 | 165 | 130
+
+Provision for expired credits | 140 | 126 | 99
+
+Total
+ Deposits, prepaid expenses and other current assets | 2,658 | 1,313 | 1,032
+
+As
+of June 30, 2025, the Company’s prepayments included S$
+583,000
+
+(US$
+457,000
+)
+(2024: S$
+2,050,000
+)
+in respect to prepayments to certain consultants for consulting services over a period of 20 months from the date of
+the Consulting Agreements. The consulting services to be provided to the Company pursuant to the Consulting Agreements dated January
+20, 2024, include participate in Company’s business and management meetings and contribute to Company’s business plans;
+assisting Company in corporate development by introducing customers or strategic partners to Company to drive business growth;
+strategizing with the Company on its positioning and road map for capital raising, and assist in dealing with investor relation
+matters.
+
+4 | Property
+ and equipment, net
+
+Schedule
+of property and equipment, net
+
+December 31, 2024 | June 30, 2025 | June 30, 2025
+
+S$’000 | S$’000 | US$’000
+
+Computer | 75 | 78 | 61
+
+Office | 3 | 3 | 2
+
+Renovation | 22 | 22 | 17
+
+Operating lease right-of-use assets | 153 | 153 | 120
+
+Total | 253 | 256 | 200
+
+Less: accumulated depreciation | ( 98 | ) | ( 143 | ) | ( 111 | )
+
+Net book value | 155 | 113 | 89
+
+Depreciation
+expense for the six months ended June 30, 2025 and 2024 was S$
+45,000
+ (US$
+35,000
+) and S$
+29,000
+ respectively.
+
+The
+Company’s operating lease right-of-use assets is related to the office lease agreements with lease terms for two years. The Company’s
+lease agreement does not contain any material residual value guarantees or material restrictive convents. Upon adoption of ASU 2016-02,
+no right-of-use (“ROU”) assets nor lease liability was recorded for the lease with a lease term with one year or less.
+
+5 | Intangible
+ assets, net
+
+Schedule
+of intangible assets, net
+
+December 31,
+ 2024 | June 30, 2025 | June 30, 2025
+
+S$’000 | S$’000 | US$’000
+
+Developed technology | 3,692 | 3,992 | 3,138
+
+Others | 5 | 5 | 4
+
+Total | 3,697 | 3,997 | 3,142
+
+Less: accumulated amortization | ( 2,956 | ) | ( 3,213 | ) | ( 2,526 | )
+
+Net book value | 741 | 784 | 616
+
+Amortization
+expenses for the six months ended June 30, 2025 and 2024 was S$
+257,000
+ (US$
+202,000
+) and S$
+218,000
+ respectively. The weighted average
+remaining useful life of developed technology is 
+1 years 9 months
+.
+
+The
+Company’s estimated aggregate future amortization expenses for intangible assets subject to amortization as of June 30, 2025, as
+follows:
+
+Schedule
+of future amortization expenses for intangible assets
+
+June 30, 2025
+
+S$’000
+
+July to December 2025 | 200
+
+Financial year ending 2026 to 2027 | 367
+
+F- 16
+
+RYDE
+GROUP LTD
+
+NOTES
+TO UNAUDITED INTERIM CONDENSED CONSOLIDATED FINANCIAL STATEMENTS
+
+6 | Goodwill,
+ net
+
+Schedule of goodwill, net
+
+December 31, 2024 | June 30, 2025 | June 30, 2025
+
+S$’000 | S$’000 | US$’000
+
+Acquisition | 664 | 664 | 519
+
+Goodwill impairment | ( 664 | ) | ( 664 | ) | ( 519 | )
+
+Total goodwill net | - | - | -
+
+On
+February 20, 2023, the Company acquired Meili Technologies Pte Ltd and its subsidiary, a last-mile on-demand logistics service provider
+in Singapore, for a purchase consideration of S$
+600,000
+ satisfied by the issuance of exchangeable notes. The acquisition resulted in
+the recognition of goodwill of S$
+664,000
+.
+
+In
+2023, the Company recognized a full impairment of this goodwill after assessing the recoverable amount of the Meili Group, resulting
+in an impairment charge of S$
+664,000
+ recorded in the consolidated statements of operations.
+
+No
+
+goodwill or impairment of goodwill was recognized for the six months ended June 30, 2025 and 2024.
+
+7 | Investment
+ in a joint venture
+
+Schedule of investment in joint venture
+
+December 31, 2024 | June 30, 2025 | June 30, 2025
+
+S$’000 | S$’000 | US$’000
+
+Investment in joint ventures | - | 1,867 | 1,468
+
+Investment in joint ventures | - | 1,867 | 1,468
+
+In
+June 2025, RCSR Pte. Ltd. (“RCSR”), a wholly owned indirect subsidiary of Ryde, entered into a share purchase agreement to
+acquire a 40% ownership interest in AToll Discovery Pte. Ltd. (“AToll”), a company incorporated in Singapore. AToll is engaged
+in the electric vehicle (“EV”) car rental business in Singapore.
+
+The
+purchase consideration was USD 
+1,455,000
+, which was satisfied through the issuance of 
+4,850,000
+ Class A common shares of Ryde Group Ltd
+directly to the selling shareholders of AToll. No cash consideration was transferred.
+
+As
+a result of the acquisition, the Company obtained joint control over AToll and accounts for its investment in AToll using the equity
+method in accordance with ASC 323, Investments—Equity Method and Joint Ventures.
+
+The
+acquisition was completed in June 2025. The Company’s share of AToll’s results for the six months ended June 30, 2025 was
+not material.
+
+As
+of June 30, 2025, there are no significant restrictions on AToll’s ability to pay dividends or make distributions to its investors.
+
+The
+Company has no additional funding commitments or guarantees relating to its investment in AToll as of June 30, 2025.
+
+Summary
+of financial information of the joint venture, as derived from its unaudited financial statements, is as follows:
+
+Summary
+of financial information of joint venture
+
+December 31, 2024 | June 30, 2025 | June 30, 2025
+
+S$’000 | S$’000 | US$’000
+
+Current assets | 462 | 11,476 | 9,023
+
+Non-current assets | 7,945 | 7,475 | 5,877
+
+Total assets | 8,407 | 18,951 | 14,900
+
+Current liabilities | 2,846 | 19,746 | 15,525
+
+Non-current liabilities | 6,002 | - | -
+
+Total liabilities | 8,848 | 19,746 | 15,525
+
+Joint venture’s deficit | ( 441 | ) | ( 795 | ) | ( 625 | )
+
+Total liabilities and joint venture’s equity | 8,407 | 18,951 | 14,900
+
+2024 | 2025 | 2025
+
+For the six months ended June 30,
+
+2024 | 2025 | 2025
+
+S$’000 | S$’000 | US$’000
+
+Revenue | 173 | 812 | 638
+
+Cost of revenue | ( 158 | ) | ( 977 | ) | ( 768 | )
+
+Gross profit | 15 | ( 165 | ) | ( 130 | )
+
+Net loss | ( 175 | ) | ( 353 | ) | ( 278 | )
+
+F- 17
+
+RYDE
+GROUP LTD
+
+NOTES
+TO UNAUDITED INTERIM CONDENSED CONSOLIDATED FINANCIAL STATEMENTS
+
+8 | Related
+ party transactions and balances
+
+Parties
+are considered to be related if one party has the ability, directly or indirectly, to control the other party or exercise significant
+influence over the other party in making financial and operational decisions. Parties are also considered to be related if they are subject
+to common control. Related parties may be individuals or corporate.
+
+The
+table below sets forth the major related parties and their relationships with the Company as of June 30, 2025 and December 31, 2024:
+
+Schedule of related party with their relationships and transactions
+
+Name
+ of related parties | Relationship
+ with the Company
+
+DLG
+ Ventures Pte. Ltd. | Shareholder
+ as of December 31, 2024 .
+
+i)
+Significant transactions with related parties were as follows:
+
+2024 | 2025 | 2025
+
+For the six-month ended June 30,
+
+2024 | 2025 | 2025
+
+S$’000 | S$’000 | US$’000
+
+Interest expense on note from a shareholder | 37 | - | -
+
+9 | Operating
+ lease obligation
+
+Schedule
+of operating lease obligation
+
+December 31, 2024 | June 30, 2025 | June 30, 2025
+
+S$’000 | S$’000 | US$’000
+
+Current portion | 76 | 77 | 60
+
+Non-current portion | 59 | 20 | 16
+
+Total | 135 | 97 | 76
+
+The
+Company’s operating lease right-of-use assets is related to the office lease agreements with lease terms for two years. The Company’s
+lease agreement does not contain any material residual value guarantees or material restrictive convents. Upon adoption of ASU 2016-02,
+no right-of-use (“ROU”) assets nor lease liability was recorded for the lease with a lease term with one year or less.
+
+The
+Company’s commitment for minimum lease payments under the operating lease that is within twelve months as of June 30, as follow:
+
+Schedule
+of maturities lease payments
+
+Twelve months ending June 30, | Minimum lease payment
+
+S$’000
+
+2026 | 80
+
+2027 | 20
+
+Total future lease payment | 100
+
+Amount representing interest | ( 3 | )
+
+Present value of operating lease liabilities | 97
+
+Less: current portion | ( 77 | )
+
+Non-current portion | 20
+
+The
+following summarizes other supplemental information about the Company’s operating leases as of as of June 30, 2025
+and December 31, 2024:
+
+Summary
+of supplemental operating lease
+
+December 31, 2024 | June 30, 2025
+
+Weighted average discount rate | 5 | % | 5 | %
+
+Weighted average remaining lease term (years) | 1.83 | 1.29
+
+F- 18
+
+RYDE
+GROUP LTD
+
+NOTES
+TO UNAUDITED INTERIM CONDENSED CONSOLIDATED FINANCIAL STATEMENTS
+
+10 | Income
+ taxes
+
+Caymans
+and BVIs
+
+The
+Company and its subsidiary are domiciled in the Cayman Island and British Virgin Islands. The locality currently enjoys permanent income
+tax holidays; accordingly, the Company and Ryde Group (BVI) Limited do not accrue for income taxes.
+
+Singapore
+
+Ryde
+Technologies Pte. Ltd. and Meili Technologies Pte. Ltd. are incorporated in Singapore and are subject to Singapore Corporate Tax on the
+taxable income as reported in its statutory financial statements adjusted in accordance with relevant Singapore tax laws. The applicable
+tax rate is
+
+17
+% in Singapore, with 
+75
+% of the first S$
+10,000
+ taxable income and 
+50
+% of the next S$
+190,000
+ taxable income exempted from
+income tax.
+
+Malaysia
+
+Meili
+Technologies (M) Sdn. Bhd. is subject to Malaysia Corporate Tax on the taxable income as reported in its statutory financial statements
+adjusted in accordance with relevant Malaysia tax laws. The standard corporate income tax rate in Malaysia is 
+24
+%. However, if 
+the Company
+has a paid-up capital of MYR 2.5 million or less, and gross income from business of not more than MYR 50 million, the tax rates will
+be 15% on the first MYR 150,000, 17% on amount between MYR150,001 to MYR600,000, and 24% on amount exceeding MYR 600,000
+.
+
+The
+income tax expense is S$
+32,000
+ (US$
+25,000
+) and 
+nil
+ for the six months ended June 30, 2025 and
+2024, respectively.
+
+A
+reconciliation between the Group’s actual provision for income tax and the provision at the respective statutory rate was as follows:
+
+Schedule of provision for income tax
+
+2024 | 2025 | 2025
+
+For the six-month ended June 30,
+
+2024 | 2025 | 2025
+
+S$’000 | S$’000 | US$’000
+
+Loss before income taxes | ( 13,542 | ) | ( 4,844 | ) | ( 3,808 | )
+
+Tax at the domestic rates applicable to profit or loss in the countries where the Group operates | ( 268 | ) | ( 233 | ) | ( 183 | )
+
+Reconciling items:
+
+Non-deductible expenses | 42 | 51 | 40
+
+Government grant not subject to tax | ( 5 | ) | ( 3 | ) | ( 2 | )
+
+Valuation allowance for tax losses | 226 | 173 | 136
+
+Others | 5 | 44 | 34
+
+Tax charge | - | 32 | 25
+
+Significant
+components of the Company’s deferred tax balances as of June 30, 2025 and December 31, 2024 are as follows:
+
+Schedule of components of deferred tax balances
+
+December 31,
+ 2024 | June 30, 2025 | June 30, 2025
+
+S$’000 | S$’000 | US$’000
+
+Deferred tax assets
+
+Tax losses carry forwards | 3,109 | 3,282 | 2,580
+
+Less: Valuation allowance | ( 3,109 | ) | ( 3,282 | ) | ( 2,580 | )
+
+Total deferred tax assets | - | - | -
+
+Deferred tax liabilities
+
+Total deferred tax liabilities | 32 | - | -
+
+Deferred
+tax liability is related to the fair value of intangible assets arising from the acquisition of Meili Technologies Pte.
+Ltd.
+
+The
+tax losses carry forwards is available for offsetting against future taxable profits for which no deferred tax asset is recognized due
+to uncertainty of its recoverability. The realization of the future income tax benefits from the tax losses carry forwards is available
+for an unlimited future period subject to the compliance with certain provisions of the tax legislations of the countries in which the
+group companies operate.
+
+As
+of June 30, 2025, the open tax year for our entities in Singapore and Malaysia is the tax year 2025.
+
+F- 19
+
+RYDE
+GROUP LTD
+
+NOTES
+TO UNAUDITED INTERIM CONDENSED CONSOLIDATED FINANCIAL STATEMENTS
+
+11 | Revenue
+
+Schedule of revenue
+
+2024 | 2025 | 2025
+
+For the six months ended June 30,
+
+2024 | 2025 | 2025
+
+S$’000 | S$’000 | US$’000
+
+Mobility | 2,783 | 4,156 | 3,268
+
+Quick commerce | 98 | 92 | 72
+
+Membership | 308 | 254 | 200
+
+Advertising initiative | 1,140 | 1,200 | 943
+
+Others | 47 | 46 | 36
+
+Revenue | 4,376 | 5,748 | 4,519
+
+12 | Other
+ income
+
+Schedule of other income
+
+2024 | 2025 | 2025
+
+For the six months ended June 30,
+
+2024 | 2025 | 2025
+
+S$’000 | S$’000 | US$’000
+
+Government grants | 28 | 20 | 16
+
+Others | 15 | 25 | 19
+
+Other income | 43 | 45 | 35
+
+13 | Other
+ expenses
+
+Schedule of other expenses
+
+2024 | 2025 | 2025
+
+For the six months ended June 30,
+
+2024 | 2025 | 2025
+
+S$’000 | S$’000 | US$’000
+
+Information technology expenses | 684 | 726 | 571
+
+Legal and professional fees | 2,313 | 2,118 | 1,665
+
+Marketing and advertising | 1,374 | 1,546 | 1,216
+
+Rental | 3 | 4 | 3
+
+Others | 381 | 266 | 209
+
+Total Other expenses | 4,755 | 4,660 | 3,664
+
+F- 20
+
+RYDE
+GROUP LTD
+
+NOTES
+TO UNAUDITED INTERIM CONDENSED CONSOLIDATED FINANCIAL STATEMENTS
+
+14 | Share-based
+ compensation
+
+Schedule of share-based payment expenses
+
+2024 | 2025 | 2025
+
+For the six-month ended June 30,
+
+2024 | 2025 | 2025
+
+S$’000 | S$’000 | US$’000
+
+Share-based compensation | 9,807 | 1,542 | 1,212
+
+In
+June 2024, the Company issued 
+1,500,000
+ Class A Ordinary Shares of the Company to certain consultants. The consulting services provided
+by the Consultants to the Company pursuant to the Consulting Agreements include: review and provide advice on the Company’s strategic
+plans; meet with focus groups and interested parties to discuss the Company’s strategic plans; provide advice on how best to position
+the Company and its subsidiaries in the future; propose potential acquisition targets for the Company and its subsidiaries; and assist
+in dealing with the corporate matters entrusted to the Consultants by the Company and its subsidiaries.
+
+The
+fair value of the Class A Ordinary Shares issued to consultants was measured based on the closing market share price of US$
+4.84
+ per share.
+
+During
+the period ended June 30, 2024, the Company recognized share-based compensation of S$
+9,807,000
+ (US$
+7,237,000
+) in the consolidated statements
+of operations and comprehensive loss.
+
+In
+March 2025, the Company issued 
+3,000,000
+ Class B Ordinary Shares of the Company, to Mr. Terence Zou, the Chairman of the Board of Directors
+and Chief Executive Officer of the Company, to recognize his significant contribution to the Company’s business operations for the financial year 2024.
+
+The
+fair value of the Class A Ordinary Shares issued to Mr. Terence Zou was measured based on the closing market share price of US$
+0.3895
+
+per share.
+
+During
+the period ended June 30, 2025, the Company recognized share-based compensation of S$
+1,542,000
+ (US$
+1,212,000
+) in the consolidated statements
+of operations and comprehensive loss.
+
+15 | Loss
+ per share
+
+The
+following table sets forth the computation of basic and diluted loss per share attributable to ordinary shareholders for the six months
+ended June 30, 2025 and 2024 (in thousands):
+
+Schedule of computation of basic and diluted loss per share
+
+2024 | 2025 | 2025
+
+For the six months ended June 30,
+
+2024 | 2025 | 2025
+
+S$’000 | S$’000 | US$’000
+
+Net loss and other comprehensive loss | ( 13,505 | ) | ( 5,045 | ) | ( 3,966 | )
+
+Less: Comprehensive loss attributable to non-controlling interest | ( 12 | ) | ( 2 | ) | ( 2 | )
+
+Comprehensive loss for the period attributable to Ryde Group Ltd | ( 13,493 | ) | ( 5,043 | ) | ( 3,964 | )
+
+Basic weighted-average ordinary shares outstanding | 16,577 | 27,391 | 27,391
+
+Basic and diluted loss per share attributable to Ryde Group Ltd | ( 0.81 | ) | ( 0.18 | ) | ( 0.14 | )
+
+16 | Subsequent
+ events
+
+The
+Company has assessed all subsequent events through October 24, 2025, which is the date that these consolidated financial statements are
+issued and other than the following, there are no further material subsequent events that require disclosure in these consolidated financial
+statement.
+
+(a) | On May 21, 2025, the Company received a notice from NYSE American indicating that the Company was not in compliance
+with the continued listing standards set forth in Sections 1003(a)(ii) of the NYSE American Company Guide (the “Company Guide”).
+Section 1003(a)(ii) applies if a listed company has stockholders’ equity of less than US$ 4.0 million and has reported losses from
+continuing operations and/or net losses in three of its four most recent fiscal years. The Company is also not currently eligible for
+any exemption in Section 1003(a) of the Company Guide from the stockholders’ equity requirements. As a result, the Company has become
+subject to the procedures and requirements of Section 1009 of the Company Guide and must submit a plan to NYSE American by June 20, 2025
+addressing how the Company intend to regain compliance with Section 1003(a)(ii) of the Company Guide by November 21, 2026. On June 20,
+2025, the Company submitted a plan to the NYSE American to regain compliance within the required timeframe. On
+August 5, 2025, the Company’s plan to regain compliance within the required timeframe was accepted by the NYSE American. In addition,
+although the plan has been accepted by NYSE American, if the Company is not in compliance with the continued listing standards by November
+21, 2026, or if the Company does not make progress consistent with the plan during the plan period, the Company will be subject to delisting
+proceedings. The Company is subject to periodic NYSE American reviews, including quarterly monitoring for compliance with the plan. The
+Company’s Class A voting shares will continue to be listed during the plan period pursuant to an extension and trade on the symbol
+“RYDE”.
+
+(b) | On
+ August 21, 2025, Barentsz Capital Ltd acquired 40 %
+ shareholding of RGT (BVI) Ltd, establishing a strategic partnership with the Company to provide management consultancy services.
+
+(c) | On
+ September 2, 2025, the Company’s Registration Statement on Form F-3 (File No. 333-288587)
+ has been declared effective. The Company may, from time to time in one or more offerings,
+ offer and sell up to US$ 100,000,000 in the aggregate of Class A Ordinary Shares of par value
+ US$ 0.0002 per share in the capital of the Company, warrants, units and rights to purchase
+ Class A Ordinary Shares, debt securities, rights or any combination of the foregoing, either
+ individually or as units comprised of one or more of the other securities.
+
+(d) | On
+ September 10, 2025, the Company completed a registered direct offering. In this offering,
+ the Company issued 6,422,000 Class A ordinary shares at a price of US$ 0.25 per Class A share.
+ The Company received gross proceeds in the amount of US$ 1.6 million.
+
+(e) | On September 15, 2025, the Board of Directors of the Company adopted a resolution approving the conversion of 1,365,225 Class B Ordinary Shares currently held at the Company’s transfer agent under the ownership of Octava Fund Limited (“Octava”)
+to Class A Ordinary Shares. The 1,365,225 Class B Ordinary Shares will be cancelled and an equivalent number of 1,365,225 Class A Ordinary
+shares will be issued to Octava on a one-for-one basis.
+
+(f) | On October 9, 2025, the Company completed a private offering. In this offering, the Company issued 33,340,000 Class A ordinary
+shares at a price of US$ 0.30 per Class A share. The Company received gross proceeds in the amount of US$ 10 million.
+
+(g) | On October 10, 2025, the Company issued 2,000,000 Class B Ordinary Shares of the Company, to Mr. Terence Zou, the
+Chairman of the Board of Directors and Chief Executive Officer of the Company, to recognize his significant contribution to the Company’s
+successful completion of the US$ 1.6 million fundraising through a registered direct offering. The Board has further authorized the allotment
+and issuance of up to 30,000,000 additional Class B Ordinary Shares to Mr. Terence Zou, tied to performance-based milestones aligned with
+Ryde’s long-term value creation goals. After such issuance, Mr. Terence Zou beneficially owns an aggregate 7,177,175 Class B Ordinary Shares.
+
+F- 21

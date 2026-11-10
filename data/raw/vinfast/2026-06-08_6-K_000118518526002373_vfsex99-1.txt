@@ -1,0 +1,799 @@
+EX-99.1
+
+2
+
+vfsex99-1.htm
+
+EXHIBIT 99.1
+
+Exhibit 99.1
+
+VinFast Reports Unaudited First Quarter 2026
+Financial Results
+
+Quarterly Revenues reached
+VND23,111.1 billion (US$920.7 million)
+
+Quarterly EV Deliveries were 58,577 units
+
+Singapore,
+June 8, 2026 – VinFast Auto Ltd. (“VinFast” or the “Company”) (Nasdaq: VFS), a pure-play electric vehicle
+(“EV”) company with the mission of making EVs accessible to everyone, today announced its unaudited financial results for
+the first quarter ended March 31, 2026.
+
+Operating Highlights
+for the First Quarter of 2026 
+
+1Q2026 | 4Q2025 | 1Q2025
+
+EV Deliveries (1) | 58,577 | 86,557 | 36,330
+
+E-scooter & E-bike Deliveries | 143,136 | 171,962 | 44,904
+
+● | EV deliveries were
+58,577 in the first quarter of 2026, representing a decrease of 32% from the fourth quarter of 2025 and an increase of 61% from the first
+quarter of 2025. International markets outside of Vietnam accounted for approximately 8% of total deliveries during the quarter.
+
+● | E-scooter and e-bike
+deliveries were 143,136 in the first quarter of 2026, representing a decrease of 17% from the fourth quarter of 2025 and an increase
+of 219% from the first quarter of 2025. In March alone, VinFast received more than 135,000 e-scooter orders and shipped over 93,000 e-scooters
+to dealers in Vietnam.
+
+● | Showrooms: As of
+March 31, 2026, customers can purchase VinFast EVs from 447 showrooms globally. 2
+
+Key Financial
+Growth Metrics for the First Quarter of 2026 (See full details of the Financial Results below)
+
+(in VND millions, except for percentages)
+
+1Q2026 | 4Q2025 | 1Q2025 | QoQ | YoY
+
+Vehicle Sales | 21,650,799 | 37,700,016 | 15,215,503 | (42.6 | )% | 42.3 | %
+
+Total Revenues | 23,111,052 | 39,162,725 | 16,306,376 | (41.0 | )% | 41.7 | %
+
+● | Vehicle sales were
+VND21,650.8 billion (US$862.5 million) in the first quarter of 2026, representing an increase of 42.3% from the first quarter of 2025
+and a decrease of 42.6% from the fourth quarter of 2025.
+
+● | Total revenues were
+VND23,111.1 billion (US$920.7 million) in the first quarter of 2026, representing an increase of 41.7% from the first quarter of 2025
+and a decrease of 41.0% from the fourth quarter of 2025. Total revenues were primarily comprised of revenue from EV sales.
+
+Recent Business
+Updates 
+
+Established Firm Positions Across
+Key Markets
+
+● | In Vietnam, VinFast’s
+EV deliveries in the first quarter of 2026 increased by 53% year-over-year. The Company maintained its position as the number one OEM
+since September 2024. In terms of e-scooters, VinFast has emerged as the #2 player in the market as it reached a record 17% market share 3 for total two-wheeler market in March 2026. In late May 2026, VinFast opened pre-orders for the VF 8 new platform and received approximately
+12,700 reservations within the first eight days, reflecting strong consumer demand and continued momentum for the VinFast brand in its
+home market. 4
+
+● | Southeast Asia and India
+continue to be a core growth engine for VinFast. In the first quarter of 2026, VinFast ranked #1 among battery EV (“BEV”)
+brands in the Philippines 5 , #4 in India 6 and #8 in Indonesia 7 .
+
+1 | Includes EV models under VF, Green and Lac Hong brands, EC Van
+and e-buses.
+
+2 | Includes VinFast-owned and dealer showrooms.
+
+3 | Based on Company internal research
+
+4 | Reservations are non-binding and cancellable until deposits
+are placed by the customers.
+
+5 | According to the Chamber of Automotive Manufacturers of the
+Philippines (CAMPI).
+
+6 | Based on Vahan registrations among BEV brands.
+
+7 | According to the Association of Indonesia Automotive Industries
+(GAIKINDO).
+
+Deepened Synergy with Green and
+Smart Mobility Joint Stock Company (“GSM”)
+
+● | To further support EV
+adoption in emerging, high-growth markets and leverage strong synergies with our affiliates, in May 2026, VinFast and GSM signed a framework
+agreement under which VinFast will supply GSM with approximately one million EVs and four million e-scooters for deployment within GSM’s
+global ride-hailing, leasing, and mobility services platforms in GSM’s markets between 2026 and 2030.
+
+● | GSM is eligible for incentives
+and commercial support reflecting a combination of base discounts, volume-based incentives, and go-to-market support. The quantities,
+pricing and delivery schedules will be determined in vehicle purchase agreements to be entered into between the parties from time to time.
+The partnership is expected to expand VinFast’s international distribution footprint and brand visibility while supporting GSM’s
+global fleet expansion.
+
+Advanced Driver Assistance Systems
+(“ADAS”) Progress
+
+● | On June 1, 2026, at the
+ NVIDIA GTC Taipei event at the COMPUTEX 2026 technology exhibition, VinFast signed an MOU with Autobrains, the Company’s Level
+ 4 autonomy partner, and NVIDIA, a key supplier for VinFast’s Level 4 autonomy initiatives. VinFast developed robotaxis will be
+ powered by the NVIDIA DRIVE Hyperion platform and reference architecture.
+
+Split of VFTP and divestment of
+VFTP
+
+● | In May 2026, VinFast announced
+plans to split certain assets and operations of VinFast Trading and Production JSC (“VFTP”), a subsidiary of the Company,
+into a newly formed Vietnam-incorporated entity expected to be named VinFast Vietnam Joint Stock Company (“VFVN”) (the “Split”).
+Following the Split, VFVN is expected to become a new direct subsidiary of the Company and hold assets, operations and business undertakings
+relating to VinFast’s global research and development activities, intellectual property, after-sales operations and sales businesses,
+as well as the Company’s interests in certain international subsidiaries. VFTP will retain the assets and operations associated
+with the manufacturing business in Vietnam, shares in VinEG Green Energy Solutions JSC and an investment cooperation and business opportunity
+exploration agreement relating to real estate projects, and will continue to assume all financial indebtedness owed by VFTP to unrelated
+third-party creditors, subject to the relevant creditors’ approval. Following completion of the Split, VinFast is expected to hold
+approximately 99.9% of the voting rights in each of VFVN and VFTP.
+
+● | On May 27, 2026, the Company’s
+shareholders approved the proposed transfer by the Company of all of its interest in VFTP to a group of purchasers led by Future Investment
+Research and Development Joint Stock Company and including Mr. Pham Nhat Vuong (“Mr. Pham”), the Company’s Managing
+Director and CEO, as a minority purchaser, for an aggregate consideration of approximately VND13,309.6 billion (approximately US$530 million)
+(the “Share Transfer”). The Share Transfer will be implemented pursuant to a share purchase agreement entered into on May
+12, 2026 between the Company and the purchasers. Completion of the Share Transfer is subject to the satisfaction or waiver of the closing
+conditions set forth in the Share Purchase Agreement. VFVN and VFTP will also enter into a manufacturing and supply agreement under which
+VFTP will produce VinFast-branded vehicles in Vietnam, in accordance with the designs, technical specifications and standards provided
+by VFVN.
+
+● | The proposed transactions
+do not affect any of the Company’s subsidiaries other than VFTP and its subsidiaries, nor do they affect the Company’s international
+business operations (including the Company’s continued ownership and operation of its manufacturing facilities in India and Indonesia),
+which will continue to be held by the Company and operated in the ordinary course of business.
+
+● | The transaction is part
+of the Company’s broader initiative to streamline its operating structure and transition toward a more capital-efficient, asset-light
+model in Vietnam, thereby improving VinFast’s financial structure and reducing future capital expenditure requirements. The Company
+will retain and focus on the development of its VinFast brand through higher value-added activities, including global product research
+and development, technology, brand building, and sales activities in Vietnam and globally.
+
+Funding Sources
+
+● | As previously disclosed,
+Vingroup announced in late 2024 its intention to provide VinFast with additional borrowings of up to VND35,000.0 billion (US$1.4 billion)
+between November 12, 2024, and November 12, 2026, to support VinFast’s continued growth. As of March 31, 2026, VinFast’s outstanding
+borrowings from Vingroup under this commitment were VND19,755.9 billion (US$787.0 million).
+
+● | Pursuant to a grant agreement
+dated November 12, 2024, Mr. Pham committed to provide up to VND50,000.0 billion (US$2.0 billion) in free grants to VinFast and its subsidiaries.
+As of March 31, 2026, a total of VND33,000.0 billion (US$1.3 billion) had been disbursed pursuant to the grant agreement.
+
+● | As of March 31, 2026, VinFast had total available liquidity of up to
+VND65,202.3 billion (US$2.6 billion), which consisted of cash and cash equivalents of VND5,505.5 billion (US$219.3 million), an undrawn
+credit line from Vingroup of up to VND15,244.1 billion (US$607.3 million), remaining grants from Mr. Pham of up to VND17,000.0 billion
+(US$677.2 million), an available commitment of VND24,305.4 billion (US$968.3 million) under a standby equity subscription agreement with
+YA II PN, Ltd. entered into in October 2023, and VND3,147.3 billion (US$125.4 million) the Company expects to receive from the Share Transfer
+after retiring the P-notes previously issued to VFTP.
+
+2
+
+Related Party Transactions
+
+● | Out of 58,577 EVs delivered
+in the first quarter of 2026, approximately 13% were to related parties of the Company.
+
+● | Out of 143,136 e-scooters
+and e-bikes delivered in the first quarter of 2026, approximately 1% were to related parties of the Company.
+
+Legal and Arbitration Proceedings
+
+● | The Company is aware that on May 21, 2026, the North Carolina
+Department of Commerce, through the Office of the Attorney General of North Carolina, filed a complaint against VinFast Manufacturing
+US, LLC, a subsidiary of the Company ("VFUS"), in Wake County Superior Court, State of North Carolina. The complaint alleges
+that VFUS breached certain agreements with the State of North Carolina related to the development of a manufacturing facility in Chatham
+County, North Carolina, by failing to meet certain construction and operational benchmarks under the agreements and seeks to obtain ownership
+of the project site and damages. VFUS is evaluating the complaint and intends to respond through the appropriate legal process; however,
+no assurances can be made as to its outcome.
+
+Management
+Commentary 
+
+Mr. Pham
+Nhat Quan Anh, 
+Chairman of VinFast, said
+: “VinFast has entered a new phase focused on disciplined execution, long-term
+sustainability, and scalable growth. As we continue expanding globally, we remain committed to strengthening our operational
+foundation, enhancing capital efficiency, and advancing our transition toward a more asset-light and resilient business model in Vietnam. We
+believe the long-term global shift toward electrification, supported by increasing focus on energy security and operating
+efficiency, continues to create meaningful opportunities for VinFast across our core markets”.
+
+Ms. Lan
+Anh Nguyen,
+ Chief Financial Officer of VinFast, added: 
+“Our priorities remain centered on disciplined financial management,
+operational excellence, and the efficient deployment of capital. We continue to focus on improving productivity, optimizing our cost base,
+and strengthening the financial resilience of the business. These efforts are intended to support sustainable growth while maintaining
+the flexibility needed to execute our long-term strategic objectives”.
+
+Financial
+Results for the First Quarter of 2026
+
+Revenues
+
+● | Total revenues were
+VND23,111.1 billion (US$920.7 million) in the first quarter of 2026, representing an increase of 41.7% from the first quarter of 2025
+and a decrease of 41.0% from the fourth quarter of 2025. Total revenues were primarily comprised of revenue from EV sales.
+
+● | Vehicle sales were
+VND21,650.8 billion (US$862.5 million) in the first quarter of 2026, representing an increase of 42.3% from the first quarter of 2025
+and a decrease of 42.6% from the fourth quarter of 2025. Revenue growth from the first quarter of 2025 was driven by an increase in EV
+sales volumes due to growth in the Vietnam market and contributions from overseas markets such as India, Indonesia and the Philippines.
+The decrease compared to the fourth quarter of 2025 was attributed to a decrease in EV sales volumes due to seasonality and the Lunar
+New Year in Vietnam.
+
+Cost of Sales and Gross Margin 
+
+● | Cost of sales was
+VND40,115.9 billion (US$1,598.1 million) in the first quarter of 2026, representing an increase of 82.0% from the first quarter of 2025
+and a decrease of 30.0% from the fourth quarter of 2025. The increase compared to the first quarter of 2025 was primarily attributable
+to an increase in the cost of vehicles sold as the Company delivered more EVs to customers. The decrease compared to the fourth quarter
+of 2025 was attributed to a decrease in the cost of EVs sold due to a decrease in sale volumes during the low season.
+
+● | Gross loss was
+VND17,004.9 billion (US$677.4 million) in the first quarter of 2026, representing an increase of 196.4% from the first quarter of 2025
+and a decrease of 6.5% from the fourth quarter of 2025.
+
+● | Gross
+margin was negative 73.6% in the first quarter of 2026, compared to negative 35.2% in the first quarter of 2025 and negative 46.4%
+in the fourth quarter of 2025. The decrease in gross margin from the first quarter of 2025 and the fourth quarter of 2025 was primarily
+attributable to (i) the recognition of the extended free charging program 8 launched in February 2026, which was recorded
+as a deduction of revenue beginning in the first quarter of 2026, and (ii) an increase in inventory write-down charges.
+
+Operating Expenses
+
+● | Research and development
+(R&D) costs were VND2,535.4 billion (US$101.0 million) in the first quarter of 2026, representing an increase of 25.8% from the
+first quarter of 2025 and a decrease of 12.4% from the fourth quarter of 2025. The increase in R&D costs compared to the first quarter
+of 2025 was attributable to R&D costs for the Green models, Lac Hong, EC Van and models that VinFast plans to launch on its new vehicle
+platforms and E/E 2.0 architecture in 2026. The decrease in R&D costs compared to the fourth quarter of 2025 was attributable to the
+completion of certain projects, including the Minio Green model, in the fourth quarter of 2025.
+
+● | Selling, general and
+administrative expenses were VND2,539.5 billion (US$101.2 million) in the first quarter of 2026, representing a decrease of 32.3%
+from the first quarter of 2025 and a decrease of 73.9% from the fourth quarter of 2025. The decrease compared to the first quarter of
+2025 and the fourth quarter of 2025 was primarily attributable to the absence of impairment charges being required in the first quarter
+of 2026, whereas impairment charges were recognized in the prior periods.
+
+● | Net other operating
+expenses were VND781.8 billion (US$31.1 million) in the first quarter of 2026, representing an increase in net operating expenses
+of 40.2% from the first quarter of 2025 and remaining relatively flat compared to the fourth quarter of 2025. The increase in net expense
+compared to the first quarter of 2025 was primarily driven by higher foreign exchange losses.
+
+8 | We launched the free charging program on 9 February 2026,
+providing EV customers with a monthly free charging quota at V-Green JSC stations for a period of up to three years, through February
+2029. The incremental costs will be funded by Mr. Pham directly to V-Green JSC.
+
+3
+
+Loss from Operations 
+
+● | Loss from operations was VND22,861.6 billion (US$910.7 million) in the first quarter of 2026 representing an increase of 89.6% from the first quarter of
+2025 and a decrease of 27.5% from the fourth quarter of 2025, as a result of the foregoing.
+
+Net Loss and Net Loss Per Share
+
+● | Net loss on financial
+instruments at fair value through profit or loss was VND335.2 billion (US$13.4 million) in the first quarter of 2026, representing
+a decrease of 48.2% from the first quarter of 2025 and a decrease of 41.0% from the fourth quarter of 2025. The change in net loss on
+financial instruments at fair value through profit or loss was mainly attributable to changes in the fair value of currency interest rate
+swaps contracts, financial liabilities in respect of dividend preference shares, warrants and other investments.
+
+● | Net loss was VND28,108.0
+billion (US$1,119.8 million) in the first quarter of 2026, representing an increase of 58.9% from the first quarter of 2025 and a decrease
+of 25.1% from the fourth quarter of 2025.
+
+● | Net loss attributable
+to controlling interest was VND28,060.0 billion (US$1,117.8 million) in the first quarter of 2026, representing an increase of 58.8%
+from the first quarter of 2025 and a decrease of 25.1% from the fourth quarter of 2025.
+
+● | Basic and diluted net
+loss per ordinary share were both VND11,994 (US$0.48) in the first quarter of 2026, compared with VND7,556 (US$0.30) in the first
+quarter of 2025 and VND16,005 (US$0.64) in the fourth quarter of 2025.
+
+Balance Sheet
+
+● | Cash and cash equivalents were VND5,505.5 billion (US$219.3 million) as of March 31, 2026.
+
+Business Outlook
+
+● | VinFast reiterates its
+global deliveries of at least 300,000 EVs for the full year 2026, supported by continued strong momentum in Asian markets, including Vietnam,
+Indonesia, India, and the Philippines, driven by the introduction of new models and the ongoing expansion of its distribution network.
+For two-wheelers, the Company expects 2026 deliveries to be at least 2.5 times its 2025 deliveries. These targets do not include potential
+deliveries to VinFast’s affiliate, GSM, under a framework agreement signed in May 2026 and described above.
+
+● | This business outlook
+reflects the Company’s current and preliminary view of the business and existing market conditions, which are subject to change.
+VinFast’s target markets are Vietnam, Indonesia, the Philippines, India, the Middle East, North America and Europe, and the Company
+continues to evaluate opportunities to expand into additional countries and regions across Europe, Asia, the Middle East and Africa. VinFast
+aims to grow its global footprint in markets where it identifies strong long-term EV adoption potential. This expansion strategy is aligned
+with Vingroup’s broader global development approach, leveraging the Vingroup ecosystem, partnerships and capital resources to support
+VinFast’s international growth.
+
+● | VinFast may establish
+or enlarge its presence in existing and new markets through a range of distribution models, with dealership partnerships representing
+the predominant approach in recent periods. To ensure sufficient production capacity to support its current and future operations, VinFast
+intends, from time to time, to expand its international manufacturing capacity, assembly and distribution capacity across its markets,
+including through the expansion of existing facilities as well as new brownfield and greenfield projects. While VinFast remains focused
+on the mini- through E-segments of the electric SUV market, it continues to evaluate a broader spectrum of vehicle types for future product
+development. VinFast regularly reviews its global expansion strategy and retains flexibility to accelerate, moderate or otherwise adjust
+its distribution, manufacturing, assembly, marketing and other market plans as conditions evolve.
+
+● | VinFast’s funding
+sources for its capital requirements to implement its growth strategy are expected to include loans, grants, and transactions with its
+major shareholders and affiliates, as well as public and private debt and equity capital markets, third-party borrowings and cash from
+operations. VinFast also expects to opportunistically access the debt and equity capital markets from time to time, subject to market
+conditions. The Company also seeks to capture available tax incentives, subsidies and other policy support programs to reduce the cost
+of investment and operations.
+
+Conference
+Call
+
+The Company’s management will host its first quarter
+2026 earnings conference call at 8:00 AM U.S. Eastern Time on June 8, 2026. Live Webcast: https://edge.media-server.com/mmc/p/mauga9qr
+
+4
+
+VinFast Auto Ltd.
+
+Unaudited Interim Condensed Consolidated
+Balance Sheets
+
+As of December 31, | As March 31, | As March 31,
+
+2025 | 2026 | 2026
+
+VND million | VND million | USD
+
+(Audited) | (Unaudited) | (Unaudited)
+
+ASSETS
+
+CURRENT ASSETS
+
+Cash and cash equivalents | 7,351,998 | 5,505,470 | 219,323,958
+
+Restricted cash | 766,885 | 1,285,863 | 51,225,520
+
+Trade receivables | 4,670,062 | 5,915,629 | 235,663,652
+
+Advances to suppliers | 11,865,953 | 11,923,864 | 475,016,493
+
+Inventories, net | 34,882,649 | 37,160,957 | 1,480,398,255
+
+Short-term prepayments, other receivables and other assets | 14,330,687 | 15,805,131 | 629,636,324
+
+Current net investment in sales-type lease | 27,835 | 27,405 | 1,091,746
+
+Short-term investments | 3,051,790 | 2,357,178 | 93,903,992
+
+Short-term amounts due from related parties | 8,491,889 | 3,701,939 | 147,475,858
+
+Total current assets | 85,439,748 | 83,683,436 | 3,333,735,798
+
+NON-CURRENT ASSETS
+
+Trade receivables | 563,522 | 572,072 | 22,789,897
+
+Property, plant and equipment, net | 79,233,904 | 82,813,790 | 3,299,091,307
+
+Intangible assets, net | 1,206,618 | 1,170,318 | 46,622,500
+
+Right-of-use assets | 6,336,688 | 6,465,402 | 257,565,214
+
+Long-term derivative asset | 387,503 | 482,214 | 19,210,182
+
+Long-term prepayments | 88,011 | 131,449 | 5,236,595
+
+Non-current net investment in sales-type lease | 139,228 | 94,498 | 3,764,561
+
+Investment in equity investees | 1,060,009 | 1,129,310 | 44,988,846
+
+Other long-term investments | 5,817,000 | 5,099,773 | 203,162,019
+
+Long-term amounts due from related parties | 54,843 | 52,069 | 2,074,297
+
+Restricted cash | 1,836,864 | 1,570,888 | 62,580,193
+
+Other non-current assets | 458,104 | 1,910,528 | 76,110,589
+
+Total non-current assets | 97,182,294 | 101,492,311 | 4,043,196,200
+
+TOTAL ASSETS | 182,622,042 | 185,175,747 | 7,376,931,997
+
+5
+
+VinFast Auto Ltd.
+
+Unaudited Interim Condensed Consolidated
+Balance Sheets (continued)
+
+As of December 31, | As March 31, | As March 31,
+
+2025 | 2026 | 2026
+
+VND million | VND million | USD
+
+(Audited) | (Unaudited) | (Unaudited)
+
+EQUITY AND LIABILITIES
+
+CURRENT LIABILITIES
+
+Short-term and current portion of long-term interest-bearing loans and borrowings | 34,615,936 | 36,389,627 | 1,449,670,425
+
+Short-term financial liabilities | 24,426,683 | 24,963,804 | 994,494,622
+
+Trade payables | 32,630,360 | 37,228,053 | 1,483,071,190
+
+Deposits and down-payment from customers | 1,987,433 | 2,354,795 | 93,809,059
+
+Short-term deferred revenue | 98,631 | 116,386 | 4,636,523
+
+Short-term accruals | 18,557,251 | 20,700,764 | 824,665,923
+
+Other current liabilities | 16,106,077 | 15,484,543 | 616,864,911
+
+Current portion of lease liabilities | 1,284,686 | 1,307,249 | 52,077,484
+
+Amounts due to related parties | 35,051,908 | 36,806,412 | 1,466,274,082
+
+Total current liabilities | 164,758,965 | 175,351,633 | 6,985,564,218
+
+NON-CURRENT LIABILITIES
+
+Long-term interest-bearing loans and borrowings | 47,548,228 | 48,328,478 | 1,925,283,961
+
+Long-term financial liabilities | 13,064 | 29,635 | 1,180,583
+
+Other non-current liabilities | 17,502,086 | 19,059,906 | 759,298,303
+
+Non-current lease liabilities | 5,586,707 | 5,703,105 | 227,197,235
+
+Long-term deferred revenue | 4,126,656 | 4,787,588 | 190,725,361
+
+Deferred tax liabilities | 1,296,783 | 1,263,655 | 50,340,809
+
+Long-term accruals | 2,857,931 | 2,968,286 | 118,248,984
+
+Amounts due to related parties | 31,327,400 | 27,664,957 | 1,102,101,705
+
+Total non-current liabilities | 110,258,855 | 109,805,610 | 4,374,376,942
+
+EQUITY
+
+Ordinary shares (2,339,536,010 and 2,339,536,010 shares issued and outstanding as of December 31, 2025 and March 31, 2026, respectively) | 9,867,220 | 9,867,220 | 393,085,013
+
+Accumulated losses | (367,176,828 | ) | (395,236,788 | ) | (15,745,230,978 | )
+
+Additional paid-in capital | 183,945,584 | 193,754,007 | 7,718,668,114
+
+Other comprehensive income/(loss) | (572,559 | ) | 141,282 | 5,628,316
+
+Deficit attributable to equity holders of the parent | (173,936,583 | ) | (191,474,279 | ) | (7,627,849,534 | )
+
+Non-controlling interests | 81,540,805 | 91,492,783 | 3,644,840,371
+
+Total deficit | (92,395,778 | ) | (99,981,496 | ) | (3,983,009,163 | )
+
+TOTAL DEFICIT AND LIABILITIES | 182,622,042 | 185,175,747 | 7,376,931,997
+
+6
+
+VinFast Auto Ltd.
+
+Unaudited Interim Condensed Consolidated
+Statements of Operations
+
+For
+the three months ended March 31,
+
+2025 | 2026 | 2026
+
+VND million | VND million | USD
+
+(Unaudited) | (Unaudited) | (Unaudited)
+
+Revenues
+
+Sales of vehicles | 15,215,503 | 21,650,799 | 862,512,907
+
+Other sales | 1,090,873 | 1,460,253 | 58,172,775
+
+Revenues | 16,306,376 | 23,111,052 | 920,685,682
+
+Cost of vehicles sold | (21,297,550 | ) | (39,033,772 | ) | (1,555,006,454 | )
+
+Cost of other sales | (745,316 | ) | (1,082,172 | ) | (43,110,987 | )
+
+Cost of sales | (22,042,866 | ) | (40,115,944 | ) | (1,598,117,441 | )
+
+Gross loss | (5,736,490 | ) | (17,004,892 | ) | (677,431,758 | )
+
+Operating expenses
+
+Research and development costs | (2,015,586 | ) | (2,535,422 | ) | (101,004,780 | )
+
+Selling and distribution costs | (1,573,154 | ) | (1,500,529 | ) | (59,777,269 | )
+
+Administrative expenses | (2,177,445 | ) | (1,039,014 | ) | (41,391,682 | )
+
+Net other operating expenses | (557,488 | ) | (781,751 | ) | (31,142,977 | )
+
+Operating loss | (12,060,163 | ) | (22,861,608 | ) | (910,748,466 | )
+
+Finance income | 25,577 | 104,776 | 4,174,010
+
+Finance costs | (5,053,606 | ) | (5,118,408 | ) | (203,904,390 | )
+
+Net loss on financial instruments at fair value through profit or loss | (647,291 | ) | (335,170 | ) | (13,352,323 | )
+
+Share of gains from equity investees | 36,966 | 69,301 | 2,760,776
+
+Loss before income tax expense | (17,698,517 | ) | (28,141,109 | ) | (1,121,070,393 | )
+
+Tax expense | 4,748 | 33,127 | 1,319,696
+
+Net loss for the period | (17,693,769 | ) | (28,107,982 | ) | (1,119,750,697 | )
+
+Net loss attributable to non-controlling interests | (21,980 | ) | (48,022 | ) | (1,913,075 | )
+
+Net loss attributable to controlling interest | (17,671,789 | ) | (28,059,960 | ) | (1,117,837,623 | )
+
+7
+
+VinFast Auto Ltd.
+
+Unaudited Interim Condensed Consolidated
+Statements of Comprehensive Loss
+
+For
+the three months ended March 31,
+
+2025 | 2026 | 2026
+
+VND million | VND million | USD
+
+(Unaudited) | (Unaudited) | (Unaudited)
+
+Net loss for the period | (17,693,769 | ) | (28,107,982 | ) | (1,119,750,697 | )
+
+Other comprehensive loss
+
+Other comprehensive loss that will be reclassified to profit or loss in subsequent periods (net of tax):
+
+Exchange differences on translation of foreign operations | (251,114 | ) | 713,841 | 28,437,615
+
+Net other comprehensive loss that will be reclassified to profit or loss in subsequent periods | (251,114 | ) | 713,841 | 28,437,615
+
+Total comprehensive loss for the period, net of tax | (17,944,883 | ) | (27,394,141 | ) | (1,091,313,083 | )
+
+Net loss attributable to non-controlling interests | (21,980 | ) | (48,022 | ) | (1,913,075 | )
+
+Comprehensive loss attributable to controlling interest | (17,922,903 | ) | (27,346,119 | ) | (1,089,400,008 | )
+
+Net loss per share attributable to ordinary shareholders | VND | VND | USD
+
+Basic and diluted | (7,556 | ) | (11,994 | ) | (0.48 | )
+
+Weighted average number of shares used in loss per share computation
+
+Basic and diluted | 2,338,812,558 | 2,339,536,010 | 2,339,536,010
+
+8
+
+VinFast Auto Ltd.
+
+Unaudited Interim Condensed Consolidated
+Statements of Cash Flows
+
+For
+the three month ended March 31,
+
+2025 | 2026 | 2026
+
+VND million | VND million | USD
+
+(Unaudited) | (Unaudited) | (Unaudited)
+
+OPERATING ACTIVITIES
+
+Net loss for the period | (17,693,769 | ) | (28,107,982 | ) | (1,119,750,697 | )
+
+Adjustments:
+
+Depreciation of property, plant and equipment and amortization of intangible assets | 2,779,687 | 2,986,472 | 118,973,468
+
+Impairment of assets and changes in fair value of held for sale assets | 497,710 | - | -
+
+Changes in operating lease right-of-use assets | 304,694 | 173,727 | 6,920,843
+
+Provision related to compensation expenses, assurance-type warranties, net realizable value of inventories and others | 5,175,724 | 8,333,562 | 331,987,969
+
+Deferred tax income | (4,748 | ) | (33,127 | ) | (1,319,696 | )
+
+Unrealized foreign exchange losses | 70,098 | 965,633 | 38,468,369
+
+Net losses on financial instruments at fair value through profit or loss | 647,291 | 335,170 | 13,352,323
+
+Change in amortized costs of financial instruments measured at amortized cost other than nominal interest | 727,566 | 1,130,718 | 45,044,937
+
+Losses on disposal and write-off of fixed assets | 281,685 | 131,236 | 5,228,109
+
+Deemed contribution from owners to VinFast’s customers | - | 4,812,641 | 191,723,408
+
+Share of profits from equity investees | (36,966 | ) | (69,301 | ) | (2,760,776 | )
+
+Cash received as profit shared from investment cooperation and business opportunity exploration agreement | - | 923,533 | 36,791,212
+
+Others | (13,602 | ) | 8,628 | 343,718
+
+Change in working capital:
+
+Trade receivables and advance to suppliers, net investment in sales-type lease | 2,518,416 | 3,279,408 | 130,643,295
+
+Inventories | (8,006,449 | ) | (7,625,221 | ) | (303,769,461 | )
+
+Trade payables, deferred revenue and other payables | (1,259,997 | ) | 1,382,249 | 55,065,294
+
+Operating lease liabilities | (347,997 | ) | (245,484 | ) | (9,779,460 | )
+
+Prepayments, other receivables and other assets | (724,879 | ) | (1,733,752 | ) | (69,068,281 | )
+
+Net cash flows used in operating activities | (15,085,536 | ) | (13,351,890 | ) | (531,905,426 | )
+
+9
+
+VinFast
+Auto Ltd.
+
+Unaudited
+Interim Condensed Consolidated Statements of Cash Flows 
+(continued)
+
+For
+the three month ended March 31,
+
+2025 | 2026 | 2026
+
+VND million | VND million | USD
+
+(Unaudited) | (Unaudited) | (Unaudited)
+
+INVESTING ACTIVITIES
+
+Purchase of property, plant and equipment, and intangible assets | (3,642,497 | ) | (4,974,453 | ) | (198,169,588 | )
+
+Proceeds from disposal of property, plant and equipment | 60,641 | 163,970 | 6,532,149
+
+Disbursement of bank deposit and loans | (1,277,450 | ) | (1,541,398 | ) | (61,405,386 | )
+
+Collection of bank deposit and loans | - | 751,491 | 29,937,495
+
+Receipt from government grants | 41,275 | - | -
+
+Net cash flows used in investing activities | (4,818,031 | ) | (5,600,390 | ) | (223,105,330 | )
+
+FINANCING ACTIVITIES
+
+Additional amount paid up to convert warrants to capital | 52 | - | -
+
+Deemed contribution from owners | 5,000,000 | 5,000,000 | 199,187,316
+
+Proceeds from borrowings | 29,241,260 | 52,436,993 | 2,088,956,776
+
+Repayment of borrowings | (16,232,373 | ) | (40,772,172 | ) | (1,624,259,900 | )
+
+Net cash flows from financing activities | 18,008,939 | 16,664,821 | 663,884,192
+
+Net decrease in cash and cash equivalents and restricted cash | (1,894,628 | ) | (2,287,459 | ) | (91,126,564 | )
+
+Cash, cash equivalents and restricted cash at beginning of the year | 7,288,271 | 9,955,747 | 396,611,704
+
+Net foreign exchange differences | (251,110 | ) | 693,933 | 27,644,530
+
+Cash, cash equivalents and restricted cash at end of the year | 5,142,533 | 8,362,221 | 333,129,671
+
+Supplement disclosures of non-cash activities
+
+Issuance of dividend preferred shares by offsetting against borrowings from a related party | 10,000,000 | 10,000,000 | 398,374,632
+
+Non-cash property, plant and equipment additions | 2,789,254 | 5,078,038 | 202,296,152
+
+Establishment of right-of-use assets and lease liabilities at commencement dates, lease modification and other non-cash changes | - | 323,774 | 12,898,335
+
+Interest payable conversion to debt | 1,519,150 | 249,684 | 9,946,777
+
+Supplemental Disclosure
+
+Interest paid, net of capitalized interest | 2,755,508 | 5,444,860 | 216,909,410
+
+10
+
+Industry and Market Data
+
+This press release contains market and
+industry data obtained from third-party sources and industry reports, publications, websites, and other publicly available information,
+including but not limited to information regarding the Company’s market position and its performance compared to historical performance
+of other industry players. VinFast has not independently verified such third-party information and makes no representation as to the accuracy
+of such third-party information. While the Company believes that the market and industry data and related statements presented in this
+press release are accurate, there can be no assurance as to the accuracy or completeness of such data or statements. The Company does
+not undertake to update or revise such data or statements. Industry and market data are subject to variations and cannot be verified due
+to limitations on the availability and reliability of data inputs, the nature of third-party data-gathering processes and other inherent
+limitations and uncertainties.
+
+Forward Looking Statements
+
+Forward-looking statements contained
+herein, which are not historical facts, are forward-looking statements within the meaning of the Private Securities Litigation Reform
+Act of 1955. These statements include statements regarding VinFast’s future results of operations and financial position, planned
+products and services, business strategy and plans, objectives of management for future operations of VinFast, market size and growth
+opportunities, competitive position and technological and market trends and involve known and unknown risks that are difficult to predict.
+As a result, VinFast’s actual results, performance or achievements may differ materially from those expressed or implied by these
+forward-looking statements. In some cases, you can identify forward-looking statements because they contain words such as “may,”
+“will,” “shall,” “should,” “expects,” “plans,” “anticipates,”
+“could,” “intends,” “target,” “projects,” “contemplates,” “believes,”
+“estimates,” “predicts,” “potential,” “goal,” “objective,” “seeks,”
+or “continue” or the negative of these words or other similar terms or expressions that concern VinFast’s expectations,
+strategy, plans, or intentions. Such forward-looking statements are necessarily based upon estimates and assumptions that, while considered
+reasonable by VinFast’s and VinFast’s management, are inherently uncertain. Factors that may cause actual results to differ
+materially from current expectations include, but are not limited to: (i) the risk associated with being a growth-stage company in the
+EV industry; (ii) the unavailability, reduction or elimination of government and economic incentives or government policies that are favorable
+for EV manufacturers and buyers; (iii) Significant changes or developments in U.S. laws or policies, including changes in U.S. trade policies
+and tariffs and the reaction of other countries; (iv) the Company’s ability to adequately control the costs associated with its
+operations; (v) the risks of the Company’s brand, reputation, public credibility, and consumer confidence in its business being
+harmed by negative publicity; (vi) competition in the automotive industry; (vii) the ability of the Company to obtain components and raw
+materials according to schedule at acceptable prices, quality, and volumes from its suppliers; (viii) the demand for, and consumers’
+willingness to adopt, EVs; (ix) the availability and accessibility of EV charging stations or related infrastructure; (x) failure to remediate
+the Company’s material weaknesses and produce timely and accurate financial statements; (xi) the ability of the Company to achieve
+profitability, positive cash flows from operating activities, and a net working capital surplus; (xii) the Company’s ability to
+obtain commercially reasonable capital to support its business growth; (xiii) the risk of future restatements to the Company’s Financial
+Statements; (xiv) the Company’s reliance on financial and other support from Vingroup and its affiliates and the close association
+between the Company and Vingroup and its affiliates; (xv) the Company’s reliance on its affiliates for its EV deliveries; (xvi)
+the ability of the Company’s controlling shareholder to control and exert significant influence on the Company; and (xvii) other
+risks discussed in VinFast’s reports filed or furnished to the SEC.
+
+All forward-looking statements attributable
+to VinFast’s or people acting on VinFast’s behalf are expressly qualified in their entirety by the cautionary statements set
+forth above. You are cautioned not to place undue reliance on any forward-looking statements, which are made only as of the date hereof.
+VinFast does not undertake or assume any obligation to update publicly any of these forward-looking statements to reflect actual results,
+new information or future events, changes in assumptions, or changes in other factors affecting forward-looking statements, except to
+the extent required by applicable law. If VinFast updates one or more forward-looking statements, no inference should be drawn that it
+will make additional updates with respect to those or other forward-looking statements. The inclusion of any statement herein does not
+constitute an admission by VinFast or any other person that the events or circumstances described in such statement are material. Undue
+reliance should not be placed upon the forward-looking statements.
+
+Exchange Rates
+
+This announcement contains translations
+of certain Vietnam Dong amounts into U.S. dollars at specified rates solely for the convenience of the reader. Unless otherwise stated,
+all translations from Vietnam Dong to U.S. dollars were made at the rate of VND25,102 to US$1.00, representing the central exchange rate
+quoted by the State Bank of Vietnam Operations Centre as of March 31, 2026. The Company makes no representation that the Vietnam Dong
+or U.S. dollars amounts referred could be converted into U.S. dollars or Vietnam Dong, as the case may be, at any particular rate or at
+all.
+
+VinFast Investor Relations and
+Media Contacts
+
+For more information, please visit:
+http://ir.vinfastauto.us.
+
+Investor Relations
+
+ir@vinfastauto.com
+
+About VinFast Auto Ltd.
+
+VinFast (NASDAQ: VFS) – a subsidiary
+of Vingroup JSC – is Vietnam’s leading automotive company, committed to its mission of creating a green future for everyone.
+VinFast offers a range of electric SUVs, e-scooters, e-bikes, and e-buses in Vietnam and exports to key markets across Asia, North America,
+Europe and the Middle East. Learn more at 
+www.vinfastauto.us
+.
+
+11

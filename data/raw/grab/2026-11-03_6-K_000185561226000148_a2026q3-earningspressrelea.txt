@@ -1,0 +1,645 @@
+EX-99.1
+
+2
+
+a2026q3-earningspressrelea.htm
+
+EX-99.1
+
+Document
+Exhibit 99.1
+Grab Reports Third Quarter 2026 Results, Raises Full-Year Guidance
+●
+Q3 2026 Revenue grew 27% YoY or 30% on a constant currency basis
+1
+ to $1,112 million
+●
+Q3 2026 Profit for the Period of $18 million
+●
+Q3 2026 Adjusted EBITDA
+2
+ grew 73% YoY to a record $237 million
+●
+Adjusted Free Cash Flow
+2
+ nearly doubled YoY to $533 million on a trailing twelve-month basis
+●
+Full-year 2026 Group Revenue and Adjusted EBITDA guidance raised to $4.15 - $4.20 billion and $790 - $800 million, respectively
+●
+Repurchased $400 million of shares in September and October, with $500 million remaining under our program
+SINGAPORE, November 3, 2026 - Grab Holdings Limited (NASDAQ: GRAB) today announced unaudited financial results for the third quarter ended September 30, 2026. 
+"We delivered a record 57 million monthly transacting users on our platform this quarter, despite the elevated fuel prices and macroeconomic headwinds across the region," said 
+Anthony Tan, Group Chief Executive Officer and Co-Founder of Grab
+. “More users are transacting on Grab than ever. Our scale and network efficiencies enable us to make our services more affordable for users, and improve earnings opportunities for our driver- and merchant-partners through our proprietary AI-powered tools and access to financing. Southeast Asia continues to be one of the fastest-growing regions globally and remains under-penetrated. We will accelerate our cross-platform strategy to capture this opportunity and drive durable, profitable growth for Grab.”
+"This was another quarter of profitable growth. Group revenue was up 27% YoY or 30% YoY on a constant currency basis, and we recorded our nineteenth consecutive quarter of Adjusted EBITDA growth to a record $237 million. Adjusted EBITDA margin expanded 565 basis points YoY, with Financial Services achieving Adjusted EBITDA profitability for the first time," said 
+Peter Oey, Chief Financial Officer of Grab
+. “Trailing twelve-month Adjusted Free Cash Flow reached $533 million, nearly double the prior year period. As operating leverage continues to build across our core segments, we are raising our full-year 2026 guidance for Group revenue to $4.15 billion to $4.20 billion, and Adjusted EBITDA to $790 million to $800 million. We are also putting our balance sheet to work for our shareholders and reducing our share count by repurchasing $400 million of shares between September and October.”
+
+1
+ We calculate constant currency by translating our current period financial results using the corresponding prior period’s monthly exchange rates for our transacted currencies other than the U.S. dollar
+2
+ These are non-IFRS measures. For a reconciliation of non-IFRS financial measures to the most directly comparable IFRS measure, see the section titled “Non-IFRS Financial Measures” on Page 10.
+Group Third Quarter 2026 Key Operational and Financial Highlights
+
+($ in millions, unless otherwise stated) | Q3 2026 | Q3 2025 | YoY % Change | YoY % Change
+
+(unaudited) | (unaudited) | (constant currency 1 )
+
+Operating metrics:
+
+On-Demand GMV | 6,835 | 5,774 | 18% | 22%
+
+On-Demand GMV per MTU ($) | 135 | 133 | 2% | 5%
+
+Group MTUs (millions of users) | 57.2 | 47.7 | 20%
+
+Partner incentives | 331 | 263 | 26%
+
+Consumer incentives | 406 | 322 | 26%
+
+Gross loan portfolio | 2,711 | 903 | 200%
+
+Financial measures:
+
+Revenue | 1,112 | 873 | 27% | 30%
+
+Operating profit | 108 | 27 | 297%
+
+Profit for the period | 18 | 17 | 5%
+
+Total Segment Adjusted EBITDA | 338 | 231 | 46%
+
+Adjusted EBITDA | 237 | 136 | 73%
+
+Net cash from operating activities (Operating Cash Flow) | 55 | (127) | NM
+
+Adjusted Free Cash Flow | 286 | 203 | 41%
+
+●
+Revenue grew 27% YoY, or 30% YoY on a constant currency basis, to $1,112 million in the third quarter of 2026, driven by growth across all our core segments.
+●
+On-Demand GMV grew 18% YoY, or 22% YoY on a constant currency basis, to $6.8 billion, as On-Demand MTUs and On-Demand GMV per MTU grew by 16% and 2%, respectively.
+●
+Total incentives were $737 million during the quarter. On-Demand incentives as a proportion of On-Demand GMV increased 64 basis points YoY to 10.7%, attributed to continued investments into driver supply and driving adoption of new product launches. On a quarter-on-quarter (“QoQ”) basis, On-Demand incentives as a proportion of On-Demand GMV declined 17 basis points.
+●
+Operating profit in the third quarter increased by 297%, or an $81 million improvement, YoY to $108 million, primarily driven by revenue growth across our core segments, and partially offset by increases in costs of revenue and net impairment losses on financial assets.
+●
+Profit for the period was $18 million, compared to $17 million in the prior year period. Operating profit increased by 297% and was offset by non-operating items, including a $57 million net fair value loss on our financial assets and liabilities and a $12 million impairment loss on an equity-accounted investee. During the quarter, we also observed lower finance income year over year and higher income tax expense. We expect our profit for the period to continue to reflect a degree of variability tied to fair value measurements and other non-operating items.
+●
+Adjusted EBITDA was $237 million for the quarter, up 73% YoY from $136 million in the prior year period, as we improved profitability across our core segments. Adjusted EBITDA margin improved to 21.3% of revenue, expanding 565 basis points YoY from 15.6% in the third quarter of 2025.
+●
+Regional corporate costs
+3
+ for the quarter increased by $7 million YoY to $101 million, but declined to 9.2% of Group Revenue from 10.8% in the prior year period. The YoY increase was primarily driven by increases in cloud costs, software costs, and professional fees. On a QoQ basis, regional corporate costs declined by $3 million due to lower staff costs.
+●
+Gross cash liquidity
+4
+ totaled $7.1 billion as of September 30, 2026 compared to $7.4 billion at the end of the prior quarter. Net cash liquidity
+5
+ was $5.0 billion as of September 30, 2026 compared to $5.4 billion as of the end of the prior quarter. In September and October, we repurchased $400 million worth of Class A ordinary shares, after which we have $500 million remaining under our share repurchase programs. Upon completion, assuming the current share price level, our cumulative share repurchases since the start of 2024 will total $1.75 billion, allowing us to retire and cancel more than 10% of shares outstanding.
+●
+Operating Cash Flow was $55 million in the third quarter of 2026, an improvement of $182 million YoY, primarily driven by a $404 million increased inflow of deposits from customers in our digital banking business, which was partially offset by a $294 million increase in loans disbursals in the Financial Services segment.
+●
+Adjusted Free Cash Flow
+6
+ was $286 million for the quarter, an $83 million increase YoY, primarily driven by improvements in Adjusted EBITDA. On a trailing twelve months basis, Adjusted Free Cash Flow was $533 million, nearly double the prior year period.
+3
+ Regional corporate costs are costs that are not attributed to any of the business segments, including certain cost of revenue, research and development expenses, general and administrative expenses and marketing expenses. These regional costs of revenue include cloud computing costs. These regional research and development expenses also include mapping and payment technologies and support and development of the internal technology infrastructure. These general and administrative expenses also include certain shared costs such as finance, accounting, tax, human resources, technology and legal costs. Regional corporate costs exclude share-based compensation expenses and capitalized software costs.
+4
+ Gross cash liquidity includes cash on hand, short-term and long-term time deposits, marketable securities and restricted cash.
+5
+ Net cash liquidity includes gross cash liquidity less loans and borrowings.
+6
+ Starting with the second quarter 2026, Adjusted Free Cash Flow excludes net changes in treasury liquidity positions in the Financial Services segment.
+Business Outlook
+
+Financial Measure | Guidance
+
+FY 2026 Outlook
+
+2026 Group Revenue | $4.15 billion - $4.20 billion 23% - 25% growth YoY (Previous: $4.10 billion - $4.15 billion 22% - 23% growth YoY)
+
+2026 Adjusted EBITDA | $790 million - $800 million 58% - 60% growth YoY (Previous: $720 million - $740 million 44% - 48% growth YoY)
+
+The above guidance and expected YoY growth represents our expectations as of the date of this press release and may be subject to change.
+Segment Financial and Operational Highlights
+Deliveries
+
+($ in millions, unless otherwise stated) | Q3 2026 | Q3 2025 | YoY % Change | YoY % Change
+
+(unaudited) | (unaudited) | (constant currency 1 )
+
+Operating metrics:
+
+GMV | 4,500 | 3,733 | 21% | 24%
+
+Financial measures:
+
+Revenue | 561 | 465 | 21% | 22%
+
+Segment Adjusted EBITDA | 123 | 78 | 58%
+
+●
+Deliveries revenue grew 21% YoY, or 22% YoY on a constant currency basis, to $561 million in the third quarter. Growth was primarily driven by Food and Groceries GMV expansion and improving monetization in our Advertising business.
+●
+Deliveries GMV grew 21% YoY, or 24% YoY on a constant currency basis, to $4,500 million in the quarter, driven primarily by the growth in Deliveries MTUs and Deliveries GMV per MTU.
+●
+Deliveries Segment Adjusted EBITDA grew 58% YoY to $123 million and Deliveries Segment Adjusted EBITDA as a percentage of GMV was 2.7% during the quarter, improving by 65 basis points from 2.1% in the prior year period. The margin expansion was primarily driven by higher Advertising monetization and higher operating leverage. 
+●
+Average monthly active Deliveries merchant-partners grew 7% YoY in the third quarter, while average earnings of these merchant-partners grew 15% YoY. Total quarterly active advertisers on our self-serve platform grew 39% YoY, and average spend of these advertisers grew 13% YoY.
+Mobility
+
+($ in millions, unless otherwise stated) | Q3 2026 | Q3 2025 | YoY % Change | YoY % Change
+
+(unaudited) | (unaudited) | (constant currency 1 )
+
+Operating metrics:
+
+GMV | 2,335 | 2,041 | 14% | 17%
+
+Financial measures:
+
+Revenue | 349 | 317 | 10% | 12%
+
+Segment Adjusted EBITDA | 207 | 181 | 15%
+
+●
+Mobility revenue grew 10% YoY, or 12% YoY on a constant currency basis, to $349 million in the third quarter of 2026. Revenue growth was underpinned by increases in Mobility GMV and continued expansion of Mobility MTUs and transactions.
+●
+Mobility GMV grew 14% YoY, or 17% YoY on a constant currency basis, to reach $2,335 million during the quarter. Mobility transactions grew 21% YoY, outpacing GMV growth, as our affordable offerings brought more MTUs onto the platform. 
+●
+Mobility Segment Adjusted EBITDA grew 15% YoY to $207 million. Mobility Segment Adjusted EBITDA as a percentage of Mobility GMV was stable YoY at 8.9% during the quarter.
+●
+During the quarter, active driver-partners grew 4% QoQ and 20% YoY to reach another all-time high as we invested in supply incentives amid efforts to accelerate the transition towards Electric Vehicles (“EVs”). Regional EV penetration reached 18% of completed four-wheel trips, up from 13% in the first quarter of 2026. 
+Financial Services 
+
+($ in millions, unless otherwise stated) | Q3 2026 | Q3 2025 | YoY % Change | YoY % Change
+
+(unaudited) | (unaudited) | (constant currency 1 )
+
+Operating metrics:
+
+Gross loan portfolio | 2,711 | 903 | 200%
+
+Financial measures:
+
+Revenue | 201 | 90 | 124% | 132%
+
+Segment Adjusted EBITDA | 12 | (28) | 142%
+
+●
+Financial Services revenue grew 124% YoY, or 132% YoY on a constant currency basis, to $201 million in the third quarter of 2026. Revenue growth was primarily driven by increased lending contributions across GrabFin and our Digibanks, including the consolidation of Superbank in June, and the acquisition of Stash beginning this quarter. Total loans disbursed grew 115% YoY to $1.9 billion during the quarter.
+
+●
+Gross Loan Portfolio scaled 200% YoY to reach $2.7 billion as of the end of the quarter, from $0.9 billion in the prior year period. Excluding contributions from Superbank, Gross Loan Portfolio grew 115% YoY.
+●
+Financial Services Segment Adjusted EBITDA turned positive for the first time, improving by $40 million YoY to $12 million from negative $28 million in the prior year period, reflecting increased revenue contributions from our lending businesses and contributions from Superbank and Stash.
+●
+We are managing credit quality closely as our Gross Loan Portfolio scales. Non-Performing Loans (“NPLs”), measured at 90 days past due, were 2.6% of our Gross Loan Portfolio as of the end of the third quarter of 2026. Our Expected Credit Loss reserves, at 6.5% of our Gross Loan Portfolio as of the end of the third quarter of 2026, covered our NPLs approximately 2.4 times.
+●
+Total customer deposits across GXS Bank (Singapore), GXBank (Malaysia), and Superbank (Indonesia) grew to $2.7 billion at the end of the third quarter of 2026.
+Others
+
+($ in millions, unless otherwise stated) | Q3 2026 | Q3 2025 | YoY % Change | YoY % Change
+
+(unaudited) | (unaudited) | (constant currency 1 )
+
+Financial measures:
+
+Revenue | 1 | 1 | (17)% | (17)%
+
+Segment Adjusted EBITDA | (4) | * | NM
+
+* Amount less than $1 million
+Other Events
+●
+In October 2026, Taiwan’s Fair Trade Commission (“TFTC”) rejected our previously announced proposed acquisition of Delivery Hero’s foodpanda Taiwan business. As a result, Grab will incur a 
+$60 million break fee, to be recorded in the fourth quarter 2026. The break fee is a merger and acquisition-related cost that will be fully reflected in our IFRS results, recorded before profit for the period, and will be excluded from Adjusted EBITDA, a non-IFRS measure. This expense has no impact on our full-year 2026 Group Revenue and Adjusted EBITDA guidance. 
+About Grab
+Grab is a leading superapp in Southeast Asia, operating across the deliveries, mobility and digital financial services sectors. Serving over 900 cities in eight Southeast Asian countries – Cambodia, Indonesia, Malaysia, Myanmar, the Philippines, Singapore, Thailand and Vietnam – Grab enables millions of people everyday to order food or groceries, send packages, hail a ride or taxi, pay for online purchases or access services such as lending and insurance, all through a single app. We operate supermarkets in Malaysia under Jaya Grocer and Everrise, which enables us to bring the convenience of on-demand grocery delivery to more consumers in the country. As part of our financial services offerings, we also provide digital banking services through GXS Bank in Singapore, GXBank in Malaysia and Superbank in Indonesia, as well as retail wealth management and investment services through Stash in the United States. Grab was founded in 2012 with the mission to drive Southeast Asia forward by creating economic empowerment for everyone. Grab strives to serve a triple bottom line – we aim to simultaneously deliver financial performance for our shareholders and have a positive social impact, which includes economic empowerment for millions of people in the region, while mitigating our environmental footprint. 
+We use our website as a means of disclosing material information about our company. Such disclosures will be included on our website in the “Investor Relations'' section or at investors.grab.com. Accordingly, investors should monitor such sections of our website, in addition to following our press releases, SEC filings and public conference calls and webcasts. Information contained on, or that can be accessed through, our website does not constitute a part of this document and is not incorporated by reference herein. 
+Forward-Looking Statements
+This document and the announced investor webcast contain “forward-looking statements” within the meaning of the “safe harbor” provisions of the U.S. Private Securities Litigation Reform Act of 1995. All statements other than statements of historical fact contained in this document and the webcast, including but not limited to, statements about Grab’s goals, targets, projections, outlooks, beliefs, expectations, strategy, plans, objectives of management for future operations of Grab, and growth opportunities, are forward-looking statements. Some of these forward-looking statements can be identified by the use of forward-looking words, including “anticipate,” “expect,” “suggest,” “plan,” “believe,” “intend,” “estimate,” “target,” “project,” “should,” “could,” “would,” “may,” “will,” “forecast,” “annualized,” “annualized run-rate,” “on track,” “steady state” or other similar expressions. Forward-looking statements are based upon estimates and forecasts and reflect the views, assumptions, expectations, and opinions of Grab, which involve inherent risks and uncertainties, and therefore should not be relied upon as being necessarily indicative of future results. A number of factors, including macro-economic, industry, business, regulatory and other risks, could cause actual results to differ materially from those contained in any forward-looking statement, including but not limited to: Grab’s ability to grow at the desired rate or scale and its ability to manage its growth; its ability to further develop its business, including new products and services; its ability to attract and retain partners and consumers; its ability to compete effectively in the intensely competitive and constantly changing market; its ability to continue to raise sufficient capital; its ability to reduce net losses and the use of partner and consumer incentives, and to achieve profitability; potential impact of the complex legal and regulatory environment on its business; its ability to protect and maintain its brand and reputation; general economic conditions, in particular as a result of currency exchange fluctuations and inflation; expected growth of markets in which Grab operates or may operate; and its ability to defend any legal or governmental proceedings instituted against it. In addition to the foregoing factors, you should also carefully consider the other risks and uncertainties described under “Item 3. Key Information – D. Risk Factors” and in other sections of Grab’s annual report on Form 20-F for the year ended December 31, 2025, as well as in other documents filed by Grab from time to time with the U.S. Securities and Exchange Commission (the “SEC”). 
+Forward-looking statements speak only as of the date they are made. Grab does not undertake any obligation to update any forward-looking statement, whether as a result of new information, future developments, or otherwise, except as required under applicable law.
+Unaudited Financial Information 
+Grab’s unaudited selected financial data for the three months ended September 30, 2026 and 2025 included in this document and the investor webcast is based on financial data derived from Grab’s management accounts that have not been reviewed or audited. 
+Certain amounts and percentages that appear in this document may not sum due to rounding. 
+Non-IFRS Financial Measures
+This document and the investor webcast include references to non-IFRS financial measures, which include: Adjusted EBITDA, Segment Adjusted EBITDA, Segment Adjusted EBITDA margin, Total Segment Adjusted EBITDA, Adjusted EBITDA margin, Adjusted Free Cash Flow, gross cash liquidity and net cash liquidity. Grab uses Adjusted EBITDA, Segment Adjusted EBITDA, Segment Adjusted EBITDA margin, Total Segment Adjusted EBITDA, and Adjusted EBITDA margin for financial and operational decision-making and as a means to evaluate period-to-period comparisons, and Grab’s management believes that these non-IFRS financial measures provide meaningful supplemental information regarding its performance by excluding certain items that may not be indicative of its recurring core business operating results. For example, Grab’s management uses Total Segment Adjusted EBITDA as a useful indicator of the economics of Grab’s business segments, as it does not include regional corporate costs. Adjusted Free Cash Flow excludes the effects of the movement in working capital for our lending and digital banking deposit activities and net changes in treasury liquidity positions in the Financial Services segment. Grab uses Adjusted Free Cash Flow to monitor business performance and assess its cash flow activity other than its lending and digital banking deposit and liquidity management activities, and Grab’s management believes that the additional disclosure serves as a useful indicator for comparison with the cash flow reporting of certain of its peers. Grab uses gross cash liquidity and net cash liquidity to assess our ability to meet short-term obligations and invest in growth opportunities. 
+However, there are a number of limitations related to the use of non-IFRS financial measures, and as such, the presentation of these non-IFRS financial measures should not be considered in isolation from, or as an alternative to, financial measures determined in accordance with IFRS. In addition, these non-IFRS financial measures may differ from non-IFRS financial measures with comparable names used by other companies. See below for additional explanations about the non-IFRS financial measures, including their definitions and a reconciliation of these measures to the most directly comparable IFRS financial measures. With regard to forward-looking non-IFRS guidance and targets provided in this document and the investor webcast, Grab is unable to provide a reconciliation of these forward-looking non-IFRS measures to the most directly comparable IFRS measures without unreasonable efforts because the information needed to reconcile these measures is dependent on future events, many of which Grab is unable to control or predict.
+Explanation of non-IFRS financial measures:
+●
+Adjusted EBITDA is calculated as profit (loss) for the period adjusted to exclude: (i) net finance income (costs), including interest income (expenses), foreign exchange gain (loss) and changes in fair value of financial assets and liabilities, (ii) net other income (expenses), (iii) income tax expenses (credit), (iv) 
+depreciation and amortization, (v) share-based compensation expenses, (vi) costs related to mergers and acquisitions, (vii) impairment losses on goodwill, non-financial assets and equity-accounted investee, (viii) restructuring costs, (ix) legal, tax and regulatory settlement provisions, and (x) other items not indicative of our ongoing operating performance. 
+●
+Segment Adjusted EBITDA represents the Adjusted EBITDA of each of our four business segments, excluding, in each case, regional corporate costs.
+●
+Segment Adjusted EBITDA margin is calculated as Segment Adjusted EBITDA divided by Gross Merchandise Value. For Financial Services and Others, Segment Adjusted EBITDA margin is calculated as Segment Adjusted EBITDA divided by Revenue.
+●
+Total Segment Adjusted EBITDA represents the sum of Adjusted EBITDA of our four business segments.
+●
+Adjusted EBITDA margin is calculated as Adjusted EBITDA divided by Revenue.
+●
+Adjusted Free Cash Flow is defined as net cash flows from operating activities less capital expenditures (including assets acquired under lease arrangements), plus proceeds from disposal of property, plant and equipment, and excluding changes in working capital related to loans and advances to customers, and deposits from the digital banking business. Starting with the second quarter 2026, Adjusted Free Cash Flow excludes net changes in treasury liquidity positions in the Financial Services segment.
+●
+Gross cash liquidity includes cash on hand, short-term and long-term time deposits, marketable securities and restricted cash.
+●
+Net cash liquidity includes gross cash liquidity less loans and borrowings. 
+
+Three months ended September 30, | Nine months ended September 30,
+
+2026 | 2025 | 2026 | 2025
+
+($ in millions, unless otherwise stated) | $ | $ | $ | $
+
+Profit for the period | 18 | 17 | 373 | 47
+
+Income tax expense/ (credit) | 26 | 21 | (14) | 58
+
+Impairment loss on equity-accounted investee | 12 | - | 12 | -
+
+Share of loss/ (profit) of equity-accounted investees (net of tax) | 1 | * | (2) | (1)
+
+Net finance costs/ (income) (including foreign exchange (gain)/ loss) | 51 | (11) | (220) | (91)
+
+Operating profit | 108 | 27 | 149 | 13
+
+Net other income | (4) | * | (5) | (10)
+
+Depreciation and amortization | 66 | 46 | 176 | 128
+
+Share-based compensation expenses | 49 | 55 | 189 | 196
+
+Costs related to mergers and acquisitions | 2 | 2 | 8 | 8
+
+Day-1 expected credit loss on an acquired loan portfolio | - | - | 15 | -
+
+Impairment losses on goodwill and non-financial assets | - | - | - | *
+
+Restructuring costs | 4 | 2 | 10 | 5
+
+Legal, tax and regulatory settlement provisions | 12 | 4 | 18 | 11
+
+Adjusted EBITDA | 237 | 136 | 560 | 351
+
+Regional corporate costs | 101 | 95 | 318 | 273
+
+Total Segment Adjusted EBITDA | 338 | 231 | 878 | 624
+
+Segment Adjusted EBITDA
+
+Deliveries | 123 | 78 | 307 | 203
+
+Mobility | 207 | 181 | 596 | 504
+
+Financial services | 12 | (28) | (20) | (84)
+
+Others | (4) | * | (5) | 1
+
+Total Segment Adjusted EBITDA | 338 | 231 | 878 | 624
+
+* Amount less than $1 million
+
+Three months ended September 30, | Nine months ended September 30,
+
+2026 | 2025 | 2026 | 2025
+
+($ in millions, unless otherwise stated) | $ | $ | $ | $
+
+Net cash from/ (used in) operating activities | 55 | (127) | 52 | 10
+
+Less: Capital expenditures | (71) | (45) | (152) | (107)
+
+Add: Proceeds from disposal of property, plant and equipment | 4 | 4 | 10 | 10
+
+Changes in:
+
+- Loan receivables in the financial services segment | 445 | 151 | 814 | 309
+
+- Deposits from customers in the banking business | (184) | 220 | (209) | (9)
+
+- Net changes in treasury liquidity positions in the financial services segment | 37 | - | (58) | -
+
+Adjusted Free Cash Flow | 286 | 203 | 457 | 213
+
+Constant Currency
+We compare the percent change in our current period results from the corresponding prior period using constant currency. We present constant currency growth rate information to provide a framework for assessing how our underlying GMV and revenue performed excluding the effect of foreign currency rate fluctuations. We calculate constant currency by translating our current period financial results using the corresponding prior period’s monthly exchange rates for our transacted currencies other than the U.S. dollar.
+Operating Metrics
+Gross Merchandise Value (GMV) is an operating metric representing the sum of the total dollar value of transactions from Grab’s products and services, including any applicable taxes, tips, tolls, surcharges and fees, over the period of measurement. GMV includes (i) sales made through offline stores reported under the deliveries segment; and (ii) revenues made from products and services provided to driver-partners, merchant-partners and other customers to support their businesses, such as GrabAds and GrabRentals, reported under the deliveries and/or mobility segment, as applicable. Mobility GMV is an operating metric representing the 
+GMV of our Mobility segment. Deliveries GMV is an operating metric representing the GMV of our Deliveries segment. On-Demand GMV is an operating metric defined as the sum of Mobility GMV and Deliveries GMV. GMV is a metric by which Grab understands, evaluates and manages its business, and Grab’s management believes is necessary for investors to understand and evaluate its business. GMV provides useful information to investors as it represents the amount of customer spend that is being directed through Grab’s platform. This metric enables Grab and investors to understand, evaluate and compare the total amount of customer spending that is being directed through its platform over a period of time. Grab presents GMV as a metric to understand and compare, and to enable investors to understand and compare Grab's aggregate operating results, which captures significant trends in its business over time.
+Monthly Transacting User (MTUs) is defined as the monthly number of unique users who transact via Grab’s apps, where transact means to have successfully paid for or utilized any of Grab’s products or services (including lending and offline Jaya Grocer transactions where users record their Jaya Grocer loyalty points on the Grab app). MTUs over a quarterly or annual period are calculated based on the average of the MTUs for each month in the relevant period. MTUs is a metric by which Grab understands, evaluates and manages its business, and Grab’s management believes is necessary for investors to understand and evaluate its business. 
+Partner incentives is an operating metric representing the dollar value of incentives granted to driver- and merchant-partners, the effect of which is to reduce revenue. For certain delivery offerings where Grab is contractually responsible for delivery services provided to end-users, incentives granted to driver-partners are recognized in cost of revenue. 
+Consumer incentives is an operating metric representing the dollar value of discounts and promotions offered to consumers, the effect of which is to reduce revenue. Partner incentives and consumer incentives are metrics by which we understand, evaluate and manage our business, and we believe are necessary for investors to understand and evaluate our business. We believe these metrics capture significant trends in our business over time. 
+Gross loan portfolio is an operating metric representing the total of current and non-current loan receivables in the financial services segment, gross of expected credit loss allowances as of a given date. Gross loan portfolio reflects the total credit extended to borrowers before deducting loss allowances, providing a measure of lending scale and volume growth that is more directly comparable with Grab’s peers. Our management uses gross loan portfolio to assess origination momentum and portfolio mix, as it is not influenced by period-to-period movements in provisioning levels.
+Industry and Market Data
+This document may contain information, estimates and other statistical data derived from third party sources, including research, surveys or studies, some of which are preliminary drafts, conducted by third parties, information provided by customers and/or industry or general publications. Such information involves a number of assumptions and limitations due to the nature of the techniques and methodologies used in market research, and as such neither Grab nor the third-party sources can guarantee the accuracy of such information. You are cautioned not to give undue weight to such estimates. Grab has not independently verified such third-party information, and makes no representation as to the accuracy of such third-party information. 
+Impact of $1.5 Billion Convertible Notes Offering on Reported Financial Results
+The conversion feature within the convertible notes is accounted for as a derivative liability under IFRS, with its fair value re-measured each reporting period. While this generates volatility in profit/loss, it does not impact Grab's underlying cash flows or Adjusted EBITDA.
+Unaudited Summary of Financial Results
+Condensed consolidated statement of profit or loss and other comprehensive income
+
+Three months ended September 30, | Nine months ended September 30,
+
+2026 | 2025 | 2026 | 2025
+
+($ in millions, except for share amounts which are reflected in thousands and per share data) | $ | $
+
+Revenue | 1,112 | 873 | 3,064 | 2,464
+
+Cost of revenue | (595) | (491) | (1,697) | (1,405)
+
+Other income | 5 | * | 9 | 17
+
+Sales and marketing expenses | (107) | (92) | (303) | (263)
+
+General and administrative expenses | (147) | (120) | (412) | (352)
+
+Research and development expenses | (98) | (103) | (320) | (337)
+
+Net impairment losses on financial assets | (58) | (37) | (178) | (103)
+
+Other expenses | * | (1) | (4) | (3)
+
+Restructuring costs | (4) | (2) | (10) | (5)
+
+Operating profit | 108 | 27 | 149 | 13
+
+Finance income | 36 | 48 | 449 | 161
+
+Finance costs | (30) | (27) | (90) | (43)
+
+Net change in fair value of financial assets and liabilities | (57) | (10) | (139) | (27)
+
+Net finance (costs)/ income | (51) | 11 | 220 | 91
+
+Share of (loss)/ profit of equity-accounted investees (net of tax) | (1) | * | 2 | 1
+
+Impairment loss on equity-accounted investee | (12) | - | (12) | -
+
+Profit before income tax | 44 | 38 | 359 | 105
+
+Income tax (expense)/ credit | (26) | (21) | 14 | (58)
+
+Profit for the period | 18 | 17 | 373 | 47
+
+Items that will not be reclassified to profit or loss:
+
+Defined benefit plan remeasurements | * | - | * | *
+
+Put liabilities at FVOCI – net change in fair value | (1) | 2 | 3 | (1)
+
+Items that are or may be reclassified subsequently to profit or loss:
+
+Foreign currency translation differences – foreign operations | 4 | (9) | (54) | 83
+
+Debt investments at FVOCI – net change in fair value | 2 | - | 1 | -
+
+Other comprehensive income for the period, net of tax | 5 | (7) | (50) | 82
+
+Total comprehensive income for the period | 23 | 10 | 323 | 129
+
+*
+
+Profit/ (loss) attributable to:
+
+Owners of the Company | 27 | 37 | 415 | 96
+
+Non-controlling interests | (9) | (20) | (42) | (49)
+
+Profit for the period | 18 | 17 | 373 | 47
+
+Total comprehensive income attributable to:
+
+Owners of the Company | 27 | 30 | 360 | 166
+
+Non-controlling interests | (4) | (20) | (37) | (37)
+
+Total comprehensive income for the period | 23 | 10 | 323 | 129
+
+Earnings per share:
+
+Basic | $ | 0.01 | $ | 0.01 | $ | 0.10 | $ | 0.02
+
+Diluted** | ($ 0.00) | $ | 0.01 | $ | 0.06 | $ | 0.02
+
+Weighted-average ordinary shares outstanding:
+
+Basic | 4,081,422 | 4,080,408 | 4,086,278 | 4,093,371
+
+Diluted | 4,391,811 | 4,185,629 | 4,404,949 | 4,198,048
+
+* Amount less than $1 million
+** For the three and nine months ended September 30, 2026, diluted earnings per share included the impact of the convertible notes conversion. For the three and nine months ended September 30, 2025, diluted earnings per share excluded the impact of the convertible notes conversion as the impact was antidilutive. 
+The number of outstanding Class A and Class B ordinary shares was 3,942 million and 95 million as of September 30, 2026, and 3,965 million and 122 million, respectively, as of September 30, 2025. Additionally, 551 million and 415 million potentially dilutive securities have been considered for the computation of diluted earnings per ordinary share for the three months ended September 30, 2026 and 2025, respectively.
+Condensed consolidated statement of financial position
+
+September 30, 2026 | December 31, 2025
+
+($ in millions, unless otherwise stated) | $ | $
+
+Non-current assets
+
+Property, plant, and equipment | 968 | 831
+
+Intangible assets and goodwill | 2,208 | 1,057
+
+Associates and joint venture | 57 | 309
+
+Deferred tax assets | 182 | 85
+
+Other investments | 1,793 | 1,023
+
+Loan receivables in the financial services segment | 822 | 420
+
+Deposits, prepayments and other assets | 233 | 178
+
+6,263 | 3,903
+
+Current assets
+
+Inventories | 92 | 87
+
+Trade and other receivables | 244 | 240
+
+Loan receivables in the financial services segment | 1,712 | 760
+
+Deposits, prepayments and other assets | 239 | 189
+
+Other investments | 2,810 | 3,371
+
+Cash and cash equivalents | 2,848 | 3,433
+
+7,945 | 8,080
+
+Total assets | 14,208 | 11,983
+
+Equity
+
+Share capital and share premium | 24,098 | 23,861
+
+Reserves | 174 | 337
+
+Accumulated losses | (17,520) | (17,470)
+
+Equity attributable to owners of the Company | 6,752 | 6,728
+
+Non-controlling interests | 503 | 29
+
+Total equity | 7,255 | 6,757
+
+Non-current liabilities
+
+Loans and borrowings | 452 | 373
+
+Provisions | 22 | 22
+
+Other liabilities | 684 | 169
+
+Deferred tax liabilities | 56 | 35
+
+1,214 | 599
+
+Current liabilities
+
+Loans and borrowings | 1,618 | 1,680
+
+Provisions | 30 | 25
+
+Trade payables and other liabilities | 1,325 | 1,256
+
+Deposits from customers in the banking business | 2,703 | 1,629
+
+Current tax liabilities | 63 | 37
+
+5,739 | 4,627
+
+Total liabilities | 6,953 | 5,226
+
+Total equity and liabilities | 14,208 | 11,983
+
+Condensed consolidated statement of cash flows
+
+Three months ended September 30, | Nine months ended September 30,
+
+2026 | 2025 | 2026 | 2025
+
+($ in millions, unless otherwise stated) | $ | $ | $ | $
+
+Cash flows from operating activities
+
+Profit before income tax | 44 | 38 | 359 | 105
+
+Adjustments for:
+
+Amortization of intangible assets | 15 | 8 | 36 | 24
+
+Depreciation of property, plant and equipment | 50 | 39 | 140 | 104
+
+Impairment of property, plant and equipment | - | - | - | *
+
+Equity-settled share-based payments | 49 | 55 | 189 | 196
+
+Finance costs | 31 | 27 | 90 | 43
+
+Net change in fair value of financial assets and liabilities | 57 | 10 | 139 | 27
+
+Net impairment losses on financial assets | 58 | 37 | 178 | 103
+
+Impairment loss on equity-accounted investee | 12 | - | 12 | -
+
+Finance income | (36) | (48) | (449) | (161)
+
+(Gain)/ loss on disposal of property, plant and equipment | (1) | 1 | (2) | *
+
+Share of loss/ (profit) of equity-accounted investees (net of tax) | 1 | * | (2) | (1)
+
+Change in provisions | 10 | 1 | 4 | 4
+
+Dividend income | * | - | (1) | (6)
+
+290 | 168 | 693 | 438
+
+Changes in:
+
+- Inventories | (2) | (4) | (6) | (3)
+
+- Deposits pledged | (12) | 4 | (23) | (20)
+
+- Trade and other receivables | 57 | 29 | 7 | (7)
+
+- Loan receivables in the financial services segment | (445) | (151) | (814) | (309)
+
+- Trade payables and other liabilities | 2 | 73 | 39 | (33)
+
+- Deposits from customers in the banking business | 184 | (220) | 209 | 9
+
+Cash from operations | 74 | (101) | 105 | 75
+
+Income tax paid | (19) | (26) | (53) | (65)
+
+Net cash from/ (used in) operating activities | 55 | (127) | 52 | 10
+
+Cash flows from investing activities
+
+Acquisition of property, plant and equipment | (24) | (27) | (51) | (52)
+
+Purchase of intangible assets | (22) | (5) | (36) | (19)
+
+Proceeds from disposal of property, plant and equipment | 4 | 4 | 10 | 10
+
+Acquisition of subsidiaries with non-controlling interests, net of cash acquired | (137) | * | (166) | (90)
+
+Acquisition of associates and joint venture | * | (64) | (105) | (64)
+
+Proceeds from sale/ (net acquisition) of other investments | 225 | (365) | 83 | (809)
+
+Proceeds from disposal of subsidiaries | - | 1 | - | 1
+
+Dividend income received | * | - | 1 | 6
+
+Interest income received | 38 | 49 | 126 | 140
+
+Net cash from/ (used in) investing activities | 84 | (407) | (138) | (877)
+
+Cash flows from financing activities
+
+Proceeds from share-based payment arrangements | 6 | 6 | 16 | 21
+
+Repurchase of ordinary shares | (174) | - | (574) | (274)
+
+Proceeds from bank loans | 67 | 63 | 186 | 154
+
+Repayment of bank loans | (82) | (78) | (213) | (188)
+
+Payment of lease liabilities | (22) | (12) | (54) | (35)
+
+Proceeds from the issuance of convertible notes | - | - | - | 1,500
+
+Transaction costs related to the issuance of convertible notes | - | - | - | (22)
+
+Acquisition of non-controlling interests without change in control | (7) | (105) | (7) | (130)
+
+Proceeds from subscription of shares in subsidiaries by non-controlling interests without change in control | 67 | 81 | 211 | 126
+
+Deposits released | * | 1 | 4 | 1
+
+Interest paid | (7) | (7) | (21) | (19)
+
+Net cash (used in)/ from financing activities | (152) | (51) | (452) | 1,134
+
+Net (decrease)/ increase in cash and cash equivalents | (13) | (585) | (538) | 267
+
+Cash and cash equivalents at beginning of the period | 2,859 | 3,880 | 3,433 | 2,964
+
+Effect of exchange rate fluctuations on cash held | 2 | (15) | (47) | 49
+
+Cash and cash equivalents at end of the period | 2,848 | 3,280 | 2,848 | 3,280
+
+* Amount less than $1 million
+
+For inquiries regarding Grab, please contact:
+Media
+press@grab.com
+Investors
+investor.relations@grab.com
+Source: Grab Holdings Limited
