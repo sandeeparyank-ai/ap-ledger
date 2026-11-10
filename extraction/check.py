@@ -95,7 +95,8 @@ def main(path):
     stem = Path(path).stem.replace("rows_", "")
     csv_path = ROOT / "extraction" / f"checked_{stem}.csv"
     with csv_path.open("w", newline="") as fh:
-        w = csv.DictWriter(fh, fieldnames=list(out[0].keys()))
+        fields = list(dict.fromkeys(k for o in out for k in o))
+        w = csv.DictWriter(fh, fieldnames=fields, restval="")
         w.writeheader()
         w.writerows(out)
 
