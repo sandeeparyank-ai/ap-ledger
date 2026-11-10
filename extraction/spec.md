@@ -27,3 +27,5 @@ One row per company per reporting period. Every figure must be traceable to a qu
 3. Prefer the line closest to advertising and promotion. Record wider lines only when nothing narrower exists.
 4. Never infer a prior-year figure from a percentage. If only a percentage is given, store it in notes and leave prior empty.
 5. Each run ends with a check pass in which every figure is re-found in the source text by string match. Rows that fail are flagged, not published.
+6. Compute every change in the reporting currency, comparing like with like (VND to VND, ZAR to ZAR). When a filing adds a convenience translation (for example a USD column for the current period only), use it for display and say so, never for the change.
+7. Prefer comparatives marked as recast or restated over the originally reported prior-year figures, and note the recast.
