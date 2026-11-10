@@ -1,0 +1,1155 @@
+             Old Chang Kee Ltd.
+             and its subsidiaries
+       Company Registration No. 200416190W
+
+
+
+
+  Condensed Interim Financial Statements
+for the six months ended 30 September 2025
+Old Chang Kee Ltd.
+Condensed interim financial statements for the six months ended 30 September 2025
+
+
+
+
+       Table of Contents                                                            Page
+
+
+
+ A.    Condensed interim consolidated statement of comprehensive income             3
+
+ B.    Condensed interim statement of financial position                            4
+
+ C.    Condensed interim statement of changes in equity                             5
+
+ D.    Condensed interim consolidated statement of cash flows                       7
+
+ E.    Notes to the condensed interim consolidated financial statements             8
+
+ F.    Other information required by Catalist Rules Appendix 7C                     16
+
+
+
+
+                                                                                         Page 2 of 21
+Old Chang Kee Ltd.
+Condensed interim financial statements for the six months ended 30 September 2025
+
+A. Condensed interim consolidated statement of comprehensive income for the six-months ended
+   30 September 2025
+
+                                                                                 The Group
+                                                                   Note      1st Half Year Ended         Increase /
+                                                                          30-Sep-25       30-Sep-24     (Decrease)
+                                                                           S$'000           S$'000            %
+
+   Revenue                                                         4.2        51,931          51,828           0.2
+   Cost of sales                                                             (15,968)        (15,814)          1.0
+   Gross profit                                                               35,963          36,014          (0.1)
+
+   Other items of income
+   Interest income on short term deposits                                        473            702          (32.6)
+   Other income                                                                  684            745           (8.2)
+
+   Other items of expenses
+   Selling and distribution expenses                                         (20,998)        (20,194)          4.0
+   Administrative expenses                                                    (8,839)         (8,581)          3.0
+   Finance costs                                                                (591)           (628)         (5.9)
+   Other expenses                                                               (609)           (521)         16.9
+   Profit before tax                                                6          6,083           7,537         (19.3)
+
+   Income tax expense                                               7         (1,064)         (1,317)        (19.2)
+
+   Profit for the period                                                       5,019          6,220          (19.3)
+
+   Other comprehensive income
+
+   Items that may be reclassified subsequently to profit or loss
+   Exchange differences on translating foreign operations                        (13)            21         (161.9)
+   Other comprehensive income for the period,
+   net of tax                                                                    (13)            21         (161.9)
+
+   Total comprehensive income for the period, attributable to
+   owners of the Company                                                       5,006          6,241          (19.8)
+
+   Earnings per share for profit for the period attributable to
+   the owners of the Company during the period
+   Basic (SGD in cent)                                              14          4.14           5.12
+   Diluted (SGD in cent)                                            14          4.14           5.12
+
+
+
+
+                                                                                                        Page 3 of 21
+Old Chang Kee Ltd.
+Condensed interim financial statements for the six months ended 30 September 2025
+
+B.   Condensed interim statement of financial position
+
+                                                         The Group                   The Company
+
+                                        Note     30-Sep-25      31-Mar-25      30-Sep-25     31-Mar-25
+                                                  S$'000          S$'000        S$'000        S$'000
+ Non-Current Assets
+ Property, plant and equipment            11         15,298          15,256              –             –
+ Right-of-use assets                                 19,979          19,328              –             –
+ Intangible assets                        10             167            191              –              –
+ Investment in subsidiary companies                        –             –           5,640          5,640
+ Deferred tax assets                                     515           346             27             18
+ Long term deposits                        5          2,439           2,481              –              –
+                                                     38,398          37,602          5,667          5,658
+
+ Current Assets
+ Inventories                                          1,429           1,028              –             –
+ Trade and other receivables               5             486           433               5            13
+ Deposits                                  5          1,183           1,051              –             –
+ Prepayments                                          1,608           1,061            37             28
+ Amount due from subsidiary companies      5               –               –         5,445          4,449
+ Cash and bank balances                    5         53,674          52,438         10,999         12,978
+ Restricted cash                           5          2,500           2,500              –              –
+                                                     60,880          58,511         16,486         17,468
+
+ Current Liabilities
+ Trade and other payables                  5         10,013          10,700          2,539          4,561
+ Other liabilities                         5             156           156               –             –
+ Provisions                                              873           929             79             54
+ Bank loans                              5, 12        1,001           1,317              –             –
+ Finance lease liabilities               5, 12           357           361               –             –
+ Lease liabilities                                   10,319           9,924              –             –
+ Provision for taxation                               2,586           2,650            125            148
+                                                     25,305          26,037          2,743          4,763
+
+ Net Current Assets                                  35,575          32,474         13,743         12,705
+
+ Non-Current Liabilities
+ Provisions                                           1,408           1,325              –             –
+ Bank loans                              5, 12             –           337               –             –
+ Finance lease liabilities               5, 12           737           665               –             –
+ Lease liabilities                                   10,760          10,473              –             –
+ Deferred tax liabilities                                22              22              –             –
+                                                     12,927          12,822              –             –
+ Net Assets                                          61,046          57,254         19,410         18,363
+
+ Equity attributable to owners of the
+ Company
+ Share capital                            13         13,964          13,964         13,964         13,964
+ Retained earnings                                   46,670          42,865          5,446          4,399
+ Other reserves                                          412           425               –             –
+ Total Equity                                        61,046          57,254         19,410         18,363
+
+
+
+
+                                                                                              Page 4 of 21
+Old Chang Kee Ltd.
+Condensed interim financial statements for the six months ended 30 September 2025
+
+C.   Condensed interim statement of changes in equity
+
+                                               Equity attributable to owners of the Company
+                                                                                      Foreign
+                                                                                     currency
+                                                   Share            Retained        translation     Total
+ The Group                                        capital           earnings          reserve       equity
+                                                   S$'000           S$'000            S$'000        S$'000
+ Balance at 01 April 2025                              13,964          42,865               425        57,254
+
+
+ Profit for the period                                      –           5,019                  –        5,019
+
+ Other comprehensive income
+ Exchange differences on translating foreign
+ operations                                                 –                –              (13)             (13)
+
+
+ Total comprehensive income for the period                  –           5,019               (13)        5,006
+
+ Dividends on ordinary shares                               –          (1,214)                 –        (1,214)
+
+
+ Balance at 30 September 2025                          13,964          46,670               412        61,046
+
+
+ Balance at 01 April 2024                              13,964          33,945               299        48,208
+
+
+
+ Profit for the period                                      –           6,220                  –        6,220
+
+ Other comprehensive income
+ Exchange differences on translating foreign
+ operations                                                 –                –                 21            21
+
+
+ Total comprehensive income for the period                  –           6,220                  21       6,241
+
+ Dividends on ordinary shares                               –          (1,214)                 –        (1,214)
+
+
+ Balance at 30 September 2024                          13,964          38,951               320        53,235
+
+
+
+
+                                                                                                    Page 5 of 21
+Old Chang Kee Ltd.
+Condensed interim financial statements for the six months ended 30 September 2025
+
+C.   Condensed interim statement of changes in equity (cont’d)
+
+
+                                                                Share         Retained        Total
+ The Company                                                    capital       earnings        equity
+                                                               S$'000          S$'000         S$'000
+ Balance at 01 April 2025                                          13,964           4,399        18,363
+
+
+ Profit for the period                                                    –         2,261         2,261
+
+
+ Total comprehensive income for the period                                –         2,261         2,261
+
+ Dividends on ordinary shares                                             –         (1,214)      (1,214)
+
+
+ Balance at 30 September 2025                                      13,964           5,446        19,410
+
+
+ Balance at 01 April 2024                                          13,964           2,695        16,659
+
+
+
+ Profit for the period                                                    –         2,332         2,332
+
+
+ Total comprehensive income for the period                                –         2,332         2,332
+
+ Dividends on ordinary shares                                             –         (1,214)      (1,214)
+
+
+ Balance at 30 September 2024                                      13,964           3,813        17,777
+
+
+
+
+                                                                                              Page 6 of 21
+Old Chang Kee Ltd.
+Condensed interim financial statements for the six months ended 30 September 2025
+
+D.   Condensed interim consolidated statement of cash flows
+
+                                                                                       The Group
+                                                                                  1st Half Year Ended
+                                                                      Note   30-Sep-25            30-Sep-24
+                                                                              S$'000               S$'000
+ Cash flows from operating activities
+ Profit before tax                                                               6,083                7,537
+ Adjustments for:
+    Allowance for trade and other receivables                                       39                    –
+    Allowance for amount due from a joint venture                      6            31                  206
+    Amortisation of intangible assets                                  10           24                   25
+    Depreciation of property, plant and equipment                      6         1,603                1,455
+    Depreciation of right-of-use assets                                6         5,541                5,407
+    Gain on disposal of property, plant and equipment                  6          (132)                (199)
+    Gain on disposal of right-of-use assets                            6            (3)                  (7)
+    Provision for unconsumed leave (net)                                            58                   77
+    Reversal of provision for reinstatement costs                                   (7)                 (25)
+    Property, plant and equipment written off                                        2                    1
+    Interest expense from borrowings and finance lease                 6            47                   87
+    Interest expense of lease liabilities                              6           544                  541
+    Interest income                                                    6          (473)                (702)
+    Currency realignment                                                           (32)                 (91)
+ Operating profit before changes in working capital                             13,325               14,312
+ (Increase)/decrease in inventories                                               (401)                 496
+ (Increase)/decrease in trade and other receivables                               (114)                 465
+ Increase in amount due from joint venture                                         (31)                (171)
+ Increase in deposits                                                              (90)                 (89)
+ Increase in prepayments                                                          (547)              (1,013)
+ Decrease in trade and other payables                                             (687)                (974)
+ Increase in other liabilities                                                       –                    3
+ Cash flows from operations                                                     11,455               13,029
+ Tax paid                                                                       (1,297)              (1,422)
+ Net cash flows generated from operating activities                             10,158               11,607
+ Cash flows from investing activities
+ Purchase of property, plant and equipment                             11       (1,395)                (589)
+ Proceeds from disposal of property, plant and equipment                           199                  199
+ Utilisation of provision for reinstatement costs                                  (24)                 (56)
+ Loan to a joint venture                                                             –                  (35)
+ Interest received                                                                 495                  705
+ Net cash flows (used in)/from investing activities                                 (725)               224
+
+ Cash flows from financing activities
+ Repayment of finance lease liabilities                                           (232)                 (165)
+ Repayment of principal portion of lease liabilities                            (5,507)               (5,397)
+ Interest portion of lease liabilities paid                                       (544)                 (541)
+ Interest paid                                                                     (47)                  (87)
+ Repayment of bank loans                                                          (653)                 (620)
+ Dividends paid                                                                 (1,214)               (1,214)
+ Net cash flows used in financing activities                                    (8,197)               (8,024)
+
+ Net increase in cash and cash equivalents                                       1,236                3,807
+ Cash and cash equivalents at the beginning of the financial period             52,438               44,098
+ Cash and cash equivalents at the end of the financial period                   53,674               47,905
+
+
+
+
+                                                                                                   Page 7 of 21
+Old Chang Kee Ltd.
+Condensed interim financial statements for the six months ended 30 September 2025
+
+E.    Notes to the condensed interim consolidated financial statements
+
+
+     1. Corporate information
+
+         Old Chang Kee Ltd. (the "Company") is a limited liability company incorporated in Singapore and was
+         admitted to the official list of Catalist under the Singapore Exchange Securities Trading Limited Dealing
+         and Automated Quotation ("SGX-SESDAQ") rules.
+
+         These condensed interim consolidated financial statements, as at and for the six months ended
+         30 September 2025, comprise the Company and its subsidiaries (collectively, the “Group”). The
+         principal activity of the Company is investment holding.
+
+         The principal activities of the Group are: (a) manufacture and distribution of food products; and (b)
+         operation of retail food outlets, and general trading.
+
+
+     2. Basis of preparation
+
+         The condensed interim financial statements for the six months ended 30 September 2025 have been
+         prepared in accordance with Singapore Financial Reporting Standards (International) (“SFRS(I)”)
+         1-34 Interim Financial Reporting issued by the Accounting Standards Council Singapore. The
+         condensed interim financial statements do not include all the information required for a complete set of
+         financial statements. However, selected explanatory notes are included to highlight significant events
+         and transactions to assist shareholders with understanding the changes in the Group’s financial position
+         and performance since the last annual financial statements for the financial year ended 31 March 2025.
+
+         The accounting policies and methods of computation adopted are consistent with those of the previous
+         financial year which were prepared in accordance with SFRS(I)s, except for the adoption of new and
+         amended standards as set out in Note 2.1.
+
+         The condensed interim financial statements are presented in Singapore dollar which is the Company’s
+         functional currency.
+
+     2.1 New and amended standards adopted by the Group
+
+          A number of amendments to standards have become applicable for the current reporting period. The
+          Group did not have to change its accounting policies and methods of computation or make
+          retrospective adjustments as a result of adopting those standards.
+
+     2.2 Use of judgements and estimates
+
+          In preparing the condensed interim financial statements, management has made judgements,
+          estimates and assumptions that affect the application of accounting policies and the reported amounts
+          of assets and liabilities, income and expense. Actual results may differ from these estimates.
+
+          The significant judgements made by management in applying the Group’s accounting policies and the
+          key sources of estimation uncertainty are the same as those applied to the consolidated financial
+          statements as at and for the financial year ended 31 March 2025.
+
+          Estimates and underlying assumptions are reviewed on an ongoing basis. Revisions to accounting
+          estimates are recognised in the period in which the estimates are revised and in any future periods
+          affected.
+
+          Information about assumptions and estimation uncertainties that have a significant risk of resulting in
+          a material adjustment to the carrying amounts of assets and liabilities within the next interim period
+          are included below.
+
+
+
+
+                                                                                                      Page 8 of 21
+Old Chang Kee Ltd.
+Condensed interim financial statements for the six months ended 30 September 2025
+
+E.    Notes to the condensed interim consolidated financial statements (cont’d)
+
+     2.3 Impairment of non-financial assets
+
+           Impairment exists when the carrying value of an asset or cash generating unit ("CGU") exceeds its
+           recoverable amount, which is the higher of its fair value less costs of disposal and its value in use. The
+           fair value less costs of disposal calculation is based on available data from binding sales transactions
+           which are conducted at arm's length, for similar assets or observable market prices less incremental
+           costs for disposing of the asset. The value in use calculation is based on a discounted cash flow
+           ("DCF") model. The cash flows are derived from the budget for the shorter of the remaining lease term
+           of the outlet or the next five years, and do not include restructuring activities that the Group is not yet
+           committed to or significant future investments that will enhance the asset's performance of the CGU
+           being tested. The recoverable amount is sensitive to the discount rate used for the DCF model as well
+           as the expected future cash-inflows and the growth rate used for extrapolation purposes. The key
+           assumptions used to determine the recoverable amount for the different CGUs are the same as those
+           applied to the consolidated financial statements as at and for the financial year ended 31 March 2025.
+
+
+      3.   Seasonal operations
+
+           The Group’s businesses were not affected significantly by seasonal or cyclical factors during the
+           financial period.
+
+
+      4.   Segment and revenue information
+
+           The Group is principally engaged in the manufacture and distribution of food products. As such, the
+           Group has not presented a breakdown of segment information by operating segments. The following
+           table presents revenue and results information regarding the Group’s business segments for the six
+           months ended 30 September 2025.
+
+           The geographical business segments set out in the table below are reported on in a manner consistent
+           with internal reporting provided to the chief executive officer who is responsible for allocating resources
+           and assessing performance of these segments.
+
+
+
+
+                                                                                                         Page 9 of 21
+Old Chang Kee Ltd.
+Condensed interim financial statements for the six months ended 30 September 2025
+
+E.    Notes to the condensed interim consolidated financial statements (cont’d)
+
+4.1   Segments and revenue information
+
+ The Group                                 Singapore     Australia       Malaysia       Eliminations      Total
+ 1 April 2025 - 30 September 2025            S$'000       S$'000          S$'000           S$'000        S$'000
+ Revenue
+ Revenue from external customers              51,776                 –         155                –        51,931
+ Inter-segment revenue                           107                 –         999           (1,106)              –
+ Total segment revenue                        51,883                 –       1,154           (1,106)       51,931
+
+ Results:
+ Segment profit                               13,040             (7)           188              13         13,234
+ Interest income                                 450                 –          23                –           473
+ Gain on disposal of property, plant
+ and equipment                                   132                 –              –             –           132
+ Gain on disposal of right-of-use assets            3                –              –             –               3
+ Depreciation of property, plant and
+ equipment                                     (1,564)               –         (39)               –         (1,603)
+ Depreciation of right-of-use assets           (5,541)               –              –             –         (5,541)
+ Amortisation                                     (24)               –              –             –            (24)
+ Interest expenses
+ - Borrowings                                     (47)               –              –             –            (47)
+ - Leases                                       (544)                –              –             –           (544)
+
+ Profit/(loss) before tax                      5,905             (7)           172              13           6,083
+ Taxation                                                                                                   (1,064)
+ Profit, net of tax                                                                                          5,019
+
+ Other segment information:
+ Segment Assets                               95,565            34           3,694              (15)       99,278
+ Segment Liabilities                          38,059                 6         167                –        38,232
+
+ Expenditure for segment
+ non-current assets
+ - Additions to property, plant and
+   equipment                                   1,659                 –          36                –          1,695
+ - Additions to right-of-use assets            6,241                 –              –             –          6,241
+                                               7,900                 –          36                –          7,936
+
+
+
+
+                                                                                                       Page 10 of 21
+Old Chang Kee Ltd.
+Condensed interim financial statements for the six months ended 30 September 2025
+
+E.    Notes to the condensed interim consolidated financial statements (cont’d)
+
+4.1   Segment and revenue information (cont’d)
+
+ The Group                                 Singapore     Australia       Malaysia       Eliminations      Total
+ 1 April 2024 - 30 September 2024            S$'000       S$'000          S$'000           S$'000        S$'000
+ Revenue
+ Revenue from external customers              51,494           169             165                –        51,828
+ Inter-segment revenue                           126                 –         993           (1,119)              –
+ Total segment revenue                        51,620           169           1,158           (1,119)       51,828
+
+ Results:
+ Segment profit                               13,886          (180)            249             189         14,144
+ Interest income                                 680                 –          22                –           702
+ Gain on disposal of property, plant
+ and equipment                                   199                 –              –             –           199
+ Gain on disposal of right-of-use assets            7                –              –             –               7
+ Depreciation of property, plant and
+ equipment                                     (1,416)               –         (39)               –         (1,455)
+ Depreciation of right-of-use assets           (5,385)          (22)                –             –         (5,407)
+ Amortisation                                     (25)               –              –             –            (25)
+ Interest expenses
+ - Borrowings                                     (87)               –              –             –            (87)
+ - Leases                                       (541)                –              –             –           (541)
+
+ Profit/(loss) before tax                      7,318          (202)            232             189           7,537
+ Taxation                                                                                                   (1,317)
+ Profit, net of tax                                                                                          6,220
+
+ Other segment information:
+ Segment Assets                               90,431            57           3,600              (15)       94,073
+ Segment Liabilities                          40,593            47             198                –        40,838
+
+ Expenditure for segment
+ non-current assets
+ - Additions to property, plant and
+   equipment                                     940                 –              1             –           941
+ - Additions to right-of-use assets            4,000                 –              –             –          4,000
+                                               4,940                 –              1             –          4,941
+
+
+
+
+                                                                                                       Page 11 of 21
+Old Chang Kee Ltd.
+Condensed interim financial statements for the six months ended 30 September 2025
+
+E.    Notes to the condensed interim consolidated financial statements (cont’d)
+
+4.2   Disaggregation of Revenue
+
+                                                                                       The Group
+                                                                                  1st Half Year Ended
+                                                                              30-Sep-25          30-Sep-24
+       Type of goods or services
+       Outlet sales                                                                  45,394             45,355
+       Non-outlet sales                                                               6,537              6,473
+       Total revenue                                                                 51,931             51,828
+
+       Primary geographical markets
+       Singapore                                                                     51,776             51,494
+       Australia                                                                             –            169
+       Malaysia                                                                         155               165
+       Total revenue                                                                 51,931             51,828
+
+       Timing of transfer of goods
+       At a point in time                                                            51,931             51,828
+
+
+5.     Financial assets and financial liabilities
+
+       An overview of the financial assets and financial liabilities of the Group as at 30 September 2025 and 31
+       March 2025 is set out below:
+
+                                                    The Group                        The Company
+                                             30-Sep-25      31-Mar-25          30-Sep-25      31-Mar-25
+                                              S$'000         S$'000             S$'000         S$'000
+       Financial assets at
+       amortised cost
+       Trade and other receivables                     486          433                  5               13
+       Deposits                                      3,622        3,532                  –                –
+       Amounts due from subsidiaries                     –            –              5,445            4,449
+       Cash and bank balances                       53,674       52,438             10,999           12,978
+       Restricted cash                               2,500        2,500                  –                –
+       Total financial assets at
+       amortised cost                               60,282       58,903             16,449           17,440
+
+       Financial liabilities at
+       amortised cost
+       Trade and other payables                     10,013       10,700              2,539              4,561
+       Other liabilities                               156          156                  –                  –
+       Bank loans                                    1,001        1,654                  –                  –
+       Finance lease liabilities                     1,094        1,026                  –                  –
+       Less:
+       GST payable                                  (1,065)       (1,044)             (171)              (159)
+       Contract liabilities                           (205)         (187)                –                  –
+       Total financial liabilities at
+       amortised cost                               10,994       12,305              2,368              4,402
+
+
+
+
+                                                                                                 Page 12 of 21
+Old Chang Kee Ltd.
+Condensed interim financial statements for the six months ended 30 September 2025
+
+E.    Notes to the condensed interim consolidated financial statements (cont’d)
+
+6.    Profit before taxation
+
+6.1   Significant items
+
+                                                                                     The Group
+                                                                                1st Half Year Ended
+                                                                           30-Sep-25           30-Sep-24
+                                                                            S$'000              S$'000
+       Income
+       Interest income                                                              (473)                (702)
+       Gain on disposal of property, plant and equipment                            (132)                (199)
+       Gain on disposal of right-of-use assets                                        (3)                  (7)
+       Government grant
+       - Employment related grant                                                   (157)                  (63)
+       - Government grant                                                              (26)                (85)
+
+
+       Expenses
+       Employee benefits (including directors)                                    16,405               15,722
+       Interest expense from borrowings and finance lease                               47                 87
+       Interest expense from amortisation of lease liabilities                       544                 541
+       Depreciation of property, plant and equipment                               1,603                1,455
+       Depreciation of right-of-use assets                                         5,541                5,407
+       Allowance for trade and other receivables                                        39                 –
+       Allowance for amount due from joint venture                                      31               206
+       Gain in foreign exchange, net                                                 (43)                (235)
+       Utilities expenses                                                          1,128                1,317
+       Packaging material expenses                                                   838                 823
+
+
+6.2   Related party transactions
+
+      There are no material related party transactions exceeding S$100,000 apart from those disclosed
+      elsewhere in the financial statements.
+
+
+7.    Taxation
+
+      The Group calculates the income tax expense for the period using the tax rate that would be applicable to
+      the expected total annual earnings. The major components of income tax expense in the condensed interim
+      consolidated statement of comprehensive income are set out below:
+
+                                                                                      The Group
+                                                                                 1st Half Year Ended
+                                                                            30-Sep-25           30-Sep-24
+                                                                             S$'000              S$'000
+
+       Current income tax expenses
+       - Current income tax expenses                                                1,309               1,473
+       - Overprovision in respect of the prior period                                 (76)                (40)
+
+       Deferred income tax expense relating to
+       Reversal and origination of temporary differences                             (169)               (116)
+
+       Taxation recognised in the consolidated statement of
+       comprehensive income                                                         1,064               1,317
+
+
+
+
+                                                                                                  Page 13 of 21
+Old Chang Kee Ltd.
+Condensed interim financial statements for the six months ended 30 September 2025
+
+E.    Notes to the condensed interim consolidated financial statements (cont’d)
+
+8.    Dividends
+
+                                                                                                 The Group
+                                                                                            1st Half Year Ended
+                                                                                     30-Sep-25             30-Sep-24
+
+       Declared and paid during the financial period
+       Dividends on ordinary shares:
+       - Final exempt (one-tier) dividends for 2025: S$0.010 per share
+       (Half year ended 30 September 2024: Final exempt (one-tier) dividends
+       for 2024: S$0.010 per share)                                                            1,214                 1,214
+
+
+
+
+9.    Net Asset Value
+
+                                                                    The Group                         The Company
+       Net Asset Value                                       30-Sep-25         31-Mar-25       30-Sep-25        31-Mar-25
+       Net asset value per ordinary share based on total
+        number of issued shares as at the end of the
+        financial period reported on                               $0.50            $0.47              $0.16          $0.15
+
+       Total number of issued shares as at the end of the
+        financial period reported on                         121,374,700      121,374,700      121,374,700     121,374,700
+
+
+
+
+10.   Intangible assets
+
+                                                               Club             Computer software
+                                                            membership              licences                    Total
+       Group                                                  S$'000                 S$'000                    S$'000
+
+       At 31 March 2025
+       Cost                                                          175                      846                    1,021
+       Accumulated amortisation                                      (66)                     (764)                   (830)
+       Net book value                                                109                        82                      191
+
+       Cost
+       As at 1 April 2025 and
+       As at 30 September 2025                                       175                      846                    1,021
+
+       Accumulated amortisation
+       As at 1 April 2025                                                66                   764                       830
+       Amortisation during the period                                    4                      20                      24
+       As at 30 September 2025                                           70                   784                       854
+
+
+       Carrying amounts at 30 September 2025                         105                        62                      167
+
+
+
+
+                                                                                                               Page 14 of 21
+Old Chang Kee Ltd.
+Condensed interim financial statements for the six months ended 30 September 2025
+
+E.    Notes to the condensed interim consolidated financial statements (cont’d)
+
+11.   Property, plant and equipment
+
+      During the six months ended 30 September 2025, the Group acquired assets amounting to S$1,695,000
+      (the six months ended 30 September 2024: S$941,000) and disposed of assets with net book value
+      amounting to S$67,000 (the six months ended 30 September 2024: Nil).
+
+
+12.   Borrowings
+
+12.1 Bank Loans
+
+                                                                                             The Group
+                                                                                    30-Sep-25         31-Mar-25
+        Secured bank loans                                                           S$'000            S$'000
+        Amount repayable within one year or on demand                                      1,001            1,317
+        Amount repayable after one year                                                        –              337
+
+      Bank loans are secured by:
+
+      (i)    a first legal mortgage on freehold and leasehold properties owned by the Group’s wholly-owned subsidiary
+             companies as at 30 September 2025 and 31 March 2025; and
+
+      (ii)   corporate guarantees given by the Company as at 30 September 2025 and 31 March 2025.
+
+12.2 Finance Leases
+
+                                                                                              The Group
+                                                                                     30-Sep-25         31-Mar-25
+        Finance leases                                                                S$'000            S$'000
+        Amount repayable within one year or on demand                                          357             361
+        Amount repayable after one year                                                        737             665
+
+      Finance lease obligations are secured by the lessors’ title to the respective leased assets.
+
+
+13.   Share Capital
+
+                                                             The Group and Company
+                                                  30-Sep-25                          31-Mar-25
+                                          Number of         Amount           Number of                     Amount
+                                           shares           S$'000            shares                       S$'000
+
+        Ordinary shares issued
+         and fully paid
+        At the beginning and end
+         of the financial period            121,374,700                 13,964           121,374,700              13,964
+
+      There was no change in the Company’s share capital since the end of the previous reporting period as at
+      31 March 2025. The Company did not hold any treasury shares, subsidiary holdings, or have any
+      outstanding options and/or other convertibles as at 30 September 2024, 31 March 2025 and 30 September
+      2025.
+
+
+
+
+                                                                                                          Page 15 of 21
+Old Chang Kee Ltd.
+Condensed interim financial statements for the six months ended 30 September 2025
+
+E.     Notes to the condensed interim consolidated financial statements (cont’d)
+
+14.    Earnings per share
+
+       Basic earnings per share (“EPS”) is calculated by dividing profit for the period attributable to owners of the
+       Company by the weighted average number of ordinary shares outstanding during that period.
+
+       Diluted earnings per share is calculated by dividing profit for the period attributable to owners of the
+       Company by the aggregate of the weighted average number of ordinary shares outstanding during that
+       period and the weighted average number of ordinary shares that would be issued upon the conversion of
+       all the dilutive potential ordinary shares into ordinary shares.
+
+       The basic and diluted EPS for the six months ended 30 September 2025 and 30 September 2024 were the
+       same as there were no potentially dilutive securities in issue as at 30 September 2025 and
+       30 September 2024.
+
+                                                                                          The Group
+        EPS after deducting any provision for preference dividends : -           30-Sep-25          30-Sep-24
+        (a) Based on weighted average number of                                           4.14               5.12
+             ordinary shares in issue (Singapore cents); and
+        (b) On a fully diluted basis (Singapore cents)                                    4.14               5.12
+
+                                                                                          The Group
+        Number of shares used in the respective computations of EPS :-           30-Sep-25          30-Sep-24
+        (a) Based on weighted average number of                                    121,374,700        121,374,700
+             ordinary shares in issue; and
+        (b) On a fully diluted basis                                               121,374,700        121,374,700
+
+
+
+15.    Subsequent events
+
+       There are no known subsequent events which may lead to adjustments to this set of interim financial
+       statements.
+
+
+F.     Other Information Required by Catalist Rule Appendix 7C
+
+ 1      Whether the figures have been audited or reviewed, and in accordance with which auditing standard
+        or practice.
+
+        The condensed consolidated statement of financial position of the Company and its subsidiaries as at 30
+        September 2025 and the related condensed consolidated statement of comprehensive income, condensed
+        consolidated statement of changes in equity and condensed consolidated statement of cash flows for the six-
+        month period then ended and certain explanatory notes have not been audited or reviewed by the auditors.
+
+
+ 2      Where the figures have been audited or reviewed, the auditors’ report (including any modifications or
+        emphasis of a matter).
+
+        Not applicable.
+
+ 2A     Where the latest financial statements are subject to an adverse opinion, qualified opinion or disclaimer
+        of opinion:-
+ (a)    Updates on the efforts taken to resolve each outstanding audit issue.
+ (b)    Confirmation from the Board that the impact of all outstanding audit issues on the financial statements
+        have been adequately disclosed.
+
+        Not applicable, as the Group’s latest audited financial statements for the reporting year ended 31 March 2025
+        are not subject to an adverse opinion, qualified opinion or disclaimer of opinion.
+
+
+
+
+                                                                                                       Page 16 of 21
+Old Chang Kee Ltd.
+Condensed interim financial statements for the six months ended 30 September 2025
+
+ 3 (i)             Details of any changes in the Company's share capital arising from rights issue, bonus
+                   issue, subdivision, consolidation, share buy-backs, exercise of share options or warrants,
+                   conversion of other issues of equity securities, issue of shares for cash or as consideration for
+                   acquisition or for any other purpose since the end of the previous period reported on. State the
+                   number of shares that may be issued on conversion of all the outstanding convertibles, if any,
+                   against the total number of issued shares excluding treasury shares and subsidiary holdings of
+                   the issuer, as at the end of the current financial period reported on and as at the end of the
+                   corresponding period of the immediately preceding financial year. State also the number of shares
+                   held as treasury shares and the number of subsidiary holdings, if any, and the percentage of the
+                   aggregate number of treasury shares and subsidiary holdings held against the total number of
+                   shares outstanding in a class that is listed as at the end of the current financial period reported on
+                   and as at the end of the corresponding period of the immediately preceding financial year.
+
+                   Please refer to section E note 13 of the notes to financial statements.
+
+
+      (ii)        To show the total number of issued shares excluding treasury shares as at the end of the current
+                  financial period and as at the end of the immediately preceding year.
+
+                  Please refer to section E note 13 of the notes to financial statements.
+
+
+      (iii)       A statement showing all sales, transfers, cancellation and/or use of treasury shares as at the end
+                  of the current financial period reported on.
+
+                  Not applicable, as the Company does not have any treasury shares.
+
+      (iv)        A statement showing all sales, transfers, cancellation and/or use of subsidiary holdings as at the
+                  end of the current financial period reported on.
+
+                  Not applicable, as the Company does not have any subsidiary holdings.
+
+
+ 4.           Whether the same accounting policies and methods of computation as in the issuer's most recently
+              audited annual financial statements have been applied.
+
+              Please refer to section E note 2 of the notes to financial statements.
+
+
+ 5.           If there are any changes in the accounting policies and methods of computation, including any required
+              by an accounting standard, what has changed, as well as the reasons for, and the effect of, the change.
+
+              Please refer to section E note 2.1 of the notes to financial statements.
+
+
+ 6.           Earnings per ordinary share of the Group for the current financial period reported on and the
+              corresponding period of the immediately preceding financial year, after deducting any provision for
+              preference dividends:
+              (a) based on the weighted average number of ordinary shares on issue; and
+              (b) on a fully diluted basis (detailing any adjustments made to the earnings).
+
+              Please refer to section E note 14 of the notes to financial statements.
+
+
+ 7.           Net asset value (for the issuer and Group) per ordinary share based on the total number of issued
+              shares excluding treasury shares of the issuer at the end of the:
+              (a) current financial period reported on; and
+              (b) immediately preceding financial year.
+
+              Please refer to section E note 9 of the notes to financial statements.
+
+
+
+
+                                                                                                            Page 17 of 21
+Old Chang Kee Ltd.
+Condensed interim financial statements for the six months ended 30 September 2025
+
+8      A review of the performance of the Group, to the extent necessary for a reasonable understanding of
+       the Group’s business. It must include a discussion of the following:-
+
+(a)    any significant factors that affected the turnover, costs, and earnings of the Group for the current
+       financial period reported on, including (where applicable) seasonal or cyclical factors; and
+(b)    any material factors that affected the cash flow, working capital, asset or liabilities of the Group during
+       the current financial period reported on.
+
+ (A)   Statement of Comprehensive Income
+
+       For the period from 1 April 2025 to 30 September 2025 (“1H2026”), the Group’s revenue increased by
+       approximately S$0.1 million or 0.2%. This increase in revenue arose mainly due to higher retail and non-retail
+       sales.
+
+       Revenue from retail outlets increased by approximately 0.1% due to incremental contributions from new and
+       existing outlets, partially offset by the absence of revenue from outlets under refurbishment and the closure of
+       certain outlets.
+
+       Revenue from other services, such as delivery, catering services and non-retail sales, increased by
+       approximately 1.0%. The increase in revenue from other services arose primarily due to higher delivery sales,
+       corporate catering and events sales during 1H2026, partially offset by absence of revenue from a corporate
+       customer that contributed in the previous period.
+
+       The Group’s gross profit margin declined by 0.2% to 69.3% in 1H2026, mainly due to higher food costs and
+       increased production staff expenses. These were partially offset by a reduction in production utility expenses
+       during the current period.
+
+       Other income declined by approximately S$61,000 or 8.2% mainly due to lower gains from the disposal of
+       vehicles and reduced government grants, partially offset by higher employment grants received for 1H2026.
+
+       Interest income on short term deposits declined by approximately S$0.2 million, primarily due to lower interest
+       rates from short-term fixed deposits placements.
+
+       Selling and distribution (“S & D”) expenses increased by 4.0%, driven by higher staff costs from annual wage
+       adjustments and higher local starting salaries due to the continuing progressive wage model policy by the
+       Singapore Government, higher depreciation arising from new and refurbished outlets, and higher subcontractor
+       expenses, partially offset by lower utility expenses during 1H2026. As a percentage of revenue, total S & D
+       expenses increased slightly from 39.0% to 40.4%.
+
+       Administrative expenses increased by 3.0%, mainly attributable to increase in staff welfare and insurance
+       expenses, higher bank merchant fees arising from digital payments and higher repairs and maintenance
+       expenses, partially offset by lower legal and professional expenses for 1H2026.
+
+       Finance costs decreased slightly by approximately S$37,000 mainly due to lower interest expenses on bank
+       loans due to repayments for 1H2026, partially offset by finance charges on new and renewed lease liabilities.
+
+       Other expenses rose mainly due to impairment of trade receivables, and lower foreign exchange gains pursuant
+       to foreign exchange revaluation of inter-company loans to the Group’s Australian and Malaysian subsidiaries,
+       partially offset by lower impairment loss on amounts due from the Group’s joint venture in United Kingdom for
+       1H2026.
+
+       The increase in depreciation expenses by approximately S$0.3 million was mainly attributable to higher
+       depreciation of right-of-use assets from new and renewed leases of retail outlets, higher depreciation of
+       property, plant and equipment arising from refurbishment works and motor vehicles additions during 1H2026.
+
+       The Group’s taxation expenses decreased by approximately S$0.3 million, mainly due to the lower profits
+       before tax, partially offset by the reversal of deferred tax expenses for 1H2026.
+
+
+
+
+                                                                                                         Page 18 of 21
+Old Chang Kee Ltd.
+Condensed interim financial statements for the six months ended 30 September 2025
+
+
+ (B)     Statement of Financial Position
+
+         Non-current assets
+
+         The Group’s non-current assets increased by approximately S$0.8 million mainly due to:
+
+         (i)     an increase in property, plant and equipment arising from capital expenditure incurred for renovations and
+                 additions of equipment for outlets, partially offset by depreciation expenses during 1H2026;
+
+         (ii)    an increase in right-of-use assets arising from new and renewed leases entered into during the period,
+                 partially offset by right-of-use depreciation expenses; and
+
+         (iii)   an increase in deferred tax assets mainly due to higher temporary differences arising from accrued
+                 expenses and property, plant and equipment.
+
+        The increase in non-current assets attributable to the factors listed above was partially offset by a decrease in
+        long term deposits arising from reclassification of lease deposits in accordance with the respective lease
+        tenures during 1H2026, which was partially offset by deposits paid for new outlets and lease renewal.
+
+
+        Current assets
+
+        The Group’s current assets increased by approximately S$2.4 million, mainly due to:
+
+        (i)      an increase in inventories of approximately S$0.4 million, arising from bulk purchase of products from
+                 overseas suppliers;
+
+        (ii)     an increase in trade and other receivables arising from credit sales to corporate customers;
+
+         (iii)   an increase in short term deposits, arising from deposits for new upcoming outlets and reclassification of
+                 lease deposits in accordance with the respective lease tenures; partially offset by refund of deposits from
+                 closed outlets;
+
+         (iv) an increase in prepayments, arising from an increase in annual insurance premium, and new renovation
+              contracts entered into during 1H2026; and
+
+         (v)     an increase in cash and bank balances of approximately S$1.2 million. Further details of the changes in
+                 the Group’s cash flow are set out in paragraph (C) below.
+
+
+        Current and non-current liabilities
+
+        The net decrease in the Group’s current and non-current liabilities of approximately S$0.6 million was mainly
+        due to:
+
+         (i)     a decrease in trade and other payables of approximately S$0.7 million, mainly arising from the payment
+                 of accrued employee bonus during the period;
+
+        (ii)     a decrease in liabilities pertaining to bank loans and finance leases, mainly due to repayments made
+                 during 1H2026, partially offset by new finance lease secured for the purchase of motor vehicles; and
+
+        (iii) a decrease in tax provision due to lower profit before tax and tax paid during the period.
+
+        The decrease in current and non-current liabilities attributable to the factors listed above was partially offset by
+        an increase in lease liabilities mainly due to new and renewed leases entered into, partially offset by lease
+        repayment during the period.
+
+
+       Net working capital
+
+       The Group had a positive net working capital of approximately S$35.6 million as at 30 September 2025, compared
+       to a positive net working capital of approximately S$32.5 million as at 31 March 2025.
+
+
+
+
+                                                                                                                Page 19 of 21
+Old Chang Kee Ltd.
+Condensed interim financial statements for the six months ended 30 September 2025
+
+(C)   Statement of Cash Flows
+
+       In 1H2026, the Group generated an operating profit before working capital changes of approximately S$13.3
+       million. Net cash generated from operating activities, inclusive of working capital changes and tax paid,
+       amounted to approximately S$10.2 million in 1H2026.
+
+       In 1H2026, net cash used in investing activities amounted to approximately S$0.7 million. This was mainly due
+       to renovation works and equipment for new and existing outlets, partially offset by proceeds from disposal of
+       motor vehicles and interest income received from short-term fixed deposits for 1H2026.
+
+       Net cash used in financing activities amounted to approximately S$8.2 million in 1H2026. This was mainly due
+       to the distribution of dividends amounting to approximately S$1.2 million during the period, repayment of lease
+       obligations (inclusive of lease interest) of approximately S$6.1 million, and repayments of bank loans and finance
+       lease during 1H2026.
+
+
+9.    Where a forecast, or a prospect statement, has been previously disclosed to shareholders, any variance
+      between it and the actual results.
+
+      Not applicable. No forecast or prospect statement had been previously disclosed to shareholders.
+
+10.   A commentary at the date of the announcement of the significant trends and competitive conditions of
+      the industry in which the Group operates and any known factors or events that may affect the Group in
+      the next reporting period and the next 12 months.
+
+      The Group is observing sustained pressure across its cost base, with notable increases in raw material costs,
+      wages and rental expenses. Simultaneously, the structural manpower deficit within the retail industry continues
+      to present a significant operational hurdle, compounded by a period of moderated retail consumer demand in the
+      near term.
+
+      In response, the Group is strategically focused on operational resilience. The Group’s immediate priorities include
+      rigorous cost management, gross margin enhancement, and operational optimisation to mitigate the impact of
+      manpower constraints. Furthermore, the Group is actively diversifying its revenue mix by accelerating the growth
+      of non-retail revenue streams, such as business-to-business (B2B) sales. The Group is also proactively exploring
+      opportunities to expand its footprint in high-value, strategic locations including transport hubs, while remaining
+      committed to pursuing synergistic opportunities that enhance operational efficiency and scale its logistics and
+      manufacturing capabilities.
+
+
+11.   Dividend information
+
+      (a)   Whether an interim (final) ordinary dividend has been declared (recommended).
+
+             Name of Dividend:           Ordinary (Interim)
+             Dividend Type:              Cash
+             Dividend per share:         1.0 Singapore cent per ordinary share
+             Tax Rate:                   Tax exempt (one-tier)
+
+      (b)   Previous corresponding period (cents)
+
+             Name of Dividend:           Ordinary (Interim)
+             Dividend Type:              Cash
+             Dividend per share:         1.0 Singapore cent per ordinary share
+             Tax Rate:                   Tax exempt (one-tier)
+
+      (c)   Date payable
+
+            On or around 19 December 2025.
+
+      (d)   Record date
+
+            2 December 2025.
+                                                                                                           Page 20 of 21
+Old Chang Kee Ltd.
+Condensed interim financial statements for the six months ended 30 September 2025
+
+12.       If no dividend has been declared (recommended), a statement to that effect and the reason(s) for the
+          decision.
+
+          Not applicable.
+
+
+13.       If the Group has obtained a general mandate from shareholders for IPTs, the aggregate value of such
+          transactions as required under Rule 920(1)(a)(ii). If no IPT mandate has been obtained, a statement to
+          that effect.
+
+          The Group does not have a general mandate from its shareholders for recurrent interested person
+          transactions (“IPTs”). There were no IPTs exceeding S$100,000 entered into during the financial period under
+          review.
+
+
+14.       Additional Information Required Pursuant to Rule 706A
+
+          During 1H2026, the Company did not undertake any acquisition or sale of shares which resulted in a company
+          becoming or ceasing to be a subsidiary or associated company of the Company, or resulted in the Company
+          increasing or reducing its shareholding percentage in a subsidiary or associated company.
+
+
+15.       Negative confirmation by the Board pursuant to Rule 705(5) of the Catalist Listing Manual
+
+          We, Han Keen Juan and Lim Tao-E William, being two of the Directors of the Company, do hereby confirm
+          on behalf of the Board of Directors of the Company (the “Board”) that, to the best of our knowledge, nothing
+          has come to the attention of the Board which may render the unaudited condensed interim financial
+          statements for the six months ended 30 September 2025 to be false or misleading in any material aspect.
+
+
+16.       Confirmation that the issuer has procured undertakings from all its directors and executive officers
+          (in the format set out in Appendix 7H) under Rule 720(1) of the Listing Manual Section B: Rules of
+          Catalist of the Singapore Exchange Securities Trading Limited (“Catalist Rules”).
+
+          The Company has received undertakings from all its directors and executive officers in the format as set out
+          in Appendix 7H under Rule 720(1) of the Catalist Rules.
+
+
+
+
+On behalf of the Board
+
+
+
+Han Keen Juan                                                   Lim Tao-E William
+Executive Chairman                                              Executive Director and Chief Executive Officer
+
+
+BY ORDER OF THE BOARD
+
+Adrian Chan Pengee
+Company Secretary
+
+12 November 2025
+
+
+This announcement has been reviewed by the Company’s sponsor, PrimePartners Corporate Finance Pte. Ltd. (the “Sponsor”). It
+has not been examined or approved by the Singapore Exchange Securities Trading Limited (the “Exchange”) and the Exchange
+assumes no responsibility for the contents of this announcement, including the correctness of any of the statements or opinions
+made or reports contained in this announcement.
+
+The contact person for the Sponsor is Ms Ng Shi Qing, 16 Collyer Quay, #10-00 Collyer Quay Centre, Singapore 049318,
+sponsorship@ppcf.com.sg.
+
+
+
+                                                                                                                Page 21 of 21
+

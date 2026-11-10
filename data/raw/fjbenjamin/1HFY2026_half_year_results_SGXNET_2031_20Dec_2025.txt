@@ -1,0 +1,1056 @@
+F J BENJAMIN HOLDINGS LTD
+Company Registration Number: 197301125N
+
+
+
+
+Condensed interim consolidated financial statements
+For the six months ended 31 December 2025
+
+
+
+
+Table of contents
+                                                                                 Page
+   A. Condensed interim consolidated statement of profit or loss and other
+      comprehensive income                                                         1
+
+   B. Condensed interim statements of financial position                           2
+
+   C. Condensed interim statements of changes in equity                            3
+
+   D. Condensed interim consolidated statement of cash flows                       4
+
+   E. Notes to the condensed interim consolidated financial statements             5
+
+   F. Other information required pursuant to Appendix 7C of the Catalist Rules     14
+A. Condensed interim consolidated statement of profit or loss and other comprehensive income
+
+
+
+                                                                            ---------- GROUP ----------
+                                                                       6 months          6 months      Change
+                                                                         ended             ended
+                                                                      31 Dec 2025 31 Dec 2024
+                                                                                      (Reclassified)
+                                                               Note      $'000            $'000         %
+Continuing operations
+Turnover                                                                    12,732          18,818       (32)
+Cost of goods sold                                                          (6,924)         (9,668)      (28)
+Gross profit                                                                 5,808           9,150       (37)
+
+Other income, net                                               6              100              634      (84)
+Staff costs                                                                 (4,546)          (5,258)     (14)
+Rental of premises                                                          (1,874)          (1,945)      (4)
+Advertising and promotion                                                     (287)            (492)     (42)
+Depreciation of furniture, fixtures and equipment                             (238)            (463)     (49)
+Depreciation of right-of-use assets                                         (1,301)          (2,171)     (40)
+Other operating expenses                                        6           (2,370)          (2,777)     (15)
+
+Operating loss                                                              (4,708)         (3,322)         42
+
+Interest expense from borrowings                                              (488)            (409)     19
+Interest expense from lease liabilities                                       (107)            (133)    (20)
+Foreign exchange loss, net                                                    (391)            (112)   >100
+Share of results of associates, net of tax                                  (1,936)            (891)   >100
+
+Loss before tax from continuing operations                                  (7,630)         (4,867)         57
+Income tax expenses                                                            -               -        -
+Loss for the period from continuing operations                              (7,630)         (4,867)         57
+
+Discontinued operations
+(Loss)/profit for the period from discontinued                  7           (1,889)            506       nm
+ operations, net of tax
+Net loss for the period                                                     (9,519)         (4,361)    >100
+
+Other comprehensive income:
+Item that may be reclassified subsequently to profit or loss
+Foreign currency translation                                                   975           1,002       (3)
+Total comprehensive loss for the period                                     (8,544)         (3,359)    >100
+
+Net loss attributable to:
+Equity holders of the parent                                                (9,519)          (4,361)   >100
+                                                                            (9,519)          (4,361)   >100
+
+Total comprehensive loss attributable to:
+Equity holders of the parent                                                (8,544)          (3,359)   >100
+                                                                            (8,544)          (3,359)   >100
+
+Loss per share (cents)
+Basic and diluted                                               8            (0.80)           (0.37)
+
+Loss per share - continuing operations (cents)
+Basic and diluted                                                            (0.64)           (0.41)
+
+*   The comparative information for the six months ended 31 December 2024 has been re-presented to
+    reflect the classification of the Malaysia Guess business as a discontinued operation.
+
+nm - not meaningful
+
+                                                       1
+B. Condensed interim statements of financial position
+
+                                                                          ---------GROUP----------        ------COMPANY-------
+                                                                Note   31 Dec 2025     30 Jun 2025    31 Dec 2025    30 Jun 2025
+                                                                          $'000            $'000         $'000          $'000
+
+NON-CURRENT ASSETS
+Furniture, fixtures and equipment                               10           2,156           2,599               2             14
+Right-of-use assets                                                          4,247           5,931              34           104
+Subsidiaries                                                                   -               -           17,400         17,394
+Investment in associates                                                     9,250          10,891            -              -
+Deferred tax assets                                                            183             175            -              -
+                                                                            15,836          19,596         17,436         17,512
+CURRENT ASSETS
+Inventories                                                                  9,215          19,969            -              -
+External trade debtors                                                         175             814            -              -
+Trade debts due from associates                                              6,927           6,848            -              -
+Other debtors                                                                7,529           8,501          8,521          8,632
+Prepayments and advances                                                       630             362              37             5
+Tax recoverable                                                              1,107             974            -              -
+Cash on hand and at bank                                                     3,280           3,235          3,006          3,021
+                                                                            28,863          40,703         11,564         11,658
+Assets held for sale                                             7           8,391             -              -              -
+                                                                            37,254          40,703         11,564         11,658
+TOTAL ASSETS                                                                53,090          60,299         29,000         29,170
+
+EQUITY AND LIABILITIES
+EQUITY
+Share capital                                                   12         186,170         186,170        186,170        186,170
+Foreign currency translation reserve                                          (469)         (1,444)           -              -
+Other reserves                                                                 376             376            -              -
+Accumulated losses                                                        (175,462)       (165,943)      (168,967)      (168,506)
+TOTAL EQUITY                                                                10,615          19,159         17,203         17,664
+
+NON-CURRENT LIABILITIES
+Other creditors                                                                -               -            8,734          8,729
+Borrowings                                                      11           4,211           1,144            -                30
+Lease liabilities                                                            2,645           2,609            -              -
+                                                                             6,856           3,753          8,734          8,759
+
+CURRENT LIABILITIES
+Trade and other creditors                                                   17,513          20,838          2,644          2,610
+Borrowings                                                      11          11,154          12,534            380              22
+Lease liabilities                                                            2,094           4,015              39           115
+                                                                            30,761          37,387          3,063          2,747
+Liabilities directly associated with the assets held for sale    7           4,858             -              -              -
+                                                                            35,619          37,387          3,063          2,747
+TOTAL LIABILITIES                                                           42,475          41,140         11,797         11,506
+TOTAL EQUITY AND LIABILITIES                                                53,090          60,299         29,000         29,170
+
+
+
+
+                                                                 2
+C. Condensed interim statements of changes in equity
+
+                                           -------- Attributable to the equity holders of the parent --------
+                                                           Foreign
+                                                                                                                      Non-
+                                          Share           currency       Other     Accumulated
+                                                                                                      Total        controlling Total equity
+                                          capital        translation    reserves       losses
+                                                                                                                    interests
+                                                           reserve
+                                           $'000            $'000         $'000         $'000         $'000          $'000        $'000
+GROUP
+At 1 July 2025                            186,170          (1,444)           376       (165,943)        19,159            -         19,159
+Loss for the period                             -               -            -            (9,519)        (9,519)          -         (9,519)
+Other comprehensive income
+Foreign currency translation                    -              975           -               -              975           -            975
+Total comprehensive loss for the period         -              975           -            (9,519)        (8,544)          -         (8,544)
+At 31 December 2025                       186,170              (469)         376       (175,462)        10,615            -         10,615
+
+
+At 1 July 2024                            186,170          (2,492)           414       (149,351)        34,741            (33)      34,708
+Loss for the period                             -               -            -            (4,361)        (4,361)          -         (4,361)
+Other comprehensive income
+Foreign currency translation                    -           1,002            -               -            1,002           -          1,002
+Total comprehensive loss for the period         -           1,002            -            (4,361)        (3,359)          -         (3,359)
+At 31 December 2024                       186,170          (1,490)           414       (153,712)        31,382            (33)      31,349
+
+
+COMPANY
+At 1 July 2025                            186,170               -            -         (168,506)        17,664            -         17,664
+Loss for the period, representing total
+ comprehensive loss for the period              -               -            -              (461)          (461)          -           (461)
+At 31 December 2025                       186,170               -            -         (168,967)        17,203            -         17,203
+
+At 1 July 2024                            186,170               -            -         (149,594)        36,576            -         36,576
+Loss for the period, representing total
+ comprehensive loss for the period              -               -            -              (415)          (415)          -           (415)
+At 31 December 2024                       186,170               -            -         (150,009)        36,161            -         36,161
+
+
+
+
+                                                           3
+D. Condensed interim consolidated statement of cash flows
+                                                                              --------GROUP-----------
+                                                                            6 months        6 months
+                                                                              ended           ended
+                                                                           31 Dec 2025 31 Dec 2024
+                                                                              $'000           $'000
+OPERATING ACTIVITIES:
+Loss before tax from continuing operations                                       (7,630)        (4,867)
+(Loss)/ profit before tax from discontinued operations                           (1,889)           506
+Loss before tax                                                                  (9,519)        (4,361)
+Adjustments for:
+    Depreciation of furniture, fixtures and equipment                              418             643
+    Depreciation of right-of-use assets                                          2,516           3,379
+    Share of results of associates, net of tax                                   1,936             891
+    Currency realignment                                                           647             921
+    Loss/ (gain) on disposal of furniture, fixtures and equipment                  119               (1)
+    Gain on deregconition of right-of-use assets and lease liabilities              (3)            (24)
+    Lease modification                                                             (65)            -
+    Fixed asset written off                                                          6             -
+    Interest income                                                                 (1)            (15)
+    Interest expense from borrowings                                               488             409
+    Interest expense from lease liabilities                                        165             202
+    (Write back)/ allowance for inventory obsolescence and inventories
+      written off, net                                                             (100)           383
+OPERATING CASH FLOWS BEFORE CHANGES IN WORKING CAPITAL                           (3,393)         2,427
+    Changes in working capital:
+    Decrease in debtors                                                             725          1,756
+    Increase in prepayments and advances                                           (682)          (261)
+    Decrease/ (increase) in inventories                                           8,530           (601)
+    Decrease in creditors                                                        (2,289)           (49)
+CASH FLOWS GENERATED FROM OPERATIONS                                              2,891          3,272
+    Interest received                                                                 1             15
+    Income tax paid                                                                 (85)          (291)
+NET CASH FLOWS GENERATED FROM OPERATING ACTIVITIES                                2,807          2,996
+INVESTING ACTIVITIES:
+    Purchase of furniture, fixtures and equipment                                (1,399)          (275)
+    Proceeds from disposal of furniture, fixtures and equipment                     155              6
+NET CASH FLOWS USED IN INVESTING ACTIVITIES                                      (1,244)          (269)
+FINANCING ACTIVITIES:
+    Proceeds from bank borrowings                                                   556          1,422
+    Repayment of bank borrowings                                                 (2,193)          (815)
+    Proceeds from other borrowings                                                3,712            -
+    Repayment of other borrowings                                                  (124)           (11)
+    Interest paid                                                                  (492)          (409)
+    Payment of lease liabilities                                                 (2,750)        (3,668)
+NET CASH FLOWS USED IN FINANCING ACTIVITIES                                      (1,291)        (3,481)
+Net increase/ (decrease) in cash and cash equivalents                              272            (754)
+Cash and cash equivalents at beginning of financial period                       1,949           2,570
+Net effect of exchange rate changes on opening cash and cash equivalents             4              22
+CASH AND CASH EQUIVALENTS AT END OF FINANCIAL PERIOD                             2,225           1,838
+
+Cash and cash equivalents comprise the following:
+Cash on hand and at bank                                                          3,280          3,319
+Bank overdrafts                                                                  (1,055)        (1,481)
+                                                                                  2,225          1,838
+
+
+                                                      4
+E. Notes to the condensed interim consolidated financial statements
+
+1.   Corporate information
+
+     F J Benjamin Holdings Ltd (the “Company”) is a limited liability company incorporated and domiciled in
+     Singapore and is listed on the Singapore Exchange Securities Trading Limited (“SGX-ST”). These condensed
+     interim consolidated financial statements as at and for the six months ended 31 December 2025 comprise
+     the Company and its subsidiaries (the “Group”).
+
+     The principal activities of the Company are those of investment holding and the provision of management
+     services to its subsidiaries. The principal activities of the subsidiaries are those of investment holding and
+     retailers, distributors and exporters of consumer fashion wear, accessories, timepieces, beauty, health and
+     wellness products and operator of a multi-label luxury shoe and lifestyle concept store.
+
+2.   Basis of preparation
+
+     The condensed interim consolidated financial statements for the six months ended 31 December 2025
+     have been prepared in accordance with SFRS(I) 1-34 Interim Financial Reporting issued by the Accounting
+     Standards Council Singapore. The condensed interim consolidated financial statements do not include all
+     the information required for a complete set of financial statements. However, selected explanatory notes
+     are included to explain events and transactions that are significant to an understanding of the changes in
+     the Group's financial position and performance since the last annual consolidated financial statements of
+     the Group for the year ended 30 June 2025.
+
+     The accounting policies and methods of computations adopted for the condensed interim consolidated
+     financial statements are consistent with those adopted by the Group in its most recently audited annual
+     consolidated financial statements for the year ended 30 June 2025, which were prepared in accordance
+     with SFRS(I)s, except for the adoption of new and amended standards as set out in Note 2.1 below.
+
+     The condensed interim consolidated financial statements are presented in Singapore dollar which is the
+     Company's functional currency and all values in the tables are rounded to nearest thousand ($’000), except
+     as otherwise indicated.
+
+     2.1 New and amended standards adopted by the Group
+
+     A number of amendments to the standards have become applicable for the current reporting period. The
+     Group did not have to change its accounting policies or make retrospective adjustments as a result of
+     adopting these standards. The adoption of these standards did not have any material effect on the
+     financial performance or position of the Group and the Company.
+
+     2.2 Use of judgements and estimates
+
+     In preparing the condensed interim consolidated financial statements, management has made
+     judgements, estimates and assumptions that affect the application of accounting policies and the reported
+     amounts of assets and liabilities, income and expense. Actual results may differ from these estimates.
+
+     The significant judgements made by management in applying the Group's accounting policies and the key
+     sources of estimation uncertainty were the same as those that applied to the most recently audited annual
+     consolidated financial statements of the Group as at and for the year ended 30 June 2025.
+
+     Estimates and underlying assumptions are reviewed on an on-going basis. Revisions to accounting
+     estimates are recognised in the period in which the estimates are revised and in any future periods
+     affected.
+
+3.   Seasonal operations
+
+     The Group's businesses are not affected significantly by seasonal or cyclical factors during the financial
+     period reported on.
+
+
+
+                                                     5
+4.   Segment and revenue information
+
+     For management purpose, the Group is organised into business units based on their channel of distribution
+     and has three reportable operating segments as follows:
+
+     i.   The Ongoing Retail segment is involved in the operation of retail stores specialising in the retail of
+          consumer fashion wear, accessories, timepieces, beauty, health and wellness products, chocolates
+          and cafe.
+     ii. The Distribution segment is involved in the distribution of consumer fashion wear, accessories, home
+          furnishings, timepieces, beauty and health and wellness products.
+     iii. The Export segment is involved in the export of consumer fashion wear, accessories, timepieces and
+          health and wellness products.
+
+     These operating segments are reported in the manner consistent with internal reporting provided to
+     management who are responsible for allocating resources and assessing performance of the operating
+     segments.
+
+     4.1 Reportable segments
+                                                                                          Corporate
+                                          Ongoing retail     Distribution   Export                        Group
+                                                                                          and others
+                                               $'000            $'000       $'000           $'000         $'000
+          1 Jul 2025 – 31 Dec 2025
+          Sales to external customers             11,995             518         219               –         12,732
+
+          Segment results                          (3,605)          (275)            49       (1,376)        (5,207)
+          Interest income                                                                                          1
+          Interest expense from borrowings                                                                     (488)
+          Share of results of associates, net of tax                                                         (1,936)
+          Loss before tax                                                                                    (7,630)
+          Income tax expenses                                                                                      –
+          Loss from continuing operations                                                                    (7,630)
+          Loss from discontinued operations, net of tax                                                      (1,889)
+          Net loss for the period                                                                            (9,519)
+
+          Capital expenditure                          923              –             –           11               934
+          Depreciation of furniture,
+            fixtures and equipment                     186              5             –           47               238
+          Depreciation of right-of-use
+            assets                                  1,231               –             –           70          1,301
+
+
+
+
+                                                        6
+4.   Segment and revenue information (continued)
+
+     4.1 Reportable segments (continued)
+
+                                                                                            Corporate
+                                      Ongoing retail     Distribution        Export                            Group
+                                                                                            and others
+                                           $'000            $'000             $'000           $'000             $'000
+      1 Jul 2024 – 31 Dec 2024
+      (Reclassified)
+      Sales to external customers              15,718             389              2,711                 –           18,818
+
+      Segment results                          (1,908)           (424)              232            (1,482)           (3,582)
+      Interest income                                                                                                     15
+      Interest expense from borrowings                                                                                 (409)
+      Share of results of associates, net of tax                                                                       (891)
+      Loss before tax                                                                                                (4,867)
+      Income tax expenses                                                                                                  –
+      Loss from continuing operations                                                                                (4,867)
+      Profit from discontinued operations, net of tax                                                                    506
+      Net loss for the period                                                                                        (4,361)
+
+      Capital expenditure                          241              –                 –                34               275
+      Depreciation of furniture,
+        fixtures and equipment                     391              8                 –                64               463
+      Depreciation of right-of-use
+        assets                                  2,101               –                 –                70             2,171
+
+
+                                                                                      Corporate and
+                                Ongoing retail Distribution              Export          others              Group
+                                   $'000          $'000                  $'000             $'000             $'000
+     31 Dec 2025
+     Segment assets                   30,703             1,942               578             9,327            42,550
+     Investment in associates              –                 –                 –             9,250             9,250
+                                      30,703             1,942               578            18,577            51,800
+     Unallocated assets                                                                                        1,290
+     Total assets                                                                                             53,090
+
+     Segment liabilities              23,429             1,965               561             2,557            28,512
+     Unallocated liabilities                                                                                  13,963
+     Total liabilities                                                                                        42,475
+
+
+
+
+                                                    7
+4.   Segment and revenue information (continued)
+
+     4.1 Reportable segments (continued)
+
+                                                                                     Corporate and
+                                Ongoing retail    Distribution       Export             others                   Group
+                                   $'000             $'000           $'000               $'000                   $'000
+     31 Dec 2024
+     Segment assets                    40,400            1,338            3,615                12,742             58,095
+     Investment in associates               –                –                –                15,152             15,152
+                                       40,400            1,338            3,615                27,894             73,247
+     Unallocated assets                                                                                            1,334
+     Total assets                                                                                                 74,581
+
+     Segment liabilities               23,027            1,099            2,581                 2,879             29,586
+     Unallocated liabilities                                                                                      13,646
+     Total liabilities                                                                                            43,232
+
+
+     Assets and liabilities which are common and cannot be meaningfully allocated to the business segments
+     are presented as unallocated assets and liabilities, as shown in the table below.
+
+                                                                              31 Dec 2025          31 Dec 2024
+                                                                                    $'000                $'000
+     Unallocated assets
+     Deferred tax assets                                                              183                   259
+     Tax recoverable                                                                 1,107                1,075
+                                                                                     1,290                1,334
+     Unallocated liabilities
+     Borrowings (excluding bank overdrafts)                                        13,963                13,646
+                                                                                   13,963                13,646
+
+
+     Geographical segments
+
+     Revenue, non-current assets and capital expenditure information based on geographical location of
+     customers and assets respectively are as follows:
+
+                                                            Southeast
+                                                              Asia                Others                Group
+                                                              $'000               $'000                 $'000
+     1 Jul 2025 – 31 Dec 2025
+     Turnover from continuing operations                         12,732                    –             12,732
+
+     Other geographical information:
+     Non-current assets                                          15,835                    1             15,836
+     Capital expenditure                                            934                    –                934
+
+     1 Jul 2024 – 31 Dec 2024
+     Turnover from continuing operations                         18,818                    –             18,818
+
+     Other geographical information:
+     Non-current assets                                          27,179                    2             27,181
+     Capital expenditure                                            275                    –                275
+
+
+
+
+                                                  8
+5.   Financial assets and financial liabilities
+
+     Set below is an overview of the financial assets and financial liabilities of the Group as at 31 December
+     2025 and 30 June 2025.
+                                                            Group                             Company
+                                                  31 December      30 June        31 December          30 June
+                                                      2025          2025              2025              2025
+
+                                                       $'000        $'000               $'000           $'000
+     Financial assets measured at amortised cost
+     Receivables from subsidiaries                           –            –                   8,884        8,878
+     Trade debtors                                       7,102        7,662                       –            –
+     Other debtors                                       7,529        8,501                   8,521        8,632
+     Cash on hand and at bank                            3,280        3,235                   3,006        3,021
+                                                        17,911       19,398                  20,411       20,531
+
+
+     Financial liabilities measured at amortised cost
+     Trade and other creditors                        16,796         19,949                  11,378       11,339
+     Borrowings                                       15,365         13,678                     380           52
+     Lease liabilities                                 4,739          6,624                      39          115
+                                                      36,900         40,251                  11,797       11,506
+
+
+6.   Loss before tax from continuing operations
+
+     6.1 Significant items
+                                                                                        Group
+                                                                            6 months ended 6 months ended
+                                                                             31 December    31 December
+                                                                                 2025           2024
+
+                                                                                                 (Reclassified)
+                                                                                $'000                $'000
+     Income
+     Market support and administrative service income                                   80               127
+     Government grants                                                                  16                11
+     Write back of payables                                                              –                86
+     Waiver of royalties                                                                 –               345
+     Gain on derecognition of leases                                                     3                24
+
+
+     Expenses
+     (Write back)/ allowance for inventory obsolescence, net                       (174)                 306
+     Loss on disposal of furniture, fixtures and equipment                           119                   –
+     Inventories written off                                                         64                   70
+     Outlet related expenses                                                        222                  364
+     Utilities                                                                       94                  117
+     Royalties                                                                       11                   12
+     Freight, warehousing, handling and shipping costs                              362                  628
+     Professional and legal fees                                                    257                  172
+     Directors’ fees of directors of the Company                                     76                   80
+     Telecommunication                                                               75                   74
+     Repair and maintenance                                                         200                  242
+
+
+
+
+                                                   9
+6.   Loss before tax from continuing operations (continued)
+
+     6.2 Related party transactions
+
+     During the six months ended 31 December 2025 and 2024, the Group has entered into transactions with
+     related parties on terms agreed between the parties, as shown below:
+
+                                                                              6 months    6 months
+                                                                                ended       ended
+                                                                            31 December 31 December
+                                                                                 2025        2024
+                                                                                 $'000        $'000
+
+      Sale of goods to associate                                                     –             2,405
+      Market support and administrative
+        service income from associate                                               80              127
+
+
+7.   Discontinued operations
+
+     On 5 September 2025, the Company announced that its wholly owned subsidiary, F J Benjamin
+     (Singapore) Pte Ltd, and Guess Europe Sagl had mutually agreed to end their relationship for the
+     Group’s retail and distribution of all Guess products in Malaysia and Indonesia.
+
+     The retail and distribution of Guess products were carried out by the Group’s subsidiary in Malaysia, F
+     J Benjamin (M) Sdn. Bhd., and its associated company in Indonesia, PT Gilang Agung Persada.
+
+     As at 31 December 2025, the Group’s Guess business in Malaysia was classified as a disposal group held
+     for sale and as a discontinued operation. Accordingly, it is presented under discontinued operations
+     while the Group's Guess business in Indonesia is presented under share of results of associates. The
+     Group expects the handover of the Malaysia Guess stores and related assets to the new distributor to
+     be completed in the second half of FY2026. In addition, the Group expects to continue recognising
+     losses arising from discontinued operations in relation to the Group’s Guess business in Malaysia and
+     the Group’s share of results of associates from the Group’s Guess business in Indonesia, in the second
+     half of FY2026.
+
+     The results of the Group’s Guess business in Malaysia for the period are presented below:
+
+                                                                                6 months           6 months
+                                                                                  ended              ended
+                                                                              31 December        31 December
+                                                                                   2025               2024
+                                                                                   $'000             $'000
+     Turnover                                                                     12,063             12,617
+     Expenses                                                                    (13,890)           (12,042)
+     Operating (loss)/ profit                                                     (1,827)               575
+     Finance costs                                                                    (62)              (69)
+     (Loss)/ profit before tax from discontinued operations                       (1,889)               506
+     Income tax expense                                                                  –                 –
+     (Loss)/ profit after tax from discontinued operations                        (1,889)               506
+
+     (Loss)/ earnings per share (cents):
+     Basis and diluted (loss)/ profit for the period from discontinued
+      operations                                                                   (0.16)             0.04
+
+
+
+
+                                                   10
+7.   Discontinued operations (continued)
+
+     The major classes of assets and liabilities classified as held for sale as at 31 December 2025 are as follows:
+
+                                                                                                   Group
+                                                                                              31 December 2025
+     Assets                                                                                          $'000
+     Furniture, fixtures and equipment                                                                  1,270
+     Right-of-use assets                                                                                3,656
+     Inventories                                                                                        2,324
+     External trade debtors                                                                               727
+     Other debtors                                                                                        414
+                                                                                                        8,391
+     Liabilities
+     Trade and other creditors                                                                          1,036
+     Hire purchase                                                                                         95
+     Lease liabilities                                                                                  3,727
+                                                                                                        4,858
+
+     The net cash flows generated from/(used in) the Group’s Guess business in Malaysia for the period are, as
+     follows:
+
+                                                                                   6 months          6 months
+                                                                                     ended             ended
+                                                                                 31 December       31 December
+                                                                                      2025              2024
+                                                                                     $'000             $'000
+     Operating                                                                         4,287             9,894
+     Investing                                                                           465               127
+     Financing                                                                        (1,219)           (1,102)
+     Net cash inflow                                                                   3,533             8,919
+
+
+8.   Loss per share
+
+     The basic loss per share is calculated by dividing the loss for the respective financial periods attributable
+     to equity holders of the parent by the weighted average number of ordinary shares outstanding during
+     the respective financial periods.
+
+     Diluted loss per share is calculated by dividing the loss for the respective financial periods attributable to
+     equity holders of the parent by the weighted average number of ordinary shares outstanding during the
+     respective financial periods plus the weighted average number of ordinary shares that would be issued on
+     the conversion of all the dilutive potential ordinary shares into ordinary shares.
+
+
+
+
+                                                    11
+8.   Loss per share (continued)
+
+     The following table reflects the loss and shares data used in the computation for basic and diluted loss per
+     share:
+                                                                                     Group
+                                                                        6 months ended        6 months ended
+                                                                         31 December           31 December
+                                                                             2025                   2024
+                                                                             $’000                 $’000
+      Loss from continuing operations                                       (7,630)               (4,867)
+      (Loss)/ profit from discontinued operations                           (1,889)                  506
+      Net loss for the financial period attributable to equity
+        holders of the parent used in the computation of
+        basic and diluted loss per share                                    (9,519)               (4,361)
+
+                                                                                ‘000                   ‘000
+      Weighted average number of ordinary shares for
+       basic and diluted loss per share
+       computation                                                            1,187,314              1,187,314
+
+     The Company and the Group did not have any potential dilutive instruments for the respective financial
+     periods.
+
+
+9.   Net Asset Value
+                                                            Group                              Company
+                                                31 December         30 June        31 December        30 June
+                                                    2025             2025              2025            2025
+                                                    Cents           Cents                Cents         Cents
+     Net asset value per ordinary share                 0.89         1.61                     1.45       1.49
+
+     The calculation of net asset value per ordinary share was based on 1,187,313,903 shares as at 31 December
+     2025 (30 June 2025: 1,187,313,903).
+
+
+10. Furniture, fixtures and equipment
+                                                                                         Group
+                                                                      6 months ended   6 months ended
+                                                                     31 December 2025 31 December 2024
+                                                                              $'000                  $'000
+     Additions, at cost                                                               1,399                  275
+     Disposals, at cost                                                           (4,983)                (160)
+     Transferred to assets held for sale                                          (1,270)                      –
+
+
+
+
+                                                   12
+11. Borrowings
+                                                                                     Group
+                                                                           31 December     30 June
+                                                                               2025         2025
+                                                                               $'000        $'000
+     Amount repayable in one year or less, or on demand
+     - Unsecured                                                                  11,154            12,534
+     Amount repayable after one year
+     - Unsecured                                                                    4,211             1,144
+     Total borrowings                                                             15,365            13,678
+     Cash on hand and at bank                                                     (3,280)           (3,235)
+     Net borrowings                                                               12,085            10,443
+
+
+12. Share capital
+                                                                    Group and Company
+                                                      31 December 2025                30 June 2025
+                                                  No. of shares     Amount          No. of shares      Amount
+                                                       '000          $'000               '000           $'000
+   Ordinary shares issued and fully paid
+   As at beginning and end of interim period          1,187,314     186,170            1,187,314        186,170
+
+    The holders of ordinary shares are entitled to receive dividends as and when declared by the Company.
+    All ordinary shares have no par value and carry one vote per share without restriction.
+
+    There were no outstanding convertibles for conversion into ordinary shares as at 31 December 2025,
+    30 June 2025 and 31 December 2024.
+
+    The Company did not hold any treasury shares as at 31 December 2025, 30 June 2025 and 31 December
+    2024.
+
+    The Company’s subsidiaries did not hold any shares in the Company as at 31 December 2025, 30 June
+    2025 and 31 December 2024.
+
+
+13. Subsequent event
+
+    There are no known subsequent events which led to adjustments to this set of condensed interim
+    consolidated financial statements.
+
+
+
+
+                                                13
+F. Other information required pursuant to Appendix 7C of the Catalist Rules
+
+1.   Whether the figures have been audited or reviewed and in accordance with which auditing standard
+     or practice.
+
+     The condensed interim consolidated statement of financial position of F J Benjamin Holdings Ltd and
+     its subsidiaries as at 31 December 2025 and the related condensed interim consolidated statement of
+     profit or loss and other comprehensive income, condensed interim consolidated statements of changes
+     in equity and condensed interim consolidated statement of cash flows for the six months period then
+     ended and the explanatory notes have not been audited or reviewed by the Company’s auditors.
+
+2.   Where the figures have been audited or reviewed, the auditors' report (including
+     any modifications or emphasis of a matter).
+
+     Not applicable.
+
+3.   Where the latest financial statements are subject to an adverse opinion, qualified opinion or
+     disclaimer of opinion:—
+     (a) Updates on the efforts taken to resolve each outstanding audit issue.
+     (b) Confirmation from the Board that the impact of all outstanding audit issues on the financial
+     statements have been adequately disclosed.
+     This is not required for any audit issue that is a material uncertainty relating to going concern.
+
+     Not applicable. The Group’s latest audited consolidated financial statements for the financial year
+     ended 30 June 2025 are not subject to an adverse opinion, qualified opinion or disclaimer of opinion
+     issued by the Company’s auditors.
+
+4.   Review of performance of the Group
+
+     (i)   Review of Results for the Six Months ended 31 December 2025
+
+           On 5 September 2025, the Company announced that its wholly owned subsidiary, F J Benjamin
+           (Singapore) Pte Ltd, and Guess Europe Sagl had mutually agreed to end their relationship for the
+           Group’s retail and distribution of all Guess products in Malaysia and Indonesia.
+
+           The retail and distribution of Guess products were carried out by the Group’s subsidiary in
+           Malaysia, F J Benjamin (M) Sdn. Bhd., and its associated company in Indonesia, PT Gilang Agung
+           Persada.
+
+           As at 31 December 2025, the Group’s Guess business in Malaysia was classified as a disposal
+           group held for sale and as a discontinued operation. Accordingly, it is presented under
+           discontinued operations while the Group's Guess business in Indonesia is presented under share
+           of results of associates.
+
+           Continuing Operations
+           Group revenue for continuing operations for the six months ended 31 December 2025 (“1H
+           FY2026”) declined by 32.3% to $12.7 million, compared to $18.8 million in the previous
+           corresponding period (“1H FY2025”), as a result of store closures and cessation of exports to
+           Indonesia.
+
+           Sales in Singapore (excluding exports to the Indonesian associate) declined by 45.1% year-on-
+           year, primarily due to the closure of underperforming stores and continued cautious consumer
+           sentiment. The strengthening of the Singapore dollar further weighed on domestic spending as
+           consumers increasingly travelled and made purchases overseas. In contrast, sales in Malaysia
+           increased marginally by 0.3% year-on-year, supported by growth in e-commerce and clearance
+           sales, as well as contributions from new stores.
+
+
+
+
+                                                 14
+       In line with the decline in overall sales, gross margin declined by 3.0 percentage points which led
+       to a drop in gross profit from $9.2 million in 1H FY2025 to $5.8 million in 1H FY2026. This is
+       mainly attributable to deeper discounts and promotional activities undertaken for clearance
+       sales.
+
+       Other income mainly comprised market support and administrative service income as well as
+       government grants received. The decrease was primarily due to the absence of write-back of
+       payables and waiver of royalties in 1H FY2026.
+
+       Group operating expenses decreased by 19.0% or $2.5 million to $10.6 million in 1H FY2026,
+       from $13.1 million in 1H FY2025. Staff costs declined by 13.5% and rental expenses by 3.7%,
+       primarily due to store closures and headcount reduction, partially offset by the introduction of
+       8% Sales and Service Tax on the rental and services in Malaysia with effect from 1 July 2025.
+       Advertising and promotion expenses were reduced by 41.7%, depreciation of furniture, fixtures
+       and equipment by 48.6%, depreciation of right-of-use assets by 40.1% due to expired leases and
+       other operating expenses by 14.7%. These reductions were attributable to the Group’s ongoing
+       streamlining initiatives aimed at reducing operating costs.
+
+       Interest expense on borrowings increased due to higher borrowings, while interest expense on
+       lease liabilities decreased following the reduction in right-of-use assets.
+
+       The Group’s share of loss from its Indonesian associate amounted to $1.9 million in 1H FY2026,
+       compared to $0.9 million in 1H FY2025. Although the associate’s turnover increased by 1.4%
+       year-on-year in local currency terms, deeper discounting implemented to stimulate demand
+       resulted in a gross margin compression of approximately 8.1%, leading to a higher loss for the
+       period. Of the $1.9 million share of loss recognised in 1H FY2026, approximately $1.0 million was
+       attributable to losses arising from the termination of the Guess business, while the remaining
+       $0.9 million arose from the associate’s underlying operating performance.
+
+       There were no exports from Singapore to the Indonesian associate in 1H FY2026 as purchases
+       were made directly by the associate in Indonesia.
+
+       As a result of the above, the Group reported a net loss after tax from continuing operations of
+       $7.6 million in 1H FY2026, compared to $4.9 million in 1H FY2025.
+
+       Discontinued Operations
+       The loss after tax from discontinued operations amounted to $1.9 million in 1H FY2026,
+       compared to a profit after tax of $0.5 million in 1H FY2025.
+
+       Overall, the Group reported a net loss attributable to shareholders of $9.5 million in 1H FY2026,
+       compared to $4.4 million in 1H FY2025.
+
+(ii)   Balance sheet
+
+       Furniture, fixtures and equipment decreased by $0.4 million, mainly due to the transfer of assets
+       to held for sale amounting to $1.3 million and depreciation charges of $0.4 million, partially
+       offset by capital expenditure of $1.4 million.
+
+       Right-of-use assets decreased by $1.7 million, arising from the transfer of assets to held for sale
+       of $3.7 million and depreciation charges of $2.5 million. These were partially offset by the
+       recognition of renewed and new leases amounting to $4.7 million. Correspondingly, total lease
+       liabilities (current and non-current) decreased by $1.9 million, as payments of lease liabilities
+       amounted to $2.8 million, offset by renewed and new leases and interest charges totalling $4.6
+       million.
+
+       Inventories decreased by $10.8 million, mainly due to lower purchases following store closures
+       and the transfer of inventories to assets held for sale amounting to $2.3 million.
+
+
+
+
+                                              15
+               Trade and other receivables decreased by $1.3 million, primarily due to the transfer to assets
+               held for sale.
+
+               Tax recoverable of $1.1 million represents the difference between higher corporate tax
+               instalments paid to the tax authorities and the tax provision based on the Malaysian subsidiary’s
+               financial results. The final tax position will be determined upon completion of the financial year
+               end tax computations.
+
+               As at 31 December 2025, the Group recorded negative working capital (excluding assets and
+               liabilities held for sale) of $1.9 million. Notwithstanding, net borrowings stood at $12.1 million,
+               comprising mainly invoice financing and short-term revolving credit facilities utilised to support
+               working capital requirements.
+
+     (iii)     Cash flows
+
+               For the period under review, the Group generated net cash inflows of $2.8 million from
+               operating activities in 1H FY2026. During the period, the Group raised other borrowings of $3.7
+               million and repaid bank borrowings of $2.2 million. The Group also invested $1.4 million in
+               capital expenditure and made lease and interest payments totalling $3.2 million.
+
+               As a result of the above, the Group recorded a net cash inflow of $0.3 million for 1H FY2026.
+
+5.   Where a forecast, or a prospect statement, has been previously disclosed to shareholders, any
+     variance between it and the actual results
+
+     Not applicable. No forecast or prospect statement has been previously disclosed to shareholders.
+
+6.   A commentary at the date of the announcement of the significant trends and competitive conditions
+     of the industry in which the Group operates and any known factors or events that may affect the
+     Group in the next operating period and the next 12 months
+
+     Following the cessation of the Group’s Guess business in the second half of FY2026, the Group expects
+     a near-term impact on its financial performance, particularly in relation to the Group’s operation in
+     Malaysia and through its associate in Indonesia.
+
+     Whilst the operating environment continues to remain challenging amid subdued consumer demand,
+     the Group has just commenced business operations under two new brands, la Vie en Rose and Pomelo
+     where results have been encouraging.
+
+     During this period, the Group will remain focused on disciplined cost management and right-sizing its
+     operations to enhance efficiency and preserve margins. At the same time, the Group will continue to
+     evaluate selective growth opportunities across its business, while maintaining a prudent and measured
+     approach.
+
+     The Group remains cautious in its outlook and is committed to strengthening its operational foundation
+     to support long-term sustainability.
+
+7.   Dividend information
+
+     7a. Current financial period reported on
+
+             Any dividend recommended for the current financial period reported on?
+
+             No.
+
+
+
+
+                                                      16
+     7b. Corresponding period of the immediate preceding financial year
+
+         Any dividend declared for the corresponding period of the immediate preceding financial year?
+
+         No.
+
+     7c. Date payable
+
+         Not applicable.
+
+     7d. The date on which Registrable Transfers received by the Company (up to 5.00pm) will be
+         registered before entitlements to the dividend are determined
+
+         Not applicable.
+
+     7e. If no dividend has been declared (recommended), a statement to that effect and the reason(s)
+         for the decision.
+
+         No dividend has been declared or recommended as the Company incurred losses for the financial
+         period.
+
+8.   Interested persons transactions
+
+     The Company does not have an IPT mandate.
+
+9.   Confirmation pursuant to Rule 705(5) of the Catalist Rules
+
+     To the best of their knowledge, nothing has come to the attention of the Board of Directors of the
+     Company which may render the interim financial statements for the six months ended 31 December
+     2025 to be false or misleading in any material aspect.
+
+10. Confirmation that the issuer has procured undertaking from all its directors and executive officers (in
+    the format set out in Appendix 7H) under Rule 720(1) of the Catalist Rules
+
+     The Company has received undertaking from all its directors and executive officers in the format as set
+     out under Rule 720(1) of the Catalist Rules in the format set out in Appendix 7H.
+
+11. Disclosure of acquisition (including incorporations) and sale of shares in subsidiaries and/or
+    associated companies since the end of the previous reporting period under Rule 706A of the Catalist
+    Rules
+
+     The Group does not have any acquisitions (including incorporations) and realisations of shares in
+     subsidiaries and/or associated companies since the end of the previous reporting period, up to 31
+     December 2025.
+
+12. Use of proceeds from Rights Issue and Exercise of Warrants
+
+     On 5 April 2018 and 6 April 2018, the Company allotted and issued 341,225,914 new ordinary shares
+     (“Rights Shares”) with 682,451,828 free detachable warrants (“Warrants”) under the Rights cum
+     Warrants Issue (details as set out in the Company’s circular to its Shareholders dated 15 February 2018
+     and offer information statement dated 12 March 2018 (“Offer Information Statement”)). The total gross
+     proceeds raised from the allotment and issuance of the Rights Shares under the Rights cum Warrants
+     Issue, after accounting for the conversion into the Right Shares of certain loans owing by the Group to
+     certain Shareholders (the “Conversion”), amounted to approximately S$8,118,000.
+
+     As set out in the Company’s announcements dated 17 May 2021 and 30 December 2021, on the expiry
+     of the Warrants on 5 April 2021, a total of 157,378,132 Warrants had been exercised at the exercise
+     price of S$0.04. Accordingly, the Company raised aggregate gross proceeds of approximately
+     S$6,295,000. Following a review of the Group’s then operating environment, and taking into
+
+
+                                                  17
+consideration of the then on-going COVID-19 pandemic and safe distancing measures which impacted
+the businesses of the Group, the Board had, in May 2021, reallocated an aggregate of S$1,648,000 of
+the net proceeds from the exercise of Warrants, which was originally allocated for the expansion of the
+Group’s business activities when the Rights cum Warrants Issue took place four years ago (pre-COVID-
+19) to general working capital purposes (the “Reallocation”).
+
+The use of proceeds from the Rights cum Warrants issue as at 31 December 2025 are as follows:
+
+Rights issue
+                                                                                          Amount
+                                                                                          S$’000
+         Total net proceeds available:
+         Gross proceeds received from allotment and issuance of the Rights Shares,
+           after accounting for Conversion                                                      8,118
+         Share issuance expenses                                                                (435)
+         Net proceeds available                                                                 7,683
+
+         Use of proceeds:
+ (i)     General working capital
+         Allocation as disclosed in the Offer Information Statement                             3,842
+         Total amount utilised – repayment of trade invoices financed by banks and            (3,842)
+           trade suppliers’ invoices
+         Balance                                                                                     -
+
+ (ii)    Expansion of the Group’s business activities
+         Allocation as disclosed in the Offer Information Statement                             3,841
+         Total amount utilised                                                                  (841)
+         Balance                                                                                3,000
+
+
+
+Warrants
+                                                                                          Amount
+                                                                                          S$’000
+         Total net proceeds available:
+         Gross proceeds from exercise of Warrants                                               6,295
+         Share issuance expenses                                                                  (21)
+         Net proceeds available                                                                 6,274
+
+         Use of proceeds:
+ (i)     General working capital
+         Allocation as disclosed in the Offer Information Statement                            3,137
+         Reallocation                                                                          1,648
+         Amount based on Reallocation basis                                                    4,785
+         Total amount utilised                                                               (4,785)1
+         Balance                                                                                    -
+
+ (ii)    Expansion of the Group’s business activities
+         Allocation as disclosed in the Offer Information Statement                             3,137
+         Reallocation                                                                         (1,648)
+         Amount based on Reallocation basis                                                     1,489
+         Total amount utilised                                                                (1,481)
+         Balance                                                                                    8
+
+        Note:
+        (1) Net proceeds used for general working capital comprising (a) S$2,380,000 for repayment of
+            trade invoices financed by banks and trade suppliers’ invoices; and (b) S$2,405,000 for
+            repayment of non-trade creditors, which consisted of rental, freight costs and other
+            operating expenses.
+
+
+                                               18
+     Save as disclosed above on the Reallocation, the use of net proceeds from the Rights cum Warrants Issue
+     is in accordance with the intended uses and percentage allocations as disclosed in the Offer Information
+     Statement.
+
+     The Company will continue to make periodic announcements on the utilisation of the balance of the net
+     proceeds from the Rights cum Warrants Issue as and when such net proceeds are materially disbursed or
+     utilised, and whether such use is in accordance with the stated use and in accordance with the percentage
+     allocated.
+
+
+
+
+    BY ORDER OF THE BOARD
+
+    Wendy Isabel Wong Pei Fern
+    Company Secretary
+    12 February 2026
+
+__________________________________________________________________________________________
+
+This announcement has been reviewed by the Company's sponsor, ZICO Capital Pte. Ltd. (the "Sponsor").
+
+This announcement has not been examined or approved by the Singapore Exchange Securities Trading Limited
+(the "SGX-ST") and the SGX-ST assumes no responsibility for the contents of this announcement, including the
+correctness of any of the statements or opinions made or reports contained in this announcement.
+
+The contact person for the Sponsor is Ms Goh Mei Xian, ZICO Capital Pte. Ltd. at 77 Robinson Road, #06-03
+Robinson 77, Singapore 068896, telephone (65) 6636 4201.
+
+
+
+
+                                                     19
+

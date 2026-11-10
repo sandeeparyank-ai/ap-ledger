@@ -1,0 +1,2131 @@
+             YEO HIAP SENG LIMITED
+             (Incorporated in Singapore)
+        (Company Registration No.: 195500138Z)
+
+
+
+   Unaudited Condensed Interim Financial Statements
+For the six months and full year ended 31 December 2025
+Table of Contents
+
+
+Unaudited Condensed Interim Consolidated Statement of
+Comprehensive Income                                               1
+
+Unaudited Condensed Interim Balance Sheets                         2
+
+Unaudited Condensed Interim Statement of Changes in Equity         3
+
+Unaudited Condensed Interim Consolidated Statement of Cash Flows   5
+
+Notes to the Unaudited Condensed Interim Financial Statements      7
+
+Other Information Required by Listing Rule Appendix 7.2            34
+YEO HIAP SENG LIMITED
+
+Unaudited Condensed Interim Consolidated Statement of Comprehensive Income
+for the six months and full year ended 31 December 2025
+
+                                                6 months 6 months        12 months 12 months
+                                                  ended    ended           ended     ended
+                                                    31       31              31        31
+                                                December December        December December
+                                                   2025     2024  Change    2025      2024   Change
+                                           Note   $’000    $’000    %      $’000      $’000    %
+
+Revenue                                    4.1   143,763     163,235    (11.9) 292,371       328,570    (11.0)
+Cost of sales                                    (98,274)   (108,328)    (9.3) (200,226)    (219,570)    (8.8)
+Gross profit                                      45,489      54,907    (17.2)   92,145      109,000    (15.5)
+Other income                                       7,954       9,517    (16.4)   15,278       18,813    (18.8)
+Other gains and losses
+    - Other gains                                 36,851     13,937      >100    45,585      15,463      >100
+    - Other losses                                (2,902)    (7,874)    (63.1)   (4,447)     (9,244)    (51.9)
+
+Expenses
+     - Marketing and distribution                (39,664)    (40,722)     (2.6) (79,359)     (82,319)    (3.6)
+     - Administrative                            (18,955)    (19,626)    (3.4) (37,565)      (36,733)      2.3
+     - Finance                                      (269)       (501)   (46.3)     (525)        (761)   (31.0)
+Share of profit/(loss) of associated
+    companies and a joint venture                     41        (850)     NM          41       (692)     NM
+Profit before tax                           6     28,545       8,788    >100      31,153     13,527     >100
+Income tax expense                          7     (8,978)     (5,125)    75.2    (10,006)    (6,647)     50.5
+Net profit attributable to equity
+   holders of the Company                         19,567       3,663    >100     21,147        6,880     >100
+
+Other comprehensive income/(loss)
+Items that may be reclassified
+   subsequently to profit or loss:
+Currency translation differences arising
+   from consolidation
+   - Gain/(Loss)                                   7,743       6,792     14.0     (2,169)      9,797      NM
+
+Items that will not be reclassified
+   subsequently to profit or loss:
+Financial assets, at fair value through
+   other comprehensive income
+   - Fair value (loss)/gain                      (25,709)    40,031       NM     (41,939)    37,823       NM
+Remeasurement of defined benefit plans              (119)       (63)     88.9       (119)       (63)     88.9
+                                                 (25,828)    39,968       NM     (42,058)    37,760       NM
+Other comprehensive income, net of
+   tax                                           (18,085)    46,760       NM     (44,227)    47,557       NM
+Total comprehensive income
+  attributable to equity holders of the
+  Company                                          1,482     50,423     (97.1)   (23,080)    54,437       NM
+
+Earnings per share attributable to
+  equity holders of the Company
+  (expressed in cents per share)
+
+  - Basic and diluted                                3.13        0.59   >100         3.38        1.11   >100
+NM: Not meaningful
+
+
+
+
+                                                                                                            1
+YEO HIAP SENG LIMITED
+
+Unaudited Condensed Interim Balance Sheets
+as at 31 December 2025
+
+                                                              The Group               The Company
+                                                      31 December 31 December   31 December 31 December
+                                                          2025         2024        2025         2024
+                                               Note       $’000        $’000        $’000       $’000
+ASSETS
+Current assets
+Cash and cash equivalents                      10        45,274     122,000         4,436      35,739
+Other financial assets                         11       145,561      79,069        32,422       6,810
+Trade and other receivables                    12        87,345      73,328         5,942       4,809
+Inventories                                              49,474      56,818             -           -
+Current income tax recoverable                            1,032       1,173             -           -
+                                                        328,686     332,388        42,800      47,358
+Assets held-for-sale                           17             -      17,882             -       3,542
+                                                        328,686     350,270        42,800      50,900
+
+Non-current assets
+Other financial assets                         11        65,146     108,434             -           -
+Trade and other receivables                    12         4,730      14,194        46,128      45,208
+Loans to subsidiaries                                         -           -        42,547      42,547
+Investments in associated companies                       1,624       1,509             -           -
+Investment in a joint venture                                 -           -             -           -
+Investments in subsidiaries                                   -           -       317,758     317,758
+Investment properties                          13       113,271      55,505        86,385      81,185
+Property, plant and equipment                  14       164,028     176,472           595         943
+Intangible assets                              15         3,575       2,765             -           -
+Deferred income tax assets                                2,575       3,260             -           -
+                                                        354,949     362,139       493,413     487,641
+Total assets                                            683,635     712,409       536,213     538,541
+
+LIABILITIES
+Current liabilities
+Trade and other payables                                 75,714      76,906         2,988       2,277
+Current income tax liabilities                            3,356       4,755            50         583
+Lease liabilities                                         1,564       1,694           350         342
+                                                         80,634      83,355         3,388       3,202
+Non-current liabilities
+Lease liabilities                                        15,197      15,464        14,035      14,385
+Provisions for other liabilities and charges              2,468       2,107             -           -
+Deferred income tax liabilities                          17,071       9,165         1,283       1,449
+                                                         34,736      26,736        15,318      15,834
+Total liabilities                                       115,370     110,091        18,706      19,036
+NET ASSETS                                              568,265     602,318       517,507     519,505
+
+EQUITY
+Capital and reserves attributable to equity
+  holders of the Company
+Share capital                                  16       263,168     261,652       263,168     261,652
+Capital reserve                                           6,066       6,066             -           -
+Other reserves                                          (75,129)    (30,961)            -           -
+Retained profits                                        374,160     365,561       254,339     257,853
+Total equity                                            568,265     602,318       517,507     519,505
+
+
+
+
+                                                                                                 2
+YEO HIAP SENG LIMITED
+Unaudited Condensed Interim Statement of Changes in Equity
+for the financial year ended 31 December 2025
+
+The Group
+                                                                                                        Foreign
+                                                                            Property         Fair      currency
+                                                     Share         Capital revaluation      value     translation   General    Retained   Total
+                                                     capital       Reserve   reserve       reserve      reserve     reserve     profits   Equity
+                                              Note   $’000          $’000     $’000         $’000        $’000       $’000      $’000     $’000
+2025
+Balance at 1 January 2025                            261,652         6,066      5,690      29,194      (27,427)     (38,418)   365,561    602,318
+
+Profit for the year                                            -            -          -         -            -           -     21,147     21,147
+Other comprehensive income for the year                        -            -          -   (41,939)      (2,169)          -       (119)   (44,227)
+Transfer to retained profits on realisation                    -            -          -       (60)           -           -         60          -
+Total comprehensive income for the
+  year                                                    -             -          -       (41,999)      (2,169)          -     21,088    (23,080)
+
+Issue of new shares pursuant to scrip
+  dividend scheme                             16       1,516                -          -         -            -           -     (1,516)         -
+Dividends paid                                 8           -                -          -         -            -           -    (10,973)   (10,973)
+Total contributions by and distributions
+  to owners                                            1,516                -          -         -            -           -    (12,489)   (10,973)
+
+Balance at 31 December 2025                          263,168         6,066      5,690      (12,805)    (29,596)     (38,418)   374,160    568,265
+
+
+
+
+                                                                                                                                                    3
+YEO HIAP SENG LIMITED
+Unaudited Condensed Interim Statement of Changes in Equity
+for the financial year ended 31 December 2025
+
+
+The Group
+                                                                                                        Foreign
+                                                                              Property       Fair      currency
+                                                     Share         Capital   revaluation    value     translation   General    Retained   Total
+                                                     capital       reserve     reserve     reserve      reserve     reserve     profits   equity
+                                              Note   $’000          $’000       $’000       $’000        $’000       $’000      $’000     $’000
+2024
+Balance at 1 January 2024                            258,342         6,066      5,690       (8,159)    (37,224)     (38,418)   370,635    556,932
+
+Profit for the year                                            -         -           -          -            -            -      6,880      6,880
+Other comprehensive income for the year                        -         -           -     37,823        9,797            -        (63)    47,557
+Transfer to retained profits on realisation                    -         -           -       (470)           -            -        470          -
+Total comprehensive income for the
+  year                                                         -         -           -     37,353        9,797            -      7,287     54,437
+
+Issue of new shares pursuant to scrip
+  dividend scheme                             16       3,310             -           -           -            -           -     (3,310)         -
+Dividends paid                                 8           -             -           -           -            -           -     (9,051)    (9,051)
+Total contributions by and distributions
+  to owners                                            3,310             -           -           -            -           -    (12,361)    (9,051)
+
+Balance at 31 December 2024                          261,652         6,066      5,690      29,194      (27,427)     (38,418)   365,561    602,318
+
+
+
+
+                                                                                                                                                    4
+YEO HIAP SENG LIMITED
+
+Unaudited Condensed Interim Consolidated Statement of Cash Flows
+for the financial year ended 31 December 2025
+
+                                                                 12 months 12 months
+                                                                   ended     ended
+                                                                     31        31
+                                                                 December December
+                                                                    2025      2024
+                                                                    $’000     $’000
+Cash flows from operating activities
+Net profit for the year                                            21,147      6,880
+
+Adjustments for:
+- Income tax expense                                               10,006      6,647
+- Interest expenses on lease liabilities                              516        523
+- Imputed interest expenses on non-current receivables                  -        238
+- Amortisation of intangible assets                                   805        762
+- Amortisation of capitalised letting fees                              -         93
+- Depreciation of property, plant and equipment                    14,232     16,802
+- Dividend income from financial assets designated as
+   FVOCI at initial recognition                                    (1,706)      (853)
+- Unrealised currency translation differences                         860        659
+- Fair value (gain)/loss on investment properties, net            (40,862)       467
+- Impairment loss on intangible assets                                   -       627
+- Impairment loss on property, plant and equipment                  2,646      2,197
+- (Gain)/Loss on disposal and write-off of property, plant and
+   equipment, net                                                  (1,822)     1,294
+- Fair value loss on financial assets designated as FVPL
+   at initial recognition, net                                         87      1,095
+- Loss on disposal of financial assets designated as FVPL
+   at initial recognition, net                                         269          -
+- Gain on disposal of investment in an associated company           (2,556)         -
+- Interest income from bank and other financial assets              (5,802)    (9,952)
+- Accretion of interest on non-current other receivables              (763)         -
+- Provision for retirement benefits                                    371        236
+- Impairment loss on investment in an associated company                 -      2,496
+- Share of (profit)/loss of associated companies and a joint
+   venture                                                             (41)      692
+                                                                   (2,613)    30,903
+Changes in working capital:
+- Trade and other receivables                                        1,637    (18,277)
+- Inventories                                                        8,568       (841)
+- Trade and other payables                                          (2,836)    12,485
+Cash generated from operations                                       4,756     24,270
+Income tax paid                                                    (2,801)     (1,892)
+Retirement benefits paid                                              (176)      (194)
+Net cash generated from operating activities                         1,779     22,184
+
+
+
+
+                                                                                   5
+YEO HIAP SENG LIMITED
+
+Unaudited Condensed Interim Consolidated Statement of Cash Flows
+for the financial year ended 31 December 2025
+
+
+                                                           12 months 12 months
+                                                             ended     ended
+                                                               31        31
+                                                           December December
+                                                              2025      2024
+                                                             $’000      $’000
+Cash flows from investing activities
+Dividends received from financial assets                       1,706        853
+Acquisition of intangible assets                             (1,604)          -
+Capital distribution from a joint venture                          -         27
+Proceeds from disposal of property, plant and equipment        4,600        226
+Proceeds from disposal of held-for-sale assets               11,039           -
+Proceeds from disposal of financial assets designated as
+   FVOCI at initial recognition                               1,016       2,046
+(Placement of)/Withdrawal from fixed deposits more than
+   3 months                                                 (66,515)     96,910
+Payments for purchases of and deposits for property,
+   plant and equipment                                       (7,543)     (8,093)
+Acquisitions of financial assets designated at FVOCI at
+   initial recognition                                           (23)   (57,095)
+Proceeds from disposal of an associated company                2,933           -
+Additions to investment properties                          (14,556)           -
+Interest received                                              7,446      10,873
+Net cash (used in)/generated from investing activities      (61,501)      45,747
+
+Cash flows from financing activities
+Dividends paid, net of scrip dividends                      (10,973)     (9,051)
+Interest paid                                                  (516)       (523)
+Principal payment of lease liabilities                       (2,060)     (2,137)
+Net cash used in financing activities                       (13,549)    (11,711)
+
+Net (decrease)/increase in cash and cash equivalents        (73,271)     56,220
+Cash and cash equivalents at beginning of financial year    122,000      64,141
+Effects of currency translation on cash and cash
+  equivalents                                                (3,455)      1,639
+Cash and cash equivalents at end of financial year           45,274     122,000
+
+
+
+
+                                                                                   6
+YEO HIAP SENG LIMITED
+
+Notes to the Unaudited Condensed Interim Financial Statements
+for the six months and full year ended 31 December 2025
+
+1.    Corporate information
+
+      Yeo Hiap Seng Limited (the “Company”) is listed on the Singapore Exchange and
+      incorporated and domiciled in Singapore. These unaudited condensed interim
+      consolidated financial statements as at and for the six months ended 31 December
+      2025 comprise the Company and its subsidiaries (collectively, the “Group”). The
+      principal activities of the Company are those of a management and investment
+      holding company.
+
+      The principal activities of the Group are:
+
+      a)   Manufacture, sale and distribution of beverages and food products; and
+      b)   Investment property holding and equity investment holding.
+
+
+2.    Basis of preparation
+
+      The unaudited condensed interim financial statements for the six months ended 31
+      December 2025 have been prepared in accordance with SFRS(I) 1-34 Interim
+      Financial Reporting issued by the Accounting Standards Council Singapore. The
+      unaudited condensed interim financial statements do not include all the information
+      required for a complete set of financial statements. However, selected explanatory
+      notes are included to explain events and transactions that are significant to an
+      understanding of the changes in the Group’s financial position and performance of
+      the Group since the last interim financial statements for the period ended 30 June
+      2025.
+
+      The accounting policies adopted are consistent with those of the previous financial
+      year which were prepared in accordance with SFRS(I)s.
+
+      The unaudited condensed interim financial statements are presented in Singapore
+      dollar which is the Company’s functional currency.
+
+
+2.1   New and amended standards adopted by the Group
+
+      On 1 January 2025, the Group has adopted the new or amended SFRS(I) that are
+      mandatory for application for the financial year. Changes to the Group’s accounting
+      policies have been made as required in accordance with the transitional provisions
+      in the respective SFRS(I).
+
+      The adoption of these new or amended SFRS(I) did not result in substantial
+      changes to the Group’s accounting policies and had no material effect on the
+      amounts reported for the current or prior financial years.
+
+
+
+
+                                                                                       7
+YEO HIAP SENG LIMITED
+
+Notes to the Unaudited Condensed Interim Financial Statements
+for the six months and full year ended 31 December 2025
+
+2.    Basis of preparation
+
+2.2   Use of judgements and estimates
+
+      In preparing the unaudited condensed interim financial statements, management
+      has made judgements, estimates and assumptions that affect the application of
+      accounting policies and the reported amounts of assets and liabilities, income and
+      expense. Actual results may differ from these estimates.
+
+      Other than 2.2 (c) below, the significant judgements made by management in
+      applying the Group’s accounting policies and the key sources of estimation
+      uncertainty were the same as those that applied to the consolidated financial
+      statements as at and for the year ended 31 December 2024.
+
+      Estimates and underlying assumptions are reviewed on an ongoing basis.
+      Revisions to accounting estimates are recognised in the period in which the
+      estimates are revised and in any future periods affected.
+
+      Information about assumptions and estimation uncertainties that have a significant
+      risk of resulting in a material adjustment to the carrying amounts of assets and
+      liabilities within the next interim period are:
+
+      a)   Fair value of investment properties
+
+           Investment properties are stated at fair value based on valuations provided by
+           independent professional valuers. The fair values are based on highest-and-
+           best-use basis and certain judgements are required over the valuation
+           techniques and inputs used. The valuation techniques and the carrying
+           amounts at the reporting dates are disclosed in Note 13.
+
+      b)   Valuation of non-financial assets
+
+           The Group assesses at each reporting date whether there is any objective
+           evidence that non-financial assets are impaired. Where there is objective
+           evidence of impairment, the recoverable amount is estimated based on the
+           higher of the value-in-use and the fair value less costs to sell. Estimating the
+           value-in-use requires the Group to make an estimate of the expected future
+           cash flows to be generated by the non-financial assets and to choose a suitable
+           discount rate in order to calculate the present value of those cash flows.
+           Changes in assumptions about these factors could affect the recoverable
+           amount of the non-financial assets at the balance sheet date.
+
+      c)   Provision for land value added tax on investment properties
+
+           The Group has not made any provision for land value added tax as it intends
+           to hold its properties in China to earn rentals and does not intend to sell its
+           properties. In the event any of the investment properties are sold to third parties
+           at the valuation price as of 31 December 2025, the Group will be subject to net
+           taxes of RMB 96.9 million (~S$17.8 million).
+
+
+
+
+                                                                                            8
+YEO HIAP SENG LIMITED
+
+Notes to the Unaudited Condensed Interim Financial Statements
+for the six months and full year ended 31 December 2025
+
+3     Seasonal operations
+
+      The Group’s performance is normally not affected by seasonal or cyclical events on
+      a year to year basis. However, on a quarter to quarter basis, the demand for certain
+      products may be skewed towards major festivities, events and weather patterns.
+
+
+4.    Segment information
+
+      Management has determined the operating segments based on the reports that are
+      used to make strategic decisions, allocate resources and assess performance by
+      the Chief Executive Officer (“CEO”).
+
+      Based on segment information reported to the CEO, the Group is organised into
+      two main business segments:
+
+         Food and beverage products
+         Others
+
+      The food and beverages products segment is the main business of the Group which
+      is principally in the business of manufacture, sale and distribution of beverages and
+      food products. Revenue of the segment is primarily derived from sales of beverages
+      and food products and also includes sales of non-food items where the Group
+      carries on the distribution. The food and beverage products segment operates
+      across various markets and the CEO assesses performance and makes decisions
+      about resources to be allocated on an overall segment basis.
+
+      Others segment of the Group mainly comprise investment property holding and
+      equity investment holding.
+
+
+
+
+                                                                                         9
+YEO HIAP SENG LIMITED
+
+Notes to the Unaudited Condensed Interim Financial Statements
+for the six months and full year ended 31 December 2025
+
+4.    Segment information (continued)
+
+      Reportable segments are as follows:
+
+                                        Food and
+                                        beverage                               The
+                                        products       Others   Elimination   Group
+                                          $’000        $’000       $’000      $’000
+      6 months ended 31 December
+      2025
+      Revenue
+      - External sales                   143,739           24           -     143,763
+      - Inter-segment sales                    -        2,531      (2,531)          -
+                                         143,739        2,555      (2,531)    143,763
+
+      (Loss)/Profit from operations         (11,510)   40,283           -      28,773
+      Share of profit of associated
+        companies and a joint venture            41         -           -          41
+      Segment (loss)/profit                 (11,469)   40,283           -      28,814
+
+      Finance expense                                                            (269)
+      Profit before tax                                                        28,545
+      Income tax expense                                                       (8,978)
+      Net profit                                                               19,567
+
+
+
+
+                                                                                    10
+YEO HIAP SENG LIMITED
+
+Notes to the Unaudited Condensed Interim Financial Statements
+for the six months and full year ended 31 December 2025
+
+4.    Segment information (continued)
+
+      Reportable segments are as follows (continued):
+
+                                            Food and
+                                            beverage                              The
+                                            products    Others     Elimination   Group
+                                              $’000     $’000         $’000      $’000
+
+      6 months ended 31 December
+      2025
+      Other segment items
+      Additions to property, plant and
+        equipment                             4,104           -            -      4,104
+      Fair value loss on financial assets
+         designated as FVPL at initial
+         recognition, net                          -          1            -           1
+      Loss on disposal of financial
+         assets designated as FVPL at
+         initial recognition, net                  -       269             -        269
+      Loss on disposal and write-off of
+         property, plant and equipment,
+         net                                    821           -            -        821
+      Impairment loss on property,
+         plant and equipment                  2,646           -            -      2,646
+      Gain on disposal of investment in
+         an associated company                (2,556)         -            -      (2,556)
+      Interest income                           (778)    (1,421)           -      (2,199)
+      Accretion of interest on non-
+        current other receivable               (763)          -            -       (763)
+      Depreciation of property, plant
+         and equipment                        6,974           -            -      6,974
+      Amortisation of intangible assets         235           -            -        235
+      Write-down of inventories, net          1,106           -            -      1,106
+      Fair value gain on investment
+         properties, net                           -    (34,933)           -     (34,933)
+      Currency translation loss/(gain),
+         net                                    130       (144)            -         (14)
+
+
+
+
+                                                                                       11
+YEO HIAP SENG LIMITED
+
+Notes to the Unaudited Condensed Interim Financial Statements
+for the six months and full year ended 31 December 2025
+
+4.    Segment information (continued)
+
+      Reportable segments are as follows (continued):
+
+                                        Food and
+                                        beverage                                The
+                                        products        Others   Elimination   Group
+                                          $’000         $’000       $’000      $’000
+      6 months ended 31 December
+      2024
+      Revenue
+      - External sales                   163,213            22           -     163,235
+      - Inter-segment sales                    -         2,691      (2,691)          -
+                                         163,213         2,713      (2,691)    163,235
+
+      Profit from operations               4,478         5,661           -      10,139
+      Share of loss of associated
+        companies and a joint venture       (850)            -           -        (850)
+      Segment profit                       3,628         5,661           -       9,289
+
+      Finance expense                                                             (501)
+      Profit before tax                                                          8,788
+      Income tax expense                                                        (5,125)
+      Net profit                                                                 3,663
+
+
+
+
+                                                                                     12
+YEO HIAP SENG LIMITED
+
+Notes to the Unaudited Condensed Interim Financial Statements
+for the six months and full year ended 31 December 2025
+
+4.    Segment information (continued)
+
+      Reportable segments are as follows (continued):
+
+                                            Food and
+                                            beverage                              The
+                                            products    Others     Elimination   Group
+                                              $’000     $’000         $’000      $’000
+
+
+      6 months ended 31 December
+        2024
+      Other segment items
+      Additions to property, plant and
+        equipment                             4,158           -            -      4,158
+      Fair value loss on financial assets
+         designated as FVPL at initial
+         recognition                               -       592             -        592
+      Loss on disposal and write off of
+         property, plant and equipment,
+         net                                  1,277           -            -      1,277
+      Impairment loss on intangible
+          assets                                627           -            -        627
+      Impairment loss on property,
+         plant and equipment                  2,197           -            -      2,197
+      Impairment loss on investment in
+         an associated company                 2,496          -            -       2,496
+      Interest income                         (1,014)    (3,766)           -      (4,780)
+      Compensation from a customer
+         for order obligation                 (3,687)         -            -      (3,687)
+      Compensation from a customer
+         for early contract exit             (10,065)         -            -     (10,065)
+      Imputed interest expenses on
+         non-current receivables                238           -            -        238
+      Impairment of trade and other
+         receivables, net                       452           -            -        452
+      Depreciation of property, plant
+         and equipment                        8,456           -            -      8,456
+      Amortisation of intangible assets         625           -            -        625
+      Amortisation of capitalised letting
+         fees                                     -         46             -         46
+      Write-down of inventories, net          1,558          -             -      1,558
+      Fair value loss on investment
+         properties, net                           -       204             -        204
+      Currency translation (gain)/loss,
+         net                                   (497)       978             -        481
+
+
+
+
+                                                                                       13
+YEO HIAP SENG LIMITED
+
+Notes to the Unaudited Condensed Interim Financial Statements
+for the six months and full year ended 31 December 2025
+
+4.    Segment information (continued)
+
+      Reportable segments are as follows (continued):
+
+                                       Food and
+                                       beverage                                 The
+                                       products    Others        Elimination   Group
+                                         $’000     $’000            $’000      $’000
+      12 months ended 31
+         December 2025
+      Revenue
+      - External sales                  292,347             24           -     292,371
+      - Inter-segment sales                   -          5,161      (5,161)          -
+                                        292,347          5,185      (5,161)    292,371
+
+      (Loss)/Profit from operations     (18,883)        50,520            -     31,637
+      Share of profit of associated
+        companies and a joint
+        venture                              41              -            -         41
+      Segment (loss)/profit             (18,842)        50,520            -     31,678
+
+      Finance expense                                                             (525)
+      Profit before tax                                                         31,153
+      Income tax expense                                                       (10,006)
+      Net profit                                                                21,147
+
+      As at 31 December 2025
+      Segment assets/liabilities
+      Segment assets                    402,827    394,238        (118,661)    678,404
+      Investment in associated
+        companies and a joint
+        venture                           1,624              -            -      1,624
+      Unallocated assets                                                         3,607
+      Consolidated total assets                                                683,635
+
+      Segment liabilities               212,088          8,226    (125,371)     94,943
+      Unallocated liabilities                                                   20,427
+      Consolidated total liabilities                                           115,370
+
+
+
+
+                                                                                     14
+YEO HIAP SENG LIMITED
+
+Notes to the Unaudited Condensed Interim Financial Statements
+for the six months and full year ended 31 December 2025
+
+4.    Segment information (continued)
+
+      Reportable segments are as follows (continued):
+
+                                         Food and
+                                         beverage                                The
+                                         products    Others       Elimination   Group
+                                           $’000     $’000           $’000      $’000
+
+      12 months ended 31
+        December 2025
+      Other segment items
+      Additions to property, plant and
+         equipment                          9,947             -            -     9,947
+      Fair value loss on financial
+         assets designated as FVPL
+         at initial recognition                 -          87              -        87
+      Loss on disposal on financial
+         assets designated as FVPL
+         at initial recognition, net            -         269              -       269
+      Gain on disposal and write-off
+         of property, plant and
+         equipment, net                    (1,822)            -            -     (1,822)
+      Impairment loss on property,
+         plant and equipment                2,646             -            -     2,646
+      Gain on disposal of investment
+         in an associated company          (2,556)           -             -     (2,556)
+      Interest income                      (2,257)      (3,545)            -     (5,802)
+      Accretion of interest on non-
+         current other receivables           (763)            -            -      (763)
+      Depreciation of property, plant
+         and equipment                     14,232             -            -    14,232
+      Amortisation of intangible
+         assets                               805             -            -       805
+      Write-down of inventories, net        2,296             -            -     2,296
+      Fair value gain on investment
+         properties, net                        -    (40,862)             -     (40,862)
+      Currency translation loss, net        1,257        188              -       1,445
+
+
+
+
+                                                                                      15
+YEO HIAP SENG LIMITED
+
+Notes to the Unaudited Condensed Interim Financial Statements
+for the six months and full year ended 31 December 2025
+
+4.    Segment information (continued)
+
+      Reportable segments are as follows (continued):
+
+                                       Food and
+                                       beverage                                 The
+                                       products    Others        Elimination   Group
+                                         $’000     $’000            $’000      $’000
+      12 months ended 31
+         December 2024
+      Revenue
+      - External sales                  328,541             29           -     328,570
+      - Inter-segment sales                   -          5,490      (5,490)          -
+                                        328,541          5,519      (5,490)    328,570
+
+      Profit from operations              1,812         13,168            -     14,980
+      Share of loss of associated
+        companies and a joint
+        venture                            (692)             -            -       (692)
+      Segment profit                      1,120         13,168            -     14,288
+
+      Finance expense                                                             (761)
+      Profit before tax                                                         13,527
+      Income tax expense                                                        (6,647)
+      Net profit                                                                 6,880
+
+      As at 31 December 2024
+      Segment assets/liabilities
+      Segment assets                    443,704    383,579        (120,816)    706,467
+      Investment in associated
+        companies and a joint
+        venture                           1,509              -            -      1,509
+      Unallocated assets                                                         4,433
+      Consolidated total assets                                                712,409
+
+      Segment liabilities               208,154         11,592    (123,575)     96,171
+      Unallocated liabilities                                                   13,920
+      Consolidated total liabilities                                           110,091
+
+
+
+
+                                                                                     16
+YEO HIAP SENG LIMITED
+
+Notes to the Unaudited Condensed Interim Financial Statements
+for the six months and full year ended 31 December 2025
+
+4.    Segment information (continued)
+
+      Reportable segments are as follows (continued):
+
+                                         Food and
+                                         beverage                                The
+                                         products    Others       Elimination   Group
+                                           $’000     $’000           $’000      $’000
+      12 months ended 31
+         December 2024
+      Other segment items
+      Additions to property, plant and
+         equipment                          8,010             -            -     8,010
+      Fair value loss on financial
+         assets designated as FVPL
+         at initial recognition                 -       1,095              -     1,095
+      Loss on disposal and write off
+         of property, plant and
+         equipment                          1,294             -            -     1,294
+      Impairment loss on intangible
+         assets                              627              -            -       627
+      Impairment loss on property,
+         plant and equipment                2,197             -            -     2,197
+      Impairment loss on investment
+         in an associated company           2,496            -             -      2,496
+      Interest income                      (1,714)      (8,238)            -     (9,952)
+      Compensation from a customer
+         for order obligation              (4,920)            -            -     (4,920)
+      Compensation from a customer
+         for early contract exit          (10,065)            -            -    (10,065)
+      Imputed interest expenses on
+         non-current receivables             238              -            -       238
+      Write-back of impairment on
+         trade and other receivables,
+         net                                   (6)            -            -         (6)
+      Depreciation of property, plant
+         and equipment                     16,802             -            -    16,802
+      Amortisation of intangible
+         assets                              762              -            -       762
+      Amortisation of capitalised
+         letting fees                           -          93              -        93
+      Write-down of inventories, net        2,067           -              -     2,067
+      Fair value loss on investment
+         properties, net                       -          467              -       467
+      Currency translation loss, net         364          704              -     1,068
+
+
+
+
+                                                                                      17
+YEO HIAP SENG LIMITED
+
+Notes to the Unaudited Condensed Interim Financial Statements
+for the six months and full year ended 31 December 2025
+
+4.    Segment information (continued)
+
+4.1   Disaggregation of Revenue
+
+                                         At a point in
+                                             time        Over time   Total
+                                             $’000        $’000      $’000
+      6 months ended 31 December 2025
+      Types of goods or service:
+      - Food and beverage products          141,460              -   141,460
+      - Other products                        2,279             24     2,303
+      Total revenue                         143,739             24   143,763
+
+      Geographical information:
+      - Singapore                            29,447              -    29,447
+      - Malaysia and Brunei                  78,628              -    78,628
+      - Greater China                         5,929              -     5,929
+      - Other Asean countries                16,315             24    16,339
+      - Rest of the world                    13,420              -    13,420
+      Total revenue                         143,739             24   143,763
+
+      6 months ended 31 December 2024
+      Types of goods or service:
+      - Food and beverage products          158,724              -   158,724
+      - Other products                        4,489             22     4,511
+      Total revenue                         163,213             22   163,235
+
+      Geographical information:
+      - Singapore                            38,408              -    38,408
+      - Malaysia and Brunei                  80,169              -    80,169
+      - Greater China                         9,161              -     9,161
+      - Other Asean countries                23,559             22    23,581
+      - Rest of the world                    11,916              -    11,916
+      Total revenue                         163,213             22   163,235
+
+
+
+
+                                                                             18
+YEO HIAP SENG LIMITED
+
+Notes to the Unaudited Condensed Interim Financial Statements
+for the six months and full year ended 31 December 2025
+
+4.    Segment information (continued)
+
+4.1    Disaggregation of Revenue (continued)
+
+                                          At a point in
+                                              time        Over time   Total
+                                              $’000        $’000      $’000
+       12 months ended 31 December 2025
+       Types of goods or service:
+       - Food and beverage products            287,385           -    287,385
+       - Other products                          4,962          24      4,986
+       Total revenue                           292,347          24    292,371
+
+       Geographical information:
+       - Singapore                              57,149           -     57,149
+       - Malaysia and Brunei                   158,673           -    158,673
+       - Greater China                          15,025           -     15,025
+       - Other Asean countries                  35,087          24     35,111
+       - Rest of the world                      26,413           -     26,413
+       Total revenue                           292,347          24    292,371
+
+       12 months ended 31 December 2024
+       Types of goods or service:
+       - Food and beverage products            320,896           -    320,896
+       - Other products                          7,645          29      7,674
+       Total revenue                           328,541          29    328,570
+
+       Geographical information:
+       - Singapore                              72,902           -     72,902
+       - Malaysia and Brunei                   162,256           -    162,256
+       - Greater China                          20,137           -     20,137
+       - Other Asean countries                  50,962          29     50,991
+       - Rest of the world                      22,284           -     22,284
+       Total revenue                           328,541          29    328,570
+
+
+
+
+                                                                              19
+YEO HIAP SENG LIMITED
+
+Notes to the Unaudited Condensed Interim Financial Statements
+for the six months and full year ended 31 December 2025
+
+4.    Segment information (continued)
+
+4.1   Disaggregation of Revenue (continued)
+
+      A breakdown of sales:
+
+                                                           The Group
+                                                    12 months    12 months
+                                                     ended 31     ended 31
+                                                    December      December
+                                                       2025         2024             Change
+                                                       $’000        $’000              %
+
+      Sales reported for first half year              148,608          165,335         -10.1
+
+      Operating profit after tax reported for
+       first half year                                   1,580           3,217         -50.9
+
+      Sales reported for second half year             143,763          163,235         -11.9
+
+      Operating profit after tax reported for
+       second half year                                 19,567           3,663       >100
+
+
+5.    Financial assets and financial liabilities
+
+      Set out below is an overview of the financial assets and financial liabilities of the
+      Group as at 31 December 2025 and 31 December 2024:
+
+                                               The Group                    The Company
+                                            2025       2024               2025      2024
+                                            $’000     $’000               $’000     $’000
+      Financial assets
+      Financial asset, at FVPL                    2          689                 -                 -
+      Financial assets, at FVOCI             65,144      107,745                 -                 -
+      Financial assets, at amortised
+        costs                              145,561        79,069          32,422         6,810
+      Cash and cash equivalents and
+        trade and other receivables *      134,464       205,838         99,011       128,266
+                                           345,171       393,341        131,433       135,076
+
+      Financial liabilities
+      Trade and other payables # and
+        lease liabilities                  (85,074)      (84,563)       (17,325)      (16,960)
+      Net financial assets                 260,097       308,778        114,108       118,116
+
+      *   Exclude prepayments and deposits for property, plant and equipment.
+      #
+          Exclude employee benefit and contract liabilities.
+
+
+
+
+                                                                                              20
+YEO HIAP SENG LIMITED
+
+Notes to the Unaudited Condensed Interim Financial Statements
+for the six months and full year ended 31 December 2025
+
+6.     Profit before tax
+
+6.1    Significant items
+
+                                                              The Group
+                                               6 months 6 months    12 months 12 months
+                                               ended 31 ended 31     ended 31 ended 31
+                                               December December    December December
+                                                 2025     2024         2025      2024
+                                          Note   $’000    $’000        $’000     $’000
+ (Income)/Expenses
+
+ Dividend income from financial assets             (1,513)      (663)    (1,706)      (853)
+ Interest income                                   (2,199)    (4,780)    (5,802)    (9,952)
+ Accretion of interest on non-current
+    other receivables                                (763)         -       (763)         -
+ Rental Income                                     (3,479)    (4,074)    (7,007)    (8,008)
+ Currency translation (gain)/loss, net                (14)       481      1,445      1,068
+ Fair value loss on financial asset
+    designated as FVPL at initial
+    recognition, net                                    1       592         87      1,095
+ Loss on disposal on financial asset
+    designated as FVPL at initial
+    recognition, net                                 269           -       269           -
+ Compensation from a customer for
+    order obligation                                    -     (3,687)         -     (4,920)
+ Compensation from a customer for
+    early contract exit                    17           -    (10,065)         -    (10,065)
+ Impairment of/(Write-back of
+    impairment on) trade and other
+    receivables, net                                 124        452        124          (6)
+ Fair value (gain)/loss on investment
+    properties, net                        13     (34,933)      204     (40,862)      467
+ Interest expenses on lease liabilities               260       263         516       523
+ Imputed interest expenses on non-
+    current receivables                                 -       238           -       238
+ Depreciation of property, plant and
+    equipment                                      6,974      8,456     14,232     16,802
+ Amortisation of intangible assets                   235        625        805        762
+ Amortisation of capitalised letting fees              -         46          -         93
+ Write-down of inventories, net                    1,106      1,558      2,296      2,067
+ Loss/(Gain) on disposal and write off
+    of property plant and equipment,
+    net                                              821      1,277      (1,822)    1,294
+ Impairment loss on intangible assets 6.1.1            -        627           -       627
+ Impairment loss on property, plant
+    and equipment                         6.1.1    2,646      2,197      2,646      2,197
+ Impairment loss on investment in an
+    associated company                    6.1.2         -     2,496           -     2,496
+ Gain on disposal of investment in an
+    associated company                             (2,556)         -     (2,556)         -
+
+
+
+
+                                                                                        21
+YEO HIAP SENG LIMITED
+
+Notes to the Unaudited Condensed Interim Financial Statements
+for the six months and full year ended 31 December 2025
+
+6.      Profit before tax (continued)
+
+6.1      Significant items (continued)
+
+                                                             The Group
+                                              6 months 6 months 12 months 12 months
+                                              ended 31 ended 31    ended 31 ended 31
+                                              December December December December
+                                                2025     2024        2025     2024
+                                                $’000    $’000       $’000    $’000
+         (Income)/Expenses
+         Cost of raw materials and
+            trading goods included in
+            cost of sales                        78,620    86,662     160,181    176,032
+         Advertising and promotion
+            expenses                             12,095    14,462       25,422    30,146
+
+
+6.1.1    During the 12 months ended 31 December 2025, the Group recognised impairment
+         loss on property, plant and equipment and intangible assets amounting to
+         $2,646,000 (2024: $2,824,000) due to challenging operating environment,
+         particularly in China and Singapore.
+
+6.1.2    During the 12 months ended 31 December 2024, the Group recognised impairment
+         loss on investment in an associated company amounting to $2,496,000 due to
+         challenging environment in China.
+
+
+
+
+                                                                                  22
+YEO HIAP SENG LIMITED
+
+Notes to the Unaudited Condensed Interim Financial Statements
+for the six months and full year ended 31 December 2025
+
+6.2   Related party transactions
+
+      In addition to information disclosed elsewhere in the financial statements, the
+      following transactions took place between the Group and related parties during the
+      financial period at terms agreed between the parties:
+
+                                                                    The Group
+                                                     6 months 6 months    12 months 12 months
+                                                     ended 31 ended 31     ended 31 ended 31
+                                                     December December    December December
+                                                       2025     2024         2025      2024
+                                                       $’000    $’000        $’000     $’000
+      Amount billed to/(by) Sino Land Company
+      Limited Group:
+       - Sales of goods                                    116          106           207             205
+       - Purchases of services                              (5)          (9)          (19)            (19)
+      Amount billed to/(by) other related parties:
+       - Sales of goods                                    433          270            684            591
+       - Purchase of services                             (357)        (285)          (714)          (586)
+       - Rental expense                                    (46)         (61)           (90)          (109)
+       - Reimbursement of expenses/costs                   390        1,304            548          1,304
+      Amount billed to/(by) TM Foods Sdn. Bhd.
+         Group:
+       - Sales of goods                                      20          24             33              31
+       - Purchases of goods                              (2,180)     (1,547)        (2,691)         (2,307)
+      Service/Lease commitment payable to:
+       - Other related parties                            (328)        (329)          (758)          (687)
+
+
+      Sino Land Company Limited is a shareholder of the Company.
+
+      TM Foods Sdn. Bhd. is an associated company of the Group.
+
+      Other related parties comprise companies that are controlled or significantly influenced by
+      the Group’s key management personnel, directors or the shareholders of the Company’s
+      ultimate holding company.
+
+      Advertising and promotion expenses is arrived at net of the $136,000 (2024: $1,097,000)
+      reimbursement from related parties for the 12 months ended 31 December 2025.
+
+      Cost of raw materials and trading goods included in cost of sales is arrived at net of the
+      $412,000 reimbursement from related parties for the 12 months ended 31 December 2025
+      (31 December 2024: $207,000).
+
+
+
+
+                                                                                              23
+YEO HIAP SENG LIMITED
+
+Notes to the Unaudited Condensed Interim Financial Statements
+for the six months and full year ended 31 December 2025
+
+7.    Income tax expense
+
+      The major components of income tax expense in the unaudited condensed interim
+      consolidated statement of comprehensive income are:
+
+                                                      The Group
+                                       6 months 6 months    12 months 12 months
+                                       ended 31 ended 31     ended 31 ended 31
+                                       December December December December
+                                         2025     2024         2025      2024
+                                         $’000    $’000        $’000    $’000
+
+      Current income tax expense             947         3,399         2,685       5,184
+      Deferred income tax expense          8,031         1,726         7,321       1,463
+                                           8,978         5,125        10,006       6,647
+
+
+8.    Dividend
+                                                                         The Group
+                                                                      2025      2024
+                                                                      $’000     $’000
+      Ordinary dividend paid
+      Final dividend paid in respect of the previous financial year
+         of 2 cents (2024: 2 cents) per share, tax exempt (1-tier)
+      - new shares issued                                              1,516      3,310
+      - cash                                                          10,973      9,051
+                                                                      12,489     12,361
+
+      The directors have proposed a final dividend of 2 cents (2024: 2 cents) per ordinary
+      share, tax exempt (1-tier), with a scrip dividend option amounting to $12,544,000
+      (2024: $12,489,000) for approval by shareholders at the forthcoming annual general
+      meeting to be convened for the financial year ended 31 December 2025.
+
+
+9.    Net Asset Value
+                                             The Group                 The Company
+                                           2025      2024             2025     2024
+                                           Cents    Cents             Cents   Cents
+
+      Net asset value per ordinary
+         share                               90.61        96.46         82.51       83.20
+
+
+
+
+                                                                                        24
+YEO HIAP SENG LIMITED
+
+Notes to the Unaudited Condensed Interim Financial Statements
+for the six months and full year ended 31 December 2025
+
+10.   Cash and cash equivalents
+
+                                                    The Group                The Company
+                                                 2025       2024           2025       2024
+                                                 $’000     $’000           $’000     $’000
+
+      Cash at bank and on hand                   14,624     51,994              124         234
+      Fixed deposits with financial
+         institutions                            30,650     70,006             4,312     35,505
+      Cash and cash equivalents                  45,274    122,000             4,436     35,739
+
+
+11.   Other financial assets
+
+      Other financial assets are analysed as follows:
+
+                                                                         The Group
+                                                                31 December 31 December
+                                                                    2025           2024
+                                                                    $’000          $’000
+      Financial assets at amortised costs
+      Fixed deposits with maturity periods more than 3
+         months                                                      145,561            79,069
+      Other financial assets - Current                               145,561            79,069
+
+      Financial assets designated at FVOCI
+      Listed equity securities – Hong Kong                            58,804           101,360
+      Listed real estate investment trusts and
+         business trusts – Singapore                                   6,340             6,385
+                                                                      65,144           107,745
+      Financial assets designated at FVPL
+      Unquoted equity securities – Singapore                               2               689
+                                                                           2               689
+      Other financial assets – Non-current                            65,146           108,434
+      Total other financial assets                                   210,707           187,503
+
+                                                                       The Company
+                                                                31 December 31 December
+                                                                    2025         2024
+                                                                    $’000        $’000
+
+      Financial assets at amortised costs
+      Fixed deposits with maturity periods more than 3 months        32,422             6,810
+      Other financial assets - Current                               32,422             6,810
+
+      During FY2024, the Group acquired 52.6 million shares of Vitasoy International
+      Holdings Limited (“Vitasoy”) for HK$338.4 million (approximately S$57.1 million)
+      through open market purchases, bringing the Group’s stake in Vitasoy as at 31
+      December 2024, to 5.3%. The Group did not make any purchase of Vitasoy’s shares
+      during FY2025. The stake held by the Group in Vitasoy remains at 5.3%.
+
+
+
+
+                                                                                            25
+YEO HIAP SENG LIMITED
+
+Notes to the Unaudited Condensed Interim Financial Statements
+for the six months and full year ended 31 December 2025
+
+11.   Other financial assets (continued)
+
+      Fair value measurements
+
+      The following table presents assets and liabilities measured at fair value and
+      classified by level of the following fair value measurement hierarchy:
+
+      (i)     quoted prices (unadjusted) in active markets for identical assets or liabilities
+              (Level 1);
+
+      (ii)    inputs other than quoted prices included within Level 1 that are observable
+              for the asset or liability, either directly (i.e. as prices) or indirectly (i.e. derived
+              from prices) (Level 2); and
+
+      (iii)   inputs for the asset or liability that are not based on observable market data
+              (unobservable inputs) (Level 3).
+
+      The following table presented the assets measured at fair value:
+
+                                                                     The Group
+                                                      Level 1         Level 3             Total
+                                                       $’000           $’000              $’000
+      31 December 2025
+      Assets
+      Financial assets, at FVPL                               -                  2              2
+      Financial assets, at FVOCI                         65,144                  -         65,144
+
+      31 December 2024
+      Assets
+      Financial assets, at FVPL                               -               689             689
+      Financial assets, at FVOCI                        107,745                 -         107,745
+
+
+12.   Trade and other receivables
+
+                                                    The Group                  The Company
+                                                 2025      2024               2025     2024
+                                                 $’000     $’000              $’000    $’000
+      Trade receivables
+      - Non-related parties                      58,100        55,815                -             -
+      - Related parties                             202            55                -             -
+                                                 58,302        55,870                -             -
+      Less: Loss allowance for
+            trade receivables
+             - Non-related parties                 (870)       (1,062)               -             -
+      Trade receivables – net                    57,432        54,808                -             -
+
+
+
+
+                                                                                                   26
+YEO HIAP SENG LIMITED
+
+Notes to the Unaudited Condensed Interim Financial Statements
+for the six months and full year ended 31 December 2025
+
+12.   Trade and other receivables (continued)
+
+                                                 The Group               The Company
+                                              2025      2024            2025     2024
+                                              $’000     $’000           $’000    $’000
+      Other receivables
+      - Non-related parties                   27,241      15,144           464          651
+      - A related party                           23          23             -            -
+      - Subsidiaries                               -           -         5,372        4,057
+      - An associated company                      -         261             -            -
+      Other receivables                       27,264      15,428         5,836        4,708
+      Deposits                                 1,404       1,488            64           64
+      Prepayments                              1,245       1,604            42           37
+      Trade and other receivables -
+        Current                               87,345      73,328         5,942        4,809
+
+      Other receivables
+       - Non-related party                     3,090      12,114             -           -
+       - Subsidiary                                -           -        46,128      45,208
+      Other receivables                        3,090      12,114        46,128      45,208
+      Deposits                                 1,640       2,080             -           -
+      Trade and other receivables -
+         Non-current                           4,730      14,194        46,128      45,208
+      Total trade and other
+      receivables                             92,075      87,522        52,070      50,017
+
+
+      Other receivables (current) from non-related parties, a related party, subsidiaries
+      and associate company are unsecured, interest-free and repayable on demand for
+      the Group and the Company.
+
+      An amount of $46,128,000 (2024: $45,208,000) due from a subsidiary, which is
+      repayable on demand, is not expected to be repaid within the next 12 months for
+      the Company.
+
+      An amount of $20,392,000 (2024: $12,114,000) included under other receivables –
+      non-related parties, relates to the disposal of the assets held-for-sale, as disclosed
+      in Note 17.
+
+      Related parties refer to the related companies of the ultimate holding company and
+      companies that are controlled or significantly influenced by the Group’s key
+      management personnel, directors or the shareholders of the Company’s ultimate
+      holding company.
+
+      The Group has obtained bankers’ guarantees and cash deposits from certain
+      customers to mitigate the credit risk. No significant credit risk for past due trade and
+      other receivables as it is mainly covered by bankers’ guarantees, cash deposits
+      received and instalment repayment plan committed by customers.
+
+
+
+
+                                                                                           27
+YEO HIAP SENG LIMITED
+
+Notes to the Unaudited Condensed Interim Financial Statements
+for the six months and full year ended 31 December 2025
+
+13.   Investment properties
+
+      The Group’s investment properties consist of both commercial and industrial
+      properties, held for long-term rental yields and/or capital appreciation and are not
+      substantially occupied by the Group. They are mainly leased to third parties under
+      operating leases.
+                                            The Group                 The Company
+                                          31           31             31          31
+                                      December December December December
+                                         2025         2024          2025         2024
+                                        $’000        $’000          $’000        $’000
+
+      Beginning of financial year        55,505      53,702         81,185       81,733
+      Currency translation
+        differences                       2,348        2,363              -           -
+      Additions                          14,556            -              -       1,487
+      Transfer to assets held-for-
+         sale (Note 17)                        -            -             -      (3,542)
+      Amortisation of capitalised
+         letting fees                          -         (93)             -            -
+      Net fair value gain/(loss)
+        recognised in profit or
+        loss, under “other gains
+        and losses”                     40,862         (467)         5,200        1,507
+      End of financial year            113,271       55,505         86,385       81,185
+
+
+      Valuation processes of the Group
+
+      The Group engages external, independent and qualified valuers to determine the
+      fair value of the Group’s properties at the end of every financial year. The main
+      Level 3 valuation techniques used are the adjusted sales comparison approach,
+      income capitalisation approach and depreciated replacement cost method.
+
+      In FY2025, the Group paid $14,556,000 to extend the land lease of its Guangzhou
+      property for 50 years till 2075. As a result of the extension, a fair value gain of
+      $34,711,000 was recognised.
+
+      The fair value measurement for all investment properties of the Group and the
+      Company of $113,271,000 (31 December 2024: $55,505,000) and $86,385,000 (31
+      December 2024: $81,185,000) respectively, have been categorised as Level 3 fair
+      values.
+
+
+
+
+                                                                                       28
+YEO HIAP SENG LIMITED
+
+Notes to the Unaudited Condensed Interim Financial Statements
+for the six months and full year ended 31 December 2025
+
+13.   Investment properties (continued)
+
+      The following table reconciles the net carrying amount of the Company’s investment
+      property to the valuation report:
+                                                                     The Company
+                                                             31 December 31 December
+                                                                  2025         2024
+                                                                  $’000        $'000
+
+      Fair value of investment property based on valuation
+       report                                                    72,000        70,000
+      Less: Transfer to assets-held-for-sale (Note 17)                -        (3,542)
+      Add: Carrying amount of lease liabilities                  14,385        14,727
+      Carrying amount of investment property                     86,385        81,185
+
+      Reconciliation of movements in Level 3 fair value measurement
+
+      There are no transfers into or out of Level 3 during the years ended 31 December
+      2025 and 2024.
+
+
+14.   Property, plant and equipment
+
+      During the six months ended 31 December 2025, the Group acquired assets
+      amounting to $4,104,000 (six months ended 31 December 2024: $4,158,000),
+      disposed of assets amounting to $1,619,000 (six months ended 31 December 2024:
+      $1,304,000). In 2024, assets amounting to $17,882,000 had been transferred to
+      assets held for sale upon the finalisation of the exit agreement (Note 17).
+
+
+15.   Intangible assets
+
+                                                     Note            The Group
+                                                             31 December 31 December
+                                                                 2025        2024
+                                                                 $’000       $'000
+      Composition:
+      Goodwill                                       (a)              -             -
+      Trademark licence and bottling right           (b)          2,114         2,276
+      Computer software licences                     (c)          1,461           489
+                                                                  3,575         2,765
+
+
+
+
+                                                                                     29
+YEO HIAP SENG LIMITED
+
+Notes to the Unaudited Condensed Interim Financial Statements
+for the six months and full year ended 31 December 2025
+
+15.   Intangible assets (continued)
+
+(a)   Goodwill arising on consolidation
+                                                                     The Group
+                                                             31 December 31 December
+                                                                 2025        2024
+                                                                 $’000       $'000
+      Cost
+      Beginning and end of financial year                           5,361          5,361
+
+      Accumulated impairment loss
+      Beginning and end of financial year                          (5,361)        (5,361)
+      Net book value                                                    -              -
+
+      Goodwill is allocated to the Group’s cash-generating units (“CGUs”) identified within
+      the food and beverage products business segment in the People’s Republic of
+      China.
+
+      The goodwill in the CGUs was fully impaired in 2008.
+
+(b)   Trademark licence and bottling right
+                                                                     The Group
+                                                             31 December 31 December
+                                                                 2025        2024
+                                                                 $’000       $'000
+      Cost
+      Beginning and end of financial year                           4,122          4,122
+
+      Accumulated amortisation
+      Beginning of financial year                                  (1,219)        (1,013)
+      Amortisation charge                                            (162)          (206)
+      End of financial year                                        (1,381)        (1,219)
+
+      Accumulated impairment loss
+      Beginning of financial year                                    (627)             -
+      Impairment loss                                                   -           (627)
+      End of financial year                                          (627)          (627)
+
+      Net book value                                                2,114          2,276
+
+
+      Trademark licence and bottling right acquired are initially recognised at cost and
+      are subsequently carried at cost less accumulated amortisation and accumulated
+      impairment loss. These costs are amortised to profit or loss using the straight-line
+      method over 20 years, which is the shorter of the estimated useful life and period
+      of contractual right.
+
+
+
+
+                                                                                        30
+YEO HIAP SENG LIMITED
+
+Notes to the Unaudited Condensed Interim Financial Statements
+for the six months and full year ended 31 December 2025
+
+15.   Intangible assets (continued)
+
+(c)   Computer software
+                                                                  The Group
+                                                          31 December 31 December
+                                                              2025        2024
+                                                              $’000       $’000
+      Cost
+      Beginning and end of financial year                        1,341         1,341
+      Addition                                                   1,604             -
+      End of financial year                                      2,945         1,341
+
+      Accumulated amortisation
+      Beginning of financial year                                 (852)         (296)
+      Amortisation charge                                         (632)         (556)
+      End of financial year                                     (1,484)         (852)
+
+      Net book value                                             1,461           489
+
+      Acquired computer software are initially capitalised at cost which includes the
+      purchase price (net of any discounts and rebates) and other directly attributable
+      costs of preparing the asset for its intended use. Direct expenditures including
+      employee costs, which enhance or extend the performance of computer software
+      beyond its specifications and which can be reliably measured, are added to the
+      original cost of the software. Costs associated with maintaining the computer
+      software are expensed off when incurred.
+
+      Computer software are subsequently carried at cost less accumulated amortisation
+      and accumulated impairment loss.
+
+(d)   Amortisation expense on intangible assets included in the consolidated statement
+      of comprehensive income is analysed as follows:
+
+                                                               The Group
+                                      6 months 6 months         12 months 12 months
+                                      ended 31 ended 31          ended 31 ended 31
+                                      December December         December December
+                                        2025     2024              2025      2024
+                                        $’000    $’000             $’000    $’000
+
+      Cost of sales                          81         103           162         206
+      Administrative expenses               154         522           643         556
+      Total                                 235         625           805         762
+
+
+
+
+                                                                                    31
+YEO HIAP SENG LIMITED
+
+Notes to the Unaudited Condensed Interim Financial Statements
+for the six months and full year ended 31 December 2025
+
+16.   Share capital
+                                                  The Group and Company
+                                           31 December 2025    31 December 2024
+                                          Number of            Number
+                                           shares Amount      of shares Amount
+                                            ’000    $’000       ’000     $’000
+
+      Beginning of financial year           624,425     261,652       618,620     258,342
+      Issue of new shares pursuant to
+         scrip dividend scheme                2,758       1,516         5,805       3,310
+      End of financial year                 627,183     263,168       624,425     261,652
+
+      The Company has not issued any convertibles nor holds any treasury shares as at
+      31 December 2025 and 31 December 2024.
+
+      The Company’s subsidiaries do not hold any shares in the Company as at 31
+      December 2025 and 31 December 2024.
+
+      There were no sales, transfers, disposal, cancellation and/or use of treasury shares
+      and subsidiary holdings during the years ended 31 December 2025 and 31
+      December 2024.
+
+
+17.   Assets held-for-sale
+
+      On 18 December 2024, Oatly Singapore Operations & Supply Pte. Ltd., together
+      with its parent company, Oatly AB (collectively referred to as “Oatly”), entered into
+      an Exit Agreement with the Group. Under the terms of the Exit Agreement, Oatly
+      will make a total payment of $32,000,000 to the Group. This payment includes:
+
+             Approximately $17,900,000 for assets buy-out
+             Approximately $11,231,000 for volume compensation
+             Approximately $2,287,000 for the outstanding loan payment
+             Approximately $582,000 for lease buy-out.
+
+      There is no impairment loss recognised relating to the assets buy-out.
+
+      In 2024, the Group recognised a net compensation of $10,065,000 as Other Gains,
+      after accounting for the element of financing amounting to $1,166,000.
+
+
+
+
+                                                                                        32
+YEO HIAP SENG LIMITED
+
+Notes to the Unaudited Condensed Interim Financial Statements
+for the six months and full year ended 31 December 2025
+
+17.   Assets held-for-sale (continued)
+
+      The disposal of the Group’s assets previously held for sale to Oatly was completed
+      in March 2025.
+
+      As at 31 December 2025, the other receivables (Note 12) due from Oatly comprised:
+
+                                                                      The Group
+                                                              2025            2024
+                                                              $’000           $’000
+         Other receivables
+         - Current                                          17,302               -
+         - Non-current                                       3,090          12,114
+                                                            20,392          12,114
+
+
+
+
+                                                                                      33
+Other Information Required by Listing Rule Appendix 7.2
+for the six months and full year ended 31 December 2025
+
+
+
+
+                                                          34
+YEO HIAP SENG LIMITED AND ITS SUBSIDIARIES
+
+Other Information Required by Listing Rule Appendix 7.2
+for the six months and full year ended 31 December 2025
+
+OTHER INFORMATION
+
+
+1.     In relation to the aggregate amount of the group’s borrowings and debt
+       securities, specify the following as at the end of the current financial period
+       reported on with comparative figures as at the end of the immediately
+       preceding financial year:
+
+       (a)   the amount repayable in one year or less, or on demand
+       (b)   the amount repayable after one year;
+       (c)   whether the amounts are secured or unsecured; and
+       (d)   details of any collaterals.
+
+       The Group and the Company do not have any borrowings and debt securities.
+
+       Details of any collateral
+
+       Not applicable.
+
+
+2.     Whether the figures have been audited or reviewed and in accordance with
+       which auditing standard or practice.
+
+       The condensed consolidated balance sheets of Yeo Hiap Seng Limited and its
+       subsidiaries as at 31 December 2025 and the related condensed consolidated
+       statement of comprehensive income, condensed consolidated statement of
+       changes in equity and condensed consolidated statement of cash flows for the
+       financial year ended 31 December 2025 and certain explanatory notes have not
+       been audited or reviewed.
+
+
+3.     Where the figures have been audited or reviewed, the auditors’ report
+       (including any qualifications or emphasis of matter).
+
+       Not applicable.
+
+3(A)   Where the latest financial statements are subject to an adverse opinion,
+       qualified or disclaimer of opinion:
+
+       (i) Updates on the efforts taken to resolved each outstanding audit issue.
+       (ii) Confirmation from the Board that the impact of all outstanding audit
+            issues on the financial statements have been adequately disclosed.
+
+       Not applicable.
+
+
+
+
+                                                                                   35
+YEO HIAP SENG LIMITED AND ITS SUBSIDIARIES
+
+Other Information Required by Listing Rule Appendix 7.2
+for the six months and full year ended 31 December 2025
+
+4.    Earnings per ordinary share of the group for the current financial period
+      reported on and the corresponding period of the immediately preceding
+      financial year, after deducting any provision for preference dividends.
+
+      Earnings per ordinary share of the Group
+
+                                                          The Group
+                                         12 months 12 months    6 months 6 months
+                                          ended 31 ended 31     ended 31 ended 31
+                                         December December      December December
+                                            2025      2024        2025     2024
+      Earnings per ordinary share for
+        the period based on net loss
+        attributable to equity holders
+        of the Company during the
+        period:
+
+      (a) Based on weighted
+          average number of ordinary
+          shares in issue (cents)            3.38       1.11          3.13        0.59
+
+      (b) On a fully diluted basis
+          (cents)                            3.38       1.11          3.13        0.59
+
+      Weighted average number of
+       ordinary shares in issue for
+       calculation of basic earnings
+       per share (‘000)                   625,898   621,697       627,183      624,425
+
+      Weighted average number of
+       ordinary shares in issue for
+       calculation of diluted earnings
+       per share (‘000)                   625,898   621,697       627,183      624,425
+
+
+5.    A review of the performance of the group, to the extent necessary for a
+      reasonable understanding of the group’s business. It must include a
+      discussion of the following:-
+
+      a)   any significant factors that affected the turnover, costs, and earnings of
+           the group for the current financial period reported on, including (where
+           applicable) seasonal or cyclical factors; and
+
+      b)   any material factors that affected the cash flow, working capital, assets
+           or liabilities of the Group during the current financial period reported on.
+
+
+
+
+                                                                                    36
+YEO HIAP SENG LIMITED AND ITS SUBSIDIARIES
+
+Other Information Required by Listing Rule Appendix 7.2
+for the six months and full year ended 31 December 2025
+
+5(a)   Year to Date Results - 12 months ended 31 December 2025 vs. 12 months
+       ended 31 December 2024
+
+       Group performance
+
+       Group revenue for FY2025 declined 11.0% from $328.6 million to $292.4 million,
+       reflecting weaker consumer spending and intensified competition across key
+       markets. The uncertain macro environment also resulted in the trade reducing
+       inventories.
+
+       Gross profit margin declined 1.7 percentage points from 33.2% to 31.5% due to
+       lower production volumes, along with additional one-off costs of $1.8 million from
+       unplanned plants shutdowns in Malaysia. Implementation of new enterprise
+       resource planning software and licence costs of $2.8 million incurred during the year
+       were cushioned by cost optimisation efforts.
+
+       Other income declined by 18.8% from $18.8 million to $15.3 million, primarily driven
+       by lower interest income.
+
+       Other gains increased $30.1 million from $15.5 million to $45.6 million, mainly due
+       to $40.9 million fair value gain on investment properties. This was due to successful
+       50-year land lease extension for its Guangzhou property till 2075, which resulted in
+       a fair value gain of $34.7 million. In addition, the Group recorded gain on disposal
+       of an associated company of $2.6 million and net gain on disposal of property, plant
+       and equipment of $1.8 million. This was offset by the absence of $15.0 million
+       compensations from Oatly in 2024 for order obligation and early contract exit.
+
+       Other losses of $4.4 million in FY2025 mainly comprised $2.6 million impairment
+       loss on property, plant and equipment and exchange loss of $1.4 million. The
+       absence of impairment loss on investment in an associated company, loss on
+       disposal and write-off of property plant and equipment in 2025 resulted in decrease
+       in other losses.
+
+       Income tax expense increased by $3.4 million from $6.6 million to $10.0 million.
+       This was mainly attributable to the deferred tax on the fair value gain of investment
+       properties.
+
+       Net profit after tax of the Group increased by $14.2 million from $6.9 million to $21.1
+       million during the year.
+
+
+
+
+                                                                                           37
+YEO HIAP SENG LIMITED AND ITS SUBSIDIARIES
+
+Other Information Required by Listing Rule Appendix 7.2
+for the six months and full year ended 31 December 2025
+
+5(b)   Second Half Year Results - 6 months ended 31 December 2025 vs. 6 months
+       ended 31 December 2024
+
+       Group performance
+
+       Group revenue for 2H 2025 declined by 11.9% from $163.2 million to $143.8 million,
+       reflecting weaker consumer spending and intensified competition across key
+       markets. The uncertain macro environment also resulted in the trade reducing
+       inventories.
+
+       Gross profit margin declined by 2.0 percentage points from 33.6% to 31.6% with
+       the lower production volumes. SAP S4/Hana implementation and licence costs of
+       $2.8 million incurred during the period were cushioned by cost optimisation efforts.
+
+       Other income for 2H 2025 declined by 16.4% from $9.5 million to $7.9 million,
+       primarily driven by lower interest income.
+
+       Other gains for 2H 2025 increased by $22.9 million from $13.9 million to $36.8
+       million, mainly due to $34.7 million fair value gain on land lease extension for our
+       Guangzhou property and gain on disposal of an associated company of $2.6 million.
+       This was offset by the absence of $13.8 million compensations from Oatly in 2024
+       for order obligation and early contract exit.
+
+       Other losses of $2.9 million in 2H 2025 mainly comprised $2.6 million impairment
+       loss on property, plant and equipment. The absence of impairment loss on
+       investment in an associated company, loss on disposal and write-off of property
+       plant and equipment in 2025 resulted in decrease in other losses.
+
+       Income tax expense for 2H 2025 increased by $3.9 million from $5.1 million to $9.0
+       million. This was mainly attributable to the deferred tax on the fair value gain of
+       investment properties.
+
+       Net profit after tax of the Group increased by $15.9 million from $3.7 million to $19.6
+       million during the 2H 2025.
+
+
+
+
+                                                                                           38
+YEO HIAP SENG LIMITED AND ITS SUBSIDIARIES
+
+Other Information Required by Listing Rule Appendix 7.2
+for the six months and full year ended 31 December 2025
+
+5(c)   Consolidated Balance Sheet – 31 December 2025 vs. 31 December 2024
+
+       Current assets (including assets held-for-sale) decreased by $21.6 million from
+       $350.3 million to $328.7 million mainly due to:
+
+       (i)   $10.2 million reduction in cash at bank (including other financial assets - fixed
+             deposits) mainly due to payment for China land lease extension of $14.6 million
+       (ii) $7.3 million reduction in inventories due to the early shipments to meet festive
+             demands
+       (iii) Realisation of $17.9 million of assets held for sale due to the completion of the
+             Oatly exit transaction in 2025
+       (iv) $14.0 million increase in current trade and other receivables as the $9.8 million
+             instalment amounts due from Oatly in 2026 have been reclassified from non-
+             current to current. These were offset by payments made by Oatly during the
+             year and $2.6 million increase in trade receivables due to the early shipments
+             to meet festive demands.
+
+       Non-current assets decreased by $7.2 million from $362.1 million to $354.9 million
+       mainly due to:
+
+       (i)   $43.3 million reduction in other financial assets designated at FVOCI mainly
+             due to fair value loss on investment in Vitasoy
+       (ii) $9.5 million reduction in trade and other receivables as the $9.8 million
+             instalment amounts due from Oatly in 2026 have been reclassified from non-
+             current to current.
+       (iii) $57.8 million increase in investment properties due to the $40.9 million fair
+             value gain on investment properties and $14.6 million payment for China land
+             lease extension
+       (iv) $12.4 million reduction in property, plant and equipment mainly due to
+             depreciation charges during the year.
+
+       Total liabilities increased by $5.3 million to $115.4 million mainly due to increase in
+       deferred tax liabilities of $7.9 million relating to the fair value gain on investment
+       properties.
+
+
+
+
+                                                                                           39
+YEO HIAP SENG LIMITED AND ITS SUBSIDIARIES
+
+Other Information Required by Listing Rule Appendix 7.2
+for the six months and full year ended 31 December 2025
+
+5(d)   Consolidated Statement of Cash Flows
+
+       Year to Date Results - 12 months ended 31 December 2025 vs. 12 months
+       ended 31 December 2024
+
+       The Group registered a net decrease in cash and cash equivalents of $73.3 million
+       for the financial year ended 31 December 2025.
+
+       Net cash generated from operating activities for the Group was marginal at $1.8
+       million.
+
+       Net cash used in investing activities of $61.5 million was mainly due to $66.5 million
+       additional placement of fixed deposits more than 3 months, $14.6 million payment
+       for China land lease extension and $7.5 million additions to property, plant and
+       equipment. These were offset by $11.0 million proceeds from sale of assets to
+       Oatly, $7.4 million receipt of interest income, $4.6 million proceeds from disposal of
+       property, plant and equipment and $2.9 million proceeds from disposal of an
+       associated company.
+
+       Net cash outflow from financing activities of $13.5 million was mainly due to
+       dividends paid to equity holders of the Company of $11.0 million and repayment of
+       lease liabilities of $2.1 million.
+
+
+6.     Where a forecast, or a prospect statement, has been previously disclosed to
+       shareholders, any variance between it and the actual results.
+
+       Not applicable
+
+
+
+
+                                                                                          40
+YEO HIAP SENG LIMITED AND ITS SUBSIDIARIES
+
+Other Information Required by Listing Rule Appendix 7.2
+for the six months and full year ended 31 December 2025
+
+7.    A commentary at the date of the announcement of the significant trends and
+      competitive conditions of the industry in which the group operates and any
+      known factors or events that may affect the group in the next reporting period
+      and the next 12 months.
+
+      In 2026, the Group remains focused on strengthening its fundamentals through
+      margin improvement, disciplined innovation, and portfolio expansion. Although
+      easing inflation offers cautious optimism, the Group will exercise discipline and
+      vigilance amid persistent geopolitical uncertainty.
+
+      To strengthen competitiveness, the Group’s strategic priorities include:
+
+          Adaptive Portfolio: Launching smaller pack sizes to address affordability for
+           lower-income consumers, while scaling premium, higher-margin products for
+           the growing middle class.
+
+          Accelerated Innovation: Leveraging external partnerships to speed up
+           product development targeting both Home and International markets,
+           particularly USA and Europe markets.
+
+          Additional Cost Discipline: Maintaining rigorous productivity and cost
+           management to fund business reinvestment.
+
+          Drive Network Optimisation: Reconfigure supply chain to improve operational
+           efficiency and gross margin.
+
+          Maintaining Strong Balance Sheet: Utilising a strong balance sheet to pursue
+           selective opportunities that align with long-term goals.
+
+      This measured approach ensures the Group drives sustainable progress and
+      creates long-term value going forward.
+
+
+      This release may contain forward-looking statements that involve risks and
+      uncertainties. Actual future performance, outcomes and results may differ materially
+      from those expressed in forward-looking statements as a result of a number of risks,
+      uncertainties and assumptions. Representative examples of these factors include
+      (without limitation) general industry and economic conditions, interest rate
+      movements, cost of capital and capital availability, competition from other
+      companies and venues for sale/manufacture/distribution of goods and services,
+      shift in customer demands, customers and partners, changes in operating
+      expenses, including employee wages, benefits and training, and governmental and
+      public policy changes. You are cautioned not to place undue reliance on these
+      forward-looking statements, which are based on current view of management on
+      future events.
+
+
+
+
+                                                                                       41
+YEO HIAP SENG LIMITED AND ITS SUBSIDIARIES
+
+Other Information Required by Listing Rule Appendix 7.2
+for the six months and full year ended 31 December 2025
+
+8.    If a decision regarding dividend has been made:
+
+      (a) Whether an interim (final) ordinary dividend has been declared
+          (recommended)?
+
+          The Board of Directors is pleased to recommend the following dividend in
+          respect of financial year ended 31 December 2025 for approval by
+          shareholders at the next Annual General Meeting to be convened.
+
+          Nam of Dividend          Proposed final
+          Dividend type            Cash/Scrip
+          Dividend amount          S$0.02 per ordinary share
+
+          The Company’s Scrip Dividend Scheme (“Scheme”) will be applicable to the
+          final dividend, subject to receipt of shareholders’ approval at the Annual
+          General Meeting for the final dividend and the allotment and issue of new
+          shares pursuant to the Scheme. Information on the books closure, payment
+          date and application of the Scheme to the final dividend will be announced at a
+          later date.
+
+      (b) (i) Amount per Share                     : 2.0 cents.
+
+          (ii)   Previous corresponding period : 2.0 cents.
+
+          Nam of Dividend          Final
+          Dividend type            Cash/Scrip
+          Dividend amount          S$0.02 per ordinary share
+
+      (c) Whether the dividend is before tax, net of tax or tax exempt. If before tax
+          or net of tax, state the tax rate and the country where the dividend is
+          derived. (If the dividend is not taxable in the hands of shareholders, this
+          must be stated).
+
+          Tax-exempt (one-tier).
+
+      (d) The date the dividend is payable.
+
+          To be announced later.
+
+      (e) The date on which Registrable Transfers received by the company (up to
+          5.00 pm) will be registered before entitlements to the dividend are
+          determined.
+
+          To be announced later.
+
+
+9.    If no dividend has been declared/recommended, a statement to that effect and
+      far
+
+      Not applicable.
+
+
+
+                                                                                      42
+YEO HIAP SENG LIMITED AND ITS SUBSIDIARIES
+
+Other Information Required by Listing Rule Appendix 7.2
+for the six months and full year ended 31 December 2025
+
+10.   If the Group has obtained a general mandate from shareholders for IPTs, the
+      aggregate value of such transactions as required under Rule 920(1)(a)(ii). If
+      no IPT mandate has been obtained, a statement to that effect.
+
+      The Group has not obtained a general mandate from shareholders of the Company
+      for Interested Person Transactions.
+
+
+11.   Confirmation that issuer has procured undertakings from all its directors and
+      executive officers (in the format set out in Appendix 7.7) under Rule 720(1).
+
+      The Company has received undertaking from all its directors and executive officers
+      in the format as set out in Appendix 7.7 under Rule 720(1) of the Listing Manual of
+      the SGX-ST.
+
+
+12.   In the review of performance, the factors leading to any material changes in
+      contributions to turnover and earnings by the business or geographical
+      segments.
+
+      12.1 Consumer food & beverage products
+
+      The FY2025 segment loss of $18.9 million for consumer food and beverage
+      products was mainly due to weak consumer spending and intense competition.
+
+      12.2 Others
+
+      The increase in segment profit of $37.3 million from $13.2 million in FY2024 to $50.5
+      million in FY2025 was mainly due to fair value gain on investment properties offset
+      by the $4.7 million reduction in interest income for this segment.
+
+
+
+
+                                                                                        43
+YEO HIAP SENG LIMITED AND ITS SUBSIDIARIES
+
+Other Information Required by Listing Rule Appendix 7.2
+for the six months and full year ended 31 December 2025
+
+13.   Disclosure of person occupying a managerial position in the issuer or any of
+      its principal subsidiaries who is a relative of a director or chief executive
+      officer or substantial shareholder of the issuer pursuant to Rule 704(13) in the
+      prescribed format. If there are no such persons, the issuer must make an
+      appropriate negative statement.
+
+       Name                                    Edward Averrill Ng Yong Sheng
+       Age                                     34
+       Family relationship with any director   Mr Edward Ng is the son of Mr Philip Ng
+       and/or substantial shareholder          Chee Tat and nephew of Mr Robert Ng
+                                               Chee Siong, beneficiaries of the Estate
+                                               of the late Ng Teng Fong, a substantial
+                                               shareholder of Yeo Hiap Seng Limited
+                                               (“YHS”).
+
+                                            Mr Edward Ng is also the grandson of
+                                            Mdm Tan Kim Choo who is a
+                                            substantial shareholder of YHS and the
+                                            spouse of the late Mr Ng Teng Fong.
+       Current position and duties, and the Appointed as executive director on 5
+       year the position was held           December 2025
+
+
+       Details of changes in duties and See above
+       position held, if any, during the year
+
+
+
+
+      BY ORDER OF THE BOARD
+
+      Nor Hafiza Alwi
+      Company Secretary
+
+      25 February 2026
+
+
+
+
+                                                                                    44
+

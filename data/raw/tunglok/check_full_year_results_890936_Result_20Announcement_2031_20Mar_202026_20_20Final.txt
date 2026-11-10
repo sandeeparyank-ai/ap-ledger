@@ -1,0 +1,1329 @@
+                                          Tung Lok Restaurants (2000) Ltd
+                                    (Company Registration Number: 200005703N)
+
+
+
+
+                                 Condensed Interim Financial Statements
+                          For the six months and full year ended 31 March 2026
+
+
+
+
+This announcement has been reviewed by the Company’s Sponsor, SAC Capital Private Limited (the “ Sponsor ”). This announcement has not
+been examined or approved by the Singapore Exchange Securities Trading Limited (“ Exchange ”) and the Exchange assumes no
+responsibility for the contents of this announcement, including the correctness of any of the statements or opinions made or reports contained
+in this announcement.
+
+The contact person for the Sponsor is Ms Lee Khai Yinn, SAC Capital Private Limited at 1 Robinson Road, #21-01 AIA Tower, Singapore
+048542. Telephone number: +65 6232 3210.
+
+
+
+
+                                                                                                                                                 1
+TUNG LOK RESTAURANTS (2000) LTD
+Condensed Interim Financial Statements
+For the six months and full year ended 31 March 2026
+
+Table of Contents                                                                               Page
+
+A.      Condensed Interim Consolidated Income Statement And Statement Of Comprehensive Income    3-4
+
+B.      Condensed Interim Statements Of Financial Position                                        5
+
+C.      Condensed Interim Statements Of Changes In Equity                                        6-7
+
+D.      Condensed Interim Consolidated Statement Of Cash Flow                                    8-9
+
+E.      Notes To The Condensed Interim Consolidated Financial Statements                        10 - 19
+
+F.      Other Information Required By Appendix 7C Of The Catalist Rules                         20 - 26
+
+
+
+
+                                                                                                          2
+TUNG LOK RESTAURANTS (2000) LTD
+Condensed Interim Financial Statements For the six months and full year ended 31 March 2026
+
+
+A. Condensed Interim Consolidated Income Statement And Statement Of Comprehensive Income
+   For the six months and full year ended 31 March 2026
+
+                                                             Group                                Group
+                                                        6 months ended                      12 months ended
+                                                           31 March             Increase/       31 March            Increase/
+                                                Note    2026       2025        (decrease)    2026       2025       (decrease)
+                                                       S$'000     S$'000            %       S$'000     S$'000           %
+
+    Revenue                                      4      42,531      43,616       (2.5)       79,609     82,122       (3.1)
+    Cost of sales                                      (11,288)     (11,825)     (4.5)      (21,907)    (23,264)     (5.8)
+    Gross profit                                        31,243      31,791       (1.7)       57,702     58,858       (2.0)
+
+                                                                                                                              percentage
+    Gross profit margin                                  73.5%       72.9%        0.6         72.5%      71.7%        0.8     points
+
+    Other operating income                                 847       1,287       (34.2)       1,521      2,508       (39.4)
+    Administrative expenses                            (16,931)     (16,812)      0.7       (33,029)    (33,133)     (0.3)
+    Other operating expenses                           (13,820)     (14,845)     (6.9)      (27,226)    (29,033)     (6.2)
+    Share of profit/(loss) of a joint venture              -            11       N.M.             (1)       (22)     (95.5)
+    Share of profits of associates                             8        23       (65.2)          46         36       27.8
+    Finance costs                                         (509)        (460)     10.7          (995)       (869)     14.5
+    Profit/(loss) before tax                     6         838         995       (15.8)      (1,982)     (1,655)     19.8
+    Income tax credit/(expense)                  7             31        (2)     N.M.            72         43       67.4
+    Profit/(loss) for the period/year                      869         993       (12.5)      (1,910)     (1,612)     18.5
+
+    Profit/(loss) attributable to:
+    Owners of the Company                                  843         853        (1.2)
+                                                                                  >100       (1,667)     (1,772)     (5.9)
+    Non-controlling interests                               26         140       (81.4)        (243)        160      N.M.
+                                                           869         993       (12.5)      (1,910)     (1,612)     18.5
+
+    Earnings/(losses) per share (cents) attributable to owners of the Company
+    Basic and diluted                                     0.31         0.31         -          (0.61)     (0.65)     (6.2)
+
+    N.M. : percentage not meaningful.
+
+
+
+
+                                                                                                                                           3
+TUNG LOK RESTAURANTS (2000) LTD
+Condensed Interim Financial Statements For the six months and full year ended 31 March 2026
+
+
+A.   Condensed Interim Consolidated Income Statement And Statement Of Comprehensive Income
+     For the six months and full year ended 31 March 2026 (Continued)
+
+                                                                Group                              Group
+                                                           6 months ended                    12 months ended
+                                                              31 March           Increase/       31 March           Increase/
+                                                           2026       2025      (decrease)    2026       2025      (decrease)
+                                                          S$'000     S$'000          %       S$'000     S$'000          %
+
+     Profit/(loss) for the period/year                         869        993     (12.5)      (1,910)    (1,612)     18.5
+
+     Other comprehensive income/(loss):
+     Items that will not be reclassified subsequently to profit or loss
+     Fair value gain on an unquoted equity at
+     fair value through other comprehensive
+     income                                                    350        -       N.M.           350        -        N.M.
+     Total comprehensive income/(loss) for the
+     period/year                                             1,219        993     22.8        (1,560)    (1,612)     (3.2)
+
+     Total comprehensive income/(loss) attributable to:
+     Owners of the Company                                   1,193        853     39.9
+                                                                                   >100       (1,317)    (1,772)     (25.7)
+     Non-controlling interests                                  26        140     (81.4)        (243)       160       N.M.
+                                                             1,219        993      22.8       (1,560)    (1,612)      (3.2)
+
+     N.M. : percentage not meaningful.
+
+
+
+
+                                                                                                                                4
+TUNG LOK RESTAURANTS (2000) LTD
+Condensed Interim Financial Statements For the six months and full year ended 31 March 2026
+
+
+B. Condensed Interim Statements Of Financial Position
+
+                                                                     Group                                Company
+                                                 Note    31 Mar 26           31 Mar 25        31 Mar 26          31 Mar 25
+                                                          S$'000              S$'000           S$'000             S$'000
+
+   ASSETS
+
+   Current assets:
+   Cash and bank balances                                      12,548            13,337             3,312              2,712
+   Trade receivables                                            2,509             2,958               -                  -
+   Other receivables and prepayments                            1,318             1,841                68                539
+   Inventories                                                  2,114             2,264               -                  -
+   Total current assets                                        18,489            20,400             3,380              3,251
+
+   Non-current assets:
+   Other receivables and prepayments                              -                    3             -                   -
+   Long-term security deposits                                  1,091             1,224              -                   -
+   Interests in subsidiaries                                      -                 -             15,956              16,020
+   Interests in a joint venture                                   -                   11             -                   -
+   Interests in associates                                          93              493              -                   -
+   Investment in unquoted equities                                350               -                350                 -
+   Deferred tax assets                                            704               686              -                   -
+   Property, plant and equipment                   10           5,838             6,965              -                   -
+   Right-of-use assets                                         22,076            23,052              -                   -
+   Total non-current assets                                    30,152            32,434           16,306              16,020
+
+   Total assets                                                48,641             52,834           19,686             19,271
+
+   LIABILITIES AND EQUITY
+
+   Current liabilities:
+   Trade payables                                               2,735             2,818               -                  -
+   Other payables                                               8,173             8,773                 36               103
+   Lease liabilities                               11           5,979             5,879               -                  -
+   Bank loans                                      12             398             1,010               -                  -
+   Total current liabilities                                   17,285            18,480                36                103
+
+   Net current assets                                           1,204              1,920            3,344              3,148
+
+   Non-current liabilities:
+   Other payables                                               2,884             3,044               -                  -
+   Lease liabilities                               11          16,971            17,740               -                  -
+   Bank loans                                      12             -                 398               -                  -
+   Deferred tax liabilities                                        31                67               -                  -
+   Total non-current liabilities                               19,886            21,249               -                  -
+
+   Total liabilities                                           37,171            39,729                   36             103
+
+   Capital, reserves and non-controlling interests:
+   Share capital                                    13         28,450             28,450          28,450              28,450
+   Accumulated losses                                         (16,628)           (14,961)         (9,150)             (9,282)
+   Other reserves                                                (631)               -               350                 -
+   Equity attributable to owners of the Company                11,191             13,489          19,650              19,168
+   Non-controlling interests                                      279               (384)            -                   -
+   Net equity                                                  11,470             13,105          19,650              19,168
+
+   Total liabilities and equity                                48,641            52,834            19,686             19,271
+
+                                                                                                                                5
+TUNG LOK RESTAURANTS (2000) LTD
+Condensed Interim Financial Statements For the six months and full year ended 31 March 2026
+
+
+C. Condensed Interim Statements Of Changes In Equity
+                                                                                             GROUP
+                                                                                                       Equity
+                                                                                                  attributable to
+                                                                                                  owners of the         Non-
+                                                          Share     Accumulated                     Company,        controlling
+                                                          capital      losses       Other reserve       total        interests      Total
+                                                          S$'000       S$'000          S$'000          S$'000         S$'000       S$'000
+   At 1 April 2024                                         28,450        (12,574)             -           15,876           (218)   15,658
+   (Loss)/profit for the year                                 -           (1,772)             -           (1,772)           160    (1,612)
+   Contributions by and distributions to owners
+    Tax exempt final dividend of 0.224 Singapore
+    cents per share for the financial year ended
+    31 March 2024 (Note 8)                                    -             (615)             -             (615)           -        (615)
+   Dividend paid to non-controlling interest
+    in a subsidiary                                           -              -                -              -             (326)     (326)
+   Total transactions with owners in their capacity as
+   owners                                                     -             (615)             -             (615)          (326)     (941)
+   At 31 March 2025                                        28,450        (14,961)             -           13,489           (384)   13,105
+   Loss for the year                                          -           (1,667)             -           (1,667)          (243)   (1,910)
+
+   Other comprehensive income
+   Fair value gain on an unquoted equity at fair value
+    through other comprehensive income                        -              -               350             350            -         350
+                                                              -              -               350             350            -         350
+
+   Total comprehensive loss for the year, net of tax          -           (1,667)            350          (1,317)          (243)    (1,560)
+
+   Contributions by and distributions to owners
+   Acquisition of remaining shareholding interests from
+    non-controlling interests in a subsidiary                 -              -               (981)          (981)          981         -
+   Dividend paid to non-controlling interest
+     in a subsidiary                                          -              -                -              -              (75)       (75)
+   Total transactions with owners in their capacity as
+   owners                                                     -              -               (981)          (981)          906         (75)
+   At 31 March 2026                                        28,450        (16,628)            (631)        11,191           279     11,470
+
+
+
+
+                                                                                                                                              6
+TUNG LOK RESTAURANTS (2000) LTD
+Condensed Interim Financial Statements For the six months and full year ended 31 March 2026
+
+
+C. Condensed Interim Statements Of Changes In Equity (Continued)
+
+                                                                                     COMPANY
+                                                                    Share     Accumulated     Other       Total
+                                                                    capital      losses      reserve
+                                                                    S$'000       S$'000       S$'000      S$'000
+   At 1 April 2024                                                     28,450        (9,547)         -     18,903
+   Profit for the year, representing total
+    comprehensive income for the year                                      -             880         -       880
+   Tax exempt final dividend of 0.224 Singapore
+    cents per share for the financial year ended
+    31 March 2024 (Note 8)                                                 -            (615)        -      (615)
+   At 31 March 2025                                                    28,450         (9,282)        -    19,168
+   Profit for the year, representing total
+    comprehensive income for the year                                      -             132         -       132
+   Fair value gain on an unquoted equity at fair
+     value through other comprehensive income                              --             --        350      350
+                                                                                                              -
+   At 31 March 2026                                                    28,450         (9,150)       350   19,650
+
+
+
+
+                                                                                                                    7
+TUNG LOK RESTAURANTS (2000) LTD
+Condensed Interim Financial Statements For the six months and full year ended 31 March 2026
+
+ D.   Condensed Interim Consolidated Statement Of Cash Flow
+                                                                                                      Group
+                                                                                                 12 months ended
+                                                                                                     31 March
+                                                                                               2026            2025
+                                                                                              S$'000          S$'000
+      Operating activities:
+      Loss before tax                                                                             (1,982)        (1,655)
+      Adjustment for:
+      Share of loss of a joint venture                                                                 1             22
+      Share of profits of associates                                                                (46)           (36)
+      Depreciation of property, plant and equipment                                               1,795          2,197
+      Depreciation of right-of-use assets                                                         6,849          6,645
+      Write-off of property, plant and equipment                                                      15           370
+      Loss on disposal of property, plant and equipment                                             -                16
+      Gain on disposal of right-of-use assets                                                         (2)          (21)
+      Impairment loss of property, plant and equipment                                               50            180
+      Allowance for expected credit losses - trade receivables                                         1           -
+      Interest income                                                                               (94)          (234)
+      Interest expense                                                                              995            869
+      Dividend income from an unquoted equity                                                       (76)          (103)
+      Foreign exchange loss                                                                            8              4
+      Reversal of lease liabilities                                                                 (38)          (422)
+      Reversal of provision for reinstatement costs                                                 (12)           -
+      Operating cash flows before changes in working capital                                      7,464          7,832
+      Changes in working capital:
+         Decrease in trade receivables                                                              440            788
+         Decrease in other receivables and prepayments                                              436            337
+         Decrease/(increase) in inventories                                                         150            (76)
+         Decrease/(increase) in long-term security deposits                                         133            (95)
+         Decrease in trade payables                                                                 (83)          (279)
+         Decrease in other payables                                                                (854)          (572)
+      Cash flows from operations                                                                  7,686          7,935
+      Interest paid                                                                                 (32)           (65)
+      Interest received                                                                             101            240
+      Income tax credits/(net income tax paid)                                                       18           (262)
+      Net cash flows from operating activities                                                    7,773          7,848
+
+      Investing activities
+      Purchase of property, plant and equipment (see Note A )                                      (664)         (1,213)
+      Proceeds from disposal of property, plant and equipment (see Note B)                            8             -
+      Proceeds from disposal of right-of-use assets                                                   2              21
+      Dividend received from an unquoted equity                                                      76             103
+      Dividend received from an associate                                                           280             -
+      Repayment of capital from associates                                                          166             -
+      Repayment of capital from a joint venture                                                      10             -
+      Net cash flows used in investing activities                                                  (122)         (1,089)
+
+      Financing activities
+      Dividends paid to owners of the Company                                                        -             (615)
+      Dividends paid to non-controlling interest in a subsidiary (see Note C )                       (75)          (326)
+      Payment of principal portion of lease liabilities                                           (6,428)        (6,441)
+      Interest paid in relation to lease liabilities                                                (927)          (776)
+      Repayment of bank loans                                                                     (1,010)        (1,259)
+      Net cash flows used in financing activities                                                 (8,440)        (9,417)
+
+      Net decrease in cash and bank balances                                                       (789)         (2,658)
+
+      Cash and bank balances at the beginning of the financial year                              13,337         15,995
+      Cash and bank balances at the end of the financial year                                    12,548         13,337
+
+                                                                                                                           8
+TUNG LOK RESTAURANTS (2000) LTD
+Condensed Interim Financial Statements For the six months and full year ended 31 March 2026
+
+ D.   Condensed Interim Consolidated Statement Of Cash Flow (Continued)
+
+      Note A
+      During the financial year, the Group recorded additions to property, plant and equipment at an aggregate cost of S$733,000 (FY25:
+      S$1,236,000) of which S$131,000 (FY25: S$62,000) remained unpaid at the end of the reporting period. Cash payments of S$664,000
+      (FY25: S$1,213,000) were made to the purchase of property, plant and equipment.
+
+      Note B
+      During the financial year, the Group recorded disposal of property, plant and equipment at an aggregate cost of S$Nil (FY25: S$8,000)
+      of which S$Nil (FY25: S$8,000) remained unpaid from a third party at the end of the reporting period.
+
+      Note C
+      During the financial year, a subsidiary of the Group declared dividends amounting to S$75,000 (FY25: S$326,000) to its non-controlling
+      interest.
+
+
+
+
+                                                                                                                                               9
+TUNG LOK RESTAURANTS (2000) LTD
+Condensed Interim Financial Statements For the six months and full year ended 31 March 2026
+
+
+ E.   Notes To The Condensed Interim Consolidated Financial Statements
+
+      1.   Corporate information
+           Tung Lok Restaurants (2000) Ltd (the “Company”) is a limited liability company incorporated and domiciled in Singapore and is
+           listed on the Catalist Board ("Catalist") of the Singapore Exchange Securities Trading Limited ("SGX-ST").
+           These condensed interim consolidated financial statements as of and for the six months and full year ended 31 March 2026
+           comprise the Company and its subsidiaries (the "Group").
+           The principal activity of the Company is that of investment holding. The principal activities of the subsidiaries are:
+           i. Restaurateur;
+           ii. Central kitchen support function; and
+           iii. Investment holding.
+           Both of its principal place of business and registered office are located at 26, Tai Seng Street, #02-01, Singapore 534057.
+
+      2.   Basis of preparation
+           The condensed interim financial statements for the six months and full year ended 31 March 2026 have been prepared in
+           accordance with the Singapore Financial Reporting Standards (International) ("SFRS(I)") 1-34 Interim Financial Reporting issued by
+           the Accounting Standards Council Singapore. The unaudited condensed interim financial statements do not include all the
+           information required for a complete set of financial statements. However, selected explanatory notes are included to explain events
+           and transactions that are significant to an understanding of the changes in the Group’s financial position and performance of the
+           Group since the last interim financial statements for the six months ended 30 September 2025.
+
+           The accounting policies and methods of computation adopted are consistent with those of the previous financial year which were
+           prepared in accordance with SFRS(I)s, except for the adoption of new and amended standards as set out in Note 2.1.
+           The condensed interim financial statements are presented in Singapore dollar which is the Company’s functional currency.
+
+      2.1 New and amended standards adopted by the Group
+           The Group has adopted the same accounting policies and methods of computation in the condensed interim financial statements as
+           compared to the most recently audited financial statements for the financial year ended 31 March 2025, as well as applicable new
+           and revised SFRS(I) which became effective for financial years beginning on or after 1 April 2025. The adoption of the applicable
+           new and revised SFRS(I) did not require any significant change to the accounting policies, measurement methods or make
+           retrospective adjustments as a result of adopting those SFRS(I).
+
+      2.2 Use of judgements and estimates
+           In preparing the condensed interim financial statements, management has made judgements, estimates and assumptions that affect
+           the application of accounting policies and the reported amounts of assets and liabilities, income and expense. Actual results may
+           differ from these estimates.
+
+           The significant judgements made by management in applying the Group’s accounting policies and the key sources of estimation
+           uncertainty were the same as those that applied to the consolidated financial statements as of and for the year ended 31 March
+           2025.
+
+           Estimates and underlying assumptions are reviewed on an ongoing basis. Revisions to accounting estimates are recognised in the
+           period in which the estimates are revised and in any future periods affected.
+
+           Information about assumptions and estimation uncertainties that have a significant risk of resulting in a material adjustment to the
+           carrying amounts of assets and liabilities within the next financial period are as follows:
+
+           a.    Impairment of interests in subsidiaries
+                 Determining whether interests in subsidiaries are impaired requires an estimation of value in use of these subsidiaries. The
+                 value in use calculation requires the management to estimate the future cash flows expected from the cash-generating unit
+                 and an appropriate discount rate in order to calculate the present value of the future cash flows.
+
+           b.    Impairment of property, plant and equipment and right-of-use assets
+                 Determining whether property, plant and equipment and right-of-use assets is impaired requires an estimation of the value in
+                 use. The value in use calculation requires the management to estimate future cash flows and a suitable discount rate in order
+                 to calculate the present value of the cash flows.
+
+
+
+
+                                                                                                                                                  10
+TUNG LOK RESTAURANTS (2000) LTD
+Condensed Interim Financial Statements For the six months and full year ended 31 March 2026
+
+
+ E.   Notes To The Condensed Interim Consolidated Financial Statements (Continued)
+
+      3.   Seasonal operations
+           The Group’s businesses are not affected significantly by seasonal or cyclical factors during the financial period.
+
+      4.   Segment and revenue information
+           Information reported to the Group’s chief operating decision maker for the purposes of resource allocation and assessment of
+           segment performance is specifically focused on the restaurant business which forms the basis of identifying the operating segments
+           of the Group under SFRS(I) 8 Operating Segments . Management has determined the operating segments based on the reports
+           reviewed by the Board of Directors that are used to make strategic decisions.
+
+           The Group is organised into business units based on their products, services, and has four reportable operating segments as
+           follows:
+           a.    The restaurant segment is in the business of operating restaurants;
+           b.    The catering segment is in the business of providing catering services:
+           c.    The manufacturing segment pertains to central kitchen function that supports the restaurant segment of the Group as well as
+                 sales of Original Equipment Manufacturer (OEM) products to third parties; and
+           d.    The other segment comprises the corporate services, treasury functions, investment holding activities and franchising
+                 activities.
+
+           Management monitors the operating results of its business units separately by making decisions about the allocation of resources
+           and assessing the performance of each segment.
+
+           Inter-segment sales are measured on the basis that the entity actually uses to price the transfers. Internal transfer pricing policies of
+           the Group are as far as practicable based on market prices. The accounting policies of the reportable segment are the same as the
+           Group’s accounting policies described in the latest audited annual financial statements for the financial year ended 31 March 2025.
+           Segment profit or loss represents the profit or loss earned/incurred by each segment without allocation of control administration
+           costs and directors’ salaries.
+
+
+
+
+                                                                                                                                                       11
+TUNG LOK RESTAURANTS (2000) LTD
+Condensed Interim Financial Statements For the six months and full year ended 31 March 2026
+
+
+ E. Notes To The Condensed Interim Consolidated Financial Statements (Continued)
+  4. Segment and revenue information (Continued)
+ 4.1 Reportable segments
+                                                             Operation of     Operation      Operation of       Others     Elimina-   Total
+                                                             restaurants      of catering   manufacturing                    tion
+                                                                S$'000          S$'000         S$'000           S$'000     S$'000     S$'000
+    October 2025 to March 2026
+    Revenue
+    Revenue from external customers                                38,307          3,627              472          125         -       42,531
+    Inter-segment revenue                                             158          1,093            2,305        1,561      (5,117)       -
+    Total segment revenue                                          38,465          4,720            2,777        1,686      (5,117)    42,531
+
+    Results
+    Profit/(loss) from operations                                   2,610           (100)            (369)        (837)        -        1,304
+    Finance costs                                                    (326)           (90)             (29)         (64)        -         (509)
+    Finance income                                                     24            -                -              11        -           35
+    Share of profits of associates                                      8            -                -            -           -            8
+    Segment profit/(loss) before tax                                2,316           (190)            (398)        (890)        -          838
+    Income tax credit                                                                                                                      31
+    Profit for the period                                                                                                                 869
+
+    Segment profit/(loss) before tax has been arrived at after charging:
+    Depreciation of property, plant and equipment                     (727)          (38)               (77)       (43)        -         (885)
+    Depreciation of right-of-use assets                             (2,873)         (295)               (76)      (213)        -       (3,457)
+    Impairment loss of property, plant and equipment                   (50)          -                  -          -           -          (50)
+    Allowance for expected credit losses - trade receivables           -             -                    (1)      -           -           (1)
+
+    April 2025 to March 2026
+    Revenue
+    Revenue from external customers                                71,277          7,039              996          297         -       79,609
+    Inter-segment revenue                                             239          2,106            4,671        3,374     (10,390)       -
+    Total segment revenue                                          71,516          9,145            5,667        3,671     (10,390)    79,609
+
+    Results
+    Profit/(loss) from operations                                   1,161            (51)            (652)       (1,584)       -       (1,126)
+    Finance costs                                                    (634)          (175)             (57)         (129)       -         (995)
+    Finance income                                                     56            -                -              38        -           94
+    Share of loss of a joint venture                                   (1)           -                -             -          -           (1)
+    Share of profits of associates                                     46            -                -             -          -           46
+    Segment profit/(loss) before tax                                  628           (226)            (709)       (1,675)       -       (1,982)
+    Income tax credit                                                                                                                      72
+    Loss for the year                                                                                                                  (1,910)
+    Segment profit/(loss) before tax has been arrived at after charging:
+    Depreciation of property, plant and equipment                   (1,472)          (77)            (155)         (91)        -       (1,795)
+    Depreciation of right-of-use assets                             (5,679)         (588)            (152)        (430)        -       (6,849)
+    Impairment loss of property, plant and equipment                   (50)          -                -            -           -          (50)
+    Write-off of property, plant and equipment                         (15)          -                -            -           -          (15)
+    Gain on disposal of right-of-use assets                            -               2              -            -           -            2
+    Allowance for expected credit losses - trade receivables           -             -                  (1)        -           -           (1)
+
+    Total assets for reportable segments                           26,223          5,667            4,856       11,895         -       48,641
+
+    Total liabilities for reportable segments                      25,536          5,538            1,850        4,247         -       37,171
+
+    Other information
+    Investment in unquoted equities                                   350            -                  -           -          -         350
+    Interests in associates                                            93            -                  -           -          -          93
+    Capital expenditure on plant and equipment                        532              46                61          94        -         733
+
+
+
+
+                                                                                                                                                 12
+TUNG LOK RESTAURANTS (2000) LTD
+Condensed Interim Financial Statements For the six months and full year ended 31 March 2026
+
+
+ E. Notes To The Condensed Interim Consolidated Financial Statements (Continued)
+  4. Segment and revenue information (Continued)
+ 4.1 Reportable segments (Continued)
+                                                             Operation of     Operation      Operation of       Others     Elimina-   Total
+                                                             restaurants      of catering   manufacturing                    tion
+                                                                S$'000          S$'000         S$'000           S$'000     S$'000     S$'000
+    October 2024 to March 2025
+    Revenue
+    Revenue from external customers                                39,345          3,526              568          177         -       43,616
+    Inter-segment revenue                                             259          1,145            2,055        1,817      (5,276)       -
+    Total segment revenue                                          39,604          4,671            2,623        1,994      (5,276)    43,616
+
+    Results
+    Profit/(loss) from operations                                   2,205           (122)            (168)        (582)        -        1,333
+    Finance costs                                                    (313)           (64)             (21)         (62)        -         (460)
+    Finance income                                                     65            -                -              23        -           88
+    Share of profit of a joint venture                                 11            -                -            -           -           11
+    Share of profits of associates                                     23            -                -            -           -           23
+    Segment profit/(loss) before tax                                1,991           (186)            (189)        (621)        -          995
+    Income tax expense                                                                                                                     (2)
+    Profit for the period                                                                                                                 993
+
+    Segment profit/(loss) before tax has been arrived at after charging:
+    Depreciation of property, plant and equipment                     (871)          (39)               (80)       (56)        -       (1,046)
+    Depreciation of right-of-use assets                             (2,877)         (253)               (54)      (221)        -       (3,405)
+    Impairment loss of property, plant and equipment                  (180)          -                  -          -           -         (180)
+    Write-off of property, plant and equipment                        (369)          -                    (1)      -           -         (370)
+    Loss on disposal of property, plant and equipment                  (16)          -                  -          -           -          (16)
+    Gain on disposal of right-of-use assets                            -               4                   4       -           -            8
+
+    April 2024 to March 2025
+    Revenue
+    Revenue from external customers                                73,273          6,993            1,513          343         -       82,122
+    Inter-segment revenue                                             360          2,149            4,493        3,318     (10,320)       -
+    Total segment revenue                                          73,633          9,142            6,006        3,661     (10,320)    82,122
+
+    Results
+    Profit/(loss) from operations                                   1,170           (758)            (207)       (1,239)       -       (1,034)
+    Finance costs                                                    (559)          (129)             (51)         (130)       -         (869)
+    Finance income                                                    145            -                -              89        -          234
+    Share of loss of a joint venture                                  (22)           -                -             -          -          (22)
+    Share of profits of associates                                     36            -                -             -          -           36
+    Segment profit/(loss) before tax                                  770           (887)            (258)       (1,280)       -       (1,655)
+    Income tax credit                                                                                                                      43
+    Loss for the year                                                                                                                  (1,612)
+
+    Segment profit/(loss) before tax has been arrived at after charging:
+    Depreciation of property, plant and equipment                   (1,853)          (72)            (162)        (110)        -       (2,197)
+    Depreciation of right-of-use assets                             (5,556)         (492)            (156)        (441)        -       (6,645)
+    Impairment loss of property, plant and equipment                  (180)          -                -            -           -         (180)
+    Write-off of property, plant and equipment                        (369)          -                  (1)        -           -         (370)
+    Loss on disposal of property, plant and equipment                  (16)          -                -            -           -          (16)
+    Gain on disposal of right-of-use assets                            -               17                4         -           -           21
+
+    Total assets for reportable segments                           32,032          4,331            5,372       11,099         -       52,834
+
+    Total liabilities for reportable segments                      29,783          4,345            1,640        3,961         -       39,729
+    Other information
+    Interests in a joint venture                                       11            -                  -           -          -           11
+    Interests in associates                                           493            -                  -           -          -          493
+    Capital expenditure on plant and equipment                      1,061             96                 31          48        -        1,236
+
+
+
+
+                                                                                                                                                 13
+TUNG LOK RESTAURANTS (2000) LTD
+Condensed Interim Financial Statements For the six months and full year ended 31 March 2026
+
+
+  E. Notes To The Condensed Interim Consolidated Financial Statements (Continued)
+  4. Segment and revenue information (Continued)
+  4.2 Disaggregation of Revenue
+
+                                                 Operation of   Operation      Operation of
+                                                 restaurants    of catering   manufacturing   Others     Elimination    Total
+                                                   S$'000         S$'000         S$'000       S$'000        S$'000     S$'000
+      October 2025 to March 2026
+      Types of goods or services:
+      Sales of food and beverages                     35,090         4,701            2,777        -         (3,556)   39,012
+      Service charges                                  3,375            19              -          -            -       3,394
+      Management fees                                    -             -                -        1,686       (1,561)      125
+      Total                                           38,465         4,720            2,777      1,686       (5,117)   42,531
+
+      Timing of transfer of goods or services:
+      At a point in time                              38,465         4,720            2,777        -         (3,556)   42,406
+      Over time                                          -             -                -        1,686       (1,561)      125
+      Total                                           38,465         4,720            2,777      1,686       (5,117)   42,531
+
+      Geographical information:
+      Singapore                                       38,465         4,720            2,777      1,686       (5,117)   42,531
+
+      April 2025 to March 2026
+      Types of goods or services:
+      Sales of food and beverages                     65,256         9,117            5,667        -         (7,016)   73,024
+      Service charges                                  6,260            28              -          -            -       6,288
+      Management fees                                    -             -                -        3,671       (3,374)      297
+      Total                                           71,516         9,145            5,667      3,671      (10,390)   79,609
+
+      Timing of transfer of goods or services:
+      At a point in time                              71,516         9,145            5,667        -         (7,016)   79,312
+      Over time                                          -             -                -        3,671       (3,374)      297
+      Total                                           71,516         9,145            5,667      3,671      (10,390)   79,609
+
+      Geographical information:
+      Singapore                                       71,516         9,145            5,667      3,671      (10,390)   79,609
+
+
+
+
+                                                                                                                                14
+TUNG LOK RESTAURANTS (2000) LTD
+Condensed Interim Financial Statements For the six months and full year ended 31 March 2026
+
+
+  E. Notes To The Condensed Interim Consolidated Financial Statements (Continued)
+  4. Segment and revenue information (Continued)
+  4.2 Disaggregation of Revenue (Continued)
+
+                                                     Operation of     Operation      Operation of
+                                                     restaurants      of catering   manufacturing       Others     Elimination       Total
+                                                       S$'000           S$'000         S$'000           S$'000        S$'000        S$'000
+
+      October 2024 to March 2025
+      Types of goods or services:
+      Sales of food and beverages                         36,151           4,660            2,623            -         (3,459)      39,975
+      Service charges                                      3,453              11              -              -            -          3,464
+      Management fees                                        -               -                -            1,994       (1,817)         177
+      Total                                               39,604           4,671            2,623          1,994       (5,276)      43,616
+
+      Timing of transfer of goods or services:
+      At a point in time                                  39,604           4,671            2,623            -         (3,459)      43,439
+      Over time                                              -               -                -            1,994       (1,817)         177
+      Total                                               39,604           4,671            2,623          1,994       (5,276)      43,616
+
+      Geographical information:
+      Singapore                                           39,604           4,671            2,623          1,994       (5,276)      43,616
+
+      April 2024 to March 2025
+      Types of goods or services:
+      Sales of food and beverages                         67,251           9,102            6,006            -         (7,002)      75,357
+      Service charges                                      6,382              40              -              -            -          6,422
+      Management fees                                        -               -                -            3,661       (3,318)         343
+      Total                                               73,633           9,142            6,006          3,661      (10,320)      82,122
+
+      Timing of transfer of goods or services:
+      At a point in time                                  73,633           9,142            6,006            -         (7,002)      81,779
+      Over time                                              -               -                -            3,661       (3,318)         343
+      Total                                               73,633           9,142            6,006          3,661      (10,320)      82,122
+
+      Geographical information:
+      Singapore                                           73,633           9,142            6,006          3,661      (10,320)      82,122
+
+
+      A breakdown of sales:
+                                                                                          The Group
+                                                       Current Financial Year         Previous Financial Year             Increase/
+                                                          Apr 25 - Mar 26                 Apr 24 - Mar 25                (decrease)
+                                                               S$'000                         S$'000                          %
+      Sales reported for the first half year                  37,078                          38,506                        (3.7)
+      Operating loss after tax before deducting                (2,779)                        (2,605)                       6.7
+      non-controlling interests reported for first
+      half year
+      Sales reported for the second half year                 42,531                          43,616                        (2.5)
+      Operating profit after tax before deducting               869                            993                         (12.5)
+      non-controlling interests reported for
+      second half year
+
+
+
+
+                                                                                                                                             15
+TUNG LOK RESTAURANTS (2000) LTD
+Condensed Interim Financial Statements For the six months and full year ended 31 March 2026
+
+
+   E. Notes To The Condensed Interim Consolidated Financial Statements (Continued)
+   5. Financial assets and financial liabilities
+      Set out below is an overview of the financial assets and financial liabilities of the Group as at 31 March 2026 and 31 March 2025:
+                                                                                           Group                                     Company
+                                                                                  31 Mar 26     31 Mar 25                       31 Mar 26 31 Mar 25
+                                                                                   S$'000        S$'000                          S$'000    S$'000
+      Financial assets
+      At amortised cost:
+      Cash and bank balances                                                          12,548           13,337                       3,312       2,712
+      Trade receivables                                                                2,509            2,958                         -           -
+      Other receivables                                                                  607              504                           62        533
+      Loans to subsidiaries                                                               -                -                        7,099       7,163
+      Long-term security deposits                                                      1,091            1,224                           -           -
+                                                                                      16,755           18,023                      10,473      10,408
+      At fair value through other comprehensive income:
+      Unquoted equities                                                                  350               -                          350          -
+                                                                                         350               -                          350          -
+      Total                                                                           17,105           18,023                      10,823      10,408
+      Financial liabilities
+      At amortised cost:
+      Trade payables                                                                   2,735            2,818                          -           -
+      Other payables                                                                   7,775            8,481                          36          35
+      Bank loans                                                                         398            1,408                          -           -
+      Lease liabilities                                                               22,950           23,619                          -           -
+                                                                                      33,858           36,326                          36          35
+      Financial guarantee contracts                                                       -                -                           -           68
+                                                                                          -                -                           -           68
+      Total                                                                           33,858           36,326                          36         103
+   6. Profit/(loss) before tax
+   6.1 Significant items                                                          Group                                        Group
+                                                                        6 months ended 31 March                      12 months ended 31 March
+                                                                                             Increase/                                   Increase/
+                                                                    2026         2025       (decrease)              2026       2025     (decrease)
+                                                                   S$'000       S$'000           %                 S$'000     S$'000         %
+      Income
+      Government grants                                                  341             246        38.6                615           637      (3.5)
+      Dividend income from an unquoted equity                             56              40        40.0                 76           103     (26.2)
+      Interest income from:
+      - Cash at bank and short-term deposits                                 35           88        (60.2)               94           234     (59.8)
+      Gain on disposal of right-of-use assets                            -                 8         N.M.                 2             21    (90.5)
+      Reversal of provision for reinstatement costs                      -               -             -                 12           -        N.M.
+      Reversal of lease liabilities                                          35          419        (91.6)               38           422     (91.0)
+      Expenses
+      Interest expenses on:
+      - Bank loans                                                       (10)            (26)       (61.5)              (28)          (62)    (54.8)
+      - Shareholders' loans                                              (40)            (16)        >100               (40)          (31)     29.0
+      - Lease liabilities                                               (459)           (418)         9.8              (927)         (776)     19.5
+      Depreciation of property, plant and equipment                     (885)         (1,046)       (15.4)           (1,795)       (2,197)    (18.3)
+      Depreciation of right-of-use assets                             (3,457)         (3,405)         1.5            (6,849)       (6,645)      3.1
+      Impairment loss of property, plant and equipment                   (50)           (180)       (72.2)              (50)         (180)    (72.2)
+      Write-off of property, plant and equipment                         -              (370)        N.M.               (15)         (370)    (95.9)
+      Loss on disposal of property, plant and equipment                  -               (16)        N.M.               -             (16)     N.M.
+      Loss on foreign exchange                                             (3)             (1)       >100                 (8)           (4)   100.0
+      Allowance for expected credit losses - trade receivables             (1)           -           N.M.                 (1)         -        N.M.
+      Rental expenses - non-lease component expenses                  (2,000)         (2,096)        (4.6)           (3,796)       (3,890)     (2.4)
+      Staff costs                                                    (14,614)        (14,486)         0.9           (28,414)      (28,632)     (0.8)
+      Withholding tax                                                      (6)             (7)      (14.3)              (13)          (14)     (7.1)
+      N.M. : percentage not meaningful.
+
+
+                                                                                                                                                        16
+TUNG LOK RESTAURANTS (2000) LTD
+Condensed Interim Financial Statements For the six months and full year ended 31 March 2026
+
+
+   E. Notes To The Condensed Interim Consolidated Financial Statements (Continued)
+   6. Profit/(loss) before tax (Continued)
+   6.2 Related party transactions
+                                                                                       Group                                       Group
+                                                                                   6 months ended                            12 months ended
+                                                                                      31 March                                   31 March
+                                                                                 2026          2025                           2026        2025
+                                                                                S$'000        S$'000                         S$'000      S$'000
+      With corporate shareholder of certain subsidiary
+      Sales of food and beverages                                                          13           25                             23         32
+      With corporate shareholders of the Company
+      Sale of food and beverages                                                     1,139           1,289                      2,424           2,415
+      Purchase of food, beverages and services                                         177             189                        582             924
+      Rental expenses                                                                1,114           1,171                      2,046           2,122
+      Payment of principal portion of lease liabilities                                988             923                      1,936           1,819
+      Interest paid in relation to lease liabilities                                    61              63                        129             106
+      Compensation of key management personnel
+      Short-term employee benefits                                                     806             841                      1,584           1,665
+      Central Provident Fund Contributions                                              69              77                        136             150
+      Total                                                                            875             918                      1,720           1,815
+      Comprised amount paid or payable to:
+      Directors of the Company                                                         422             437                        784             808
+      Other key management personnel                                                   453             481                        936           1,007
+      Total                                                                            875             918                      1,720           1,815
+
+   7. Income tax credit/(expense)
+      The Group calculates the period income tax credit/(expense) using the tax rate that would be applicable to the expected total annual earnings.
+      The major components of income tax credit/(expense) in the condensed interim consolidated statement of profit or loss are:
+
+                                                                                       Group                                       Group
+                                                                                   6 months ended                            12 months ended
+                                                                                      31 March                                   31 March
+                                                                                 2026          2025                           2026        2025
+                                                                                S$'000        S$'000                         S$'000      S$'000
+      Current income tax
+      - (Under)/over provision in respect of prior years                               -                 (1)                           18         10
+                                                                                       -                 (1)                           18         10
+      Deferred income tax
+      - Origination and reversal of temporary differences                               33               13                        63              50
+      - Under provision in respect of prior years                                       (2)             (14)                       (9)            (17)
+                                                                                        31               (1)                       54              33
+      Income tax credit/(expense) recognised in profit or loss                          31               (2)                       72             43
+
+   8. Dividends                                                                         Group                                   Company
+                                                                               31 Mar 26     31 Mar 25                     31 Mar 26 31 Mar 25
+                                                                                S$'000        S$'000                        S$'000    S$'000
+      Ordinary dividends paid:
+      - First and final tax exempt dividend of Nil Singapore cents per share
+      (2025: 0.224 Singapore cents per share)                                          -               615                         -             615
+
+   9. Net asset value
+                                                                                           Group                                  Company
+      (Singapore cents)                                                        31 Mar 26        31 Mar 25                  31 Mar 26        31 Mar 25
+      Net asset value per ordinary share based on the total
+      number of issued shares excluding treasury shares as at
+      the end of the period reported on                                               4.08             4.92                       7.16           6.99
+
+
+
+
+                                                                                                                                                         17
+TUNG LOK RESTAURANTS (2000) LTD
+Condensed Interim Financial Statements For the six months and full year ended 31 March 2026
+
+
+   E. Notes To The Condensed Interim Consolidated Financial Statements (Continued)
+
+   10. Property, plant and equipment
+       During the financial year ended 31 March 2026, the Group acquired plant and equipment amounting to S$733,000 (31 March 2025:
+       S$1,236,000) as well as disposed and written off plant and equipment amounting to S$225,000 (31 March 2025: S$1,918,000) with net carrying
+       amount of S$15,000 (31 March 2025: S$394,000).
+
+   11. Lease liabilities
+       The carrying amounts of lease liabilities are disclosed as below:
+                                                                                                                                  Group
+                                                                                                                           31 Mar 26 31 Mar 25
+                                                                                                                            S$'000      S$'000
+       Current                                                                                                                  5,979        5,879
+       Non-current                                                                                                             16,971       17,740
+       The above lease liabilities included finance lease payable of S$828,000 (FY25: S$987,000) which are secured over motor vehicles.
+
+       Finance leases
+       Finance lease payable has been disclosed as "Lease Liabilities" in the Condensed Interim Statements Of Financial Position as at 31 March 2026
+       and 31 March 2025 pursuant to SFRS(I) 16 Leases .
+                                                                                                                                      Group
+                                                                                                                            31 Mar 26 31 Mar 25
+                                                                                                                               S$'000       S$'000
+       Amount repayable within one year or on demand
+       Secured                                                                                                                      284         265
+       Unsecured                                                                                                                    -            -
+                                                                                                                                    284         265
+       Amount repayable after one year
+       Secured                                                                                                                    544          722
+       Unsecured                                                                                                                  -            -
+                                                                                                                                  544          722
+
+   12. Bank loans
+                                                                                                                                  Group
+                                                                                                                           31 Mar 26 31 Mar 25
+                                                                                                                            S$'000      S$'000
+       Amount repayable within one year or on demand
+       Secured                                                                                                                    398        1,010
+       Unsecured                                                                                                                  -            -
+                                                                                                                                  398        1,010
+       Amount repayable after one year
+       Secured                                                                                                                     -           398
+       Unsecured                                                                                                                   -           -
+                                                                                                                                   -           398
+
+       Details of any collateral
+       As of balance sheet date, the total borrowings of the Group are secured by way of corporate guarantees issued by the Company.
+
+
+
+
+                                                                                                                                                       18
+TUNG LOK RESTAURANTS (2000) LTD
+Condensed Interim Financial Statements For the six months and full year ended 31 March 2026
+
+
+   E. Notes To The Condensed Interim Consolidated Financial Statements (Continued)
+
+   13. Share capital
+                                                                                                     Group and Company
+                                                                                 31 Mar 26     31 Mar 25               31 Mar 26             31 Mar 25
+                                                                                Number of ordinary shares               S$'000                S$'000
+
+      Issued and paid up                                                         274,400,000      274,400,000                       28,450       28,450
+
+      There were no outstanding convertibles, treasury shares and subsidiary holdings as at 31 March 2026 and 31 March 2025.
+      There have been no changes in the Company's issued share capital since the end of the previous financial period reported on 30 September
+      2025.
+      There were no sales, transfers, cancellation and/or use of treasury shares or subsidiary holdings during the current financial period reported on.
+
+   14. Events occurring after the reporting period
+      There are no known subsequent events (after 31 March 2026) which have led to adjustments to this set of financial statements.
+
+
+
+
+                                                                                                                                                           19
+TUNG LOK RESTAURANTS (2000) LTD
+Condensed Interim Financial Statements For the six months and full year ended 31 March 2026
+
+
+   F.      Other Information Required By Appendix 7C Of The Catalist Rules
+
+   1.      Whether the figures have been audited or reviewed, and in accordance with which auditing standard or practice.
+           The condensed interim statements of financial position of Tung Lok Restaurants (2000) Ltd and its subsidiaries as at 31 March 2026 and
+           the related condensed interim consolidated income statement and statement of comprehensive income, condensed interim statements of
+           changes in equity and condensed interim consolidated statement of cash flows for the six-month and full year then ended and explanatory
+           notes have not been audited or reviewed.
+   2.      Where the figures have been audited or reviewed, the auditors' report (including any modifications or emphasis of a matter).
+           Not applicable.
+   3.      Where the latest financial statements are subject to an adverse opinion, qualified opinion or disclaimer of opinion:
+           (a) Updates on the efforts taken to resolve each outstanding audit issue.
+           Not applicable as the Company's latest audited financial statements for the financial year ended 31 March 2025 were not subject to an
+           adverse opinion, qualified opinion or disclaimer of opinion.
+           (b) Confirmation from the Board that the impact of all outstanding audit issues on the financial statements have been
+           adequately disclosed.
+           Not applicable.
+   4.      A review of the performance of the group, to the extent necessary for a reasonable understanding of the group's business. It
+           must include a discussion of the following:-
+           (a) any significant factors affecting turnover, costs and earnings of the group for the current financial period reported on,
+           including (where applicable) seasonal or cyclical factors; and
+           Revenue
+           The Group’s revenue for the six-month period ended 31 March 2026 ("2H FY26") decreased by S$1.1 million (2.5%) to S$42.5 million
+           compared to S$43.6 million in the six-month period ended 31 March 2025 ("2H FY25") mainly due to:
+           i) S$2.3 million lower revenue contribution from existing outlets; and
+           ii) S$0.5 million loss of revenue contribution from 2 outlets which were closed in 2H FY25.
+           This was partially offset by S$1.7 million higher revenue contribution from an outlet which opened in 2H FY25.
+           Overall, revenue for the financial year ended 31 March 2026 ("FY26") decreased by S$2.5 million (3.1%) to S$79.6 million from S$82.1
+           million for the financial year ended 31 March 2025 ("FY25") mainly due to:
+           i) S$4.6 million lower revenue contribution from existing outlets;
+           ii) S$1.4 million loss of revenue contribution from 2 outlets which were closed in FY25; and
+           iii) S$0.9 million lower revenue contribution from heat-and-serve and mooncake sales.
+           This was partially offset by S$4.4 million higher revenue contribution from an outlet which opened in FY25.
+           Gross profit margin
+           Gross profit decreased by S$0.6 million (1.7%) to S$31.2 million in 2H FY26 from S$31.8 million in 2H FY25 and decreased by S$1.2
+           million (2.0%) to S$57.7 million in FY26 from S$58.9 million in FY25, in line with the lower revenue recorded in both 2H FY26 and FY26.
+           Gross profit margin increased by 0.6 percentage points to 73.5% in 2H FY26 from 72.9% in 2H FY25 and by 0.8 percentage points to
+           72.5% in FY26 from 71.7% in FY25 due to better control of food costs.
+           Other operating income
+           Other operating income decreased by S$0.4 million (34.2%) to S$0.9 million in 2H FY26 from S$1.3 million in 2H FY25 mainly due to:
+           i) absence of S$0.4 million reversal of lease liabilities following the closure of 2 outlets in 2H FY25; and
+           ii) S$0.1 million lower interest income earned.
+           This was partially offset by S$0.1 million higher other government grants.
+           Other operating income decreased by S$1.0 million (39.4%) to S$1.5 million in FY26 from S$2.5 million in FY25 mainly due to:
+           i) absence of S$0.4 million reversal of lease liabilities following the closure of 2 outlets in FY25;
+           ii) S$0.2 million lower catering service income received;
+           iii) S$0.2 million lower interest income earned; and
+           iv) S$0.1 million lower marketing promotion funds received.
+           Administrative expenses
+           Administrative expenses, mainly manpower-related expenses, increased by S$0.1 million (0.7%) to S$16.9 million in 2H FY26 from
+           S$16.8 million in 2H FY25, despite a decrease in headcount by 8, mainly due to higher usage of casual labours in 2H FY26. This was
+           partially offset by lower staff incentives provided in 2H FY26 in tandem with the lower revenue.
+           Administrative expenses, mainly manpower-related expenses, decreased by S$0.1 million (0.3%) to S$33.0 million in FY26 from S$33.1
+           million in FY25, mainly due to reduction in headcount by 8 which was in tandem with the lower revenue during FY26.
+
+
+
+
+                                                                                                                                                     20
+TUNG LOK RESTAURANTS (2000) LTD
+Condensed Interim Financial Statements For the six months and full year ended 31 March 2026
+
+
+   F.      Other Information Required By Appendix 7C Of The Catalist Rules (Continued)
+
+   4.      A review of the performance of the group, to the extent necessary for a reasonable understanding of the group's business. It
+           must include a discussion of the following:- (continued)
+           (a) any significant factors affecting turnover, costs and earnings of the group for the current financial period reported on,
+           including (where applicable) seasonal or cyclical factors; and (continued)
+           Other operating expenses
+           Other operating expenses decreased by S$1.0 million (6.9%) to S$13.8 million in 2H FY26 from S$14.8 million in 2H FY25. The operating
+           expenses which had decreased in 2H FY26 include write-off of property, plant and equipment (S$0.4 million decrease), advertising and
+           promotions expenses (S$0.2 million decrease), credit card commission expenses (S$0.2 million decrease), and depreciation of property,
+           plant and equipment (S$0.2 million decrease).
+           Other operating expenses decreased by S$1.8 million (6.2%) to S$27.2 million in FY26 from S$29.0 million in FY25. The operating
+           expenses which had decreased in FY26 include advertising and promotions expenses (S$0.4 million decrease), depreciation of property,
+           plant and equipment (S$0.4 million decrease), utilities expenses (S$0.4 million decrease), write-off of property, plant and equipment
+           (S$0.4 million decrease) and credit card commission expenses (S$0.2 million decrease).
+           Finance costs
+           Finance costs, mainly interest expenses, increased by S$49,000 (10.7%) to S$509,000 in 2H FY26 from S$460,000 in 2H FY25 and
+           increased by S$126,000 (14.5%) to S$995,000 in FY26 from S$869,000 in FY25 mainly due to increase in interest expenses on lease
+           liabilities driven by higher lease liabilities balance carried at the beginning of FY26.
+           Share of profit/(loss) of a joint venture
+           This represents the Group's share of loss of a joint venture which had been struck off on 6 February 2026.
+
+           Share of profits of associates
+           Share of profits of associates decreased by S$15,000 (65.2%) to S$8,000 in 2H FY26 compared to S$23,000 in 2H FY25 mainly due to
+           lower net profit contribution from an associate in 2H FY26.
+           Share of profits of associates increased by S$10,000 (27.8%) to S$46,000 in FY26 compared to S$36,000 in FY25 mainly due to net profit
+           contribution from an associate in FY26.
+           Income tax credit/(expense)
+           Income tax credit of S$31,000 in 2H FY26, compared to income tax expense of S$2,000 in 2H FY25 mainly due to higher deferred tax
+           benefits recorded in 2H FY26.
+           Income tax credit increased by S$29,000 (67.4%) to S$72,000 in FY26 from S$43,000 in FY25 mainly due to higher deferred tax benefits
+           recorded in FY26.
+           Profit/(loss) attributable to owners of the Company
+           Despite a contraction in revenue driven by persistent macroeconomic volatility, the Group recorded a profit attributable to owners of the
+           Company amounting to S$0.8 million in 2H FY26 (2H FY25: S$0.9 million) and a lower loss attributable to owners of the Company
+           amounting to S$1.7 million in FY26 (FY25: S$1.8 million), due to the on-going commitment to operational efficiency and stringent control
+           over operating costs.
+
+
+
+
+                                                                                                                                                       21
+TUNG LOK RESTAURANTS (2000) LTD
+Condensed Interim Financial Statements For the six months and full year ended 31 March 2026
+
+
+   F.      Other Information Required By Appendix 7C Of The Catalist Rules (Continued)
+
+   4.      A review of the performance of the group, to the extent necessary for a reasonable understanding of the group's business. It
+           must include a discussion of the following:- (continued)
+           (b) any material factors affecting cash flow, working capital, assets or liabilities of the group during the current period reported
+           on
+           Cash and bank balances
+           Decrease in cash and bank balances at Group level was mainly due to:
+           (i) S$7.4 million repayment of lease obligations and interest;
+           (ii) S$1.0 million repayment of bank borrowings;
+           (iii) S$0.7 million cash outlays to acquire plant and equipment for existing outlets; and
+           (iv) S$0.1 million dividend payment to non-controlling interest in a subsidiary.
+           This was partially offset by S$7.8 million operational cash inflow, S$0.3 million dividend received from an active associate and S$0.2
+           million repayment of capital from another two associates that had been struck off in FY26 as well as S$0.1 million dividend received from
+           an unquoted equity.
+           Increase in cash and bank balances at Company level was mainly due to repayment of advances from a wholly-owned subsidiary.
+           Trade receivables
+           Decrease in trade receivables at Group level was mainly due to an improvement in receivable turnover days.
+
+           Other receivables and prepayments (current)
+           Decrease in other receivables and prepayments (current) at Group level was mainly due to S$0.6 million lower prepayment made for food
+           materials and advertising expenses for existing outlets but partially offset by the reclassification of S$0.1 million security deposit from long-
+           term security deposit.
+           Decrease in other receivables and prepayments (current) at Company level was mainly due to repayment of advances from a wholly-
+           owned subsidiary amounting to S$0.5 million.
+           Inventories
+           Decrease in inventories at Group level was mainly due to an improvement in inventories turnover days.
+           Long-term security deposits
+           Decrease in long-term security deposits at Group level was mainly due to the reclassification of S$0.1 million security deposits to other
+           receivables and prepayments (current).
+           Interests in subsidiaries
+           Decrease in interests in subsidiaries at Company level was mainly due to repayment of advances from a wholly-owned subsidiary
+           amounting to S$0.3 million but partially offset by the reversal of fair value adjustment on deemed investment of a subsidiary amounting to
+           S$0.2 million.
+           Interests in a joint venture
+           Decrease in interests in a joint venture at Group level was due to the joint venture being struck off in FY26.
+           Interests in associates
+           Decrease in interests in associates at Group level was mainly due to S$280,000 dividend received from an active associate and
+           S$166,000 repayment of capital from another two associates that had been struck off in FY26 but partially offset by share of profits
+           amounting to S$46,000 in FY26.
+           Investment in unquoted equities
+           Increase in investment in unquoted equities at Group level and Company level was due to the fair value gain of the underlying unquoted
+           equity. The fair value of the unquoted equity was determined using discounted cash flow approach.
+           Property, plant and equipment
+           Decrease in property, plant and equipment at Group level was mainly due to S$1.8 million depreciation charge and S$0.1 million
+           impairment loss on property, plant and equipment but partially offset by the acquisition of plant and equipment amounting to S$0.7 million
+           during FY26.
+           Right-of-use assets
+           Decrease in right-of-use assets at Group level was mainly due to S$6.8 million depreciation charge but partially offset by addition of right-
+           of-use assets amounting to S$5.9 million during FY26.
+           Trade payables
+           Decrease in trade payables at Group level was mainly due to lower credit purchases in tandem with lower year-end revenue.
+
+
+
+
+                                                                                                                                                               22
+TUNG LOK RESTAURANTS (2000) LTD
+Condensed Interim Financial Statements For the six months and full year ended 31 March 2026
+
+
+   F.      Other Information Required By Appendix 7C Of The Catalist Rules (Continued)
+
+   4.      A review of the performance of the group, to the extent necessary for a reasonable understanding of the group's business. It
+           must include a discussion of the following:- (continued)
+           (b) any material factors affecting cash flow, working capital, assets or liabilities of the group during the current period reported
+           on (continued)
+           Other payables (current)
+           Decrease in other payables (current) at Group level was mainly due to S$0.6 million decrease in staff-related accrued expenses and
+           S$0.2 million decrease in refundable deposits collected from customers, but partially offset by the S$0.1 million increase in provision for
+           reinstatement costs and S$0.1 million increase in capital expenditure payables for existing outlets.
+           Decrease in other payables (current) at Company level was mainly due to the reversal of fair value adjustment on financial guarantees of
+           S$68,000 during FY26.
+           Other payables (non-current)
+           Decrease in other payables (non-current) at Group level was mainly due to the reclassification of S$0.2 million provision for reinstatement
+           costs to other payables (current).
+           Lease liabilities (current and non-current)
+           Decrease in lease liabilities at Group level was mainly due to S$6.4 million settlement of lease obligations but partially offset by S$5.8
+           million addition of lease liabilities during FY26.
+           Bank loans (current and non-current)
+           Decrease in bank loans at Group level was mainly due to loan repayments of S$1.0 million during FY26.
+           Other reserves
+           Decrease in other reserve at Group level was due to the S$1.0 million transfer of reserve from non-controlling interests consequent to the
+           acquisition of remaining shareholding interests in a subsidiary but partially offset by the S$0.4 million fair value gain of investment in
+           unquoted equities.
+           Increase in other reserve at Company level was due to the fair value gain of investment in unquoted equities.
+           Non-controlling interests
+           Increase in non-controlling interests at Group level was mainly due to transfer of reserve attributable to non-controlling interests amounting
+           to S$1.0 million consequent to the acquisition of remaining shareholding interests from non-controlling interests in a subsidiary, but
+           partially offset by share of losses of S$0.2 million associated with non wholly-owned subsidiaries and S$0.1 million dividend payment to
+           non-controlling interest in a subsidiary during FY26.
+           Total assets
+           Total assets of the Group decreased by S$4.2 million (8.0%) to S$48.6 million as of 31 March 2026 from S$52.8 million as of 31 March
+           2025 mainly due to:
+           (i) decrease in property, plant and equipment of S$1.1 million;
+           (ii) decrease in right-of-use assets of S$1.0 million;
+           (iii) decrease in trade, other receivables and prepayments of S$1.0 million;
+           (iv) decrease in cash and bank balances of S$0.8 million;
+           (v) decrease in interests in associates of S$0.4 million;
+           (vi) decrease in inventories of S$0.1 million; and
+           (vii) decrease in long-term security deposit of S$0.1 million.
+           This was partially offset by increase in investment in unquoted equities of S$0.4 million.
+
+           Total liabilities
+           Total liabilities of the Group decreased by S$2.5 million (6.3%) to S$37.2 million as of 31 March 2026 from S$39.7 million as of 31 March
+           2025 mainly due to:
+           (i) decrease in bank borrowings of S$1.0 million;
+           (ii) decrease in trade and other payables of S$0.8 million; and
+           (iii) decrease in lease liabilities of S$0.7 million.
+
+
+
+
+                                                                                                                                                            23
+TUNG LOK RESTAURANTS (2000) LTD
+Condensed Interim Financial Statements For the six months and full year ended 31 March 2026
+
+
+   F.        Other Information Required By Appendix 7C Of The Catalist Rules (Continued)
+   4.        A review of the performance of the group, to the extent necessary for a reasonable understanding of the group's business. It
+             must include a discussion of the following:- (continued)
+             (b) any material factors affecting cash flow, working capital, assets or liabilities of the group during the current period reported
+             on (continued)
+             Cash flow
+             The Group’s operating cash flow recorded a net inflow of S$7.8 million in FY26 and FY25. The net inflow was maintained in FY26 despite
+             lower revenue generated, due to stringent control over operating costs.
+             The Group’s investing cash flow recorded a net outflow of S$0.1 million in FY26, compared to S$1.1 million in FY25. The decrease was
+             mainly due to reduced acquisition of plant and equipment, dividend received from an active associate and repayment of capital from
+             another two associates that had been struck off in FY26.
+             The Group’s financing cash flow recorded a net outflow of S$8.4 million in FY26, compared to S$9.4 million in FY25. The decrease was
+             mainly due to absence of dividend payment to shareholders of the Company and lower dividends paid to non-controlling interests in a
+             subsidiary in FY26.
+             Notwithstanding the FY26 net loss, the Group remained cash-generative from operations, with net operating cash inflow of S$7.8 million
+             and year-end cash and bank balances of S$12.5 million.
+             Working capital
+             The Group's net working capital decreased by S$0.7 million to S$1.2 million as of 31 March 2026 from S$1.9 million as of 31 March 2025
+             due to operating loss recorded in FY26.
+
+   5.        Where a forecast, or a prospect statement, has been previously disclosed to shareholders, any variance between it and the
+             actual results
+             No forecast or prospect statement was disclosed previously.
+
+   6.        A commentary at the date of the announcement of the significant trends and competitive conditions of the industry in which the
+             group operates and any known factors or events that may affect the group in the next reporting period and the next 12 months.
+             In light of ongoing Middle East tensions, the Group is closely monitoring volatile energy prices and the resulting upward pressure on
+             operating costs. The Group anticipates that these inflationary factors, combined with accompanying trade disruptions, will continue to
+             dampen consumer confidence and entrench a value-oriented consumption pattern in the year ahead.
+             To navigate these challenges, the Group remains committed to maintaining its high culinary and service standards through continued
+             product innovation to align with evolving consumer preferences.
+             Simultaneously, the Group is accelerating the adoption of digital solutions to drive process optimization and operational efficiency. The
+             Group is also actively reviewing and rationalising its outlet portfolio to streamline resources allocation and maintain operational agility
+             amidst shifting market dynamics.
+             Supported by disciplined and prudent approach to capital management, the Group remains confident that these initiatives will fortify our
+             competitive advantage and secure long-term growth.
+   7.        If a decision regarding dividend has been made:-
+   (a)       Whether an interim (final) ordinary dividend has been declared (recommended):
+             Nil
+   (b)(i)    Amount per share:
+             Nil
+   (b)(ii)   Previous corresponding period:
+             Nil
+   (c)       Whether the dividend is before tax, net of tax or tax exempt. If before tax or net of tax, state the tax rate and the country where
+             the dividend is derived. (If the dividend is not taxable in the hands of shareholders, this must be stated).
+             Not applicable.
+   (d)       The date the dividend is payable.
+             Not applicable.
+   (e)       The date on which Registrable Transfers received by the company (up to 5.00 pm) will be registered before entitlements to the
+             dividend are determined.
+             Not applicable.
+   8.        If no dividend has been declared (recommended), a statement to that effect and the reason(s) for the decision.
+             There is no dividend declared or recommended for FY26 as the Group recorded a loss attributable to owners of the Company for FY26.
+
+                                                                                                                                                           24
+TUNG LOK RESTAURANTS (2000) LTD
+Condensed Interim Financial Statements For the six months and full year ended 31 March 2026
+
+F.   Other Information Required By Appendix 7C Of The Catalist Rules (Continued)
+
+9.   If the group has obtained a general mandate from shareholders for interested person transactions ("IPTs"), the aggregate value of such
+     transactions as required under Catalist Rule 920(1)(a)(ii). If no IPT mandate has been obtained, a statement to that effect.
+                                                                                                 Aggregate value of all         Aggregate value of all
+                                                                                            interested persons transaction       interested person
+                                                                                            during the period under review transactions conducted under
+                                                                                              (excluding transactions less     shareholders' mandate
+                                                                                                   than S$100,000 and       pursuant to Catalist Rules 920
+       Name of Interested Persons                                                            transactions conducted under (excluding transactions less
+                                                     Nature of relationship
+           and Transactions                                                                      shareholders' mandate            than S$100,000)
+                                                                                            pursuant to Catalist Rules 920)
+                                                                                                  FY26            FY25          FY26             FY25
+                                                                                             Apr 25-Mar 26 Apr 24-Mar 25 Apr 25-Mar 26 Apr 24-Mar 25
+                                                                                                S$'000          S$'000          S$'000          S$'000
+     Tee Yih Jia Food Manufacturing Dr Goi Seng Hui ("Dr Goi") is a controlling
+     Pte Ltd                          shareholder of the Company as he is deemed to
+                                      be interested in the 53,531,280 shares of the
+     (i) Tung Lok Group - Purchase of                                                                    -               -
+                                      Company held by Tee Yih Jia Food                                                                404             734
+     food items/mooncakes from Tee
+                                      Manufacturing Pte Ltd by virtue of Section 7 of
+     Yih Jia Food Manufacturing Pte
+                                      the Companies Act 1967.
+     Ltd
+     Chinatown Food Corporation       Chinatown Food Corporation Pte Ltd is a
+     Pte Ltd                          subsidiary of Tee Yih Jia Food Manufacturing Pte
+                                      Ltd and therefore considered an associate of Dr
+     (i) Tung Lok Group - Purchase of Goi.                                                               -               -               45              42
+     food items from Chinatown Food
+     Corporation Pte Ltd              Topseller Pte Ltd is a wholly-owned subsidiary of
+     Topseller Pte Ltd                 PSC Corporation Ltd. Dr Goi has direct interests
+                                       of more than 30% in the shares of PSC
+     (i) Tung Lok Group - Purchase of Corporation Ltd and Topseller Pte Ltd is                           -               -            124             138
+     food items from Topseller Pte Ltd therefore considered an associate of Dr Goi.
+
+     Goodview Properties Pte Ltd        Goodview Properties Pte Ltd ("Goodview
+     and its associates                 Properties") is a controlling shareholder of the
+     (i) China Classic Pte. Ltd. *      Company which has a direct interest in                           -           1,232               -               -
+     (ii) Orchard Central Pte. Ltd. *   54,015,780 shares of the Company.                                138         2,398               -               -
+     (iii) Far East Hospitality Real                                                                     -           2,925               -               -
+     Estate Investment Trust *          The Estate of Ng Teng Fong ("ENTF") is a
+     (iv) Riverhub Pte Ltd *            controlling shareholder of the Company as he is              1,848               -               -               -
+     (v) Novena Point Pte. Ltd.*        deemed to be interested in the 54,015,780                    1,292               -               -               -
+                                        shares of the Company held by Goodview
+                                        Properties by virtue of Section 7 of the
+                                        Companies Act 1967.
+
+                                        Mr Ng Chee Tat Philip and Mr Ng Chee Siong
+                                        are controlling shareholders of the Company as
+                                        they are beneficiaries of ENTF.
+
+                                        As explained in the Company's announcements
+                                        dated 19 April 2024, 1 July 2024, 9 July 2024, 15
+                                        November 2024, 1 July 2025, 10 July 2025 and
+                                        13 February 2026, China Classic Pte Ltd,
+                                        Orchard Central Pte. Ltd., Far East Hospitality
+                                        Real Estate Investment Trust, Riverhub Pte Ltd
+                                        and Novena Point Pte. Ltd. are considered
+                                        associates of Goodview Properties, ENTF, Mr Ng
+                                        Chee Tat Philip and/or Mr Ng Chee Siong.
+
+     Note:
+     * These refer to IPTs that are categorised as transactions under Catalist Rule 916(1), which are in connection with leases of certain commercial units
+     owned by related companies of our controlling shareholder, Goodview Properties Pte Ltd. Please refer to the Company's announcements dated 19 April
+     2024, 1 July 2024, 9 July 2024, 15 November 2024, 1 July 2025, 10 July 2025 and 13 February 2026.
+
+
+
+
+                                                                                                                                                              25
+TUNG LOK RESTAURANTS (2000) LTD
+Condensed Interim Financial Statements For the six months and full year ended 31 March 2026
+
+F.   Other Information Required By Appendix 7C Of The Catalist Rules (Continued)
+
+10. Confirmation that the issuer has procured undertakings from all its directors and executive officers (in the format set out in Appendix 7H under
+    Catalist Rule 720(1).
+     The Company confirms that the undertakings from all its directors and executive officers (in the format set out in Appendix 7H pursuant to Catalist Rule
+     720(1)) have been procured.
+
+11. Disclosure on acquisition or sale of shares pursuant to Rule 706A of the Catalist Rules.
+     Save as disclosed below, in the Company's half year results announcement dated 14 November 2025 and the Company's announcement dated 6
+     February 2026, there were no other acquisitions and/or sales of shares by the Company in FY26 that require disclosure pursuant to Rule 706A of the
+     Catalist Rules.
+     Acquisition of the remaining shareholding interests in the Group's non-wholly owned subsidiary
+     On 6 March 2026, the Group’s wholly-owned subsidiary, TLG Asia Pte. Ltd., acquired the remaining 35.46% issued and paid-up share capital of Garuda
+     Padang Restaurant (Singapore) Pte. Ltd. (“Garuda”) for an aggregate cash consideration of S$2.00 ("Consideration") from existing shareholders of
+     Garuda (the “Acquisition”).
+     The Consideration, which will be fully satisfied in cash, was negotiated on an arm's length basis, taking into account the net liability value of the shares
+     being acquired. As at 6 March 2026, the net liability value attributable to the 35.46% stake acquired was S$980,601.
+     Following the completion of the Acquisition, Garuda was renamed as TLG Gourmet Pte. Ltd..
+     The Acquisition does not have any material impact on the net tangible assets or earnings per share of the Company and the Group for FY26.
+     None of the Directors or substantial shareholders of the Company, the Group's subsidiaries and associates have any interest, direct or indirect, in the
+     Acquisition, save for their respective shareholdings in the Company and the Group.
+
+12. Please disclose the status on the use of proceeds raised from IPO and any offerings pursuant to Chapter 8 and whether the use of proceeds is
+    in accordance with the stated use.
+
+     Where the proceeds have been used for working capital purposes, a breakdown with specific details on how the proceeds have been applied
+     must have been disclosed.
+
+     The Company does not have any outstanding unutilised proceeds raised from IPO and/or any offerings pursuant to Chapter 8.
+
+13. Disclosure of person occupying a managerial position in the issuer or any of its principal subsidiaries who is a relative of a director or chief
+    executive officer or substantial shareholder of the issuer pursuant to Rule 704(10) of the Catalist Rules in the format below. If there are no such
+    persons, the issuer must take an appropriate negative statement.
+
+            Name               Age        Family relationship with any director and/or       Current position and duties,        Details of change in duties
+                                                    substantial shareholder                 and the year the position was         and position held, if any,
+                                                                                                       first held                      during the year
+         Tjioe Ka Lie           69        Sister of both Tjioe Ka Men (President/Chief          Senior Vice President,                 Not Applicable.
+                                         Executive Officer and a controlling shareholder)   Administration since 2010, and
+                                              and Tjioe Ka In (Executive Director)        responsible for administration and
+                                                                                           purchasing matters of the Group.
+                                                                                          Prior to that, Tjioe Ka Lie was the
+                                                                                          Vice President - Administration of
+                                                                                                the Group since 2001.
+
+
+
+     BY ORDER OF THE BOARD
+
+
+
+
+     Tjioe Ka Men
+     President/Chief Executive Officer
+     29 May 2026
+
+
+
+
+                                                                                                                                                                    26
+

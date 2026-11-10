@@ -1,0 +1,1371 @@
+    FRASER AND NEAVE, LIMITED
+         (Company Registration No. 189800001R)
+        (Incorporated in the Republic of Singapore)
+
+
+Condensed Interim Financial Statements
+       for the 6 months ended
+             31 March 2026
+FRASER AND NEAVE, LIMITED AND ITS SUBSIDIARIES                                                                                        Page 2 of 25
+
+Table of Contents
+
+   A. Condensed interim consolidated statement of profit or loss........................................................................... 3
+
+   B. Condensed interim consolidated statement of comprehensive income.......................................................... 4
+
+   C. Condensed interim statements of financial position........................................................................................ 5
+
+   D. Condensed interim statements of changes in equity ...................................................................................... 6
+
+   E. Condensed interim consolidated statement of cash flows .............................................................................. 9
+
+   F. Notes to the condensed interim financial statements …………….…………………….....................................11
+
+   G. Other information required by Listing Rule Appendix 7.2 ..............................................................................22
+FRASER AND NEAVE, LIMITED AND ITS SUBSIDIARIES                                                     Page 3 of 25
+
+A. Condensed interim consolidated statement of profit or loss
+
+
+                                                                                    The Group
+                                                                       6 months        6 months
+                                                                       ended 31        ended 31
+                                                                          March           March
+                                                                            2026           2025      Change
+                                                                Note       $’000          $’000          %
+
+ Revenue                                                         5     1,135,426      1,212,637          (6.4)
+ Cost of sales                                                          (756,844)      (835,993)         (9.5)
+ Gross profit                                                            378,582        376,644           0.5
+ Other (expense)/income (net)                                             (2,474)         3,612           NM
+ Operating expenses
+ - Distribution                                                         (89,252)        (91,844)         (2.8)
+ - Marketing                                                            (94,205)        (91,085)          3.4
+ - Administration                                                       (75,426)        (73,300)          2.9
+                                                                       (258,883)       (256,229)          1.0
+ Trading profit                                                         117,225         124,027          (5.5)
+ Share of results of joint ventures                                       6,394           5,128          24.7
+ Share of results of associates                                          51,150          35,964          42.2
+ Gross income from investments                                                5                -          NM
+ Profit before interest and taxation (“PBIT”)                           174,774         165,119           5.8
+ Finance income                                                           2,805           6,572         (57.3)
+ Finance costs                                                          (19,498)        (22,216)        (12.2)
+ Net finance costs                                                      (16,693)        (15,644)          6.7
+ Profit before taxation and exceptional items                           158,081         149,475           5.8
+ Exceptional items                                                          387          (1,288)          NM
+ Profit before taxation                                           6     158,468         148,187           6.9
+ Taxation                                                         7     (45,441)        (23,390)         94.3
+ Profit after taxation                                                  113,027         124,797          (9.4)
+
+ Attributable profit to:
+ - Shareholders of the Company                                           81,649          84,112          (2.9)
+ - Exceptional items                                                        195          (1,026)          NM
+                                                                         81,844          83,086          (1.5)
+ Non-controlling interests                                               31,183          41,711         (25.2)
+                                                                        113,027         124,797          (9.4)
+
+
+ Earnings per share attributable to the shareholders of the
+   Company:                                                       9
+ (a) Basic (cents)
+     - before exceptional items                                              5.6            5.8
+     - after exceptional items                                               5.6            5.7
+ (b) Fully diluted (cents)
+     - before exceptional items                                              5.6            5.8
+     - after exceptional items                                               5.6            5.7
+
+
+ NM – Not meaningful
+FRASER AND NEAVE, LIMITED AND ITS SUBSIDIARIES                                                  Page 4 of 25
+
+B. Condensed interim consolidated statement of comprehensive income
+
+
+
+                                                                                            Group
+
+                                                                                    6 months          6 months
+                                                                                    ended 31          ended 31
+                                                                                       March             March
+                                                                                         2026              2025
+                                                                                        $’000             $’000
+
+    Profit after taxation                                                            113,027           124,797
+
+    Other comprehensive income:
+
+    Items that may be reclassified subsequently to profit or loss
+    Share of other comprehensive income of associates and joint ventures                 651               671
+
+    Fair value changes on derivative financial instruments                            14,133               (309)
+
+    Currency translation differences                                                  43,654             (5,703)
+
+                                                                                      58,438             (5,341)
+
+    Items that will not be reclassified to profit or loss
+    Fair value changes on equity investments measured at fair value through other
+      comprehensive income                                                              (393)                  83
+
+                                                                                        (393)                  83
+
+    Other comprehensive income for the period, net of taxation                        58,045             (5,258)
+
+    Total comprehensive income for the period                                        171,072           119,539
+
+
+    Total comprehensive income attributable to:
+
+    Shareholders of the Company                                                      120,514             88,771
+
+    Non-controlling interests                                                         50,558             30,768
+
+                                                                                     171,072           119,539
+FRASER AND NEAVE, LIMITED AND ITS SUBSIDIARIES                                                  Page 5 of 25
+
+C. Condensed interim statements of financial position
+
+                                                             Group                         Company
+                                                  As at 31             As at 30     As at 31       As at 30
+                                                   March             September       March      September
+                                      Note           2026                 2025         2026           2025
+                                                    $’000                 $’000       $’000          $’000
+SHARE CAPITAL AND RESERVES
+Share capital                           10         865,722              865,722      865,722         865,722
+Treasury shares                                     (1,246)              (1,382)      (1,246)         (1,382)
+Reserves                                         1,932,050            1,907,515      718,192         714,621
+                                                 2,796,526            2,771,855    1,582,668       1,578,961
+NON-CONTROLLING INTERESTS                          571,715              548,585             -              -
+                                                 3,368,241            3,320,440    1,582,668       1,578,961
+
+
+NON-CURRENT ASSETS
+Property, plant and equipment          12        1,175,987            1,153,959        3,411             545
+Investment properties                               58,006               57,411            -               -
+Properties held for development                     16,997               16,226            -               -
+Investments in subsidiaries                              -                    -    2,173,343       2,173,343
+Investments in joint ventures                      137,293              133,432       38,578          38,578
+Investments in associates                        2,517,559            2,228,381            -               -
+Biological assets                                   31,801               13,850            -               -
+Intangible assets                                  209,879              210,588          179              57
+Brands                                              53,357               52,074          212             212
+Other investments                                    2,576                2,969       94,521          94,023
+Other receivables                                    9,338                1,527          408               -
+Deferred tax assets                                  9,688               10,452          548             158
+                                                 4,222,481            3,880,869    2,311,200       2,306,916
+
+CURRENT ASSETS
+Inventories                                        327,630              315,616           -                -
+Trade receivables                                  365,331              321,368           -                -
+Other receivables                                   88,883              101,485       2,254            1,788
+Amount due from related parties                      7,540                6,865       1,173              748
+Amount due from subsidiaries                             -                    -     106,291           68,155
+Amount due from joint ventures                       1,413                  494         173               54
+Cash and bank deposits                             334,661              363,496       7,699           45,128
+                                                 1,125,458            1,109,324     117,590          115,873
+Asset held for sale                                 45,939               43,856           -                -
+                                                 1,171,397            1,153,180     117,590          115,873
+Deduct: CURRENT LIABILITIES
+Trade payables                                     243,294             213,658            -                -
+Other payables                                     264,757             259,857       13,179           14,355
+Amount due to related parties                        5,755               6,044          183               47
+Amount due to subsidiaries                               -                   -       24,361           24,501
+Lease liabilities                                    8,281               6,852        1,298              133
+Borrowings                              13         303,223             351,574       74,995           74,976
+Provision for taxation                              33,118              25,114        1,456            1,858
+                                                   858,428             863,099      115,472          115,870
+
+NET CURRENT ASSETS                                 312,969             290,081         2,118                   3
+
+Deduct: NON-CURRENT LIABILITIES
+Other payables                                       9,401              16,400            -                -
+Amount due to subsidiaries                               -                   -      670,000          670,000
+Lease liabilities                                   31,836              30,372        2,295                9
+Borrowings                              13       1,055,029             736,889       57,965           57,949
+Provision for employee benefits                     13,973              13,735            -                -
+Deferred tax liabilities                            56,970              53,114          390                -
+                                                 1,167,209             850,510      730,650          727,958
+
+NET ASSETS                                       3,368,241            3,320,440    1,582,668       1,578,961
+      FRASER AND NEAVE, LIMITED AND ITS SUBSIDIARIES                                                                                                  Page 6 of 25
+
+      D. Condensed interim statements of changes in equity
+
+                                                                                                The Group
+                                        Share Treasury      Capital   Revenue      Exchange      Fair Value    Hedging   Share-      Dividend        Total           Non-       Total
+                                       Capital  Shares     Reserve    Reserve       Reserve     Adjustment     Reserve   based       Reserve                   controlling     Equity
+                                                                                                   Reserve             Payment                                   Interests
+6 months ended                                                                                                         Reserve
+31 March 2026                            $’000   $’000       $'000        $'000        $'000          $’000      $’000    $'000         $'000       $’000           $’000        $’000
+
+Balance at 1 October 2025              865,722   (1,382)     39,798   2,409,560     (547,145)       (40,048)    (20,300)   7,416       58,234    2,771,855        548,585    3,320,440
+Effects of adopting Amendments to
+   SFRS(I) 1-21                              -         -          -      (4,808)     (31,792)              -          -        -            -      (36,600))       (9,498)     (46,098)
+Balance at 1 October 2025              865,722   (1,382)     39,798   2,404,752     (578,937)       (40,048)    (20,300)   7,416       58,234    2,735,255        539,087    3,274,342
+
+Comprehensive income
+Share of other comprehensive
+ income of associates                        -        -           -        537           112              2           -         -           -         651                -        651
+
+Fair value changes on derivative
+ financial instruments                       -        -           -           -            -              -     14,133          -           -      14,133                -     14,133
+
+Fair value changes on equity
+ investments measured at fair value
+ through other comprehensive income          -        -           -           -            -          (393)           -         -           -        (393)               -        (393)
+
+Currency translation difference              -        -           -           -       24,279              -           -         -           -      24,279          19,375       43,654
+
+Other comprehensive income for
+ the period                                  -        -           -        537        24,391          (391)     14,133          -           -      38,670          19,375      58,045
+
+Profit for the period                        -        -           -     81,844             -              -           -         -           -      81,844          31,183     113,027
+
+Total comprehensive income for
+ the period                                  -        -           -     82,381        24,391          (391)     14,133          -           -     120,514          50,558     171,072
+
+Contributions by and distributions
+ to owners
+Employee share-based expense                 -        -           -           -            -              -           -    1,251            -       1,251             410        1,661
+
+Purchase of treasury shares                  -   (2,227)          -           -            -              -           -         -           -       (2,227)              -      (2,227)
+
+Treasury shares reissued pursuant to
+ share plans                                 -   2,363        (568)           -            -              -           -    (1,795)          -            -               -           -
+
+Dividends:
+Dividends paid                               -        -           -         (33)           -              -           -         -     (58,234)     (58,267)       (18,340)     (76,607)
+
+Dividends proposed                           -        -           -     (21,839)           -              -           -         -      21,839            -               -           -
+
+Total contributions by and
+ distributions to owners                     -     136        (568)     (21,872)           -              -           -     (544)     (36,395)     (59,243)       (17,930)     (77,173)
+
+Total transactions with owners
+ in their capacity as owners                 -     136        (568)     (21,872)           -              -           -     (544)     (36,395)     (59,243)       (17,930)     (77,173)
+
+Balance at 31 March 2026               865,722   (1,246)     39,230   2,465,261     (554,546)       (40,439)    (6,167)    6,872       21,839    2,796,526        571,715    3,368,241
+      FRASER AND NEAVE, LIMITED AND ITS SUBSIDIARIES                                                                                                  Page 7 of 25
+
+      D. Condensed interim statements of changes in equity (cont’d)
+
+                                                                                                The Group
+                                        Share Treasury      Capital   Revenue      Exchange      Fair Value    Hedging   Share-      Dividend        Total          Non-       Total
+                                       Capital  Shares     Reserve    Reserve       Reserve     Adjustment     Reserve   based       Reserve                  controlling     Equity
+                                                                                                   Reserve             Payment                                  Interests
+6 months ended                                                                                                         Reserve
+31 March 2025                            $’000   $’000       $'000        $'000        $'000          $’000      $’000    $'000         $'000       $’000          $’000       $’000
+
+Balance at 1 October 2024              865,722    (935)      25,259   2,348,836     (392,430)       (40,009)     (7,684)   7,900       58,243    2,864,902       515,773    3,380,675
+
+Comprehensive income
+Share of other comprehensive
+ income of associates and
+ joint ventures                              -        -           -       (295)          967             (1)          -         -           -         671               -        671
+
+Fair value changes on derivative
+ financial instruments                       -        -           -           -            -              -       (309)         -           -        (309)              -       (309)
+
+Fair value changes on equity
+ investments measured at fair value
+ through other comprehensive income          -        -           -           -            -             83           -         -           -          83               -         83
+
+Currency translation difference              -        -           -           -        5,240              -           -         -           -       5,240        (10,943)     (5,703)
+
+Other comprehensive income for
+ the period                                  -        -           -       (295)        6,207             82       (309)         -           -       5,685        (10,943)     (5,258)
+
+Profit for the period                        -        -           -     83,086             -              -           -         -           -      83,086         41,711     124,797
+
+Total comprehensive income for
+ the period                                  -        -           -     82,791         6,207             82       (309)         -           -      88,771         30,768     119,539
+
+Contributions by and distributions
+ to owners
+Employee share-based expense                 -        -           -           -            -              -           -      936            -         936            427       1,363
+
+Purchase of treasury shares                  -   (1,278)          -           -            -              -           -         -           -       (1,278)             -      (1,278)
+
+Treasury shares reissued pursuant to
+ share plans                                 -   2,001        (299)           -            -              -           -    (1,702)          -            -              -           -
+
+Purchase of shares by a subsidiary           -         -          -       (890)            -              -           -         -           -        (890)          (714)      (1,604)
+
+Dividends:
+Dividends paid                               -        -           -         (26)           -              -           -         -     (58,243)     (58,269)      (16,298)     (74,567)
+
+Dividends proposed                           -        -           -     (21,850)           -              -           -         -      21,850            -              -           -
+
+Total contributions by and
+ distributions to owners                     -     723        (299)     (22,766)           -              -           -     (766)     (36,393)     (59,501)      (16,585)     (76,086)
+
+Changes in ownership interests
+Change in interest in a subsidiary           -        -           -        120             -              -           -         -           -         120              6         126
+
+Total changes in ownership interests         -        -           -        120             -              -           -         -           -         120              6         126
+
+Total transactions with owners
+ in their capacity as owners                 -     723        (299)     (22,646)           -              -           -     (766)     (36,393)     (59,381)      (16,579)     (75,960)
+
+Balance at 31 March 2025               865,722    (212)      24,960   2,408,981     (386,223)       (39,927)     (7,993)   7,134       21,850    2,894,292       529,962    3,424,254
+FRASER AND NEAVE, LIMITED AND ITS SUBSIDIARIES                                                                          Page 8 of 25
+
+D. Condensed interim statements of changes in equity (cont’d)
+                                                                                   The Company
+
+                                                Share    Treasury     Capital    Revenue      Fair Value      Share-    Dividend        Total
+                                               Capital     Shares    Reserve     Reserve     Adjustment       based     Reserve        Equity
+                                                                                                Reserve     Payment
+                                                                                                            Reserve
+                                                 $’000      $’000      $’000        $’000          $’000       $’000       $’000         $’000
+6 months ended 31 March 2026
+Balance at 1 October 2025                      865,722     (1,382)     (1,390)    710,874        (55,838)      2,741      58,234    1,578,961
+
+Comprehensive income
+Fair value changes on equity investments
+ measured at fair value through other
+ comprehensive income                                -          -           -           -            497           -           -          497
+
+Other comprehensive income for the period            -          -           -           -            497           -           -          497
+
+Profit for the period                                -          -           -     62,964               -           -           -       62,964
+
+Total comprehensive income for the period            -          -           -     62,964             497           -           -       63,461
+
+Contributions by and distributions to owners
+Employee share-based expense                         -          -           -           -              -        740            -          740
+
+Purchase of treasury shares                          -     (2,227)          -           -              -           -           -       (2,227)
+
+Treasury shares reissued pursuant to
+ share plan                                          -      2,363       (568)           -              -      (1,795)          -             -
+
+Dividends:
+Dividends paid                                       -          -           -         (33)             -           -     (58,234)     (58,267)
+
+Dividends proposed                                   -          -           -     (21,839)             -           -      21,839             -
+
+Total transactions with owners in their
+ capacity as owners                                  -       136        (568)     (21,872)             -      (1,055)    (36,395)     (59,754)
+
+Balance at 31 March 2026                       865,722     (1,246)     (1,958)   751,966         (55,341)      1,686      21,839    1,582,668
+
+6 months ended 31 March 2025
+
+Balance at 1 October 2024                      865,722       (935)     (1,091)   668,528         (33,213)      2,905      58,243    1,560,159
+
+Comprehensive income
+Fair value changes on equity investments
+ measured at fair value through other
+ comprehensive income                                -          -           -           -        (14,714)          -           -     (14,714)
+
+Other comprehensive income for the period            -          -           -           -        (14,714)          -           -       (14,714)
+
+Profit for the period                                -          -           -     54,792               -           -           -       54,792
+
+Total comprehensive income for the period            -          -           -     54,792         (14,714)          -           -       40,078
+
+Contributions by and distributions to owners
+Employee share-based expense                         -          -           -           -              -        404            -          404
+
+Purchase of treasury shares                          -     (1,278)          -           -              -           -           -        (1,278)
+
+Treasury shares reissued pursuant to
+ share plan                                          -      2,001       (299)           -              -      (1,702)          -             -
+
+Dividends:
+Dividends paid                                       -          -           -         (26)             -           -     (58,243)    (58,269)
+
+Dividends proposed                                   -          -           -     (21,850)             -           -      21,850             -
+
+Total transactions with owners in their
+ capacity as owners                                  -       723        (299)     (21,876)             -      (1,298)    (36,393)      (59,143)
+
+Balance at 31 March 2025                       865,722       (212)     (1,390)   701,444         (47,927)      1,607      21,850    1,541,094
+FRASER AND NEAVE, LIMITED AND ITS SUBSIDIARIES                                                Page 9 of 25
+
+E. Condensed interim consolidated statement of cash flows
+
+                                                                                        The Group
+                                                                                 6 months         6 months
+                                                                                 ended 31         ended 31
+                                                                                    March            March
+                                                                                      2026             2025
+                                                                          Note       $’000            $’000
+
+ CASH FLOWS FROM OPERATING ACTIVITIES
+ Profit before taxation and exceptional items                                     158,081           149,475
+ Adjustments for:
+   Depreciation of property, plant and equipment                             6     41,178            39,097
+   Amortisation of brands and intangible assets                              6      4,811             5,815
+   Impairment of property, plant and equipment                                          5                  4
+   Reversal of impairment of property, plant and equipment                           (214)             (129)
+   Property, plant and equipment written off                                           42                 66
+   Provision for employee benefits                                                    640               636
+   Gain on disposal of property, plant and equipment                         6         (6)              (10)
+   Gain on derecognition of leases                                                     (5)               (84)
+   Depopulation of biological assets                                                  998                  -
+   Changes in fair value of biological assets                                         326                  -
+   Interest income                                                                 (2,805)           (6,572)
+   Interest expenses                                                               19,498            22,216
+   Share of results of joint ventures                                              (6,394)           (5,128)
+   Share of results of associates                                                 (51,150)          (35,964)
+   Gross income from other investments                                                 (5)                 -
+   Employee share-based expense                                              6      1,661             1,363
+   Fair value adjustment of financial instruments                                     (17)              197
+   Loss/(Gain) on disposal of financial instruments                                   694              (492)
+ Operating cash before working capital changes                                    167,338           170,490
+ Change in inventories                                                            (19,702)           14,830
+ Change in receivables                                                            (48,126)           (9,068)
+ Change in related parties’ and joint ventures and associates’ balances            (1,883)           (5,543)
+ Change in payables                                                                71,289             9,736
+ Currency realignment                                                              11,310            (4,422)
+ Cash generated from operations                                                   180,226           176,023
+ Interest income received                                                           2,838             6,347
+ Interest expenses paid                                                           (20,486)          (21,492)
+ Income taxes paid                                                                (36,776)          (31,136)
+ Payment of employee benefits                                                        (571)           (1,156)
+ Net cash from operating activities                                               125,231           128,586
+
+ CASH FLOWS FROM INVESTING ACTIVITIES
+ Dividends from associates                                                         59,934            11,383
+ Gross income from other investments                                                    5                  -
+ Proceeds from disposal of property, plant and equipment                              516               294
+ Purchase of property, plant and equipment                                        (80,236)          (94,343)
+ Payment for biological assets                                                    (19,927)           (1,310)
+ Payment for intangible assets                                                     (3,258)           (3,036)
+ Investments in an associate                                                     (296,080)                 -
+ Net cash used in investing activities                                           (339,046)          (87,012)
+FRASER AND NEAVE, LIMITED AND ITS SUBSIDIARIES                                   Page 10 of 25
+
+E. Condensed interim consolidated statement of cash flows (cont'd)
+
+                                                                             The Group
+                                                                     6 months         6 months
+                                                                     ended 31         ended 31
+                                                                        March            March
+                                                                         2026             2025
+                                                                         $'000            $'000
+
+CASH FLOWS FROM FINANCING ACTIVITIES
+Proceeds from borrowings                                              705,875            33,652
+Repayment of borrowings                                              (435,666)          (42,600)
+Payment of lease liabilities                                           (4,908)           (4,701)
+Purchase of treasury shares                                            (2,227)           (1,278)
+Purchase of shares by a subsidiary                                          -            (1,604)
+Payment of dividends:
+ - by subsidiary companies to non-controlling interests               (18,340)          (16,298)
+ - by the Company to shareholders                                     (58,267)          (58,269)
+Net cash from/(used in) financing activities                          186,467           (91,098)
+
+Net decrease in cash and cash equivalents                             (27,348)         (49,524)
+Cash and cash equivalents at beginning of period                      363,496          529,638
+Effects of exchange rate changes on cash and cash equivalents           3,669           (8,671)
+Effects of adopting Amendments to SFRS(I) 1-21                         (5,156)                -
+Cash and cash equivalents at end of period                            334,661          471,443
+FRASER AND NEAVE, LIMITED AND ITS SUBSIDIARIES                                                          Page 11 of 25
+
+F. Notes to the condensed interim financial statements
+
+1.    General information
+
+      Fraser and Neave, Limited (the "Company") is a limited liability company incorporated and domiciled in Singapore
+      and is listed on the Singapore Exchange Securities Trading Limited (“SGX”). The registered office of the Company
+      is located at 438 Alexandra Road, #20-00 Alexandra Point, Singapore 119958. The immediate holding company
+      and ultimate holding company are InterBev Investment Limited and Charoen Num Sub 1 Co., Ltd respectively.
+
+      The condensed interim financial statements as at and for the six months ended 31 March 2026 comprise the
+      Company and its subsidiaries (together referred to as the “Group”).
+
+      The principal activities of the Group are:
+      (a)   production and sale of beverages and dairy products; and
+      (b)   printing and publishing.
+
+      These activities are carried out through the Company's subsidiaries, joint ventures and associates. The Company
+      provides management and administrative services to some subsidiaries.
+
+
+2.    Basis of preparation
+
+      The condensed interim financial statements for the six months ended 31 March 2026 have been prepared in
+      accordance with Singapore Financial Reporting Standards (International) (“SFRS(I)”) 1-34 Interim Financial
+      Reporting issued by the Accounting Standards Committee. The condensed interim financial statements do not
+      include all the information required for a complete set of financial statements. However, selected explanatory notes
+      are included to explain events and transactions that are significant to an understanding of the changes in the
+      Group’s financial position and performance of the Group since the audited financial statements for the year ended
+      30 September 2025.
+
+      The condensed interim financial statements are presented in Singapore Dollar and all values are rounded to the
+      nearest thousand ($’000) unless otherwise stated.
+
+      The Group and the Company have applied the same accounting policies and methods of computation in the
+      preparation of the interim financial statements and are consistent with those used in the Group’s financial
+      statements for the year ended 30 September 2025 which were prepared in accordance with SFRS(I)s except for the
+      adoption of Amendments to SFRS(I) 1-21 Lack of Exchangeability.
+
+      Amendments to SFRS(I) 1-21 Lack of Exchangeability
+
+      The Group has adopted Amendments to SFRS(I) 1-21 Lack of Exchangeability from 1 October 2025. The
+      amendment clarifies when a currency is exchangeable into another currency and how a company estimates a spot
+      rate when a currency lacks exchangeability.
+
+      Due to foreign currency convertibility regulations issued by the Central Bank of Myanmar, the Group is subject to
+      restrictions which requires approval to be obtained from the relevant authority in order to exchange Myanmar Kyat
+      (“MMK”) for another currency and for overseas remittance.
+
+      Prior to the adoption of Amendments to SFRS(I) 1-21, the Group adopted the reference exchange rate published by
+      the Central Bank of Myanmar to translate the results and financial positions of the Group entities in Myanmar. Upon
+      adoption of the Amendments to SFRS(I) 1-21, this has been changed to the market trading exchange rate
+      published by the Central Bank of Myanmar.
+
+      In accordance with the required transitional approach, the Group recognized the effects of the adoption of
+      Amendments to SFRS(I) 1-21 as an adjustment to the Group’s financial statements as at 1 October 2025. The
+      effects are as follows:
+                                                                                                        2025
+                                                                                                       $’000
+      Decrease in assets                                                                             (87,645)
+      Decrease in liabilities                                                                        (41,547)
+      Decrease in revenue reserves                                                                    (4,808)
+      Decrease in exchange reserves                                                                  (31,792)
+      Decrease in non-controlling interests                                                           (9,498)
+FRASER AND NEAVE, LIMITED AND ITS SUBSIDIARIES                                                                                                  Page 12 of 25
+
+F. Notes to the condensed interim financial statements (cont’d)
+
+2.    Basis of preparation (cont’d)
+
+      2.1 Significant accounting estimates and judgments
+
+               In preparing the condensed interim financial statements, management has made judgements, estimates and
+               assumptions that affect the application of accounting policies and the reported amounts of assets and
+               liabilities, income and expense. Actual results may differ from these estimates.
+
+               The significant judgements made by management in applying the Group’s accounting policies and the key
+               sources of estimation uncertainty were the same as those that applied to the audited consolidated financial
+               statements as at and for the year ended 30 September 2025.
+
+               Estimates and underlying assumptions are reviewed on an ongoing basis. Revisions to accounting estimates
+               are recognised in the period in which the estimates are revised and in any future periods affected.
+
+
+3.    Seasonal operations
+
+      The Group’s performance is normally not affected by material seasonal or cyclical factors on a year to year basis.
+      However, on a half-yearly basis, the demand for certain products may be skewed towards major festivities, events
+      and weather pattern.
+
+
+4.    Segment information
+
+      The Group's operating businesses are organised and managed separately according to the nature of activities. The
+      Group's operating segments are namely beverages, dairies, printing and publishing and others. The Group operates
+      in the following key geographical areas, namely Singapore, Malaysia, Thailand and Vietnam and other countries.
+
+      The following tables presents financial information regarding operating segments:
+
+      Segment results for 6 months ended 31 March 2026
+                                                                                                                                                                Per
+                                                                                                                                                       Consolidated
+                                                                                                                Printing &                                Financial
+                                                                              Beverages               Dairies   Publishing     Others    Elimination    Statements
+      Operating Segment                                                           $’000                $’000         $’000      $’000          $’000          $’000
+      Revenue - external                                                          376,923             617,789       98,097     42,617             -       1,135,426
+      Revenue - inter segment                                                          32                   -          684      1,594        (2,310)              -
+      Total revenue                                                               376,955             617,789       98,781     44,211        (2,310)      1,135,426
+
+      Subsidiaries                                                                 52,246              66,545       (3,204)     1,643             -         117,230
+      Joint venture and associates                                                      -              51,150            -      6,394             -          57,544
+      Profit/(Loss) before interest and taxation                                   52,246             117,695       (3,204)     8,037             -         174,774
+
+      Finance income                                                                                                                                          2,805
+      Finance costs                                                                                                                                         (19,498)
+      Profit before taxation and exceptional items                                                                                                          158,081
+      Exceptional items                                                                                                                                         387
+      Profit before taxation                                                                                                                                158,468
+      Taxation                                                                                                                                              (45,441)
+      Profit after taxation                                                                                                                                 113,027
+      Non-controlling interests                                                                                                                             (31,183)
+      Attributable profit                                                                                                                                    81,844
+
+      Attributable profit/(loss) before exceptional items                          21,043              58,768       (4,495)     6,333             -          81,649
+      Exceptional items                                                               162                  32            -          1             -             195
+      Attributable profit/(loss)                                                   21,205              58,800       (4,495)     6,334             -          81,844
+
+      Segment assets as at 31 March 2026*                                         628,445        3,722,998        252,947     445,139             -       5,049,529
+      Segment liabilities as at 31 March 2026#                                    195,398              447
+                                                                                                   293,771         63,124      25,004             -         577,297
+
+                                                                                                                                                               Per
+                                                                                                                                                       Consolidated
+                                                                                                                                                          Financial
+                                                                               Singapore         Malaysia         Thailand    Vietnam        Others     Statements
+      Geographical Segment                                                          $’000           $’000            $’000       $’000        $’000           $’000
+      Total revenue                                                               206,117         511,479          311,483           -      106,347       1,135,426
+      Profit before interest and taxation                                           5,326          47,128           64,376      51,150        6,794         174,774
+
+      * Segment assets exclude deferred tax assets and cash and bank deposits
+      #
+        Segment liabilities exclude borrowings, provision for taxation and deferred tax liabilities
+FRASER AND NEAVE, LIMITED AND ITS SUBSIDIARIES                                                                                                   Page 13 of 25
+
+F. Notes to the condensed interim financial statements (cont’d)
+
+4.    Segment information (cont’d)
+
+      Segment results for 6 months ended 31 March 2025
+                                                                                                                                                                 Per
+                                                                                                                                                        Consolidated
+                                                                                                                 Printing &                                Financial
+                                                                              Beverages               Dairies    Publishing     Others    Elimination    Statements
+      Operating Segment                                                           $’000                $’000          $’000      $’000          $’000          $’000
+      Revenue - external                                                          429,382             643,385        95,845     44,025             -       1,212,637
+      Revenue - inter segment                                                          38                   4           546      1,360        (1,948)              -
+      Total revenue                                                               429,420             643,389        96,391     45,385        (1,948)      1,212,637
+
+      Subsidiaries                                                                 30,257              99,250        (9,437)     3,957             -         124,027
+      Joint venture and associates                                                      -              35,964             -      5,128             -          41,092
+      Profit/(Loss) before interest and taxation                                   30,257             135,214        (9,437)     9,085             -         165,119
+
+      Finance income                                                                                                                                           6,572
+      Finance costs                                                                                                                                          (22,216)
+      Profit before taxation and exceptional items                                                                                                           149,475
+      Exceptional items                                                                                                                                       (1,288)
+      Profit before taxation                                                                                                                                 148,187
+      Taxation                                                                                                                                               (23,390)
+      Profit after taxation                                                                                                                                  124,797
+      Non-controlling interests                                                                                                                              (41,711)
+      Attributable profit                                                                                                                                     83,086
+
+      Attributable profit/(loss) before exceptional items                          14,945              70,475        (8,071)     6,763             -          84,112
+      Exceptional items                                                              (170)                (59)         (796)        (1)            -          (1,026)
+      Attributable profit/(loss)                                                   14,775              70,416        (8,867)     6,762             -          83,086
+
+      Segment assets as at 31 March 2025*                                         659,178        3,420,320         236,007     430,417             -       4,745,922
+      Segment liabilities as at 31 March 2025#                                    187,196          303,231          68,167      18,740             -         577,334
+
+                                                                                                                                                                Per
+                                                                                                                                                        Consolidated
+                                                                                                                                                           Financial
+                                                                               Singapore         Malaysia          Thailand    Vietnam        Others     Statements
+      Geographical Segment                                                          $’000           $’000             $’000       $’000        $’000           $’000
+      Total revenue                                                               197,433         479,296           364,394           -      171,514       1,212,637
+      (Loss)/Profit before interest and taxation                                   (1,225)         54,460            80,474      35,964       (4,554)        165,119
+
+
+
+
+      * Segment assets exclude deferred tax assets and cash and bank deposits
+      #
+        Segment liabilities exclude borrowings, provision for taxation and deferred tax liabilities
+FRASER AND NEAVE, LIMITED AND ITS SUBSIDIARIES                                                  Page 14 of 25
+
+F. Notes to the condensed interim financial statements (cont’d)
+
+5.    Revenue information
+
+      Disaggregation of revenue
+
+                                                                          Operating Segments
+                                                                                Printing &
+                                                   Beverages      Dairies      Publishing      Others           Total
+                                                        $'000      $'000             $'000      $'000           $'000
+         6 months ended 31 March 2026
+         Primary geographical markets
+         Singapore                                    63,872       63,709         78,536            -       206,117
+         Malaysia                                    219,429      237,451         12,169       42,430       511,479
+         Thailand                                          -      311,481              2            -       311,483
+         Others                                       93,622        5,148          7,390          187       106,347
+                                                     376,923      617,789         98,097       42,617     1,135,426
+         Major products/service lines
+         Sale of goods                               376,095      617,779         58,514       42,478     1,094,866
+         Sale of services                                125            -         36,646           19        36,790
+         Others                                          703           10          2,937          120         3,770
+                                                     376,923      617,789         98,097       42,617     1,135,426
+         Timing of transfer of goods or services
+         At a point in time                          376,918      617,789         96,852       42,617     1,134,176
+         Over time                                         5            -          1,245            -         1,250
+                                                     376,923      617,789         98,097       42,617     1,135,426
+
+         6 months ended 31 March 2025
+         Primary geographical markets
+         Singapore                                    63,059       62,328         72,046            -       197,433
+         Malaysia                                    209,787      211,041         14,842       43,626       479,296
+         Thailand                                          -      364,386              8            -       364,394
+         Others                                      156,536        5,630          8,949          399       171,514
+                                                     429,382      643,385         95,845       44,025     1,212,637
+         Major products/service lines
+         Sale of goods                               428,668      643,376         57,094       43,905     1,173,043
+         Sale of services                                228            -         36,326           18        36,572
+         Others                                          486            9          2,425          102         3,022
+                                                     429,382      643,385         95,845       44,025     1,212,637
+         Timing of transfer of goods or services
+         At a point in time                          429,382      643,385         94,066       44,025     1,210,858
+         Over time                                         -            -          1,779            -         1,779
+                                                     429,382      643,385         95,845       44,025     1,212,637
+FRASER AND NEAVE, LIMITED AND ITS SUBSIDIARIES                                                 Page 15 of 25
+
+F. Notes to the condensed interim financial statements (cont’d)
+
+6.      Profit before taxation
+
+        Profit before taxation have been arrived at after charging/(crediting):
+
+                                                                                        The Group
+                                                                                  6 months        6 months
+                                                                                  ended 31        ended 31
+                                                                                     March           March
+                                                                                       2026           2025
+                                                                                      $’000          $’000
+         Operating expenses
+         Included in operating expenses are:
+
+         Depreciation of property, plant and equipment                              41,178          39,097
+         Amortisation of brands and intangible assets                                4,811           5,815
+         Allowance/(Write back) for bad and doubtful debts                             100            (120)
+         Allowance for inventory obsolescence                                        3,702           2,865
+         Employee share-based expense                                                1,661           1,363
+
+         Other (expense)/income (net)
+         Gain on disposal of property, plant and equipment                              (6)             (10)
+         Foreign exchange loss/(gain)                                                3,778             (175)
+
+         Exceptional items
+         Insurance claim relating to flood                                            (344)               -
+
+         (Write back)/Provision for restructuring and re-organisation
+           costs of operations                                                          (43)         1,288
+
+                                                                                      (387)          1,288
+
+
+
+7.      Taxation
+                                                                                        The Group
+                                                                                  6 months        6 months
+                                                                                  ended 31        ended 31
+                                                                                     March           March
+                                                                                       2026           2025
+                                                                                      $’000           $’000
+
+        Current tax expense
+        - Current year                                                              44,993           35,915
+        - Under/(Over) provision in prior years                                        372          (15,050)
+                                                                                    45,365           20,865
+
+        Deferred tax expense
+        - Current year                                                                 (43)           3,426
+        - Under/(Over) provision in prior years                                        119             (901)
+                                                                                        76            2,525
+
+                                                                                    45,441          23,390
+FRASER AND NEAVE, LIMITED AND ITS SUBSIDIARIES                                                      Page 16 of 25
+
+F. Notes to the condensed interim financial statements (cont’d)
+
+8.      Dividends
+
+                                                                                  The Group and The Company
+                                                                                    6 months          6 months
+                                                                                    ended 31          ended 31
+                                                                                       March             March
+                                                                                         2025              2025
+                                                                                        $’000             $’000
+
+        Interim proposed of 1.5 cents per share                                        21,839                 21,850
+           (2025: 1.5 cents per share)
+
+
+
+9.      Earnings per share
+
+        (a)   Basic earnings per share
+
+              Basic earnings per share is computed by dividing the Group attributable profit to shareholders of the
+              Company by the weighted average number of ordinary shares in issue during the period.
+
+
+                                                                                          The Group
+                                                                                    6 months               6 months
+                                                                                    ended 31               ended 31
+                                                                                       March                  March
+                                                                                         2026                  2025
+                                                                                        $’000                 $’000
+
+
+              Group attributable profit to shareholders of the Company
+              - before exceptional items                                               81,649                 84,112
+              - after exceptional items                                                81,844                 83,086
+
+
+
+                                                                                  ----------Number of shares--------
+
+              Weighted average number of ordinary shares in issue               1,456,151,560         1,456,271,109
+
+              Earnings per share (basic) (cents)
+              - before exceptional items                                                   5.6                    5.8
+              - after exceptional items                                                    5.6                    5.7
+FRASER AND NEAVE, LIMITED AND ITS SUBSIDIARIES                                                          Page 17 of 25
+
+F. Notes to the condensed interim financial statements (cont’d)
+
+9.      Earnings per share (cont’d)
+
+        (b)   Diluted earnings per share
+
+              Diluted earnings per share is computed by dividing the Group adjusted attributable profit to shareholders of
+              the Company by the adjusted weighted average number of ordinary shares in issue during the period.
+
+              For diluted earnings per share, the Group attributable profit to shareholders of the Company is adjusted for
+              changes in subsidiary’s attributable profit resulting from dilutive potential shares under share plans of a
+              subsidiary. The reconciliation of the Group adjusted attributable profit to shareholders of the Company used
+              to compute diluted earnings per share is as follows:
+
+                                                                                              The Group
+                                                                                      6 months                 6 months
+                                                                                      ended 31                 ended 31
+                                                                                         March                    March
+                                                                                           2026                    2025
+                                                                                          $’000                   $’000
+
+              Group attributable profit to shareholders of the Company
+               before exceptional items                                                  81,649                  84,112
+              Change in attributable profit due to dilutive potential
+               shares under share plans of a subsidiary                                     (79)                    (66)
+
+              Group adjusted attributable profit to shareholders of the
+               Company before exceptional items                                          81,570                  84,046
+
+
+              Group attributable profit to shareholders of the Company
+               after exceptional items                                                   81,844                  83,086
+              Change in attributable profit due to dilutive potential
+               shares under share plans of a subsidiary                                     (80)                    (66)
+
+              Group adjusted attributable profit to shareholders of the
+               Company after exceptional items                                           81,764                  83,020
+
+
+
+              The weighted average number of ordinary shares is adjusted to assume exercise of all dilutive potential
+              shares under share plans of the Company. The reconciliation of the weighted average number of ordinary
+              shares used to compute diluted earnings per share is as follows:
+
+                                                                                                   The Group
+                                                                                      6 months                 6 months
+                                                                                      ended 31                 ended 31
+                                                                                         March                    March
+                                                                                          2026                     2025
+
+
+
+              Weighted average number of ordinary shares used
+               to compute basic earnings per share                                1,456,151,560          1,456,271,109
+
+              Adjustment for dilutive potential shares under
+               share plans of the Company                                             1,433,692                3,312,151
+
+              Weighted average number of ordinary shares used
+               to compute diluted earnings per share                              1,457,585,252          1,459,583,260
+
+              Earnings per share (fully diluted) (cents)
+              - before exceptional items                                                     5.6                     5.8
+              - after exceptional items                                                      5.6                     5.7
+FRASER AND NEAVE, LIMITED AND ITS SUBSIDIARIES                                                          Page 18 of 25
+
+F. Notes to the condensed interim financial statements (cont’d)
+
+10.     Share capital
+
+                                                                                The Group and The Company
+                                                                                 6 months             6 months
+                                                                                 ended 31             ended 30
+                                                                                    March            September
+                                                                                     2026                 2025
+
+                                                                          ------------------ Number of Shares -------------
+        Issued and fully paid ordinary shares:
+
+        As at beginning/end of the period                                   1,456,824,279                 1,456,824,279
+
+                                                                                     As at                         As at
+                                                                                 31 March                      31 March
+                                                                                     2026                          2025
+
+        The number of shares awarded conditionally under share
+         plans as at the end of the period                                       1,433,692                     3,312,151
+
+        The number of issued shares excluding treasury shares as at
+         the end of the period                                              1,455,935,991                 1,456,663,049
+
+        The Company held 888,288 treasury shares as at 31 March 2026 (31 March 2025:161,230 treasury shares). The
+        treasury shares held represent 0.06% (31 March 2025: 0.01%) of the total number of issued shares (excluding
+        treasury shares).
+
+        The Company did not have any subsidiary holdings as at 31 March 2026 and 31 March 2025.
+
+        The Company’s total number of issued shares excluding treasury shares is 1,455,935,991 as at 31 March 2026
+        and 1,455,844,949 as at 30 September 2025.
+
+        Movement of treasury shares were as follows:
+
+                                                                                The Group and The Company
+                                                                                 6 months             6 months
+                                                                                 ended 31             ended 30
+                                                                                    March            September
+                                                                                     2026                 2025
+
+                                                                          ------------------ Number of Shares -------------
+
+
+        As at beginning of the period                                              979,330                       161,230
+        Purchase of treasury shares                                              1,544,500                       818,100
+        Treasury shares reissued pursuant to share plans                        (1,635,542)                            -
+        As at end of the period                                                    888,288                       979,330
+
+        There were no sales, transfers, disposal, cancellation and/or use of subsidiary holdings by the Company during
+        the six months ended 31 March 2026.
+FRASER AND NEAVE, LIMITED AND ITS SUBSIDIARIES                                                                                 Page 19 of 25
+
+F. Notes to the condensed interim financial statements (cont’d)
+
+11.     Net asset value
+
+                                                               The Group                                           The Company
+
+                                                          As at                    As at                        As at                    As at
+                                                      31 March             30 September                     31 March             30 September
+                                                          2026                     2025                         2026                     2025
+
+         Net asset value per
+          ordinary share based on
+          issued share capital                             $1.92                      $1.90                      $1.09                      $1.08
+
+
+
+12.     Property, plant and equipment
+
+        During the six months ended 31 March 2026, the Group acquired assets amounting to $80,236,000 (six months
+        ended 31 March 2025: $99,818,000) and disposed of assets amounting to $661,000 (six months ended 31 March
+        2025: $972,000).
+
+
+13.     Borrowings
+                                                                                                                   The Group
+                                                                                                              As at 31              As at 30
+                                                                                                               March              September
+                                                                                                                 2026                   2025
+                                                                                                                $’000                  $’000
+
+        Amount repayable in one year or less, or on demand
+        Unsecured                                                                                             303,223                  351,574
+
+        Amount repayable after one year
+        Unsecured                                                                                           1,055,029                  736,889
+
+
+14.     Significant related party transactions
+
+        In addition to the information disclosed elsewhere in the financial statements, the following were the significant
+        related party transactions entered into between the Group and related parties based on agreed fees or terms
+        between the parties.
+                                                                                                  The Group
+                                                                                          6 months           6 months
+                                                                                          ended 31            ended 31
+                                                                                        March 2026         March 2025
+                                                                                               $’000              $’000
+
+        (a) Transactions with TCC Group of Companies (i)
+            Sales                                                                                               19,026                  13,886
+            Advertising & promotion support                                                                          1                        -
+            Service fee and other income                                                                         1,012                     980
+            Purchases                                                                                          (10,433)                (12,501)
+            Marketing expense                                                                                   (4,681)                 (5,054)
+            Logistic expense                                                                                    (3,835)                 (2,858)
+            Insurance premium expense                                                                             (439)                   (461)
+            Rental and other expenses                                                                           (4,147)                 (4,706)
+            (i)
+              This refers to the companies and entities in the TCC Group which are controlled by Mr Charoen Sirivadhanabhakdi and the estate of the
+            late Khunying Wanna Sirivadhanabhakdi.
+
+        (b) Transactions with Joint Ventures/Associates
+            Sales                                                                                                   275                        -
+            Receipt of corporate service fee                                                                         19                       18
+FRASER AND NEAVE, LIMITED AND ITS SUBSIDIARIES                                                                 Page 20 of 25
+
+F. Notes to the condensed interim financial statements (cont’d)
+
+15.     Contingent liabilities
+
+        The Company issued corporate guarantees to the extent of $3,814,243,000 (2025: $3,417,377,000) for the
+        purpose of assisting its subsidiaries and joint ventures to obtain external borrowings. Of the $3,814,243,000
+        (2025: $3,417,377,000) corporate guarantees given by the Company, $1,041,239,000 (2025: $665,316,000)
+        has been utilised by its subsidiaries and joint ventures as security for their borrowings. The borrowings taken by
+        its subsidiaries have been consolidated into the Group’s total borrowings (Note 13).
+
+
+16.     Classification of financial assets and liabilities
+
+        Set out below is a comparison by category of the carrying amounts of the Group's and the Company's financial
+        assets and liabilities that are carried in the financial statements:
+
+                                                                 The Group                            The Company
+                                                             As at 31      As at 30                As at 31     As at 30
+                                                              March      September                  March     September
+                                                                2026           2025                   2026          2025
+                                                               $’000          $’000                  $’000         $’000
+
+            Financial Assets
+            Other investments at FVOCI                          2,576              2,969             94,521            94,023
+            Derivative financial instruments
+             designated as a hedge                              4,765                   -                  -                     -
+            Derivative financial instruments at
+             fair value through profit and loss                   201                721                 -                  -
+            Financial assets at amortised cost                743,867            711,994           174,121            172,485
+                                                              751,409            715,684           268,642            266,508
+
+            Financial Liabilities
+            Derivative financial instruments
+             designated as a hedge                             13,409             22,063                   -                     -
+            Derivative financial instruments at
+             fair value through profit and loss                   196                 38                 -                  -
+            Financial liabilities at amortised cost         1,860,622          1,552,873           842,503            841,287
+                                                            1,874,227          1,574,974           842,503            841,287
+
+        Financial assets at amortised cost includes cash and bank deposits, trade and other receivables, amount due
+        from related parties, subsidiaries and joint ventures.
+
+        Financial liabilities at amortised cost includes trade and other payables, amount due to related parties and
+        subsidiaries, lease liabilities and borrowings.
+
+
+17.     Fair value measurement
+
+        The Group and the Company classifies fair value measurement using a fair value hierarchy that reflects the
+        significance of the inputs used in making the measurements. The fair value hierarchy has the following levels:
+
+        -     Level 1: Quoted prices (unadjusted) in active markets for identical assets or liabilities
+        -     Level 2: Inputs other than quoted prices included within Level 1 that are observable for the asset or liability,
+                        either directly (i.e. prices) or indirectly (i.e. derived from prices)
+        -     Level 3: Inputs for the asset or liability that are not based on observable market data (unobservable inputs)
+FRASER AND NEAVE, LIMITED AND ITS SUBSIDIARIES                                                           Page 21 of 25
+
+F. Notes to the condensed interim financial statements (cont’d)
+
+17.     Fair value measurement (cont’d)
+
+        The following table shows the analysis of assets and liabilities carried at fair value and their levels in the fair
+        value hierarchy:
+                                                           Level 1             Level 2            Level 3               Total
+                                                             $’000               $’000              $’000              $’000
+
+         Group
+         As at 31 March 2026
+         Financial Assets
+         Other investments
+         - Quoted equity investments at FVOCI                  2,576                  -                  -             2,576
+         Derivative financial instruments                          -              4,966                  -             4,966
+                                                               2,576              4,966                  -             7,542
+
+         Non-Financial Assets
+         Investment properties                                      -                  -           58,006            58,006
+         Biological assets                                          -                  -           31,801            31,801
+                                                                    -                  -           89,807            89,807
+
+         Financial Liability
+         Derivative financial instruments                           -           13,605                   -           13,605
+
+
+         As at 30 September 2025
+         Financial Assets
+         Other investments
+         - Quoted equity investments at FVOCI                  2,969                  -                  -            2,969
+         Derivative financial instruments                          -                721                  -              721
+                                                               2,969                721                  -            3,690
+
+         Non-Financial Assets
+         Investment properties                                      -                  -           57,411            57,411
+         Biological assets                                          -                  -           13,850            13,850
+                                                                    -                  -           71,261            71,261
+
+         Financial Liability
+         Derivative financial instruments                           -           22,101                   -           22,101
+
+
+
+         Company
+         As at 31 March 2026
+         Financial Assets
+         Other investments
+          - Quoted equity investments at FVOCI                94,521                       -              -          94,521
+
+
+          As at 30 September 2025
+          Financial Assets
+          Other investments
+          - Quoted equity investments at FVOCI                 94,023                      -                 -       94,023
+
+
+        There have been no transfers between Level 1, Level 2 and Level 3 for the Group and the Company during the
+        6 months ended 31 March 2026 and financial year ended 30 September 2025.
+FRASER AND NEAVE, LIMITED AND ITS SUBSIDIARIES                                                         Page 22 of 25
+
+G. Other information required by Listing Rule Appendix 7.2
+
+1.      Review
+
+        The condensed consolidated statement of financial position of Fraser and Neave, Limited and its subsidiaries as
+        at 31 March 2026, the related condensed consolidated statement of profit or loss and other comprehensive
+        income, condensed consolidated statement of changes in equity and condensed consolidated statement of cash
+        flows for the six-month period then ended and certain explanatory notes have not been audited or reviewed.
+
+
+2.      Review of performance of the Group
+
+        Statement of profit or loss for the 6 months ended 31 March 2026
+
+        Revenue declined by 6.4% to $1,135.4 million, representing a decrease of $77.2 million from $1,212.6 million in
+        the corresponding period last year. PBIT increased by 5.8% to $174.8 million, compared with $165.1 million
+        previously, while attributable profit before exceptional items decreased by 2.9% to $81.6 million.
+
+
+        Beverages
+
+        Beverages revenue declined by $52.5 million, or 12.2%, to $376.9 million compared with the corresponding
+        period last year. The decline was mainly attributable to Beer operations in Myanmar, arising from an adverse
+        currency impact of $65.8 million following the adoption of SFRS(I) 1-21. Excluding this impact, Beverages
+        revenue would have increased by 3.1%, driven by the implementation of price increases in Beer and improved
+        volumes in Soft Drinks. Soft Drinks performance was underpinned by strong festive demand for 100Plus,
+        successful introduction of new products and higher water volumes from Ice Mountain.
+
+        Despite the overall decline in Beverages revenue, PBIT increased by 72.7% to $52.2 million, reflecting a
+        significant improvement in profitability. The Beer division recorded a turnaround from a loss to a profit, driven
+        primarily by improved sales mix, effective implementation of price increases and lower cost of sales. Despite
+        higher overhead costs, the Soft Drinks segment recorded improved profitability during the period, in line with
+        revenue growth. The increase was driven primarily by an expansion in gross margins, underpinned by strong
+        festive sales and further supported by lower input costs, particularly from sugar cost savings.
+
+
+        Dairies
+
+        Dairies revenue decreased by $25.6 million, representing a 4.0% decline to $617.8 million for the current period.
+        The decrease was mainly attributable to lower export sales from Thailand to Cambodia, which were adversely
+        affected by anti-Thai sentiment, as well as a decline in Thailand domestic sales due to weaker Thailand consumer
+        sentiments. This was partially cushioned by increased sales in Malaysia and Singapore, supported by higher
+        domestic sales from distribution expansion and stronger contributions from the School Milk Programme in
+        Malaysia.
+
+        Dairies PBIT declined by 13.0% to $117.7 million, driven primarily by margin compression from lower volumes
+        and an unfavourable sales mix. Profitability was further impacted by higher foreign exchange losses, weaker
+        contributions from the export business, and elevated supply chain costs. These headwinds were partially offset by
+        savings from lower sugar commodity costs and disciplined A&P spending. In addition, the increased shareholding
+        and stronger earnings contribution from the Group’s associated company in Vietnam, Vietnam Dairy Products
+        Joint Stock Company (“Vinamilk”), helped to cushion the overall decline.
+
+
+        Printing and Publishing
+
+        Printing and Publishing (“P&P”) revenue increased by 2.3% to $98.1 million, driven primarily by stronger
+        performance in the Education segment, which benefited from higher annual orders arising from improved
+        adoption rates as well as increased export sales in Singapore. Printing revenue also showed improvement,
+        supported by higher sales from packaging print, with growth mainly driven by robust demand for kraft paper bags
+        in the US market, reflecting continued customer preference for sustainable packaging solutions. In addition,
+        Distribution sales recorded an improvement, underpinned a healthy sales channel performance and enhanced
+        trading efficiency.
+
+        As a result of the improved operating performance, losses for the period narrowed significantly from $9.4 million
+        to $3.2 million. This was mainly attributable to higher contributions from both the Education and Printing
+        businesses, supported by increased sales volumes and improved operating margins. Margins benefited from a
+        lower cost structure following the implementation of cost containment measures and restructuring initiatives,
+        which enhanced operational efficiency and improved profitability despite ongoing cost pressures.
+FRASER AND NEAVE, LIMITED AND ITS SUBSIDIARIES                                                            Page 23 of 25
+
+G. Other information required by Listing Rule Appendix 7.2 (cont’d)
+
+2.      Review of performance of the Group (cont’d)
+
+        Tax
+
+        The high effective tax rate (“ETR”) of 28.7 % (FY 2025: 15.8%) is mainly due to the absence of large prior years’
+        tax provision written back as compared to the corresponding period last year.
+
+
+        Statement of Financial Position as at 31 March 2026
+
+        The increase in reserves was primarily attributable to profits of $81.8 million retained during the period. This was
+        partially offset by dividend payments to shareholders as well as adjustments to exchange reserves arising from
+        the adoption of the Amendments to SFRS(I) 1-21, Lack of Exchangeability, which impacted the translation of
+        certain foreign currency balances.
+
+        Non-current assets increased by $341.6 million, or 8.8%, from $3,880.9 million to $4,222.5 million as at 31 March
+        2026. The increase was mainly driven by a higher investment in associates following the acquisition of an
+        additional 4.6% shareholding in Vinamilk. In addition, property, plant and equipment increased due to continued
+        capital expenditure to support long-term growth, principally relating to the development and enhancement of the
+        integrated dairy farm in Malaysia and the construction of the dairy processing plant in Cambodia.
+
+        Current assets rose by $18.2 million, or 1.6%, from $1,153.2 million to $1,171.4 million as at 31 March 2026. This
+        increase was mainly attributable to higher trade receivables and inventory balances, largely driven by the timing
+        of festive sales and associated production and distribution activities toward the end of the reporting period.
+
+        Total liabilities increased by $312.0 million, or 18.2%, from $1,713.6 million to $2,025.6 million. The increase was
+        mainly due to additional loans drawn during the period to fund capital expenditure and investments, as well as to
+        support working capital requirements.
+
+
+        Statement of Cash Flows for the 6 months ended 31 March 2026
+
+        The cash inflows and outflows are detailed in the Group Cash Flow Statement.
+
+        Net cash inflow from operating activities decreased marginally to $125.2 million for the year, compared to $128.6
+        million in the corresponding period last year, mainly due to increased payments for income tax.
+
+        Net cash outflow due to investing activities increased significantly to $339.0 million, compared to $87.0 million for
+        the corresponding period last year. This was primarily due to the acquisition of an additional 4.6% shareholding in
+        Vinamilk and payments made for the acquisition of dairy cattle in Malaysia. These outflows were partially offset by
+        dividends received from Vinamilk.
+
+        Net cash inflow due to financing activities for the period was $186.5 million as compared to an outflow of $91.1
+        million for the corresponding period last year. This was mainly driven by a net drawdown of borrowings during the
+        period, partly offset by dividends paid to shareholders.
+
+
+3.      Where a forecast, or a prospect statement, has been previously disclosed to shareholders, any variance
+        between it and the actual results.
+
+        Not applicable.
+FRASER AND NEAVE, LIMITED AND ITS SUBSIDIARIES                                                           Page 24 of 25
+
+G. Other information required by Listing Rule Appendix 7.2 (cont’d)
+
+4.      A commentary at the date of the announcement of the significant trends and competitive conditions of
+        the industry in which the Group operates and any known factors or events that may affect the Group in
+        the next reporting period and the next 12 months.
+
+        Against a backdrop of heightened geopolitical uncertainties in the markets we operate in, made worse by the
+        ongoing Middle East conflict on energy cost and global supply chains, the Group delivered a stable performance,
+        underpinned by strong brand execution, proactive cost management and sustained focus on innovation. These
+        efforts, together with targeted pricing actions and efficiency improvements have further mitigated cost pressures
+        and supported earnings performance. Our strategic additional investment in Vinamilk during the year also
+        contributed to stabilising the Group's profitability.
+
+        In Malaysia, the Group’s integrated dairy farm has progressed beyond its initial commercial phase, with herd
+        expansion, enlarged crop farming operations and ongoing optimisation of milking operations. The Group remains
+        committed to leveraging on milk produced from the dairy farm to strengthen its dairy and liquid milk portfolio and
+        drive product innovation which are to be primarily marketed under the F&N MAGNOLIA brand. This strategic
+        investment strengthens upstream integration, enhances supply resilience and supports the Group’s long-term
+        sustainability agenda, particularly in light of global supply disruptions.
+
+        In Cambodia, construction of the new dairy manufacturing facility is in its final stages, with commissioning
+        expected in the coming weeks. The facility will initially focus on canned milk production, with plans to expand into
+        a broader range of dairy products over time. Upon commencement, the plant will improve supply chain efficiency,
+        reduce reliance on imports and reinforce the Group’s leadership position in Cambodia, while serving as a
+        strategic hub for growth in the Indochina region.
+
+        In the P&P segment, the Group continues to focus on operational turnaround and long-term repositioning. Scaling
+        of Green Lab’s operations is progressing to support the recovery of Print, while Education is expanding its
+        international presence and Book Distribution is strengthening its market reach. These initiatives, together with
+        continued cost discipline, are expected to progressively improve performance and enhance long-term
+        sustainability.
+
+        Looking ahead, the Group expects cost pressures will remain elevated for some time. We will continue to
+        strengthen our core brands, invest in innovation and digital capabilities, and pursue strategic opportunities to
+        remain relevant to our customers.
+
+
+5.      If a decision regarding dividend has been made:-
+
+        (a)      Whether an interim ordinary dividend has been declared: Yes
+
+        (b)      (i)    Amount per share                  :    1.5 cents
+
+                 (ii)   Previous corresponding period :        1.5 cents
+
+        (c)      Whether the dividend is before tax, net of tax or tax exempt. If before tax or net of tax, state the
+                 tax rate and the country where the dividend is derived. (If the dividend is not taxable in the hands
+                 of shareholders, this must be stated).
+
+                 Tax-exempt (one-tier).
+
+        (d)      The date the dividend is payable.
+
+                 The Directors have declared an interim dividend of 1.5 cents per share, tax-exempt (one-tier), to be paid
+                 on 5 June 2026 (last year: 1.5 cents per share, tax-exempt (one-tier)).
+
+        (e)      The date on which Registrable Transfers received by the Company (up to 5.00 p.m.) will be
+                 registered before entitlements to the dividend are determined.
+
+                 Registrable transfers received by the Company’s Registrar, Tricor Barbinder Share Registration
+                 Services, 9 Raffles Place, Republic Plaza, Tower 1, #26-01, Singapore 048619 up to 5.00 pm on 20 May
+                 2026 will be registered before entitlements to the dividend are determined.
+
+                 Notice is hereby given that the share registers will be closed on 21 to 22 May 2026 for the preparation of
+                 dividend warrants.
+FRASER AND NEAVE, LIMITED AND ITS SUBSIDIARIES                                                           Page 25 of 25
+
+G. Other information required by Listing Rule Appendix 7.2 (cont’d)
+
+6.      If no dividend has been declared (recommended), a statement to the effect and the reason(s) for the
+        decision.
+
+        Not applicable.
+
+
+7.      If the Group has obtained a general mandate from shareholders for IPTs, the aggregate value of such
+        transactions as required under Rule 920(1)(a)(ii). If no IPT mandate has been obtained, a statement to that
+        effect.
+
+        Particulars of interested person transactions (“IPTs”) for the 6 months to 31 March 2026.
+
+
+                                                                                                       Aggregate value of all
+                                                                                                           interested person
+                                                                                                     transactions conducted
+                                                                                               under shareholders’ mandate
+                                                                                                        pursuant to Rule 920
+                                                                                                (excluding transactions less
+                                                                                                               than $100,000)
+        Name of interested person                          Nature of relationship                                       $’000
+
+        Companies and entities in the TCC Group            Associates (as defined in the                               9,753
+                                                           SGX Listing Manual) of Mr
+                                                           Charoen Sirivadhanabhakdi and
+                                                           the late Khunying Wanna
+                                                           Sirivadhanabhakdi; Mr Charoen
+                                                           Sirivadhanabhakdi and the
+                                                           estate of the late Khunying
+                                                           Wanna Sirivadhanabhakdi are
+                                                           controlling shareholders of the
+                                                           Company.
+
+
+8.      Confirmation By the Company Pursuant to Rule 720(1) of the SGX Listing Manual
+
+        The Company confirms that it has procured undertakings from all its Directors and Executive Officers (in the
+        format set out in Appendix 7.7) pursuant to Rule 720(1) of the SGX Listing Manual.
+
+
+9.      CONFIRMATION BY THE BOARD OF DIRECTORS
+        Pursuant to Rule 705(5) of the SGX Listing Manual
+
+        We, Ng Tat Pun and Prapakon Thongtheppairot, being two Directors of Fraser and Neave, Limited (the
+        "Company"), do hereby confirm on behalf of the Directors of the Company, that, to the best of their knowledge,
+        nothing has come to the attention of the Board of Directors of the Company which may render the interim financial
+        results to be false or misleading in any material respect.
+
+        On behalf of the Board
+
+
+
+
+        Ng Tat Pun                    Prapakon Thongtheppairot
+        Director                      Director
+
+
+
+BY ORDER OF THE BOARD
+Jennifer Yu
+Company Secretary
+
+6 May 2026
+

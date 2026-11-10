@@ -1,0 +1,1332 @@
+                        JUMBO GROUP LIMITED
+               (Company Registration Number: 201503401Z)
+                        Condensed Interim Consolidated Financial Statements
+                      For the six months and full year ended 30 September 2025
+
+
+
+
+This announcement has been prepared by Jumbo Group Limited (the “Company”) and has been reviewed by the Company’s sponsor, United Overseas
+Bank Limited (the “Sponsor”), for compliance with Rules 226(2)(b) and 753(2) of the Singapore Exchange Securities Trading Limited (the “SGX-ST”)
+Listing Manual Section B: Rules of Catalist. This announcement has not been examined or approved by the SGX-ST and the SGX-ST assumes no
+responsibility for the contents of this announcement, including the correctness of any of the statements or opinions made or reports contained in
+this announcement.
+
+The contact person for the Sponsor is Ms Priscilla Ong, Vice President, Equity Capital Markets, who can be contacted at 80 Raffles Place, #03-03 UOB
+Plaza 1, Singapore 048624, telephone: +65 6533 9898.
+JUMBO GROUP LIMITED
+(Incorporated in the Republic of Singapore)
+(Company Registration No. 201503401Z
+
+
+
+Table of Contents
+A.   CONDENSED INTERIM CONSOLIDATED STATEMENTS OF PROFIT OR LOSS AND OTHER
+
+     COMPREHENSIVE INCOME ....................................................................................................................... 2
+
+B.   CONDENSED INTERIM STATEMENTS OF FINANCIAL POSITION............................................................... 4
+
+C.   CONDENSED INTERIM STATEMENTS OF CHANGES IN EQUITY ............................................................... 5
+
+D.   CONDENSED INTERIM CONSOLIDATED STATEMENT OF CASH FLOWS ................................................... 7
+
+E.   NOTES TO THE CONDENSED INTERIM CONSOLIDATED FINANCIAL STATEMENTS ................................. 9
+
+F.   OTHER INFORMATION REQUIRED BY APPENDIX 7C OF THE CATALIST RULES ..................................... 22
+
+
+
+
+                                                                       1
+JUMBO GROUP LIMITED
+(Incorporated in the Republic of Singapore)
+(Company Registration No. 201503401Z
+
+A. CONDENSED INTERIM CONSOLIDATED STATEMENTS OF PROFIT OR LOSS AND OTHER COMPREHENSIVE INCOME
+
+                                                                                               Group
+                                                           6 months ended 30 September                 12 months ended 30 September
+                                                                2025              2024    Change           2025        2024     Change
+                                               Note             $’000            $’000             %      $’000        $’000           %
+
+Revenue                                          4           92,950             93,367       (0.4)     190,272      190,418       (0.1)
+Cost of sales                                               (32,648)           (32,699)      (0.2)      (66,236)    (65,382)          1.3
+Gross profit                                                 60,302             60,668       (0.6)      124,036     125,036       (0.8)
+Other income                                                    3,060            2,920        4.8        4,963        4,153       19.5
+Employee benefits expenses                                  (32,535)           (31,433)       3.5       (63,587)    (62,202)          2.2
+Operating lease expenses                                     (3,112)            (2,264)      37.5        (5,551)      (4,690)     18.4
+Utilities expenses                                           (2,618)            (2,407)       8.8        (5,095)      (5,024)         1.4
+Depreciation and amortisation expense:
+- Property, plant and equipment                              (3,103)            (3,293)      (5.8)       (6,308)      (6,025)         4.7
+- Right-of-use assets                                        (6,467)            (5,870)      10.2       (13,437)    (11,828)      13.6
+- Intangible assets                                              (57)              (55)       3.6          (115)       (107)          7.5
+Interest expense:
+- Leases                                                     (1,188)              (556)     113.7        (2,121)      (1,080)     96.4
+- Bank borrowings                                               (181)             (198)      (8.6)         (261)       (431)     (39.4)
+Impairment loss recognised on:
+- Property, plant and equipment, net                                 10           (468)    (102.1)          -          (468)      N.M.
+- Right-of use assets                                                  -        (1,312)      N.M.           -         (1,312)     N.M.
+- Intangible assets                                             (100)                 -      N.M.          (100)         -        N.M.
+- Goodwill                                                             -          (760)      N.M.           -          (760)      N.M.
+Other operating expenses                                    (12,296)            (9,070)      35.6       (22,356)    (18,819)      18.8
+Share of results of associates                                  (208)              (94)     121.3          418           (97)     N.M.
+Profit before taxation                           6              1,507            5,808      (74.1)       10,486       16,346     (35.8)
+Tax expense                                      7           (1,388)            (2,182)     (36.4)       (2,751)      (4,387)    (37.3)
+Profit for the period/year                                       119             3,626      (96.7)        7,735       11,959     (35.3)
+Other comprehensive loss for the period/year:
+Items that will not be reclassified subsequently to profit or loss
+Exchange differences arising on translation of
+                                                                 (75)               68       N.M.          (121)         72       N.M.
+ foreign operations
+Items that may be reclassified subsequently to profit or loss
+Exchange differences arising on translation of
+                                                                 (50)             (192)     (74.0)          (50)       (192)     (74.0)
+ foreign operations
+Other comprehensive loss for the period/year,
+                                                                (125)             (124)       0.8          (171)       (120)      42.5
+ net of tax
+Total comprehensive (loss)/income for the
+ for the period/year                                                 (6)         3,502     (100.2)        7,564       11,839     (36.1)
+
+
+
+
+                                                                           2
+JUMBO GROUP LIMITED
+(Incorporated in the Republic of Singapore)
+(Company Registration No. 201503401Z
+
+A. CONDENSED INTERIM CONSOLIDATED STATEMENTS OF PROFIT OR LOSS AND OTHER COMPREHENSIVE INCOME
+   (CONT’D)
+
+                                                                                        Group
+                                                         6 months ended 30 September            12 months ended 30 September
+                                                            2025          2024    Change            2025         2024    Change
+                                                 Note       $’000        $’000             %       $’000        $’000          %
+
+Profit for the period/year, attributable to:
+Owners of the Company                                        719         4,764       (84.9)        8,659       13,650      (36.6)
+Non-controlling interests                                   (600)       (1,138)      (47.3)         (924)      (1,691)     (45.4)
+                                                             119         3,626       (96.7)        7,735       11,959      (35.3)
+
+Total comprehensive profit/(loss) for the period/year,
+  attributable to:
+Owners of the Company                                        644         4,832       (86.7)        8,538       13,722      (37.8)
+Non-controlling interests                                   (650)       (1,330)      (51.1)         (974)      (1,883)     (48.3)
+                                                              (6)        3,502      (100.2)        7,564       11,839      (36.1)
+
+Earnings per share (cents)
+Basic and diluted                                 19          0.1          0.8       (84.3)          1.4          2.2      (34.6)
+
+N.M. : Not meaningful
+
+
+
+
+                                                                3
+JUMBO GROUP LIMITED
+(Incorporated in the Republic of Singapore)
+(Company Registration No. 201503401Z
+
+B. CONDENSED INTERIM STATEMENTS OF FINANCIAL POSITION
+                                                                  Group                      Company
+                                                           As at 30 September           As at 30 September
+                                                          2025            2024         2025            2024
+                                               Note       $'000           $'000        $'000           $'000
+ASSETS
+Current assets
+Cash and cash equivalents                                    37,541          46,383        2,123           2,191
+Trade and other receivables                                  10,779           9,318          -                 4
+Dividend receivable                                             -               -          7,861          15,000
+Other investments                               10            8,372           9,215        5,242           5,064
+Inventories                                                   3,640           2,475          -               -
+                                                             60,332          67,391       15,226          22,259
+
+Non-current assets
+Due from subsidiaries                                           -               -         30,210          30,203
+Investment in subsidiary                                        -               -          5,424           5,424
+Investment in associates                                      1,116           1,313          -               -
+Goodwill                                        11            2,596           2,596          -               -
+Intangible assets                               12              831             873          -               -
+Right-of-use assets                                          48,615          20,049          -               -
+Property, plant and equipment                                31,220          28,094          -               -
+Club memberships                                                238             238          -               -
+Deferred tax assets                             13            2,270           1,253          -               -
+                                                             86,886          54,416       35,634          35,627
+
+Total assets                                                147,218         121,807       50,860          57,886
+
+LIABILITIES AND EQUITY
+Current liabilities
+Trade and other payables                                     25,248          26,231          225             152
+Provision for reinstatement costs               14            4,697           3,710          -               -
+Lease liabilities                               15            9,357          12,101          -               -
+Bank borrowings                                 16            3,264           5,211        1,040           1,020
+Income tax payable                                            3,271           4,458          -               -
+                                                             45,837          51,711        1,265           1,172
+
+Non-current liabilities
+Lease liabilities                               15           43,534          10,771          -               -
+Bank borrowings                                 16            4,311           7,587          -             1,040
+Deferred tax liabilities                                        472              90          -               -
+                                                             48,317          18,448          -             1,040
+
+Capital and reserves
+Share capital                                   17           41,642          41,642       41,642          41,642
+Treasury shares                                 18           (3,336)         (2,994)      (3,336)         (2,994)
+Currency translation reserve                                   (593)           (472)         -               -
+Merger reserve                                               (2,828)         (2,828)         -               -
+Retained earnings                                            19,636          16,964       11,289          17,026
+Equity attributable to owners of the Company                 54,521          52,312       49,595          55,674
+Non-controlling interests                                    (1,457)           (664)         -               -
+Total equity                                                 53,064          51,648       49,595          55,674
+
+Total liabilities and equity                                147,218         121,807       50,860          57,886
+
+
+
+
+                                                      4
+JUMBO GROUP LIMITED
+(Incorporated in the Republic of Singapore)
+(Company Registration No. 201503401Z
+
+C.    CONDENSED INTERIM STATEMENTS OF CHANGES IN EQUITY
+                                                                                                                                (Accumulated      Equity
+                                                                                                   Currency                        losses) / attributable to        Non-
+                                                                              Treasury            translation      Merger         Retained   owners of the       controlling
+Group ($’000)                                                 Share capital    shares               reserve        reserve         earnings     Company           interests     Total
+
+
+Balance at 1 October 2023                                           49,436         (732)                 (544)        (2,828)         12,744         58,076            1,897      59,973
+Total comprehensive income for the year:
+     Profit for the year                                               -             -                    -              -            13,650         13,650           (1,691)     11,959
+     Other comprehensive loss                                          -             -                        72         -                -                 72          (192)       (120)
+
+Transactions with owners, recognised directly in equity:
+     Purchase of treasury shares                                       -          (2,262)                 -              -                -          (2,262)             -        (2,262)
+     Shares purchased and cancelled                                 (7,794)          -                    -              -                -          (7,794)             -        (7,794)
+     Dividends paid                                                    -             -                    -              -             (9,430)       (9,430)             -        (9,430)
+     Dividend declared to non-controlling interests                    -             -                    -              -                -             -                (50)           (50)
+     Distribution to non-controlling interests                         -             -                    -              -                -             -               (628)       (628)
+
+Balance at 30 September 2024                                        41,642        (2,994)                (472)        (2,828)         16,964         52,312             (664)     51,648
+Total comprehensive income for the year:
+     Profit for the year                                               -             -                    -              -             8,659          8,659             (924)      7,735
+     Other comprehensive loss                                          -             -                   (121)           -                -            (121)             (50)       (171)
+
+Transactions with owners, recognised directly in equity:
+     Purchase of treasury shares                                       -           (383)                  -              -                -            (383)             -          (383)
+     Recognition of share-based payments                               -                 41               -              -                    30            71           -              71
+     Dividends paid                                                    -             -                    -              -             (6,017)       (6,017)             -        (6,017)
+  Dividend declared to non-controlling interests                       -             -                    -              -                -             -                (50)           (50)
+  Non-controlling interests arising from incorporation of a
+                                                                       -             -                    -              -                -             -                231            231
+  subsidiary
+Balance at 30 September 2025                                        41,642        (3,336)                (593)        (2,828)         19,636         54,521           (1,457)     53,064
+
+
+                                                                                              5
+JUMBO GROUP LIMITED
+(Incorporated in the Republic of Singapore)
+(Company Registration No. 201503401Z
+
+C. CONDENSED INTERIM STATEMENTS OF CHANGES IN EQUITY (CONT’D)
+
+
+                                                                                         (Accumulated
+                                                                                            losses) /
+                                                                Share      Treasury        Retained
+Company ($’000)                                                capital      shares          earnings     Total
+
+Balance at 1 October 2023                                        49,436        (732)           12,356     61,060
+Total comprehensive income for the year:
+  Profit for the year                                               -                -         14,100     14,100
+
+Transactions with owners, recognised directly in equity:
+  Purchase of treasury shares                                       -        (2,262)              -       (2,262)
+  Shares purchased and cancelled                                 (7,794)          -               -       (7,794)
+  Dividends paid                                                    -             -            (9,430)    (9,430)
+
+Balance at 30 September 2024                                     41,642       (2,994)          17,026     55,674
+Total comprehensive income for the year:
+  Profit for the year                                               -            -               250         250
+
+Transactions with owners, recognised directly in equity:
+  Purchase of treasury shares                                       -          (383)              -         (383)
+  Recognition of share-based payments                               -            41                30         71
+  Dividends paid                                                    -           -              (6,017)    (6,017)
+
+Balance at 30 September 2025                                     41,642       (3,336)          11,289     49,595
+
+
+
+
+                                                           6
+JUMBO GROUP LIMITED
+(Incorporated in the Republic of Singapore)
+(Company Registration No. 201503401Z
+
+D. CONDENSED INTERIM CONSOLIDATED STATEMENT OF CASH FLOWS
+
+                                                                               Group
+                                                                    12 months ended 30 September
+                                                                       2025               2024
+                                                                       $’000              $’000
+Cash Flows from Operating Activities
+Profit before taxation                                                     10,486            16,346
+Adjustments for:
+  Amortisation of intangible assets                                           115               107
+  Depreciation of property, plant and equipment                             6,308             6,025
+  Depreciation of right-of-use assets                                      13,437            11,828
+  Fair value gains on other investments                                      (173)             (295)
+  Gain on termination of leases                                            (1,373)              (19)
+  Impairment loss on goodwill                                                 -                 760
+  Impairment loss on intangible assets                                        100               -
+  Impairment loss on property, plant and equipment                            -                 468
+  Impairment loss on right-of-use assets                                      -               1,312
+  Interest expense: bank borrowings                                           261               431
+  Interest expense: leases                                                  2,121             1,080
+  Interest income                                                            (540)             (703)
+  Loss on disposal of investments in associates                               155               -
+  Loss on disposal and write-off of property, plant and equipment           1,191               210
+  Gain on disposal of other investments                                       -                   (8)
+  Rental rebate and concessions                                               -                   (3)
+  Share of results of associates                                             (418)                97
+  Share-based payments                                                          71              -
+  Write-back of reinstatement costs                                          (283)             (115)
+Operating profit before working capital changes                            31,458            37,521
+  Changes in inventories                                                   (1,165)              449
+  Changes in trade and other receivables                                   (1,418)             (894)
+  Changes in trade and other payables                                      (1,929)            3,551
+Cash generated from operations                                             26,946            40,627
+  Interest income received                                                    526               331
+  Interest paid                                                            (2,381)           (1,511)
+  Income tax paid                                                          (4,555)           (2,074)
+Net cash generated from operating activities                               20,536            37,373
+
+Cash Flows from Investing Activities
+  Acquisition of intangible assets                                           (170)              (77)
+  Acquisition of other investments                                         (1,919)             (642)
+  Acquisition of property, plant and equipment                             (8,614)           (8,051)
+  Repayment of loans by an associate                                          -               1,715
+  Dividends received from an associate                                        280               -
+  Incorporation of an associate                                               -              (1,282)
+  Proceeds from disposal of other investments                               2,943            19,925
+  Proceeds from disposal of investments in associates                         166               -
+  Proceeds from disposal of property, plant and equipment                     251               -
+  Reinstatement cost paid                                                    (105)              (63)
+Net cash (used in)/generated from investing activities                     (7,168)           11,525
+
+
+
+
+                                                             7
+JUMBO GROUP LIMITED
+(Incorporated in the Republic of Singapore)
+(Company Registration No. 201503401Z
+
+
+
+D. CONDENSED INTERIM CONSOLIDATED STATEMENT OF CASH FLOWS (CONT’D)
+
+                                                                                Group
+                                                                     12 months ended 30 September
+                                                                        2025               2024
+                                                                        $’000              $’000
+Cash Flows from Financing Activities
+  Capital contribution in a subsidiary by non-controlling interest             231               -
+  Dividend paid to non-controlling interest                                    (50)             (150)
+  Dividends paid to owners of the Company                                   (6,017)           (9,430)
+  Off-market equal access share buyback                                        -              (7,794)
+  Purchase of treasury shares                                                 (383)           (2,262)
+  Repayment of bank borrowings                                              (5,223)           (4,383)
+  Repayment of lease obligations                                           (10,689)          (12,116)
+Net cash used in financing activities                                      (22,131)          (36,135)
+Net (decrease)/increase in cash and cash equivalents                        (8,763)           12,763
+Cash and cash equivalents at beginning of the period                        46,383            33,659
+Effect of foreign exchange rate changes                                        (79)              (39)
+Cash and cash equivalents at end of year                                    37,541            46,383
+
+
+
+
+                                                               8
+JUMBO GROUP LIMITED
+(Incorporated in the Republic of Singapore)
+(Company Registration No. 201503401Z
+
+
+E.    NOTES TO THE CONDENSED INTERIM CONSOLIDATED FINANCIAL STATEMENTS
+
+1.     Corporate information
+
+        Jumbo Group Limited (Registration No. 201503401Z) (the “Company” and, together with its subsidiaries, the
+        “Group”) is incorporated in Singapore with its principal place of business and registered office at 26 Tai Seng Street,
+        #08-01, Singapore 534057. The Company is listed on the Singapore Exchange Securities Trading Limited (“SGX-ST”).
+
+        The principal activity of the Company is that of investment holding.
+
+       The principal activities of the Group are:
+       (a) operation and management of restaurants;
+       (b) manufacturer of food stuff; and
+       (c) investment holding.
+
+
+
+2.     Basis of preparation
+
+        The condensed interim consolidated financial statements for the six months and full year ended 30 September 2025
+        have been prepared in accordance with Singapore Financial Reporting Standards (International) (“SFRS(I)”) 1-34
+        Interim Financial Reporting issued by the Accounting Standards Council Singapore. The condensed interim financial
+        statements do not include all the information required for a complete set of financial statements. However, selected
+        explanatory notes are included to explain events and transactions that are significant to an understanding of the
+        changes in the financial position and performance of the Group since the last interim financial statements for the six
+        months ended 30 September 2025 (“2H2025”).
+
+        The accounting policies adopted are consistent with those of the latest audited financial statements for the financial
+        year ended 30 September (“FY”) 2024 which were prepared in accordance with SFRS(I)s, except for the adoption of
+        new and amended standards set out in Note 2.1.
+
+        The condensed interim consolidated financial statements are presented in Singapore dollars which is the Company’s
+        functional currency.
+
+2.1     New and amended standards adopted by the Group
+
+        The Group has adopted the same accounting policies and methods of computation in the condensed interim financial
+        statements as compared to the most recently audited financial statements for FY2024, as well as applicable new and
+        revised SFRS(I) which became effective for financial years beginning on or after 1 October 2024. Other than as
+        described below, the application of these amendments to accounting standards and interpretations did not have a
+        material effect on the financial statements.
+
+
+
+
+                                                               9
+JUMBO GROUP LIMITED
+(Incorporated in the Republic of Singapore)
+(Company Registration No. 201503401Z
+
+2.2   Use of judgements and estimates
+
+      In preparing the condensed interim consolidated financial statements, the management has made judgements,
+      estimates and assumptions that affect the application of accounting policies and the reported amounts of assets and
+      liabilities, income and expense. Actual results may differ from these estimates.
+
+      The significant judgements made by the management in applying the Group’s accounting policies and key sources of
+      estimation uncertainty were the same as those that applied to the audited consolidated financial statements as at
+      and for FY2024.
+
+      Estimates and underlying assumptions are reviewed on an ongoing basis. Revisions to accounting estimates are
+      recognised in the period in which the estimates are revised and in any future periods affected.
+
+      Information about assumptions and estimation uncertainties that have a significant risk of resulting in material
+      adjustment to the carrying amounts of assets and liabilities within the next financial period are as follows:
+
+      a) Impairment test of intangible assets and goodwill: key assumptions underlying recoverable amounts.
+      b) Deferred income tax assets are recognised to the extent that realisation of the related tax benefits through
+         future taxable profits is probable.
+      c) Impairment of property, plant and equipment and right-of-use asset of non-performing outlets.
+
+
+
+3.    Seasonal operations
+
+      The Group’s businesses are not affected significantly by seasonal or cyclical factors during the financial period/year.
+
+
+
+
+                                                            10
+JUMBO GROUP LIMITED
+(Incorporated in the Republic of Singapore)
+(Company Registration No. 201503401Z
+
+4.    Segment and revenue information
+
+4.1   Disaggregation of revenue
+
+                                                                           Group
+                                               6 months ended 30 September      12 months ended 30 September
+                                                  2025             2024             2025            2024
+                                                  $’000            $’000            $’000           $’000
+
+       At a point in time:
+        Sale of food and beverages                   92,335          92,711           188,963         188,690
+        Franchise income                                 50             -                  50             349
+
+       Over time:
+        Royalty income                                  565             656             1,259           1,379
+       Total Revenue                                 92,950          93,367           190,272         190,418
+
+       Geographical information:
+       Singapore                                     80,993          81,793           165,400         167,079
+       People’s Republic of China (“PRC”)             8,696           9,034            18,311          18,894
+       Taiwan                                         1,570           1,447             3,421           3,352
+       Korea                                          1,691           1,093             3,140           1,093
+                                                     92,950          93,367           190,272         190,418
+
+
+
+
+4.2   A breakdown of sales
+
+                                                                                   Group
+                                                                  12 months ended 30 September        Increase/
+                                                                      2025             2024          (Decrease)
+                                                                      $’000            $’000              %
+       Sales reported for:
+       (a) First half of the financial year                                97,322           97,051      0.3
+       (b) Second half of the financial year                               92,950           93,367     (0.4)
+                                                                          190,272          190,418     (0.1)
+       Profit reported for:
+       (a) First half of the financial year                                   7,616          8,333      (8.6)
+       (b) Second half of the financial year                                    119          3,626     (96.7)
+                                                                              7,735         11,959     (35.3)
+
+
+
+
+                                                       11
+JUMBO GROUP LIMITED
+(Incorporated in the Republic of Singapore)
+(Company Registration No. 201503401Z
+
+5.    Financial assets and financial liabilities
+
+      The following table sets out the financial instruments as at 30 September 2025 and 2024:
+
+                                                                           Group                     Company
+                                                                  As at 30 September             As at 30 September
+                                                                   2025            2024          2025        2024
+                                                                   $’000           $’000         $’000       $’000
+       Financial assets
+
+       Financial assets at amortised cost:
+       - Cash and cash equivalents                                   37,541          46,383         2,123       2,191
+       - Trade and other receivables                                  8,008           8,053           -           -
+       - Dividend receivable/Due from subsidiaries                      -               -           7,861      45,203
+       - Investments as amortised cost                                  493           1,520           -           -
+                                                                     46,042          55,956         9,984      47,394
+
+
+       Financial assets measured at FVTPL:
+       - Quoted debt investments                                      5,242           5,064         5,242       5,064
+       - Quoted equity securities                                       692             635           -           -
+       - Structured deposits                                          1,685           1,746           -           -
+                                                                      7,619           7,445         5,242       5,064
+
+
+       Financial assets measured at FVTOCI:
+       - Quoted debt investments                                        -              250               -           -
+       - Unquoted equity investment                                     260            -                 -           -
+                                                                        260            250               -           -
+
+
+       Financial liabilities at amortised cost
+
+       Tade and other payables                                       20,650          21,480           226         152
+       Bank borrowings                                                7,575          12,798         1,040       2,060
+                                                                     28,225          34,278         1,266       2,212
+
+
+
+
+                                                          12
+JUMBO GROUP LIMITED
+(Incorporated in the Republic of Singapore)
+(Company Registration No. 201503401Z
+
+6.    Profit before tax
+
+                                                                                               Group
+                                                                            6 months ended             12 months ended
+                                                                             30 September                30 September
+                                                                           2025        2024            2025        2024
+                                                                           $’000       $’000           $’000      $’000
+
+       Other income
+       Government grants                                                        309       1,736           1,173      1,887
+       Interest income                                                          117         260             540        703
+       Fair value gain on other investments                                     101         352             173        295
+       Sponsorships                                                             249         131             427        285
+       Gain on lease termination                                              1,373         -             1,373          19
+       Writeback of provision for reinstatement                                 283         -               283        -
+
+       Expenses
+       Cleaning services, repairs and maintenance                             2,042       2,001           4,111      3,860
+       Credit card commission and delivery commission                         1,707       2,116           3,442      3,463
+       General supplies                                                       1,575       1,274           3,128      2,719
+       Professional fees                                                        771         516           1,844      1,721
+       Transportation fees                                                      663         824           1,029        975
+       Marketing expense                                                      1,383         703           2,347      1,471
+       Loss on disposal of investments in associates                            155         -               155        -
+       Loss on disposal and written off of property, plant and equipment      1,191         210           1,191        210
+       Insurance expenses                                                       504         364             833        752
+
+
+
+
+                                                                 13
+JUMBO GROUP LIMITED
+(Incorporated in the Republic of Singapore)
+(Company Registration No. 201503401Z
+
+7.    Income tax expense
+
+      The Group calculates the period income tax expense using the tax rate that would be applicable to the expected total
+      annual earnings. The major components of income tax expense in the condensed consolidated statement of profit
+      or loss are:
+
+                                                                                                   Group
+                                                                                               30 September
+                                                                                           2025           2024
+                                                                                           $’000          $’000
+       Tax expense comprises:
+       Current tax
+        - Current year                                                                          3,366             4,326
+        - Withholding Tax                                                                          35                48
+        - Under provision in respect of prior years                                               (12)              -
+
+       Deferred tax
+        - Current year                                                                           (234)               13
+        - Under provision in respect of prior years                                              (404)              -
+                                                                                                2,751             4,387
+
+
+
+8.    Net asset value (“NAV”)
+                                                                Group                             Company
+                                                         As at 30 September                  As at 30 September
+                                                        2025            2024                2025            2024
+       NAV attributable to
+                                                            54,471            52,312            49,595            55,674
+        owners of the Company ($’000)
+       Number of shares (’000)                             601,214           602,517           601,214           602,517
+       NAV per share (cents)                                    9.1              8.7                8.2               9.2
+
+
+
+
+                                                           14
+JUMBO GROUP LIMITED
+(Incorporated in the Republic of Singapore)
+(Company Registration No. 201503401Z
+
+9.    Financial assets measured at fair value
+
+      The Group classifies fair value measurements using a fair value hierarchy that reflects the significance of the inputs
+      used in making the measurements. The fair value hierarchy has the following levels:
+
+             (a)    quoted prices (unadjusted) in active markets for identical assets or liabilities (Level 1);
+             (b)    inputs other than quoted prices included within Level 1 that are observable for the asset or liability,
+                    either directly (i.e as prices) or indirectly (i.e derived from prices) (Level 2); and
+             (c)    inputs for the asset or liability that are not based on observable market data (unobservable inputs)
+                     (Level 3).
+                                                                        Level 1         Level 2          Level 3 Total
+                                                                         $’000           $’000            $’000  $’000
+       Group
+
+       30 September 2025
+       Financial assets measured at FVTPL:
+         - Quoted debt investments                                     5,242             -               -            5,242
+         - Quoted equity securities                                      692             -               -              692
+         - Structured deposits                                         1,685             -               -            1,685
+
+       Financial assets measured at FVTOCI:
+         - Unquoted equity investment                                    -               -              260             260
+
+       30 September 2024
+       Financial assets measured at FVTPL:
+         - Quoted debt investments                                     5,064             -               -            5,064
+         - Quoted equity securities                                      635             -               -              635
+         - Structured deposits                                         1,746             -               -            1,746
+
+       Financial assets measured at FVTOCI:
+         - Quoted debt investments                                       250             -               -              250
+
+10.   Other investments
+                                                                                                       Group
+                                                                                                   30 September
+                                                                                               2025           2024
+                                                                                               $'000          $'000
+
+       Current
+       Investments at amortised cost                                                                  493              1,520
+
+       Investments at FVTPL:
+       - Quoted debt investments                                                                     5,242             5,064
+       - Quoted equity securities                                                                      692               635
+       - Structured deposits                                                                         1,685             1,746
+                                                                                                     7,619             7,445
+
+       Quoted debt investments at FVTOCI:
+       - Quoted debt investments                                                                      -                  250
+       - Unquoted equity investment                                                                   260                -
+                                                                                                      260                250
+
+                                                                                                     8,372             9,215
+
+
+                                                            15
+JUMBO GROUP LIMITED
+(Incorporated in the Republic of Singapore)
+(Company Registration No. 201503401Z
+
+11.   Goodwill
+
+      Goodwill acquired in a business combination is allocated, at acquisition, to the cash generating units (“CGU”) that are
+      expected to benefit from that business combination. The Group tests goodwill annually for impairment, or more
+      frequently if there are indications that goodwill might be impaired.
+
+                                                                                                                  Group
+                                                                                                                  $’000
+       Cost:
+       At 1 October 2023                                                                                             3,361
+        Impairment                                                                                                    (760)
+        Exchange differences                                                                                            (5)
+       At 30 September 2024 and 2025                                                                                 2,596
+
+      The carrying amount of goodwill is allocated to the respective CGUs:
+
+
+
+                                                                                                          Group
+                                                                                                      30 September
+                                                                                                    2025        2024
+                                                                                                    $'000       $'000
+       CGUs:
+        Ng Ah Sio Bak Kut Teh business in Singapore                                                      782          782
+        Kok Kee Wanton Noodle Pte Ltd                                                                  1,814        1,814
+        Total                                                                                          2,596        2,596
+
+      The recoverable amount of each CGU is determined from a value in use calculation. Management estimates discount
+      rates using pre-tax rates that reflect current market assessments of the time value of money and the risks specific to
+      the CGU. The revenue growth rates are based on past experience adjusted for industry growth forecasts and
+      expectations of future changes in the market.
+
+      Cash flow projections used in the value-in-use calculations were based on the most recent financial budgets approved
+      by the management for the next five years.
+
+      For FY2025, the management has assessed goodwill for impairment and determined that no impairment loss was
+      required (2024: $760,000).
+
+
+
+
+                                                            16
+  JUMBO GROUP LIMITED
+  (Incorporated in the Republic of Singapore)
+  (Company Registration No. 201503401Z
+
+12.     Intangible assets
+
+                                                                                    Franchise
+                                                                                      rights  Trademark          Total
+         Group                                                                        $’000      $’000           $’000
+
+         Cost:
+          At 1 October 2023                                                               227           780         1,007
+          Addition                                                                        -              77            77
+          Exchange differences                                                            (10)          -             (10)
+          At 30 September 2024                                                            217           857         1,074
+          Addition                                                                        -             170           170
+          Exchange differences                                                             10           -              10
+          At 30 September 2025                                                            227         1,027         1,254
+
+         Amortisation:
+          At 1 October 2023                                                                92             7            99
+          Amortisation for the year                                                        19            88           107
+          Exchange differences                                                             (5)          -              (5)
+          At 30 September 2024                                                            106            95           201
+          Amortisation for the period                                                      14           101           115
+          Exchange differences                                                              7             -             7
+          At 30 September 2025                                                            127           196           323
+
+         Impairment:
+           At 1 October 2023 and 2024                                                     -              -            -
+           Impairment for the year                                                        100            -            100
+           Exchange differences                                                           -                  -        -
+           At 30 September 2025                                                           100            -            100
+
+         Carrying amount:
+          At 30 September 2025                                                            -             831           831
+          At 30 September 2024                                                            111           762           873
+
+
+
+  13.   Deferred tax assets
+
+        Deferred tax assets are recognised to the extent that realisation of the related tax benefits through future taxable
+        profits is probable.
+
+
+
+
+                                                             17
+JUMBO GROUP LIMITED
+(Incorporated in the Republic of Singapore)
+(Company Registration No. 201503401Z
+
+14.   Provision for reinstatement costs
+
+                                                                                                          Group
+                                                                                                      30 September
+                                                                                                   2025         2024
+                                                                                                   $'000        $'000
+       Balance at beginning of year                                                                   3,710        3,738
+       Additions during the year                                                                      1,385          162
+       Amount paid and utilised                                                                        (105)         (63)
+       Write-back during the year                                                                      (283)        (115)
+       Exchange differences                                                                             (10)         (12)
+       Balance at end of year                                                                         4,697        3,710
+
+
+
+15.   Lease liabilities
+
+                                                                                                       Group
+                                                                                                   30 September
+                                                                                               2025           2024
+                                                                                               $'000          $'000
+       Maturity analysis:
+        Year 1                                                                                     11,448             12,776
+        Year 2                                                                                      9,900              5,159
+        Year 3                                                                                      7,519              2,509
+        Year 4                                                                                      5,473              2,034
+        Year 5                                                                                      4,762              1,748
+        Year 6 onwards                                                                             24,376                 88
+                                                                                                   63,478             24,314
+         Less: Future interest costs                                                              (10,587)            (1,442)
+                                                                                                   52,891             22,872
+
+
+       Analysed as:
+        Current                                                                                     9,357             12,101
+        Non-current                                                                                43,534             10,771
+                                                                                                   52,891             22,872
+
+      During six months ended 31 March 2025 (“1H2025”), the Group entered into new tenancy agreements comprising
+      a 10-year lease for its new office premises, central kitchen and a retail space located at 26 Tai Seng Street, as well as
+      a separate 5-year lease for another retail space. These leases resulted in a significant increase in both right-of-use
+      assets and lease liabilities in accordance with SFRS(I) 16 Leases.
+
+      As at 30 September 2025, the leases for 26 Tai Seng Street and the additional retail space contributed an increase of
+      approximately $35,907,000 to right-of-use assets and $37,281,000 to lease liabilities on the balance sheet.
+
+      These tenancy arrangements are part of the Group’s ongoing business operations and support its growth and
+      consolidation strategy.
+
+
+
+
+                                                             18
+JUMBO GROUP LIMITED
+(Incorporated in the Republic of Singapore)
+(Company Registration No. 201503401Z
+
+16.   Bank borrowings
+
+                                                                  Group                          Company
+                                                              30 September                     30 September
+                                                          2025           2024              2025           2024
+                                                          $'000         $'000              $'000         $'000
+
+       Floating rate bank loans, secured                         -              4,228             -                -
+       Fixed rate bank loans, secured                          4,112              -               -                -
+       Fixed rate bank loans, unsecured                        3,463            8,570           1,040            2,060
+                                                               7,575           12,798           1,040            2,060
+
+
+       Presented as:
+         Current                                               3,264            5,211           1,040            1,020
+         Non-current                                           4,311            7,587             -              1,040
+                                                               7,575           12,798           1,040            2,060
+
+
+      As at 30 September 2025, the Group’s secured borrowing which amounted to $4,112,000 (30 September 2024 –
+      $4,228,000) is secured by a charge on the freehold property of a subsidiary located at 208 Rangoon Road, Hong
+      Building, Singapore 218453 and bore fixed interest rate of 3.45% (30 September 2024 – floating interest rate at an
+      average effective interest rate of between 4.58% to 4.83%) per annum.
+
+      The Group’s and the Company’s unsecured bank borrowings amounted to $3,463,000 (30 September 2024 –
+      $8,570,000) and $1,040,000 (30 September 2024 – $2,060,000), respectively, and bore fixed interest rate at 2% and
+      3.14% (30 September 2024 – 2% and 3.14%) per annum for a tenure of 5 years.
+
+
+
+17.   Share capital
+
+                                                                      Group and Company
+                                                                          30 September
+                                                       2025           2024           2025                  2024
+                                                         Number of shares            $’000                 $’000
+       Issued and paid-up:
+         At the beginning of the year               613,682,743        643,658,465           41,642            49,436
+         Purchase and cancellation of shares                -          (29,975,722)             -              (7,794)
+         At the end of the year                     613,682,743        613,682,743           41,642            41,642
+
+      There has been no changes to the Company’s share capital since 31 March 2025.
+
+      There were no outstanding convertibles and subsidiary holdings held by the Company as at 30 September 2025
+      and 30 September 2024.
+
+      On 11 March 2024, the Company completed the off-market equal access share buyback exercise and acquired
+      29,975,722 shares for a total consideration of $7,794,000 and subsequently cancelled them.
+
+
+
+
+                                                          19
+JUMBO GROUP LIMITED
+(Incorporated in the Republic of Singapore)
+(Company Registration No. 201503401Z
+
+18.   Treasury shares
+
+                                                                                         Group and Company
+                                                                                      Number of      Amount
+                                                                                    ordinary shares   $'000
+
+       At 1 October 2023                                                                  2,453,300             732
+       On-market repurchase during the year                                               1,166,000             300
+       Off-market repurchase during the year                                              7,546,700            1,962
+       At 30 September 2024                                                              11,166,000            2,994
+       On-market repurchase during the year                                               1,455,600              383
+       Reissue of treasury shares                                                          (152,500)             (41)
+       At 30 September 2025                                                              12,469,100            3,336
+
+      During FY2025, the Company acquired 1,455,600 (2024: 1,166,000) shares through on-market purchases on the
+      SGX-ST for a total consideration of $384,000 (2024: $300,000).
+
+      On 11 March 2024, the Company completed the off-market equal access share buyback exercise and acquired
+      7,546,700 shares for a total consideration of $1,962,000.
+
+      In May 2025, the Company reissued 152,500 (2024: NIL) treasury shares pursuant to its performance share plan
+      at a weighted average share price of approximately $0.27 (2024: NIL) per share.
+
+      The number of shares held as treasury shares by the Company as at 30 September 2025 and 30 September 2024
+      were 12,469,100 and 11,166,000 respectively, representing 2.07% and 1.85% of the total number of issued shares
+      excluding treasury shares that was listed as at the respective dates.
+
+                                                                                         Group and Company
+                                                                                          As at 30 September
+                                                                                         2025            2024
+       Total number of issued shares excluding treasury shares                         601,213,643     602,516,743
+
+
+
+
+                                                        20
+JUMBO GROUP LIMITED
+(Incorporated in the Republic of Singapore)
+(Company Registration No. 201503401Z
+
+19.   Earnings per share
+
+      Basic earnings per share are calculated by dividing the Group’s profit for the year attributable to owners of the
+      Company by the weighted average number of ordinary shares outstanding during the financial year.
+
+      Diluted earnings per share are calculated by dividing the Group’s profit for the year attributable to owners of the
+      Company by the weighted average number of ordinary shares outstanding during the financial year plus the
+      weighted average number of ordinary shares that would be issued on the conversion of all the dilutive potential
+      ordinary shares into ordinary shares.
+                                                                                                 Group
+                                                                               6 months ended         12 months ended
+                                                                                30 September            30 September
+                                                                              2025        2024        2025       2024
+                                                                              $'000      $'000       $'000       $'000
+
+       Profit attributable to owners of the Company ($'000)                      719       4,764       8,659     13,650
+
+       Weighted average number of ordinary shares ('000)                     601,209     603,362    601,671     620,233
+        (a) Earnings per share – Basic (cents)                                    0.1         0.8        1.4         2.2
+
+       Adjusted weighted average number of ordinary shares ('000)            601,581     603,362    601,858     620,233
+         (b) Earnings per share – Fully diluted basis (cents)                     0.1         0.8        1.4         2.2
+
+      The weighted average number of shares used for the calculation of earnings per share for the comparatives have
+      been adjusted for the weighted average effect of changes in treasury shares transactions during the financial
+      period/year.
+
+
+20.   Subsequent events
+
+      There are no known subsequent events after the financial period which have led to adjustments to this set of
+      condensed interim financial statements.
+
+
+
+
+                                                              21
+JUMBO GROUP LIMITED
+(Incorporated in the Republic of Singapore)
+(Company Registration No. 201503401Z
+
+F.   OTHER INFORMATION REQUIRED BY APPENDIX 7C OF THE CATALIST RULES
+
+1.     Review
+
+       The condensed interim consolidated statement of financial position of the Group as at 30 September 2025 and
+       the related condensed interim consolidated profit or loss and other comprehensive income, condensed
+       consolidated statement of changes in equity and condensed interim consolidated statement of cash flows for the
+       financial year ended 30 September 2025 (“FY2025”) and certain explanatory notes have not been audited or
+       reviewed.
+
+
+2.     Review of performance of the Group
+
+       Revenue
+       Our Group’s revenue decreased by 0.4%, or $0.4 million, from $93.4 million for the six months ended 30
+       September 2024 (“2H2024”) to $93.0 million for 2H2025. On a full year basis, the decrease in revenue in 2H2025
+       was largely offset by the increase in revenue recorded in 1H2025. As a result, the Group’s revenue for FY2025
+       decreased marginally by 0.1%, or $0.1 million, from $190.4 million in FY2024 to $190.3 million in FY2025.
+
+       Revenue from our Singapore operations decreased slightly by 1.0% from $167.1 million in FY2024 to $165.4 million
+       in FY2025. Sales across most of our existing outlets softened, reflecting a more competitive dining landscape and
+       a moderation in discretionary dining spend. The incremental contributions from our two new outlets in Singapore
+       helped to partially offset the overall slow down.
+
+       The People’s Republic of China (“PRC”) saw a slight moderation in revenue at $18.3 million in FY2025 as compared
+       to $18.9 million in FY2024. This was partly due to the closure of one outlet during the year and the temporary
+       two-month refurbishment of another, which reduced their sales contributions. Excluding these effects, revenue
+       across remaining outlets collectively delivered a slight year-on-year improvement, driven by more targeted local
+       marketing initiatives and stronger customer engagement.
+
+       Cost of sales
+       Cost of sales, which comprised raw materials and consumables, decreased marginally by 0.2%, or $0.1 million,
+       from $32.7 million in 2H2024 to $32.6 million in 2H2025. Cost of sales increased by 1.3%, or $0.8 million, from
+       $65.4 million in FY2024 to $66.2 million in FY2025.
+
+       Gross profit
+       Gross profit decreased by 0.6%, or $0.4 million, from $60.7 million in 2H2024 to $60.3 million in 2H2025. In line
+       with the increase in cost of sales, the gross profit margin decreased from 65.0% in 2H2024 to 64.9% in 2H2025.
+       Gross profit also decreased by 0.8%, or $1.0 million, from $125.0 million in FY2024 to $124.0 million in FY2025.
+       Gross profit margin decreased from 65.7% in FY2024 to 65.2% in FY2025. The decreases were mainly due to the
+       higher level of marketing activities aimed at building brand awareness.
+
+       Other income
+       Other income increased by 4.8% or $0.2 million, from $2.9 million in 2H2024 to $3.1 million in 2H2025. For FY2025,
+       other income also increased by 19.5%, or $0.8 million, from $4.2 million in FY2024 to $5.0 million. Overall, the
+       increase was mainly due to the one-off gains on lease termination and other income items, and partially offset by
+       lower government grants and interest income.
+
+       Employee benefits expenses
+       Employee benefits expenses increased by 3.5%, or $1.1 million, from $31.4 million in 2H2024 to $32.5 million in
+       2H2025. Overall, employee benefits expenses increased by 2.2%, or $1.4 million, from $62.2 million in FY2024 to
+       $63.6 million in FY2025. These increases were primarily due to the increase in manpower headcount required to
+       support our new business operations, as well as corresponding annual salary adjustments and bonuses.
+
+       Operating lease expenses
+
+                                                           22
+JUMBO GROUP LIMITED
+(Incorporated in the Republic of Singapore)
+(Company Registration No. 201503401Z
+
+      Operating lease expenses increased by 37.5%, or $0.8 million, from $2.3 million in 2H2024 to $3.1 million in
+      2H2025. Operating lease expenses also increased by 18.4%, or $0.9 million, from $4.7 million in FY2024 to $5.6
+      million in FY2025. Operating lease expenses increased mainly because one outlet was renewed on a shorter one
+      year lease term which is accounted for as fixed rental expense instead of right-of-use depreciation and interest.
+
+      Utilities
+      Utilities expenses increased by 8.8%, or $0.2 million, from $2.4 million in 2H2024 to $2.6 million in 2H2025. After
+      accounting for a lower spend in 1H2025, utilities expenses increased by 1.4%, or $0.1 million, from $5.0 million in
+      FY2024 to $5.1 million in FY2025. The increase was mainly attributable to the addition of two new outlets in
+      Singapore and higher utilities usage from the Group’s new office, central kitchen and retail premises.
+
+      Depreciation and amortisation
+      Depreciation expenses for property, plant and equipment (“PP&E”) decreased by 5.8%, or $0.2 million, from $3.3
+      million in 2H2024 to $3.1 million in 2H2025. The decrease was mainly due to a number of PP&E items having
+      reached the end of their depreciation cycle. Despite this decrease in depreciation for PP&E, overall, depreciation
+      for PP&E increased by 4.7%, or $0.3 million, from $6.0 million in FY2024 to $6.3 million in FY2025. This was mainly
+      due to the additional PP&E items invested in connection with the new outlets and the Group’s expanded
+      operations premises.
+
+      Depreciation expenses for right-of-use (“ROU”) assets increased by 10.2%, or $0.6 million, from $5.9 million in
+      2H2024 to $6.5 million in 2H2025. For FY2025, ROU depreciation increased by 13.6%, or $1.6 million, from $11.8
+      million in FY2024 to $13.4 million in FY2025. The increases were mainly due to additional lease related ROU assets
+      recognised in connection with the new outlets and the Group’s expanded operations premises.
+
+      Interest expense
+      Interest expense increased by 81.6%, or $0.6 million, from $0.8 million in 2H2024 to $1.4 million in 2H2025. For
+      FY2025, interest expense increased by 57.6%, or $0.9 million, from $1.5 million in FY2024 to $2.4 million in FY2025.
+      The increases were due to the increase in lease interest expense in connection with the new outlets and the
+      Group’s expanded operations premises slightly offset by the decrease in loan interest expense.
+
+      Other operating expenses
+      Other operating expenses, which include cleaning services, repairs and maintenance, credit card and delivery
+      service commissions, general supplies and marketing expenses, increased by 35.6%, or $3.2 million, from $9.1
+      million in 2H2024 to $12.3 million in 2H2025. For FY2025, other operating expenses increased by 18.8%, or $3.6
+      million, from $18.8 million in FY2024 to $22.4 million in FY2025. The increase was mainly due to a $1.2 million loss
+      on disposal of PP&E, higher marketing expenses of $0.9 million and an increase in general supplies of $0.4 million.
+
+      Share of results of associates
+      Share of results of associates increased by $0.5 million, from a loss of $0.1 million in FY2024 to a gain of $0.4
+      million in FY2025. This was mainly due to improved operating performance, with several restaurants under our
+      associated companies turning profitable during the year.
+
+      Income tax expense
+      Income tax expense decreased by 37.3%, or $1.6 million, from $4.4 million in FY2024 to $2.8 million in FY2025,
+      mainly due to decrease in profits from our Group’s operations.
+
+      Profit attributable to owners of the Company
+      Profit attributable to the owners of the Company was $0.7 million for 2H2025, compared to $4.8 million in 2H2024.
+      Profit attributable to the owners of the Company decreased by 36.6%, or $5.0 million, from $13.7 million in FY2024
+      to $8.7 million in FY2025.
+
+
+
+      2.1. Review of the financial position of the Group
+
+      Current assets
+      The Group’s current assets decreased by $7.1 million to $60.3 million as at 30 September 2025, largely due to:
+                                                           23
+JUMBO GROUP LIMITED
+(Incorporated in the Republic of Singapore)
+(Company Registration No. 201503401Z
+
+        i.   a decrease of cash and cash equivalents of $8.8 million;
+       ii.   a decrease in other investments of $0.8 million; and partially offset by
+      iii.   an increase in trade and other receivables of $1.5 million mainly due to advance payments made to
+             contractors for ongoing projects which will be capitalised as part of PP&E upon completion; and
+      iv.    an increase in inventories of $1.2 million mainly due to higher stock levels required for the two newly
+             opened outlets and to anticipate upcoming operational needs.
+
+       Non-current assets
+       The Group’s non-current assets increased by $32.5 million to $86.9 million as at 30 September 2025, largely due
+       to:
+        i.   an increase in ROU of $28.6 million mainly due to the new long term leases for the Group’s new office,
+             central kitchen and retail spaces;
+       ii.   an increase in PP&E of $3.1 million due to the new outlets and the Group’s expanded operations premises;
+      iii.   an increase in deferred tax assets of $1.0 million; and partially offset by
+      iv.    a decrease in investment in associates of $0.2 million primarily due to the disposal of investments in
+             associates, namely Singapore Seafood Republic Pte. Ltd., SSR Sentosa Pte. Ltd., and share of losses in JBHG
+             F&B Services (Wuhan) Co. Ltd., resulting in a decrease of $0.6 million. This was partially offset by a $0.3
+             million dividend from Seafood Republic Pte. Ltd. and a share of profit from Vista F&B Pte. Ltd. of $0.5 million;
+             and
+       v.    a decrease in intangible assets of $0.1 million, mainly due to the impairment of intangible assets in Taiwan.
+
+       Current liabilities
+       The Group’s current liabilities decreased by $5.9 million to $45.8 million as at 30 September 2025 mainly due to:
+        i. a decrease in trade and other payables of $1.0 million attributable to payments to suppliers as well as payment
+           of employee-related expenses;
+       ii. a decrease in lease liabilities of $2.7 million primarily due to the repayment of lease obligations;
+      iii. a decrease in bank borrowings of $1.9 million due to repayment of bank loans;
+      iv. a decrease in income tax payable of $1.2 million mainly due to lower profits from our Singapore operations;
+           and partially offset by
+       v. an increase in provision for reinstatement costs from the new outlets and the Group’s expanded operations
+           premises.
+
+      Non-current liabilities
+      The Group’s non-current liabilities increased by $29.9 million to $48.3 million as at 30 September 2025 mainly due
+      to:
+      i. an increase in lease liabilities of $32.8 million from the leases of the new outlets and the Group’s expanded
+           operations premises;
+      ii. an increase in deferred tax liability of $0.4 million; and partially offset by
+      iii. a decrease in bank borrowings $3.3 million due to repayment of bank loans.
+
+      2.2. Review of the cash flow statement of the Group
+
+      The Group generated net cash from operating activities before movements in working capital of $31.5 million as
+      at 30 September 2025. Net cash generated from operations amounted to $26.9 million due to an increase in
+      inventories of $1.2 million, an increase in trade and other receivables of $1.4 million and a decrease in trade and
+      other payables of $1.9 million. Including the $0.5 million interest income received, offset by payment of interest
+      paid of $2.4 million and income tax of $4.6 million, net cash generated from operating activities was $20.5 million
+      as at 30 September 2025.
+
+       Net cash used in investing activities for FY2025 amounted to $7.2 million mainly due to:
+        i. acquisition of PP&E of $8.6 million, mainly due to the additional PP&E items invested in connection with the
+           new outlets and the Group’s expanded operations premises;
+       ii. acquisitions of other investments of $1.9 million; and partially offset by
+      iii. proceeds from disposal of other investments and investments in an associate of $3.1 million.
+
+
+                                                            24
+JUMBO GROUP LIMITED
+(Incorporated in the Republic of Singapore)
+(Company Registration No. 201503401Z
+
+      Net cash used in financing activities for FY2025 amounted to $22.1 million was mainly from the repayment of lease
+      obligations of $10.7 million, repayment of bank borrowings of $5.2 million, dividends paid to owners of the
+      Company and non-controlling interest of $6.0 million and purchases of treasury shares of $0.4 million.
+
+      As a result, cash and cash equivalents decreased by $8.8 million during the financial year to $37.5 million as at 30
+      September 2025.
+
+3.    Where a forecast, or a prospect statement, has been previously disclosed to shareholders, any variance between
+      it and the actual results
+
+      Not applicable.
+
+4.    A commentary at the date of the announcement of the significant trends and competitive conditions of the
+      industry in which the Group operates and any known factors or events that may affect the Group in the next
+      operating period and the next 12 months
+
+      The operating environment for the F&B industry is expected to remain challenging amid cautious consumer
+      sentiment and macroeconomic uncertainties. Against this backdrop, the Group will continue to pursue a strategy
+      of disciplined growth, focusing on strengthening its fundamentals and enhancing operational efficiency while
+      maintaining prudent cost management.
+
+      In Singapore, JUMBO will deepen its engagement in the domestic dining market by optimising outlet performance,
+      improving productivity, and aligning its offerings with evolving customer preferences. A key milestone in FY2026
+      will be completing the Group’s relocation to its new building, which will consolidate the central kitchen and
+      headquarters under one roof. This integration is expected to generate synergies across production, logistics,
+      training and support functions, improving efficiency and scalability in preparation for future expansion.
+
+      In PRC, while the market remains competitive, the Group will continue to focus on driving profitability at our
+      existing outlets, with targeted marketing efforts and adjustments to our offerings in response to local consumer
+      trends. The Group also aims to explore opportunities to strengthen its position in the market and drive growth in
+      the medium term, while managing operational costs and risks prudently.
+
+      Through disciplined execution, operational excellence, and continuous investment in its people, systems, and
+      infrastructure, the Group aims to navigate the near-term headwinds with resilience while positioning itself for
+      sustainable growth in the years ahead.
+
+      Barring any unforeseen circumstances, the Group is cautiously optimistic about its performance over the next 12
+      months, and we remain committed to driving sustainable growth and value for our stakeholders.
+
+
+
+
+                                                           25
+JUMBO GROUP LIMITED
+(Incorporated in the Republic of Singapore)
+(Company Registration No. 201503401Z
+
+5.        Dividend information
+
+          5.1 Whether an interim (final) ordinary dividend has been declared (recommended)
+              Yes
+
+          5.2 Amount per share and corresponding period of the immediate preceding financial year
+              (i)    Amount per share
+
+           Name of dividend                                    Final                           Special
+           Dividend type                                       Cash                             Cash
+           Dividend amount per ordinary share                0.25 cent                        0.50 cent
+           Tax rate                                    Tax-exempt (one-tier)            Tax-exempt (one-tier)
+
+              (ii)     Previous corresponding period
+                       Name of dividend                   : Final
+                       Dividend type                      : Cash
+                       Dividend amount per ordinary share : 0.50 cent
+
+          5.3 Whether the dividend is before tax, net of tax or tax exempt. If before tax or net of tax, state the tax rate
+              and the country where the dividend is derived
+              Tax-exempt (one-tier)
+
+          5.4 The date the dividend is payable
+              Subject to shareholders’ approval of the Final and Special Dividends at the forthcoming annual general
+              meeting (“AGM”), the date payable is to be advised.
+
+          5.5 If no dividend has been declared/recommended, a statement to the effect and the reason(s) for the decision
+              Not applicable as the Group declared dividends for FY2025.
+
+     6.     A breakdown of the total annual dividend (in dollar value) for the issuer's latest full year and its previous full
+            year as follows:
+
+                                                                               FY2025                      FY2024
+                                                                                $’000                       $’000
+
+             Ordinary – Interim Dividend                                      3,004                       3,018
+             Ordinary – Final Dividend*                                       1,503                       3,013
+             Special Dividend*                                                3,006                          -
+             Total                                                            7,513                       6,031
+            * The Final and Special Dividends in respect of FY2025 is recommended by the board of directors of the Company
+            and is subject to the approval of the Company’s shareholders at the AGM.
+
+     7.     Interested person transactions
+            The Group has not obtained a general mandate from shareholders for interested person transactions. There are
+            no interested person transactions of $100,000 or more in FY2025.
+
+
+
+
+                                                               26
+JUMBO GROUP LIMITED
+(Incorporated in the Republic of Singapore)
+(Company Registration No. 201503401Z
+
+    8.   Disclosure pursuant to Rule 706A
+         Save as disclosed below, there was no acquisition and/or sale of shares by the Company in 2H2025 which
+         requires disclosure pursuant to Rule 706A of the Catalist Rules.
+
+         Liquidation of associates
+         In 2H2025, the Group liquidated the following associates:
+                                                                                         Place of
+                                                                                      incorporation      Proportion
+                                   Date of      Paid-up share        Principal         and principal         of
+          Name of company        liquidation       capital           activities     place of business    ownership
+
+          Associate held by Jumbo Group of Restaurants Pte. Ltd.
+          Singapore Seafood     11 August      SGD 600,000           Investment         Singapore           25%
+           Republic Pte. Ltd.      2025                                 holding
+
+          Associate held by Singapore Seafood Republic Pte. Ltd.
+          SSR Sentosa Pte.       11 August      SGD 100,000      Operation and          Singapore           25%
+           Ltd.                     2025                          management
+                                                                  of restaurants
+
+         The aforementioned transactions are not expected to have any material impact on the net tangible assets per
+         share and earnings per share of the Group for FY2025.
+
+
+    9.   Confirmation that the issuer has procured undertaking from all its directors and executive officers (in the
+         format set out in Appendix 7H) under Rule 720(1)
+         The Company has procured the undertakings from all its directors and executive officers as required under Rule
+         720(1) of the Catalist Rules.
+
+
+    10. Negative confirmation by the board pursuant to Rule 705(5)
+        Not required for full year financial results.
+
+
+
+
+                                                          27
+JUMBO GROUP LIMITED
+(Incorporated in the Republic of Singapore)
+(Company Registration No. 201503401Z
+
+    11. Disclosure of persons occupying managerial positions in the Company or any of its principal subsidiaries who
+        are related to a director, CEO or substantial shareholder
+
+                        Family relationship with                                           Details of changes in
+                        any director and/or         Current position and duties, and the   duties and position held, if
+Name             Age    substantial shareholder     year the position was first held       any, during the year
+                        Brother of                  Year 2017:
+Mr. Ang Kiam            Mr. Ang Kiam Meng and       Chief Executive Officer (China)
+                  53                                                                       No change
+Lian                    Mrs. Christina Kong Chwee   Responsible for PRC business
+                        Huan                        operations.
+                        Sister of                   Year 2017:
+Mdm. Wendy              Mr. Ang Kiam Meng and       Chief Quality Assurance Officer
+                  56                                                                       No change
+Ang Chui Yong           Mrs. Christina Kong Chwee   Responsible for quality assurance
+                        Huan                        and central kitchen operations.
+                                                    Year 2024:
+Mdm. Tan                                            Chief Procurement Officer
+                        Wife of
+Yong Chuan        63                                Responsible for procurement and        No change
+                        Mr. Ang Kiam Meng
+Jacqueline                                          supply chain management
+
+
+
+
+BY ORDER OF THE BOARD
+
+
+
+
+ Ang Kiam Meng
+ Executive Chairman and Group CEO
+ 26 November 2025
+
+
+
+
+                                                        28
+

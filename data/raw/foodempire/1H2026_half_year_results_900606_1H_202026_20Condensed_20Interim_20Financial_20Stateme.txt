@@ -1,0 +1,1240 @@
+FOOD EMPIRE HOLDINGS LIMITED
+(Co Registration No: 200001282G)
+
+
+
+
+             Food Empire Holdings Limited and its Subsidiaries
+             Unaudited Condensed Interim Financial Statements
+
+             For the six months ended 30 June 2026
+FOOD EMPIRE HOLDINGS LIMITED
+(Co Registration No: 200001282G)
+
+
+
+
+Table of Contents                                                                                                                           Page
+
+Interim consolidated income statement .................................................................................................. 1
+Interim consolidated statement of comprehensive income ..................................................................... 2
+Interim balance sheets ............................................................................................................................ 3
+Interim statements of changes in equity ................................................................................................. 4
+Interim consolidated cash flow statement ............................................................................................... 7
+Notes to the condensed interim consolidated financial statements ........................................................ 8
+Other information required by Listing Rule Appendix 7.2 ..................................................................... 17
+FOOD EMPIRE HOLDINGS LIMITED
+(Co Registration No: 200001282G)
+
+
+
+Interim consolidated income statement
+
+                                                                                              Group
+                                                                                                                 Increase/
+                                                                            1H 26              1H 25            (Decrease)
+                                                                Note       US$’000            US$’000                %
+
+Revenue                                                            5           315,073              274,060           15.0
+Cost of sales                                                                 (211,095)             (183,890)         14.8
+Gross profit                                                                   103,978               90,170           15.3
+
+Selling and marketing expenses                                                    (30,241)           (23,317)         29.7
+General and administrative expenses                                               (26,606)           (24,096)         10.4
+Operating profit                                                                   47,131             42,757          10.2
+
+Net other income/(expenses)(1)                                     7                  950            (32,070)          NM
+
+Net finance costs                                                  8               (3,210)            (1,747)         83.7
+
+Share of profits of associates                                                      1,476                764           93.2
+Profit before taxation(1)                                          9               46,347              9,704         377.6
+Income tax expense                                                11              (10,999)           (10,798)           1.9
+Profit/(loss) for the period(1)                                                    35,348             (1,094)           NM
+
+Profit/(loss) attributable to:
+Equity shareholders of the Company                                                 35,381             (1,452)          NM
+Non-controlling interest                                                              (33)                358          NM
+                                                                                   35,348             (1,094)          NM
+NM denotes not meaningful.
+Notes
+    (1) In the prior corresponding six-month period ended 30 June 2025 (“1H2025”), the Group recorded a one-off, non-cash,
+        fair value loss on redeemable exchangeable notes (“REN”) of US$32,592,000 due to fair value through profit or loss
+        (“FVTPL”) accounting treatment, resulting from a significant increase in Company share price above the Exchange
+        Price of S$1.09 to S$1.84 (“market closing price”). Following the entry into a Second Supplemental Agreement on
+        30 June 2025, the FVTPL accounting requirement will no longer be applicable after the date.
+
+                                                                          Group
+                                                                                       Increase/
+                                                             1H 26        1H 25*      (Decrease)
+                                                            US$’000      US$’000           %
+
+       Profit before taxation                                   46,347       42,296           9.6
+       Profit after taxation                                    35,348       31,498          12.2
+       EBITDA                                                   58,831       52,215          12.7
+   *
+     Excludes a one-off, non-cash, fair value loss on redeemable exchangeable notes (“REN”) of US$32,592,000 recorded in
+   the prior corresponding six-month period ended 30 June 2025 (“1H2025”) due to fair value through profit or loss (“FVTPL”)
+   accounting treatment, resulting from a significant increase in Company share price above the Exchange Price of S$1.09 to
+   S$1.84 (“market closing price”).
+
+
+                                                                                                                              1
+FOOD EMPIRE HOLDINGS LIMITED
+(Co Registration No: 200001282G)
+
+Interim consolidated statement of comprehensive income
+
+                                                                      Group
+
+                                                                                  Increase/
+                                                          1H 26       1H 25      (Decrease)
+                                                         US$’000     US$’000          %
+
+Profit/(loss) for the period                               35,348      (1,094)          NM
+
+Other comprehensive income:
+Items that may be reclassified subsequently to
+   profit or loss:
+Foreign currency translation gain                           1,304      16,084         (91.9)
+Share of other comprehensive income of associates           (359)       1,065           NM
+Other comprehensive income for the period, net of tax         945      17,149         (94.5)
+Total comprehensive income for the period                  36,293      16,055         126.1
+
+Total comprehensive income attributable to:
+Equity shareholders of the Company                         36,295      15,770         130.2
+Non-controlling interest                                       (2)        285           NM
+                                                           36,293      16,055         126.1
+
+
+
+
+                                                                                               2
+FOOD EMPIRE HOLDINGS LIMITED
+(Co Registration No: 200001282G)
+
+Interim balance sheets
+                                                                          Group                     Company
+                                                                30 Jun 2026 31 Dec 2025     30 Jun 2026 31 Dec 2025
+                                                           Note   US$'000       US$'000       US$'000     US$'000
+Non-Current Assets
+ Property, plant and equipment                             15        151,649     130,807              -            -
+ Right-of-use assets                                                  21,208      21,512             26           65
+ Investments in subsidiaries                                               -           -         44,485       44,485
+ Investments in associates                                            12,105      11,085              -            -
+ Other receivables                                                         -           -              -            -
+ Intangible assets                                         14         11,214      11,094              -            -
+ Deferred tax assets                                                   6,342       4,991            301          255
+                                                                     202,518     179,489         44,812       44,805
+Current Assets
+ Inventories                                                         123,070     126,686              -            -
+ Trade receivables                                                    71,423      55,541            144           51
+ Prepayments                                                          21,021      17,510             68           25
+ Deposits                                                                701         711              -            -
+ Other receivables                                                     3,189       3,733             20           33
+ Amounts due from subsidiaries (non-trade)                                 -           -         19,367       41,040
+ Amount due from an associate (non-trade)                                318         618              -            -
+ Amounts due from related parties (trade)                                342         455              -            -
+ Cash and short-term deposits                              16        151,342     181,537         31,591       33,749
+                                                                     371,406     386,791         51,190       74,898
+
+Current Liabilities
+ Trade payables and accruals                                         (69,124)    (71,432)        (4,426)     (10,637)
+ Lease liabilities                                         17         (3,473)     (2,939)           (17)         (38)
+ Interest-bearing loans and borrow ings                    17        (18,554)    (24,318)              -            -
+ Other payables                                                       (6,608)    (11,314)          (251)            -
+ Amount due to a non-controlling shareholder (non-trade)                    -     (1,018)              -            -
+ Amount due to a related party (non-trade)                              (850)       (850)              -            -
+ Amount due to an associate (trade)                                     (220)       (191)              -            -
+ Income tax payable                                                   (7,275)     (6,216)              -            -
+                                                                    (106,104)   (118,278)        (4,694)     (10,675)
+
+Net Current Assets                                                   265,302     268,513         46,496       64,223
+
+Non-Current Liabilities
+ Lease liabilities                                         17         (8,075)     (8,508)              -              -
+ Interest-bearing loans and borrow ings                    17        (44,957)    (21,671)              -              -
+ Redeemable exchangeable notes                             18        (37,153)    (36,793)              -              -
+ Amount due to a non-controlling shareholder (non-trade)                    -     (2,970)              -              -
+ Provision                                                              (334)       (334)              -              -
+ Deferred tax liabilities                                             (8,363)     (7,487)              -              -
+                                                                     (98,882)    (77,763)              -              -
+Net Assets                                                           368,938     370,239         91,308      109,028
+
+Equity
+ Share capital                                             19          48,152      47,502         48,152       47,502
+ Treasury shares                                                      (2,553)     (4,454)        (2,553)      (4,454)
+ Reserves                                                            324,173     324,923          45,709       65,980
+                                                                     369,772     367,971          91,308     109,028
+  Non-controlling interest                                              (834)       2,268              -            -
+Total Equity                                                         368,938     370,239          91,308     109,028
+
+
+
+
+                                                                                                                   3
+FOOD EMPIRE HOLDINGS LIMITED
+(Co Registration No: 200001282G)
+
+Interim statements of changes in equity
+                                                                                                    Attributable to equity shareholders of the Company
+                                                                                                          Foreign
+                                                                                                          currency Share-based                                            Non-
+                                                                                       Share Treasury translation      payment       Other      Accumulated           controlling    Total
+Group                                                                                 capital  shares      reserve      reserve     reserve        profits    Total     interest    equity
+                                                                               Note   US$’000 US$’000     US$’000      US$’000      US$’000       US$’000    US$’000   US$’000     US$’000
+Balance as at 1 January 2026                                                            47,502  (4,454)      (20,973)        3,605      52,945       289,346  367,971        2,268   370,239
+
+      Profit for the period                                                                  -         -           -             -             -        35,381      35,381         (33)     35,348
+      Other comprehensive income
+      Foreign currency translation gain                                                      -         -       1,273             -             -             -       1,273          31       1,304
+      Share of other comprehensive income of associates                                      -         -       (359)             -             -             -       (359)            -      (359)
+      Total comprehensive income for the period                                              -         -         914             -             -        35,381      36,295          (2)     36,293
+
+      Contributions by and distributions to owners
+      Dividends paid to shareholders of the Company                                         -          -           -             -             -       (38,790)   (38,790)            -   (38,790)
+      Treasury shares reissued pursuant to share-based incentive plans          19          -      4,367           -         (529)       (2,163)              -      1,675            -      1,675
+      Issuance of ordinary shares pursuant to share-based incentive plans       19        650          -           -         (494)             -              -        156            -        156
+      Purchase of treasury shares                                               19          -    (5,142)           -             -             -              -    (5,142)            -    (5,142)
+      Sale of treasury shares                                                   19          -      2,676           -             -         1,572              -      4,248            -      4,248
+      Value of employee services received from the issuance of share options
+        and share awards                                                                     -         -           -           499             -              -       499             -        499
+
+      Total contributions by and distributions to owners                                  650     1,901            -         (524)        (591)        (38,790)   (37,354)            -   (37,354)
+
+      Changes in ownership interests in a subsidiary
+      Acquisitions of non-controlling interest without a change in control,
+       representing total changes in ownership interest in a subsidiary (1)                  -         -           -             -             -         2,860       2,860      (3,100)      (240)
+
+
+      Total transactions with owners in their capacity as owners                          650     1,901            -         (524)        (591)        (35,930)   (34,494)      (3,100)   (37,594)
+
+Balance as at 30 June 2026                                                              48,152   (2,553)    (20,059)         3,081       52,354        288,797    369,772         (834)    368,938
+
+(1)
+   During the six months ended 30 June 2026, the Group acquired the remaining 49.5% equity interest in Tea House LLP for a cash consideration of US$240,000, increasing its ownership interest
+from 50.5% to 100.0%. As control over Tea House LLP had already been obtained prior to the acquisition, the transaction was accounted for as an equity transaction with owners in their capacity as
+owners. The carrying amount of the non-controlling interests acquired was US$3,100,000. The difference between the consideration paid and the carrying amount of the non-controlling interests,
+amounting to US$2,860,000, was recognised directly in equity attributable to the owners of the Company. Accordingly, no gain or loss was recognised in profit or loss.
+
+
+
+
+                                                                                                                                                                                                 4
+FOOD EMPIRE HOLDINGS LIMITED
+(Co Registration No: 200001282G)
+
+Interim statements of changes in equity (cont’d)
+
+                                                                                                  Attributable to equity shareholders of the Company
+                                                                                                        Foreign
+                                                                                                        currency Share-based                                            Non-
+                                                                                     Share Treasury translation payment            Other       Accumulated          controlling Total
+Group                                                                               capital shares       reserve      reserve     reserve         profits    Total    interest   equity
+                                                                               Note US$’000 US$’000 US$’000          US$’000      US$’000        US$’000    US$’000 US$’000 US$’000
+Balance as at 1 January 2025                                                          47,502 (15,898)      (39,925)        3,715             -      298,426 293,820        2,268 296,088
+
+      (Loss)/profit for the period                                                            -        -           -           -            -        (1,452)     (1,452)        358      (1,094)
+      Other comprehensive income
+      Foreign currency translation gain                                                       -        -    16,157             -            -              -     16,157         (73)     16,084
+      Share of other comprehensive income of associates                                       -        -     1,065             -            -              -      1,065            -      1,065
+      Total comprehensive income for the period                                               -        -    17,222             -            -        (1,452)     15,770         285      16,055
+
+      Contributions by and distributions to owners
+      Dividends paid to shareholders of the Company                                           -        -           -           -            -       (32,767)    (32,767)           -   (32,767)
+      Redeemable exchangeable notes (1)                                         18            -        -           -           -       33,323              -      33,323           -     33,323
+      Treasury shares reissued pursuant to share-based incentive plans          19            -   1,480            -       (550)        (404)              -         526           -        526
+      Expiry of share options                                                                 -        -           -        (20)            -             20            -          -           -
+      Purchase of treasury shares                                               19            -     (73)           -           -            -              -         (73)          -        (73)
+      Value of employee services received from the issuance of share options
+       and share awards                                                                       -        -           -         371            -              -        371            -        371
+      Total contributions by and distributions to owners,
+        representing total transactions with owners in
+        their capacity as owners                                                          -       1,407        -           (199)      32,919        (32,747)      1,380            -     1,380
+
+Balance as at 30 June 2025                                                             47,502 (14,491)     (22,703)        3,516       32,919       264,227     310,970       2,553     313,523
+(1)
+  Per Note 18, in the prior corresponding six-month period ended 30 June 2025, the Company, Empire APAC and the Investors entered into a Second Supplemental Agreement whereby the REN
+are deemed to meet the “fixed for fixed” accounting treatment under SFRS(I) 1-32. As a result, the REN are accounted for as a compound instrument and bifurcated into debt and equity components.
+The valuer determined the fair value of the debt component, amounting to US$36,439,000, with the residual amount of US$33,323,000 recognised as the equity component.
+
+
+
+
+                                                                                                                                                                                                 5
+FOOD EMPIRE HOLDINGS LIMITED
+(Co Registration No: 200001282G)
+
+Interim statements of changes in equity (cont’d)
+                                                                                           Foreign Share-
+                                                                                          currency based
+                                                                          Share Treasury translation payment Other Accumulated Total
+Company                                                                   capital shares reserve reserve reserves profits      Equity
+                                                                    Note US$’000 US$’000 US$’000 US$’000 US$’000 US$’000 US$’000
+Balance as at 1 January 2026                                              47,502   (4,454)   1,931   3,605    19,622     40,822   109,028
+
+ Profit for the period                                                         -         -       -        -         -    19,951    19,951
+ Other comprehensive income
+ Foreign currency translation loss                                             -         -   (317)        -         -         -     (317)
+ Total comprehensive income for the period                                     -         -   (317)        -         -    19,951    19,634
+
+ Contributions by and distributions to owners
+ Dividends paid to shareholders of the Company                                 -        -        -        -         -   (38,790) (38,790)
+ Treasury shares reissued pursuant to share-based incentive plans   19         -    4,367        -    (529)   (2,163)          -    1,675
+ Issuance of ordinary shares pursuant to share-based
+  incentive plans                                                   19       650         -       -    (494)        -          -        156
+ Purchase of treasury shares                                        19         -   (5,142)       -        -        -          -    (5,142)
+ Sale of treasury shares                                            19         -     2,676       -        -    1,572          -      4,248
+ Value of employee services received from the issuance
+  of share options and share awards                                            -         -       -     499          -         -       499
+ Total contributions by and distributions to owners,
+   representing total transactions with owners in
+   their capacity as owners                                                  650    1,901        -    (524)    (591)    (38,790) (37,354)
+Balance as at 30 June 2026                                                48,152   (2,553)   1,614   3,081    19,031     21,983    91,308
+
+Balance as at 1 January 2025                                              47,502 (15,898)     (33)   3,715          -    37,545    72,831
+
+ Profit for the period                                                         -         -       -        -         -    11,215    11,215
+ Other comprehensive income
+ Foreign currency translation gain                                             -         -   1,571        -         -         -     1,571
+ Total comprehensive income for the period                                     -         -   1,571        -         -    11,215    12,786
+
+ Contributions by and distributions to owners
+ Dividends paid to shareholders of the Company                                 -         -       -        -        -    (32,767) (32,767)
+ Treasury shares reissued pursuant to share-based incentive plans 19           -    1,480        -    (550)    (404)           -      526
+ Expiry of share options                                                       -         -       -     (20)        -          20        -
+ Purchase of treasury shares                                      19           -      (73)       -        -        -           -     (73)
+ Value of employee services received from the issuance
+  of share options and share awards                                            -         -       -     371          -         -       371
+ Total contributions by and distributions to owners,
+  representing total transactions with owners in
+  their capacity as owners                                                     -    1,407        -    (199)    (404)    (32,747) (31,943)
+Balance as at 30 June 2025                                                47,502 (14,491)    1,538   3,516     (404)     16,013    53,674
+
+
+                                                                                                                                      6
+FOOD EMPIRE HOLDINGS LIMITED
+(Co Registration No: 200001282G)
+
+Interim consolidated cash flow statement
+                                                                                                             Group
+                                                                                                         1H 26   1H 25
+                                                                                                Note    US$'000 US$'000
+  Cash flows from operating activities
+   Profit before taxation                                                                                 46,347        9,704
+   Adjustment for :
+    Depreciation of property, plant and equipment                                                 9         5,086       4,813
+    Depreciation of right-of-use assets                                                           9         2,050       1,391
+    Bargain purchase on gain of control of a subsidiary                                                         -     (1,326)
+    Fair value loss on redeemable exchangeable notes (1)                                          7             -      32,592
+    Loss on disposal of property, plant and equipment                                             7            21         445
+    Loss on derecognition of right-of-use assets                                                  7             1           -
+    Interest income                                                                               8       (2,138)     (1,968)
+    Interest expenses                                                                             8         5,348       3,715
+    Exchange realignment                                                                                      892         585
+    Share of profits of associates                                                                        (1,476)       (764)
+    Impairment loss on trade receivables                                                          9           326          18
+    Impairment loss on other receivables                                                          9            72           -
+    Allowance for inventories                                                                     9           335         872
+    Value of employee services received from the issuance of share
+      options and share awards                                                                               499         371
+  Operating cash flows before changes in working capital                                                  57,363      50,448
+
+  Changes in working capital:
+   Increase in trade and other receivables                                                              (16,561)      (4,930)
+   Decrease/(increase) in inventories                                                                      2,858        (534)
+   Decrease in trade and other payables                                                                  (7,330)      (3,216)
+  Cash flows from operations                                                                              36,330       41,768
+   Income taxes paid                                                                                    (10,274)      (9,390)
+  Net cash flows from operating activities                                                                26,056       32,378
+
+  Cash flows from investing activities
+   Interest received                                                                                       2,268    2,035
+   Purchase of property, plant and equipment                                                            (30,126) (11,880)
+   Proceeds from disposal of property, plant and equipment                                                     2       57
+   Dividend received from an associate                                                                        97        -
+  Net cash flows used in investing activities                                                           (27,759)  (9,788)
+
+  Cash flows from financing activities
+   Interest paid                                                                                         (2,407)  (1,916)
+   Acquisition of non-controlling interest of a subsidiary                                                 (240)        -
+   Dividends paid to shareholders of the Company                                                        (38,790) (32,767)
+   Repayment of principal portion of interest-bearing loans and borrowings                              (78,163) (59,949)
+   Repayment of loan to non-controlling interest of a subsidiary                                         (3,960)        -
+   Proceeds from interest-bearing loans and borrowings                                                    96,577   75,486
+   Payment of principal portion of lease liabilities                                                     (1,613)  (1,303)
+   Proceeds from issuance of shares                                                              19          156        -
+   Purchase of treasury shares                                                                   19      (5,142)     (73)
+   Sale of treasury shares                                                                       19        4,265        -
+   Proceeds from reissuance of treasury shares pursuant to share-based
+     incentive plans                                                                             19        1,675      526
+  Net cash flows used in financing activities                                                           (27,642) (19,996)
+
+ Net (decrease)/increase in cash and cash equivalents                                                   (29,345)       2,594
+ Effect of exchange rate changes on cash and cash equivalents                                              (121)       1,876
+ Cash and cash equivalents at beginning of the period                                            16      180,808     130,852
+ Cash and cash equivalents at end of the period                                                  16      151,342     135,322
+(1)
+   In the prior corresponding six-month period ended 30 June 2025 (“1H2025”), the Group recorded a one-off, non-cash, fair
+value loss on redeemable exchangeable notes (“REN”) of US$32,592,000 due to fair value through profit or loss (“FVTPL”)
+accounting treatment, resulting from a significant increase in Company share price above the Exchange Price of S$1.09 to S$1.84
+(“market closing price”).
+
+
+                                                                                                                             7
+FOOD EMPIRE HOLDINGS LIMITED
+(Co Registration No: 200001282G)
+
+Notes to the condensed interim consolidated financial statements
+1. Corporate information
+
+   The Company is a limited liability company incorporated and domiciled in Singapore and is listed on
+   the Singapore Exchange Securities Trading Limited (SGX-ST). These condensed interim
+   consolidated financial statements as at and for the six months ended 30 June 2026 comprise the
+   Company and its subsidiaries (collectively, the Group).
+   The principal activity of the Company is investment holding.
+
+2. Summary of significant accounting policies
+
+   a.   Basis of Preparation
+
+   The condensed interim consolidated financial statements for the six months ended 30 June 2026
+   have been prepared in accordance with SFRS(I) 1-34 Interim Financial Reporting issued by the
+   Accounting Standards Council Singapore. The condensed interim consolidated financial statements
+   do not include all the information required for a complete set of financial statements. However,
+   selected explanatory notes are included to explain events and transactions that are significant to an
+   understanding of the changes in the Group’s financial position and performance of the Group since
+   the last annual financial statements for the year ended 31 December 2025.
+
+   The accounting policies adopted are consistent with those of the previous financial year which were
+   prepared in accordance with SFRS(I)s, except for the adoption of new and amended standards as
+   set out in Note 2(b).
+
+   The Company’s functional currency is Singapore Dollars (“S$” or “SGD”) while the condensed
+   interim consolidated financial statements are presented in United States Dollars (“US$” or “USD”).
+   The Group adopted USD as the presentation currency as it is more reflective of the business
+   operations of the Group, where transactions are mostly in USD.
+
+   b.   Adoption of new and amended standards and interpretations
+
+   A number of amendments to Standards have become applicable for the current reporting period.
+   The Group did not have to change its accounting policies or make retrospective adjustments as a
+   result of adopting those standards.
+
+3. Use of judgements and estimates
+
+   The preparation of the Group’s condensed interim consolidated financial statements requires
+   management to make judgements, estimates and assumptions that affect the reported amounts of
+   revenues, expenses, assets and liabilities, and the disclosure of contingent liabilities at the end of
+   each reporting period. Uncertainty about these assumptions and estimates could result in outcomes
+   that could require a material adjustment to the carrying amount of the asset or liability affected in the
+   future periods.
+
+   The significant judgements made by management in applying the Group’s accounting policies and
+   the key sources of estimation uncertainty were the same as those applied to the Group’s annual
+   financial statements for the financial year ended 31 December 2025.
+
+   Estimates and underlying assumptions are reviewed on an ongoing basis. Revisions to accounting
+   estimates are recognised in the period in which the estimates are revised and in any future periods
+   affected.
+
+   Management is of the opinion that there is no significant judgement made in the process of applying
+   the Group’s accounting policies for the six months ended 30 June 2026.
+
+
+
+
+                                                                                                          8
+FOOD EMPIRE HOLDINGS LIMITED
+(Co Registration No: 200001282G)
+
+4. Seasonal operations
+
+  The Group’s businesses are not affected significantly by seasonal or cyclical factors during the
+  financial period.
+
+5. Revenue and segment information
+
+  5.1 Revenue
+
+   Disaggregation of revenue
+                                               Sale of goods  Rental income   Other revenue   Total revenue
+                                              1H 26     1H 25 1H 26    1H 25  1H 26    1H 25  1H 26    1H 25
+                                             US$’000 US$’000 US$’000 US$’000 US$’000 US$’000 US$’000 US$’000
+
+   Russia                                     103,152 82,796       -       -       -       - 103,152 82,796
+   Southeast Asia                              79,314 77,458       -       2       -       - 79,314 77,460
+   Central Asia                                60,483 45,274       -       -       -       - 60,483 45,274
+   South Asia                                  38,608 36,951       -       -      13      32 38,621 36,983
+   Europe                                      25,015 23,713       3       4       -       - 25,018 23,717
+   Others                                       8,469   7,814      -       -      16      16   8,485   7,830
+   Total                                      315,041 274,006      3       6      29      48 315,073 274,060
+
+   Timing of transfer of goods or services
+   At a point in time                         315,041 274,006      -       -      29      48
+
+  5.2 Segment information
+
+  For management purposes, the Group is organised into six reportable segments based on
+  geographical locations. The six main segments are:
+
+  (i)     Russia
+  (ii)    Southeast Asia
+  (iii)   Central Asia
+  (iv)    South Asia
+  (v)     Europe
+  (vi)    Others
+
+  In presenting information on the basis of geographical segments, the segment revenue and results
+  for sale of ingredients are based on the physical location of the factories.
+
+  For all other sales, the segment revenue and results are based on the geographical locations of the
+  customers. This is consistent with the manner which the Group’s chief operating decision makers
+  review the segment results of the Group.
+
+  The Group regularly reviews each reportable segment results for the purpose of making decisions
+  about resource allocation and performance assessment. Segment performance is evaluated based
+  on operating profit or loss which in certain respects, as explained in the table below, is measured
+  differently from the operating profit or loss in the consolidated financial statements.
+
+  Transfer pricing between operating parties, are on arm’s length basis in a manner similar to
+  transactions with third parties.
+
+
+
+
+                                                                                                           9
+FOOD EMPIRE HOLDINGS LIMITED
+(Co Registration No: 200001282G)
+
+  5.2 Segment information (cont’d)
+
+
+                                                                          Russia            Southeast Asia         Central Asia           South Asia                Europe                Others                       Total
+                                                                     1H 26      1H 25      1H 26      1H 25      1H 26      1H 25      1H 26      1H 25        1H 26      1H 25      1H 26      1H 25         1H 26             1H 25
+                                                                         US$'000               US$'000               US$'000               US$'000                 US$'000               US$'000                      US$'000
+  Revenue
+  Total segment sales                                                108,049     86,093    102,165    105,345     60,483     45,274      54,569      53,354     25,707     23,717      96,802      68,225       447,775           382,008
+  Inter-segment sales (a)                                             (4,897)    (3,297)   (22,851)   (27,885)         -          -    (15,948)    (16,371)      (689)          -    (88,317)    (60,395)     (132,702)         (107,948)
+  Segment sales to external customers                                103,152     82,796      79,314     77,460    60,483     45,274      38,621      36,983     25,018     23,717       8,485       7,830       315,073           274,060
+
+  Results :
+  Segment results                                                     16,153     14,845       8,674      5,754    16,049     10,472     10,262      13,155       5,037      4,837         278        352         56,453            49,415
+  Interest income                                                         876        751        460        432        404        357        154         204        179        147          65         77          2,138             1,968
+  Interest expenses                                                     (728)      (133)    (3,721)    (2,380)      (501)      (238)      (382)       (941)        (13)       (18)         (3)        (5)       (5,348)           (3,715)
+  Share of profits of associates                                          526        339          -          -          -          -        950         425           -          -           -          -         1,476               764
+  Income tax expense                                                  (2,792)    (3,382)    (3,454)    (1,779)    (1,575)    (1,704)    (2,546)     (3,280)      (632)      (473)            -     (180)       (10,999)          (10,798)
+  Non-controlling interest                                                  -          -          -          -         16      (376)           -           -          -          -         17         18             33             (358)
+  Depreciation of property, plant and equipment                         (667)      (572)    (1,633)    (1,620)      (384)      (261)    (2,227)     (2,174)      (153)      (166)        (22)       (20)        (5,086)           (4,813)
+  Depreciation of right-of-use assets                                 (1,453)      (851)      (263)      (226)      (167)      (146)        (79)        (76)       (77)       (81)       (11)       (11)        (2,050)           (1,391)
+  Bargain purchase on gain of control of a subsidiary                       -          -          -          -          -      1,326           -           -          -          -           -          -             -             1,326
+  Fair value loss on redeemable exchangeable notes (b)                      -          -          -   (32,592)          -          -           -           -          -          -           -          -             -          (32,592)
+  Other non-cash expenses (c)                                           (123)      (109)      (846)      (364)       (44)      (153)        (94)        (79)       (22)     (488)       (107)       (65)        (1,236)           (1,258)
+  Profit/(loss) attributable to equity shareholders of the Company    11,792     10,888       (783)   (32,775)    13,798       9,277      6,038       7,234      4,319      3,758         217        166         35,381           (1,452)
+                                                                                                                                                                                                            30 Jun 2026 31 Dec 2025
+                                                                                                                                                                                                                     US$'000
+  Segment assets                                                     104,709      94,745 266,796 259,727           59,142     55,720     89,360      98,232     24,267     20,696      29,650     37,160         573,924       566,280
+  Investment in associates                                              6,197      5,634         -         -            -          -      5,908       5,451           -          -          -           -         12,105        11,085
+  Additions to non-current assets                                       1,599      8,244    22,395     9,807        1,868      9,781        483       2,204         509        300          7         157         26,861        30,493
+  Segment liabilities                                                (27,665)   (27,231) (114,968) (101,962)     (22,822)   (18,626)   (21,574)    (35,581)     (3,790)    (2,955)   (14,167)     (9,686)      (204,986)     (196,041)
+
+  (a)
+        Inter-segment sales are eliminated on consolidation.
+  (b)
+        In the prior corresponding six-month period ended 30 June 2025 (“1H2025”), the Group recorded a one-off, non-cash, fair value loss on redeemable exchangeable notes (“REN”) of
+        US$32,592,000 due to fair value through profit or loss (“FVTPL”) accounting treatment, resulting from a significant increase in Company share price above the Exchange Price of S$1.09 to
+        S$1.84 (“market closing price”).
+  (c)
+        Other non-cash expenses consist of allowance for doubtful debts, bad debts written off, inventories written down and value of employee services received from the issuance of share options
+        and share awards as presented in the respective notes to the financial statements.
+
+
+
+                                                                                                                                                                                                                                        10
+FOOD EMPIRE HOLDINGS LIMITED
+(Co Registration No: 200001282G)
+
+   5.2 Segment information (cont’d)
+
+   Segment revenue information based on the product segment of external customers are as follows:
+
+                                                                  Group
+                                                           1H 26                   1H 25
+                                                          US$'000                 US$'000
+         Beverages                                            249,219               209,063
+         Ingredients                                           53,778                 53,316
+         Others                                                12,076                 11,681
+                                                              315,073               274,060
+
+
+6. Financial assets and financial liabilities
+
+   The financial assets and liabilities of the Group are carried at amortised cost. There are no financial
+   assets or liabilities carried at fair value subsequent to initial recognition.
+
+7. Net other income/(expenses)
+                                                                                             Group
+                                                                                                          Increase/
+                                                                            1H 26          1H 25         (Decrease)
+                                                                           US$’000        US$’000             %
+     Other income
+      Bargain purchase on gain of control of a subsidiary                            -          1,326              NM
+      Foreign exchange gain                                                          3              -              NM
+      Sales of scrapped items                                                      196            182              7.7
+      Insurance claim                                                               20             17             17.6
+      Government grants                                                            685            468             46.4
+      Other income                                                                  68             98           (30.6)
+                                                                                   972          2,091           (53.5)
+     Other expenses
+      Foreign exchange loss                                                           -       (1,124)             NM
+      Fair value loss on redeemable exchangeable notes (1)                            -      (32,592)             NM
+      Loss on derecognition of right-of-use assets                                  (1)             -             NM
+      Loss on disposal of property, plant and equipment                            (21)         (445)           (95.3)
+                                                                                   (22)      (34,161)           (99.9)
+
+     Net other income/(expenses)                                                   950       (32,070)              NM
+
+
+   (1)
+     In the prior corresponding six-month period ended 30 June 2025 (“1H2025”), the Group recorded a one-off, non-cash, fair
+   value loss on redeemable exchangeable notes (“REN”) of US$32,592,000 due to fair value through profit or loss (“FVTPL”)
+   accounting treatment, resulting from a significant increase in Company share price above the Exchange Price of S$1.09 to
+   S$1.84 (“market closing price”). Excluding this one-off, non-cash, fair value loss, the net other income is US$522,000 for
+   1H2025.
+
+8. Net finance costs
+                                                                                            Group
+
+                                                                                                           Increase/
+                                                                          1H 26            1H 25          (Decrease)
+                                                                         US$’000          US$’000              %
+
+         Interest income                                                        2,138            1,968               8.6
+
+         Interest expenses on:
+         - Bank loans                                                         (1,150)          (1,507)            (23.7)
+         - Lease liabilities                                                    (903)            (280)            222.5
+         - Redeemable exchangeable notes                                      (1,460)          (1,091)              33.8
+         - Others                                                                (29)             (83)            (65.1)
+         Total net interest expenses                                          (3,542)          (2,961)              19.6
+         Cash compensation on redeemable
+         exchangeable notes                                                   (1,806)            (754)            139.5
+                                                                              (5,348)          (3,715)             44.0
+
+         Net finance costs                                                    (3,210)          (1,747)              83.7
+
+
+
+                                                                                                                         11
+FOOD EMPIRE HOLDINGS LIMITED
+(Co Registration No: 200001282G)
+
+
+9. Profit before taxation
+
+   The following items have been included in arriving at profit before taxation:
+
+                                                                                    Group
+
+                                                                                               Increase/
+                                                                   1H 26            1H 25     (Decrease)
+                                                                  US$’000          US$’000         %
+         Depreciation of property, plant and equipment               (5,086)          (4,813)          5.7
+         Depreciation of right-of-use assets                         (2,050)          (1,391)        47.4
+         Allowance for inventories                                     (335)            (872)       (61.6)
+         Impairment loss on trade receivables                          (326)             (18)     1,711.1
+         Impairment loss on other receivables                           (72)                -         NM
+
+10. Related party transactions
+
+   Sales and purchase of goods and services
+   The following significant transactions between the Group and related parties took place at terms
+   agreed between the parties:
+
+                                                                                         Group
+                                                                                    1H 26     1H 25
+                                                                                   US$’000       US$’000
+         Group
+   Triple Ace Ventures Limited and its subsidiaries (a)
+    - Lease payments made to Triple Ace Venture Limited                                1,764         1,030
+       and its subsidiaries
+   UDI Marketing Sdn Bhd (b)
+   - Sale of goods                                                                       203           292
+   PT Indokemika Jayatama (b)
+   - Sale of goods                                                                     1,439           594
+
+         Company
+
+         Subsidiaries
+         - Management fees received                                                      332           449
+
+   (a)     Companies associated to one of the directors and substantial shareholders, Mr Sudeep Nair.
+   (b)     Company associated to Universal Integrated Corporation Consumer Products Pte Ltd., a
+           substantial shareholder of the Group.
+
+11. Taxation
+
+   The major components of income tax expense in the interim consolidated income statement are:
+                                                                                   Group
+                                                                                                Increase/
+                                                                  1H 26        1H 25           (Decrease)
+                                                                 US$’000      US$’000               %
+         Current income tax
+          - Current income taxation                               (11,468)         (12,672)          (9.5)
+          - Under provision for prior year                            (68)              (52)          30.8
+         Deferred income tax                                           537            1,926         (72.1)
+         Income tax expense                                       (10,999)         (10,798)            1.9
+
+
+
+
+                                                                                                         12
+FOOD EMPIRE HOLDINGS LIMITED
+(Co Registration No: 200001282G)
+
+
+12. Earnings per share
+                                                                                                         Group
+                                                                                                1H 26           1H 25(1)(2)(3)
+       Earnings per share
+        Basic earnings/(loss) per share (US cents)                                                      5.36             (0.23)
+        Diluted earnings/(loss) per share (US cents)                                                    5.02             (0.23)
+
+       Weighted average number of shares table
+        Weighted average number of shares for calculation of basic EPS                        659,599,325        638,339,052
+        Weighted average number of shares for calculation of diluted EPS                      705,321,608        638,339,052
+
+   (1)
+       In the prior corresponding six-month period ended 30 June 2025 (“1H2025”), the Group recorded a one-off, non-cash, fair
+   value loss on redeemable exchangeable notes (“REN”) of US$32,592,000 due to fair value through profit or loss (“FVTPL”)
+   accounting treatment, resulting from a significant increase in Company share price above the Exchange Price of S$1.09 to
+   S$1.84 (“market closing price”).
+   (2)
+        In accordance with SFRS(I) 1-33 Earnings per share, the weighted average number of ordinary shares used in the
+   computation of basic and diluted earnings per share (“EPS”) has been retrospectively adjusted to reflect the bonus issue
+   completed on 9 June 2026, as if the bonus issue had occurred at the beginning of the earliest comparative period presented.
+   Accordingly, the comparative EPS figures have been restated.
+   (3)
+       For 1H2025, REN and the share-based incentive plans were excluded from the diluted loss per share calculation, as their
+   inclusion would have reduced the loss per share, and therefore anti-dilutive.
+
+   Earnings per share – Normalised
+
+                                                                                                         Group
+                                                                                                             Normalised
+                                                                                                1H 26          1H 25 (1) (2) (3)
+       Earnings per share
+        Basic earnings per share (US cents)                                                             5.36                4.88
+        Diluted earnings per share (US cents)                                                           5.02                4.67
+
+       Weighted average number of shares table
+        Weighted average number of shares for calculation of basic EPS                        659,599,325        638,339,052
+        Weighted average number of shares for calculation of diluted EPS                      705,321,608        667,211,399
+
+   (1)
+       Excludes a one-off, non-cash, fair value loss on redeemable exchangeable notes (“REN”) of US$32,592,000 recorded in
+   the prior corresponding six-month period ended 30 June 2025 (“1H2025”) due to fair value through profit or loss (“FVTPL”)
+   accounting treatment, resulting from a significant increase in Company share price above the Exchange Price of S$1.09 to
+   S$1.84 (“market closing price”).
+   (2)
+       In accordance with SFRS(I) 1-33 Earnings per share, the weighted average number of ordinary shares used in the
+   computation of basic and diluted earnings per share (“EPS”) has been retrospectively adjusted to reflect the bonus issue
+   completed on 9 June 2026, as if the bonus issue had occurred at the beginning of the earliest comparative period presented.
+   Accordingly, the comparative EPS figures have been restated.
+   (3)
+       For 1H2025, the REN and the share-based incentive plans were included in the diluted earnings per share calculation, as
+   their inclusion reduced earnings per share, and therefore dilutive.
+
+13. Net asset value
+
+                                                                      Group                           Company
+                                                          30 Jun 2026 31 Dec 2025* 30 Jun 2026 31 Dec 2025*
+       Net asset value per ordinary share (US cents)            55.99         56.04      13.83         16.60
+   *
+    For comparative purposes, net asset value per ordinary share has been adjusted to reflect the 1-for-5 bonus issue completed
+   on 9 June 2026.
+
+14. Intangible assets
+
+   As at 30 June 2026, the carrying amount of the intangible assets is US$11,214,000 (31 December
+   2025: US$11,094,000). There were no indicators of impairment as at 30 June 2026.
+
+15. Property, plant and equipment
+
+   During the six months ended 30 June 2026, the Group acquired assets amounting to US$25,205,000
+   (30 June 2025: US$5,785,000).
+
+
+                                                                                                                                   13
+FOOD EMPIRE HOLDINGS LIMITED
+(Co Registration No: 200001282G)
+
+
+16. Cash and short-term deposits
+                                                          Group                     Company
+                                                30 Jun 2026 31 Dec 2025     30 Jun 2026 31 Dec 2025
+                                                  US$'000      US$'000        US$'000     US$'000
+    Cash at banks and on hand                         54,261      75,872           4,502       1,758
+    Short-term deposits                               97,081     105,665          27,089      31,991
+    Cash and short-term deposits                    151,342       181,537         31,591        33,749
+
+
+   Cash at banks earns interest at floating rates based on daily bank deposit rates. Short-term deposits
+   are made for varying short-term period and earn interest at the respective short-term deposit rates.
+
+   For the purpose of the statement of cash flows, cash and cash equivalents comprise the following
+   at :
+                                                          Group
+                                                30 Jun 2026 31 Dec 2025
+                                                  US$'000      US$'000
+    Cash and short-term deposits                     151,342     181,537
+    Less : Bank overdrafts (Note 17)                        -       (729)
+    Cash and cash equivalents                        151,342     180,808
+
+
+17. Interest-bearing loans and borrowings and lease liabilities
+
+   Amount repayable in one year or less, or on demand
+                                                 As at 30 Jun 2026              As at 31 Dec 2025
+                                                Secured Unsecured              Secured Unsecured
+                                                US$'000     US$'000            US$'000    US$'000
+    Lease liabilities                             (3,473)            -           (2,939)            -
+    Bank overdrafts                                     -            -             (729)            -
+    Interest-bearing loans and borrowings        (12,876)      (5,678)          (16,474)      (7,115)
+    Total                                        (16,349)      (5,678)          (20,142)      (7,115)
+
+
+   Amount repayable after one year
+                                                     As at 30 Jun 2026          As at 31 Dec 2025
+                                                    Secured Unsecured          Secured Unsecured
+                                                    US$'000     US$'000        US$'000    US$'000
+    Lease liabilities                                 (8,075)           -        (8,508)          -
+    Interest-bearing loans and borrowings            (44,957)           -       (21,671)          -
+    Total                                            (53,032)           -       (30,179)          -
+
+
+   As at 31 December 2025 and 30 June 2026, the lease liabilities include the leasehold land, factory
+   and office premises and motor vehicles held by subsidiaries of the Group.
+
+   Details of any collateral
+
+   As at 31 December 2025 and 30 June 2026, the secured loans are secured by mortgages on the
+   borrowing subsidiaries’ leasehold and freehold properties, plant, equipment and machineries,
+   inventories, trade and other receivables and corporate guarantees issued by the Company.
+
+   As at 31 December 2025 and 30 June 2026, the unsecured loans are covered by corporate
+   guarantees issued by the Company.
+
+
+
+
+                                                                                                     14
+FOOD EMPIRE HOLDINGS LIMITED
+(Co Registration No: 200001282G)
+
+18. Redeemable Exchangeable Notes
+
+                                                                       Group                                  Company
+                                                               30 Jun 2026         31 Dec 2025         30 Jun 2026    31 Dec 2025
+                                                                   US$'000             US$'000             US$'000        US$'000
+
+   Redeemable Exchangeable Notes                                    37,153                36,793                   -                   -
+
+
+   The Group’s wholly-owned subsidiary, Empire APAC Pte. Ltd. (“Empire APAC”) issued redeemable
+   exchangeable notes (the “REN”) to Merit Genesis Pte Ltd and Apex Genesis Pte Ltd (collectively
+   the “Investors”) at an aggregate value of US$40,000,000. The REN are convertible into new
+   ordinary shares in the capital of the Company (the “Exchange Shares”) at a price of S$1.09 per
+   Exchange Share (the “Exchange Price”). The REN bear interest at 5.5% per annum, payable on an
+   annual basis.
+
+   The REN is measured at amortised cost. However, certain terms and conditions require the Group
+   to compensate the Investors in cash upon the occurrence of specified corporate actions. These
+   include the declaration of annual dividends by the Company in excess of 6.0 Singapore cents per
+   ordinary share (the “Dividend Limit”), with the excess amount payable to the Investors in cash.
+
+   During the six months ended 30 June 2026, the company undertook a bonus issue of new ordinary
+   shares in the capital of the Company (the "Bonus Issue") to the shareholders on the basis of one
+   (1) Bonus Share for every five (5) existing ordinary shares held.
+
+   Following the Bonus Issue and pursuant to the terms and conditions of the REN, the Exchange Price
+   will be adjusted from S$1.09 to S$0.9083 per Exchange Share (the “New Exchange Price”).
+   Accordingly, if all REN are exchanged into Exchange Shares, an additional 9,729,114 Exchange
+   Shares may be issued, increasing the maximum aggregate number of Exchange Shares issuable
+   from 48,634,863 (based on the original Exchange Price) to 58,363,977 (based on the New Exchange
+   Price). In addition, the Dividend Limit will be adjusted from 6.0 Singapore cents per ordinary share
+   to 5.0 Singapore cents per ordinary share (the “New Dividend Limit”). Accordingly, any annual
+   dividend declared by the Company in excess of the New Dividend Limit will be payable to the
+   Investors in cash.
+
+19. Share capital
+                                                                                          Group and Company
+                                                                      As at 30 Jun 2026                       As at 31 Dec 2025
+
+   Issued and fully paid:                                     Number of shares       US$'000      Number of shares          US$'000
+   At 1 January                                                    550,142,999             47,502     550,142,999                 47,502
+   Issuance of ordinary shares under employee share option              293,000               208                -                     -
+   Issuance of ordinary shares under performance share plan             991,826               442                -                     -
+   Issuance of ordinary shares by virtue of bonus issue            110,285,541                  -                -                     -
+   At 30 June / 31 December                                         661,713,366            48,152      550,142,999                47,502
+
+
+   Following the completion of the 1-for-5 bonus issue, the Company's total number of issued ordinary
+   shares as at 30 June 2026 was 660,374,678 (31 December 2025: 546,560,125), excluding
+   1,338,688 treasury shares (31 December 2025: 3,582,874).
+
+   (i)    Share-based Incentive Plans
+
+   The Food Empire Holdings Limited Share Option Scheme (the “2022 Option Scheme”) and
+   Performance Share Plan (the “2022 PSP Plan”) was approved and adopted as an Extraordinary
+   General Meeting of the Company held on 22 April 2022.
+
+
+
+
+                                                                                                                                      15
+FOOD EMPIRE HOLDINGS LIMITED
+(Co Registration No: 200001282G)
+
+  Out of the 9,236,000 outstanding share options on 30 June 2026 (31 December 2025: 9,322,500),
+  5,876,000 (31 December 2025: 6,022,500) share options are exercisable.
+
+  The 2022 PSP Plan award fully paid ordinary shares of the Company, conditional on performance
+  targets. As at 30 June 2026, 2,183,634 (31 December 2025: 1,635,996) share awards granted under
+  2022 PSP Plan are outstanding.
+
+  (ii) Treasury Shares
+
+  As at 30 June 2026, the total number of treasury shares held was 1,338,688 (31 December 2025:
+  3,582,874).
+
+  During the financial period ended 30 June 2026, the Company purchased 2,638,314 of treasury
+  shares, sold 2,000,000 of treasury shares to a reputable institutional investor and transferred
+  2,882,500 of treasury shares pursuant to equity compensation plan.
+
+  (iii) Subsidiary holdings
+
+  The Company’s subsidiaries do not hold any shares in the Company during the current financial
+  period reported on.
+
+20. Subsequent events
+
+  There are no known subsequent events which have led to adjustments to the condensed interim
+  consolidated financial statements.
+
+21. Use of proceeds
+
+  Reference to the Company’s announcement on 12 August 2026 on the utilisation of proceeds from:
+
+   (i)     the gross proceeds in relation to the issuance of 5.5% redeemable exchangeable notes in
+           aggregate principal amount of US$40,000,000 by its wholly owned subsidiary, Empire
+           APAC Pte. Ltd. (the “REN Issuance”);
+
+   (ii)    the gross proceeds of S$42,840,000 from the placement of 17,000,000 treasury shares
+           (the “Placement of Treasury Shares”) and
+
+   (iii)   the gross proceeds of S$5,385,000 from the sale of 2,000,000 treasury shares (the "Sale
+           of Treasury Shares") as follows:
+
+  (i) Use of proceeds from REN Issuance
+
+                                                                                Group
+                                                                               US$'000
+   Expenses incurred in relation to REN Issuance                                      1,400
+   Capex Expenditure for Empire Manufacturing Kazakhstan LLP                          5,000
+   Capex Expenditure for Indus Coffee (Vietnam) Co., Ltd                            20,100
+   Total                                                                            26,500
+
+  The above utilisation of the proceeds is consistent with the intended use as disclosed in the previous
+  announcements in relation to the REN Issuance.
+
+  (ii) Use of proceeds from Placement of Treasury Shares
+
+                                                                                  Group
+                                                                                  S$'000
+   Expenses incurred in relation to the Proposed Placement Treasury Shares                 1,021
+   Total                                                                                   1,021
+
+                                                                                                     16
+FOOD EMPIRE HOLDINGS LIMITED
+(Co Registration No: 200001282G)
+
+
+   The utilisation of the proceeds is consistent with the intended use as disclosed in the previous
+   announcements from the Placement of Treasury Shares.
+
+   (iii) Use of proceeds from Sale of Treasury Shares
+
+                                                                              Group
+                                                                              S$'000
+   Expenses incurred in relation to the Sale of Treasury Shares                         21
+   Total                                                                                21
+
+   The utilisation of the proceeds is consistent with the intended use as disclosed in the previous
+   announcements from the Sale of Treasury Shares.
+
+
+Other information required by Listing Rule Appendix 7.2
+1. Review
+
+   The interim balance sheet of the Group and the Company as at 30 June 2026, the interim statement
+   of changes in equity of the Group and the Company, the interim consolidated income statement and
+   statement of comprehensive income and the interim consolidated cash flow statement for the six-
+   month period then ended and certain explanatory notes have not been audited or reviewed.
+
+2. Where the latest financial statements are subject to an adverse opinion, qualified opinion or
+   disclaimer of opinion:-
+   (a) Updates on the efforts taken to resolve each outstanding audit issue.
+   (b)Confirmation from the Board that the impact of all outstanding audit issues on the financial
+   statements have been adequately disclosed.
+   This is not required for any audit issue that is a material uncertainty relating to going concern.
+
+   Not applicable.
+
+3. Review of performance of the Group
+
+   Revenue for the six months ended 30 June 2026 (“1H2026”) increased 15.0% to US$315.1 million
+   from US$274.1 million in 1H2025 due to revenue growth across all segments.
+
+   Revenue by Segments (US$’000)
+
+                                                                         Group
+                                                                                   Increase/
+                                                           1H 26         1H 25    (Decrease)
+                                                          US$’000       US$’000        %
+   Russia                                                   103,152        82,796        24.6
+   Southeast Asia                                            79,314        77,460         2.4
+   Central Asia                                              60,483        45,274        33.6
+   South Asia                                                38,621        36,983         4.4
+   Europe                                                    25,018        23,717         5.5
+   Others                                                     8,485         7,830         8.4
+   Total                                                    315,073       274,060        15.0
+
+   Revenue from the Group’s Russia segment rose 24.6% from US$82.8 million in 1H2025 to
+   US$103.2 million in 1H2026 mainly due to higher sales volumes coupled with a stronger Russian
+   Ruble which appreciated by 12.3% on average against the US dollar during the six months under
+   review.
+
+   Revenue from the Group’s Southeast Asia segment increased 2.4% in 1H2026 to US$79.3 million.
+   Vietnam remained the segment largest market, contributing over 60.0% of the total revenue.
+
+
+                                                                                                  17
+FOOD EMPIRE HOLDINGS LIMITED
+(Co Registration No: 200001282G)
+
+  The Group’s Central Asia segment achieved a 33.6% increase in revenue to US$60.5 million in
+  1H2026 from US$45.3 million in 1H2025. The growth was driven by higher sales volumes across
+  the Kazakhstan, Uzbekistan and Turkmenistan markets.
+
+  The Group’s South Asia segment recorded revenue growth of 4.4% from US$37.0 million in 1H2025
+  to US$38.6 million in 1H2026 from stronger demand for freeze-dried and spray-dried soluble coffee.
+  Both manufacturing facilities are optimised for greater efficiency and able to achieve continued
+  growth despite operating at near-full capacity.
+
+  Revenue from the Group’s Europe segment rose 5.5% from US$23.7 million in 1H2025 to US$25.0
+  million in 1H2026 mainly driven by higher sales volumes and price gains in the Ukraine market.
+
+  Profitability
+
+  In tandem with higher revenue, the Group’s net profit after tax rose 12.2% to US$35.3 million as
+  compared to a normalized net profit after tax of US$31.5 million (excluding the one-off, non-cash,
+  fair value loss of US$32.6 million from the REN) in 1H2025.
+
+  Background
+  In an SGX announcement dated 1 November 2024, the Group announced its entry into a US$40
+  million redeemable exchangeable notes (“REN”) agreement with Merit Genesis Pte Ltd and Apex
+  Genesis Pte Ltd with an Exchange price of S$1.09. In accordance with SFRS(I) 9, the REN is
+  classified as a financial liability measured at fair value through profit and loss (“FVTPL”). As a result,
+  mark-to-market adjustments to the REN are required to be recognised in the Group’s consolidated
+  income statement even though they are non-cash and do not reflect operating performance.
+  Accordingly, the Group recorded a US$32.6 million one-off, non-cash, fair value accounting loss on
+  REN due to a significant increase in the Group’s Share Price above the Exchange Price of S$1.09
+  to S$1.84 (the “market closing price”) as at 30 June 2025. Following the entry into a Second
+  Supplemental Agreement announced SGX on 30 June 2025, the FVTPL accounting requirement
+  will no longer be applicable after 30 June 2025.
+
+  Operating Performance
+  For 1H2026, sales and marketing expenses increased 29.7% to US$30.2 million from US$23.3
+  million in 1H2025 mainly due to more intense promotion and brand building activities, to drive sales
+  across all markets.
+
+  General and administrative expenses were also higher in 1H2026, rising to US$26.6 million from
+  US$24.1 million in 1H2025 mainly due to an increase in headcount in certain markets to support
+  sales volume growth and higher profit sharing in line with the improved performance.
+
+
+  Balance Sheet & Cashflow
+
+  The Group’s property, plant and equipment (“PPE”) increased by US$20.8 million to US$151.6
+  million mainly due to an increase in PPE in relation to the Group's freeze-dried soluble coffee
+  manufacturing facility in Vietnam.
+
+  Interest-bearing loans and borrowings increased from US$46.0 million as at 31 December 2025 to
+  US$63.5 million as at 30 June 2026 mainly from a term loan in relation to the Group's freeze-dried
+  soluble coffee manufacturing facility in Vietnam and a working capital loan to its first coffee-mix
+  manufacturing facility in Kazakhstan, which was partly offset by repayment of existing loans.
+
+  The Group’s trade receivables increased by US$15.9 million to US$71.4 million as at 30 June 2026
+  mainly due to higher receivables from the Group's Central Asia, South Asia and Russia segment in
+  view of higher sales.
+
+
+
+
+                                                                                                         18
+FOOD EMPIRE HOLDINGS LIMITED
+(Co Registration No: 200001282G)
+
+  As at 30 June 2026, the Group’s net assets amounted to US$368.9 million. The net asset value per
+  ordinary share (excluding non-controlling interests) as at 30 June 2026 was 55.99 US cents as
+  compared to 56.04 US cents* as at 31 December 2025.
+  * For comparative purposes, net asset value per ordinary share has been adjusted to reflect the 1-for-5 bonus issue completed
+  on 9 June 2026.
+
+4. Where a forecast, or a prospect statement, has been previously disclosed to shareholders,
+   any variance between it and the actual results
+
+  Not applicable.
+
+5. A commentary at the date of the announcement of the significant trends and competitive
+   conditions of the industry in which the Group operates and any known factors or events that
+   may affect the Group in the next operating period and the next 12 months
+
+  With 1H2026 revenue already surpassing that of 1H2025, Food Empire expects to achieve a strong
+  full-year performance, barring unforeseen circumstances. The Group’s optimism is underpinned by
+  resilient consumer demand for its instant beverage brands across its core markets as it continues to
+  invest in brand building and consumer engagement activities that are supported by a robust pipeline
+  of capacity expansion projects, and a healthy balance sheet in a net cash position.
+
+  With its new coffee-mix manufacturing facility in Khorgos, Kazakhstan now operational, the Group
+  expects it to contribute positively from second half of FY2026. The new facility strengthens the
+  Group’s ability to overcome logistical challenges brought on by the Middle East war and serve
+  Central Asia market more efficiently.
+
+  With its established track record and experience in operating in extremely volatile conditions to
+  deliver resilient growth, Food Empire is confident of being able to overcome macroeconomic and
+  geopolitical developments that could indirectly affect its business. These include freight, elevated
+  energy and packaging costs, along with broader inflationary pressures linked to conflicts in Europe,
+  the Middle East and their knock-on effects on global shipping and oil markets. While the Group does
+  not expect any direct material impact, as these regions are not core markets, it remains watchful of
+  potential indirect cost pass-through.
+
+  Looking ahead, the Group remains focused on leveraging its vertically integrated business model
+  and executing its capacity expansion projects to support its growing branded consumer business.
+  Projects in its pipeline include:
+      • The expansion of the Group's spray-dried soluble coffee facility in India, which is on track
+          for completion by end-2027.
+      • The new freeze-dried soluble coffee facility in Vietnam, which is expected to be completed
+          by 2028.
+
+  Taken together, Food Empire believes these investments alongside its diversified geographical
+  footprint, strong brand equity and disciplined execution will position the Group well to sustain its
+  multi-year growth trajectory and deliver strong total shareholders’ return.
+
+
+
+
+                                                                                                                           19
+FOOD EMPIRE HOLDINGS LIMITED
+(Co Registration No: 200001282G)
+
+6. Dividend
+
+  (a) Current Financial Period Reported On
+
+       Any dividend declared for the current financial period reported on?
+
+       Name of Dividend                              Interim
+
+       Dividend Type                                  Cash
+
+
+       Dividend Rate                4.0 Singapore cents per ordinary share
+
+
+       Tax Rate                            Tax exempted (One-Tier)
+
+
+  (b) Corresponding Period of the Immediately Preceding Financial Year
+
+       Any dividend declared for the corresponding period of the immediately preceding financial
+       year?
+
+       Name of Dividend                              Interim
+
+       Dividend Type                                  Cash
+
+
+       Dividend Rate                3.0 Singapore cents per ordinary share
+
+
+       Tax Rate                            Tax exempted (One-Tier)
+
+
+
+  (c) Date payable
+
+       The interim dividend will be paid on 10 September 2026.
+
+  (d) Record date
+
+       Notice is hereby given that the Share Transfer Books and the Register of Members of the
+       Company will be closed on 3 September 2026. Duly completed transfers received by the
+       Company’s Share Registrar, Boardroom Corporate & Advisory Services Pte Ltd at 1
+       Harbourfront Avenue, #14-07 Keppel Bay Tower, Singapore 098632, up to 5.00 p.m. on 2
+       September 2026 will be registered to determine shareholders’ entitlement to the interim
+       dividend. Shareholders whose securities accounts with The Central Depository (Pte) Limited
+       (“CDP”) are credited with shares at 5.00 p.m. on 2 September 2026 will be entitled to the interim
+       dividend.
+
+7. If no dividend have been declared/recommended, a statement to that effect and reason for
+   the decision.
+
+  Not applicable.
+
+
+
+
+                                                                                                     20
+FOOD EMPIRE HOLDINGS LIMITED
+(Co Registration No: 200001282G)
+
+8. If the Group has obtained a general mandate from shareholders for IPTs, the aggregate value
+   of such transactions as required under Rule 920(1)(a)(ii). If no IPT mandate has been
+   obtained, a statement to that effect.
+
+   The Group has not obtained a general mandate from shareholders of the Company for Interested
+   Person Transactions.
+
+9. Confirmation by the Company in compliance with Rule 720(1) of the SGX-ST Listing Manual
+
+   The Company has procured the undertakings (in the format set out in Appendix 7.7 under Rule
+   720(1) of the Listing Manual of the SGX-ST) from all its Directors and Executive Officers.
+
+10. Confirmation by the Board Pursuant to Rule 705(5) of the SGX-ST Listing Manual
+
+   We, Tan Wang Cheow and Sudeep Nair, being two Directors of Food Empire Holdings Limited (the
+   “Company”), do hereby confirm on behalf of the Directors of the Company that, to the best of their
+   knowledge, nothing has come to the attention of the Board of Directors of the Company which may
+   render the financial results for the six months ended 30 June 2026 to be false or misleading in any
+   material aspect.
+
+
+On behalf of the Board of Directors
+
+
+
+
+Tan Wang Cheow                                          Sudeep Nair
+Director                                                Director
+
+
+Singapore
+12 August 2026
+
+
+
+
+                                                                                                   21
+

@@ -1,0 +1,1383 @@
+FINANCIAL STATEMENTS AND RELATED ANNOUNCEMENT::FULL YEARLY RESULTS
+
+Issuer & Securities
+
+Issuer/ Manager
+QAF LIMITED
+
+Securities
+QAF LIMITED - SG1A49000759 - Q01
+
+Stapled Security
+No
+
+
+Announcement Details
+
+Announcement Title
+Financial Statements and Related Announcement
+
+Date &Time of Broadcast
+24-Feb-2026 18:00:10
+
+Status
+New
+
+Announcement Sub Title
+Full Yearly Results
+
+Announcement Reference
+SG260224OTHR5OCF
+
+Submitted By (Co./ Ind. Name)
+Soh Chai Lih
+
+Designation
+Company Secretary
+
+Description (Please provide a detailed description of the event in the box below - Refer to the Online help for the format)
+2H2025/FY2025 Unaudited Results Announcement.
+
+Additional Details
+
+For Financial Period Ended
+31/12/2025
+
+Attachments
+
+      QAF_FY2025 Unaudited Results Announcement_24.2.26.pdf
+
+Total size =589K MB
+(Company Registration No : 195800035D)
+
+Full Year Unaudited Financial Statements for the Year Ended 31 December 2025
+
+
+1(a)   The following statements in the form presented in the group’s most recently audited annual financial
+       statements:-
+
+(i)    An income statement and statement of comprehensive income for the group, together with a
+       comparative statement for the corresponding period of the immediately preceding financial year:-
+
+       Income Statement                                                             Group
+       (in Singapore Dollars)                                    2nd Half ended                Full Year ended
+                                             Note        31/12/2025 31/12/2024 + / (-) 31/12/2025 31/12/2024 + / (-)
+                                                           S$'000     S$'000     %        S$'000      S$'000   %
+
+       Revenue                                             327,542    326,879       0     633,596    636,107       (0)
+
+       Costs and expenses
+       Costs of materials                                  172,666    171,360       1     335,162    334,088        0
+       Staff costs                                          64,365     61,907       4     129,086    124,249        4
+       Amortisation and depreciation                        13,802     13,131       5      27,633     26,661        4
+       Repairs and maintenance                               8,752      7,526      16      14,873     14,124        5
+       Utilities                                             8,439     10,565     (20)     18,678     20,631       (9)
+       Advertising and promotion                             3,977      5,958     (33)      7,935      9,636      (18)
+       Other operating expenses                             30,023     39,719     (24)     66,541     71,212       (7)
+       Total costs and expenses                            302,024    310,166      (3)    599,908    600,601       (0)
+
+       Profit from operating activities                     25,518     16,713     53       33,688     35,506       (5)
+
+       Finance costs                                          (560)      (911)    (39)     (1,261)     (2,008)    (37)
+       Share of profits of joint venture   1(a)(ii)(b)      16,370      5,596     193      15,371       4,734     225
+       Exceptional items                   1(a)(ii)(c)           -      6,403    (100)          -       6,403    (100)
+       Profit before tax                                    41,328     27,801     49       47,798     44,635        7
+
+       Income tax expense                   1(e)(E)
+        - Current year                                      (5,254)    (5,816)    (10)     (7,818)    (10,529)    (26)
+        - Overprovision in prior years                          17        285     (94)        303         572     (47)
+                                                            (5,237)    (5,531)     (5)     (7,515)     (9,957)    (25)
+       Profit after tax                                     36,091     22,270      62      40,283      34,678      16
+
+       Attributable to:
+       Owners of the parent                                 35,922     22,223     62       39,839     34,704       15
+       Non-controlling interests                               169         47    260          444        (26)    n.m.
+                                                            36,091     22,270     62       40,283     34,678      16
+
+
+       n.m. = not meaningful
+
+
+
+
+                                                  Page 1 of 23
+1(a)(i) Statement of Comprehensive Income
+
+                                                                                                    Group
+                                                                          2nd Half ended                      Full Year ended
+                                                                      31/12/2025 31/12/2024              31/12/2025     31/12/2024
+                                                                        S$'000       S$'000                S$'000         S$'000
+
+        Profit after tax                                                    36,091          22,270            40,283               34,678
+
+        Other comprehensive income:
+        Items that will not be reclassified subsequently to
+        profit or loss:
+        - Actuarial loss on defined benefit plans                             (149)             (167)              (149)             (167)
+
+        Items that may be reclassified subsequently to
+        profit or loss:
+        - Currency translation arising on consolidation                      1,921           7,379             (2,608)              4,307
+        - Share of other comprehensive income of joint venture               2,540           2,558              2,226               2,684
+        Other comprehensive income for the year, net of tax                  4,312           9,770                 (531)            6,824
+        Total comprehensive income for the year                             40,403          32,040            39,752               41,502
+
+        Total comprehensive income attributable to:
+        Owners of the parent                                                40,262          32,000            39,370               41,592
+        Non-controlling interests                                              141              40               382                  (90)
+                                                                            40,403          32,040            39,752               41,502
+
+
+
+
+       Notes to the Income Statement
+       Please see Section 8 for commentaries on the Income Statement.
+
+
+1(a)(ii) The following items, if significant, must be included in the income statement or in the notes to the
+         income statement for current financial period reported on and the corresponding period of the
+         immediately preceding financial year:-
+
+       (a) The Group’s profit from operating activities is stated after (charging) / crediting:
+
+                                                                                                Group
+                                                                       2nd Half ended                        Full Year ended
+                                                               31/12/2025 31/12/2024                 31/12/2025 31/12/2024 + / (-)
+                                                                 S$'000     S$'000          %          S$'000
+                                                                                                                   *S$'000   %
+       Other income including interest income (included
+         in Revenue)                                               5,302        5,260           1        9,781          9,418         4
+       Interest income (included in Other income
+         disclosed above)                                          3,428        3,794        (10)        7,015          7,347        (5)
+       Other Operating Expenses which include the following:
+       Operating lease expense                                    (9,495)      (8,147)       17         (18,226)       (16,119)      13
+       Distribution and transportation expense                    (8,925)      (8,089)       10         (16,614)       (16,135)       3
+       Professional fees                                          (1,113)        (925)       20          (1,997)        (1,854)       8
+       (Loss)/gain on disposal of property, plant and
+         equipment                                                (1,238)            (89)   n.m.         (1,284)            53     n.m.
+       Allowance for inventories (charged)/written back and
+         inventories written off, net                               (146)        205        n.m.          (545)            (179)    204
+       Allowance for receivables charged and bad debts
+         written off, net                                           (470)        (459)         2          (764)           (695)      10
+       Impairment loss on assets classified as held for sale         -         (1,907)      (100)          -            (1,907)    (100)
+       Impairment loss written back/(charged) on property,
+         plant and equipment                                         -            553       (100)         (608)            553     n.m.
+       Foreign currency translation gain/(loss)                    3,707       (8,755)      n.m.           735          (8,812)    n.m.
+
+
+
+
+                                                          Page 2 of 23
+1(a)(ii)
+           (b) Share of profits of joint venture
+
+               The Group had reduced its shareholding in Gardena Bakeries (KL) Sdn Bhd (“GBKL”) from 70% to 50%
+               in April 2016 to comply with Malaysian regulatory conditions. GBKL accordingly ceased to be a
+               subsidiary of the Group and became a 50/50 joint venture. Under the shareholders’ agreement, the
+               parties are to work towards a listing of GBKL by a specified date, 31 March 2028, and subject to the
+               terms of the agreement, if such listing cannot be achieved by then and, amongst others, there is no
+               acquisition by one shareholder of the GBKL shares of the other, GBKL shall be wound up and the
+               shareholders’ agreement shall terminate. The listing target date may however be extended by mutual
+               agreement and as previously announced in July 2020, the parties had agreed to an extension of such
+               date from April 2026 to March 2028.
+
+               The shareholders’ agreement was revised in December 2025. Subject to the terms and conditions of the
+               revised shareholders’ agreement, it has been clarified that by reason only of listing not being achieved by
+               the aforesaid date, GBKL is not required to be wound up or to cease to carry on business. With this
+               clarification, GBKL may continue business as usual in these circumstances.
+
+               As a consequence of this clarification, the Group has reviewed its impairment assessment for its
+               investment in GBKL. Accordingly, taking into account the overall market outlook, GBKL’s estimated
+               future trading performance, currency movements between the Singapore Dollar and Malaysian Ringgit
+               and interest rates, the valuation of its investment in the joint venture has been recalculated, resulting in a
+               non-cash reversal of S$10.6 million as part of the Group’s share of profits of joint venture, out of the total
+               quantum of S$17.6 million of impairment adjustments that had been made to-date. Together with the
+               $1.9 million impairment taken up in the first half year ended 30 June 2025, the net non-cash reversal for
+               the financial year ended 31 December 2025 is $8.7 million.
+
+
+           (c) Exceptional Items
+
+                                                                                          Group
+                                                                        2nd Half ended            Full Year ended
+                                                                    31/12/2025 31/12/2024     31/12/2025 31/12/2024
+                                                                      S$'000       S$'000       S$'000       S$'000
+
+                Final insurance payments for
+                  consequential loss and damage to stock,
+                  property, plant and equipment arising from
+                  the severe flooding in Peninsular Malaysia                  -        6,481                  -        6,481
+                Write-back of stock write-off and impairment
+                 loss on property, plant and equipment arising
+                 from the severe flooding in Peninsular
+                 Malaysia                                                     -          973                  -          973
+                Expenses incurred in relation to the severe
+                 flooding in Peninsular Malaysia                              -        (1,051)                -       (1,051)
+                                                                              -        6,403                  -        6,403
+
+
+
+
+                                                         Page 3 of 23
+1(b)(i) A statement of financial position for the company and group, together with a comparative statement
+        as at the end of the immediately preceding financial year:-
+
+       Statements of Financial Position                                  Group                  Company
+       (in Singapore Dollars)                                   31/12/2025 31/12/2024    31/12/2025 31/12/2024
+                                                      Note        S$'000       S$'000      S$'000     S$'000
+       Current assets
+       Inventories                                                   57,578    58,228                -         -
+       Trade receivables                                             92,191    89,609                -         -
+       Other receivables                                             12,481    11,835           10,825    36,464
+       Tax recoverable                                                7,681     7,323                -         -
+       Cash and cash equivalents                                    214,055   209,403          164,198   156,300
+       Assets classified as held for sale            1(e)(F)              -     3,586                -         -
+                                                                    383,986   379,984          175,023   192,764
+       Non-current assets
+       Property, plant & equipment                   1(e)(G)        202,313   213,140            3,140     3,179
+       Right-of-use assets                                           16,321    18,383               94       112
+       Investment in subsidiaries                                         -         -           47,682   103,586
+       Advances to subsidiaries                                           -         -          113,918   127,885
+       Investment in joint venture                                   59,659    48,168                -         -
+       Intangibles                                   1(e)(H)             97       114               72        77
+       Deferred tax assets                                            6,252     4,491                -         -
+                                                                    284,642   284,296          164,906   234,839
+
+       Total assets                                                 668,628   664,280          339,929   427,603
+
+       Current liabilities
+       Trade payables                                                65,120    61,089               76        54
+       Other payables                                                47,097    49,964            3,120   107,720
+       Short-term borrowings                                          3,200     5,188                -         -
+       Long-term borrowings - current portion                         1,562     4,716                -         -
+       Lease liabilities - current portion                            2,338     3,682               76        93
+       Income tax payable                                             4,809     4,510              638       691
+                                                                    124,126   129,149            3,910   108,558
+
+       Non-current liabilities
+       Other payables                                                 8,714     8,580              843     1,517
+       Long-term borrowings                                               -     1,703                -         -
+       Lease liabilities                                             16,055    16,677               24        29
+       Deferred tax liabilities                                       7,430     7,132            1,539     1,239
+                                                                     32,199    34,092            2,406     2,785
+
+       Total liabilities                                            156,325   163,241            6,316   111,343
+
+       Net assets                                                   512,303   501,039          333,613   316,260
+
+       Capital and reserves
+       Share capital                                                277,043   277,043          277,043   277,043
+       Reserves                                                     233,244   222,637           56,570    39,217
+
+       Equity attributable to owners of the parent                  510,287   499,680          333,613   316,260
+       Non-controlling interests                                      2,016     1,359                -         -
+
+       Total equity                                                 512,303   501,039          333,613   316,260
+
+
+       Please see Section 8 for commentaries on the Group’s Statement of Financial Position.
+
+
+
+
+                                                     Page 4 of 23
+1(b)(ii) In relation to the aggregate amount of the group’s borrowings and debt securities, the following as at
+         the end of the current financial period reported on with comparative figures as at the end of the
+         immediately preceding financial year:-
+
+       (a)     Amount repayable within one year including those on demand
+                  As at 31/12/2025        As at 31/12/2024
+                Secured Unsecured Secured Unsecured
+                 $'000        $'000      $'000        $'000
+                         -      7,100            -     13,586
+
+       (b)     Amount repayable after one year
+                  As at 31/12/2025        As at 31/12/2024
+                Secured Unsecured Secured Unsecured
+                 $'000        $'000      $'000        $'000
+                         -     16,055            -     18,380
+
+       (c)     Details of any collaterals
+
+               No collaterals were pledged to secure credit facilities for the Group.
+
+
+
+
+                                                      Page 5 of 23
+1(c)   A statement of cash flows for the group, together with a comparative statement for the corresponding
+       period of the immediately preceding financial year:-
+                                                                                            Group
+                                                                                       Full Year ended
+       Statement of Cash Flows                                                    31/12/2025     31/12/2024
+       (in Singapore Dollars)                                                       S$'000         S$'000
+       Cash flows from operating activities:
+       Profit before tax                                                                 47,798     44,635
+       Adjustments for:
+         Amortisation and depreciation                                                   27,633     26,661
+         Loss/(gain) on disposal of property, plant and equipment                         1,284        (53)
+         Share of profits of joint venture                                              (15,371)    (4,734)
+         Impairment loss on assets classified as held for sale                                -      1,907
+         Impairment loss charged/(written back) on property, plant and equipment            608       (553)
+         Allowance for receivables charged and bad debts written off, net                   764        695
+         Interest expense                                                                 1,261      2,008
+         Interest income                                                                 (7,015)    (7,347)
+         Exchange differences                                                            (1,626)     8,780
+       Operating profit before working capital changes                                   55,336     71,999
+       (Increase)/decrease in trade and other receivables                                (6,343)     8,726
+       Decrease/(increase) in inventories                                                   491     (8,460)
+       Increase/(decrease) in trade and other payables                                    8,002     (1,638)
+       Cash from operations                                                              57,486     70,627
+       Interest paid                                                                     (1,325)    (2,070)
+       Interest received                                                                  7,015      7,347
+       Income tax paid                                                                   (9,967)   (10,649)
+       Net cash from operating activities                                                53,209     65,255
+
+       Cash flows from investing activities:
+       Purchase of property, plant and equipment                                        (17,796)   (19,338)
+       Proceeds from disposal of property, plant and equipment                              791        304
+       Purchase of intangibles                                                              (20)         -
+       Dividends received from joint venture                                              6,153      5,881
+       Net cash used in investing activities                                            (10,872)   (13,153)
+
+       Cash flows from financing activities:
+       Dividends paid during the year                                                   (28,763)   (28,763)
+       Dividends paid to non-controlling interests                                         (156)      (182)
+       Proceeds from borrowings                                                               -      1,188
+       Repayment of borrowings                                                           (6,409)   (19,689)
+       Payment of lease liabilities                                                      (3,934)    (3,689)
+       Deposit for subscription in share capital of a subsidiary by a non-controlling         -        431
+        interest
+       Net cash used in financing activities                                            (39,262)   (50,704)
+
+       Net increase in cash and cash equivalents                                          3,075      1,398
+       Cash and cash equivalents at beginning of year                                   209,403    215,677
+       Effect of exchange rate changes on cash and cash equivalents                       1,577     (7,672)
+       Cash and cash equivalents at end of year                                         214,055    209,403
+
+
+
+
+                                                         Page 6 of 23
+1(d)(i) A statement for the company and group showing all changes in equity, together with a comparative
+        statement for the corresponding period of the immediately preceding financial year:-
+
+       Statement of Changes in Equity
+       (In Singapore Dollars)
+       Group
+                                                                                        Foreign
+                                                                                       currency      Non-
+                                                  Share         Capital       Revenue translation controlling   Total
+                                                  capital       reserve       reserve   reserve    interests    equity
+                                                   $'000         $'000         $'000     $'000       $'000      $'000
+       Balance at 1 January 2025                  277,043        (1,511)      249,029     (24,881)     1,359    501,039
+       Total comprehensive income for the year
+       Net profit for the year                              -             -     39,839          -        444     40,283
+       Other comprehensive income
+       Currency translation arising on
+        consolidation                                       -             -          -     (2,533)       (75)    (2,608)
+       Actuarial (loss)/gain on defined benefit
+        plans                                               -             -       (162)         -         13       (149)
+       Share of other comprehensive income of
+        joint venture                                       -             -          -      2,226          -      2,226
+       Other comprehensive income for the year,
+        net of tax                                          -             -       (162)      (307)       (62)      (531)
+       Total comprehensive income for the
+        year                                                -             -     39,677       (307)       382     39,752
+       Transactions with owners in their capacity as owners
+       Contributions by and distributions to owners
+       Capital contribution by non-controlling
+         interest                                       -                 -          -          -        431        431
+       Dividends                                        -                 -    (28,763)         -       (156)   (28,919)
+       Total transactions with owners in their
+        capacity as owners                                  -             -    (28,763)         -        275    (28,488)
+       Balance at 31 December 2025                277,043        (1,511)      259,943     (25,188)     2,016    512,303
+
+
+       Balance at 1 January 2024                  277,043        (1,511)      243,189     (31,870)     1,631    488,482
+       Total comprehensive income for the year
+       Net profit/(loss) for the year                       -             -     34,704          -        (26)    34,678
+       Other comprehensive income
+       Currency translation arising on
+        consolidation                                       -             -          -      4,305          2      4,307
+       Actuarial loss on defined benefit plans              -             -       (101)         -        (66)      (167)
+       Share of other comprehensive income of
+        joint venture                                       -             -          -      2,684          -      2,684
+       Other comprehensive income for the year,
+        net of tax                                          -             -       (101)     6,989        (64)     6,824
+       Total comprehensive income for the
+        year                                                -             -     34,603      6,989        (90)    41,502
+       Transactions with owners in their capacity as owners
+       Contributions by and distributions to owners
+       Dividends                                            -             -    (28,763)         -       (182)   (28,945)
+       Total transactions with owners in their
+         capacity as owners                                 -             -    (28,763)         -       (182)   (28,945)
+       Balance at 31 December 2024                277,043        (1,511)      249,029     (24,881)     1,359    501,039
+
+
+
+
+                                                     Page 7 of 23
+1(d)(i)
+          Company                                                 Share         Revenue     Total
+                                                                  capital       reserve     equity
+                                                                   $'000         $'000      $'000
+
+          Balance at 1 January 2025                              277,043-        39,217-    316,260-
+          Net profit for the year                                       -        46,116      46,116
+          Contributions by and distributions to owners
+          Dividends                                                         -    (28,763)   (28,763)
+          Total transactions with owners in their
+            capacity as owners                                              -    (28,763)   (28,763)
+          Balance at 31 December 2025                            277,043         56,570     333,613
+
+
+          Balance at 1 January 2024                              277,043         47,243     324,286
+          Net profit for the year                                           -    20,737      20,737
+          Contributions by and distributions to owners
+          Dividends                                                         -    (28,763)   (28,763)
+          Total transactions with owners in their
+            capacity as owners                                              -    (28,763)   (28,763)
+          Balance at 31 December 2024                            277,043         39,217     316,260
+
+
+
+1(d)(ii) Details of any changes in the company’s issued share capital.
+
+          There has been no change to the issued and paid-up share capital of the Company since 30 June 2025 up to
+          31 December 2025.
+
+
+1(d)(iii) Total number of issued shares excluding treasury shares.
+
+                                                                                    As at                 As at
+                                                                                 31/12/2025            31/12/2024
+          Total number of issued shares (excluding treasury shares)             575,268,440            575,268,440
+
+          No treasury shares were held by the Company during the year under review.
+
+
+1(d)(iv) Statement showing all sales, transfers, cancellation and/or use of treasury shares as at the end of the
+         current financial period reported on.
+
+          Not applicable.
+
+
+1(d)(v) Statement showing all sales, transfers, cancellation and/or use of subsidiary holdings as at the end of
+        the current financial period reported on.
+
+          Not applicable. No subsidiary holdings (as defined in the Listing Manual) were held by the Company as at 31
+          December 2025.
+
+
+
+
+                                                         Page 8 of 23
+1(e)   Selected Notes to the Interim Financial Statements
+       For the full year ended 31 December 2025
+
+       A. CORPORATE INFORMATION
+
+          QAF Limited (the “Company”) is a public limited liability company incorporated and domiciled in
+          Singapore. The registered address and principal place of business of the Company is 150 South Bridge
+          Road, #09-03 Fook Hai Building, Singapore 058727.
+
+          The principal activities of the Company are those of an investment holding and management company.
+          The principal activities of the Group consist of the manufacture and distribution of bread, bakery and
+          confectionery products; provision for warehousing logistics for food items; trading and distribution of food
+          and beverages.
+
+
+       B. BASIS OF PREPARATION
+
+          The condensed interim financial statements for the financial year ended 31 December 2025 have been
+          prepared in accordance with SFRS(I) 1-34 Interim Financial Reporting issued by the Accounting
+          Standards Committee. The condensed interim financial statements do not include all the information
+          required for a complete set of financial statements. However, selected explanatory notes are included to
+          explain events and transactions that are significant to an understanding of the changes in the Group’s
+          financial position and performance of the Group since the last annual financial statements for the year
+          ended 31 December 2024.
+
+
+       C. USE OF JUDGEMENTS AND ESTIMATES
+
+          In preparing the condensed interim financial statements, management has made judgements, estimates
+          and assumptions that affect the application of accounting policies and the reported amounts of assets and
+          liabilities, income and expense. Actual results may differ from these estimates.
+
+          The significant judgements and estimates made by management in applying the Group’s accounting
+          policies and the key sources of estimation uncertainty were the same as those that applied to the
+          consolidated financial statements as at end of the year ended 31 December 2024.
+
+
+       D. FINANCIAL ASSETS AND FINANCIAL LIABILITIES
+
+          Set out below is an overview of the financial assets and financial liabilities of the Group as at 31
+          December 2025 and 31 December 2024:
+                                                       Group
+                                                  31/12/2025       31/12/2024
+                                                    S$'000          S$'000
+
+           Financial assets measured at amortised cost
+           Trade receivables                      92,191              89,609
+           Other receivables                       8,453               6,479
+           Cash and cash equivalents             214,055             209,403
+                                                 314,699             305,491
+
+           Financial liabilities measured at amortised cost
+           Trade payables                            65,120           61,089
+           Other payables                            44,677           47,306
+           Short-term borrowings                      3,200            5,188
+           Long-term borrowings                       1,562            6,419
+                                                    114,559          120,002
+
+
+
+
+                                                    Page 9 of 23
+1(e)   Selected Notes to the Interim Financial Statements (cont’d)
+       For the full year ended 31 December 2025 (cont’d)
+
+       E. INCOME TAX EXPENSE
+
+          The Group calculates the period income tax expense using the tax rate that would be applicable to the
+          expected total annual earnings. The major components of income tax expense in the condensed interim
+          consolidated income statement are:
+                                                        2nd Half ended             Full Year ended
+                                                  31/12/2025     31/12/2024   31/12/2025     31/12/2024
+                                                     S$'000        S$'000       S$'000         S$'000
+
+           Current income tax expense                        (5,145)       (5,547)      (9,390)      (10,049)
+           Deferred tax relating to origination and
+            reversal of temporary differences                   (92)           16        1,875            92
+                                                             (5,237)       (5,531)      (7,515)       (9,957)
+
+
+       F. ASSETS CLASSIFIED AS HELD FOR SALE
+
+          As at 31 December 2024, certain plant and equipment and related spare parts of a subsidiary involved in
+          the Bakery segment located in Singapore, had been classified as held for sale, due to the subsidiary’s
+          intention to sell these assets. During the financial year ended 31 December 2025, these assets were
+          reclassified back to Property, plant and equipment and Inventories, as the assets no longer meet the
+          criteria to be classified as held for sale.
+
+
+       G. PROPERTY, PLANT AND EQUIPMENT
+
+          During the financial year ended 31 December 2025, the Group acquired assets amounting to $15,768,000
+          (31 December 2024: $19,036,000) and disposed of assets amounting to $2,075,000 (31 December 2024:
+          $251,000). Capital commitments not provided for in the financial statements amounted to $5,136,000 as
+          at 31 December 2025.
+
+
+       H. INTANGIBLES
+                                                                               Group
+                                                                     Intellectual
+                                                           Trademark   property    Software         Total
+                                                             S$'000     S$'000       S$'000         S$'000
+           Cost:
+           At 1.1.2024                                            2,750         130        132         3,012
+           Currency realignment                                       -          (8)         -            (8)
+           At 31.12.2024 and 1.1.2025                             2,750         122        132         3,004
+           Additions                                                  -           -         20            20
+           Currency realignment                                       -           2          -             2
+           At 31.12.2025                                          2,750         124        152         3,026
+
+           Accumulated amortisation and impairment loss:
+           At 1.1.2024                                            2,750          77         33         2,860
+           Amortisation for the year                                  -          13         22            35
+           Currency realignment                                       -          (5)         -            (5)
+           At 31.12.2024 and 1.1.2025                             2,750          85         55         2,890
+           Amortisation for the year                                  -          12         25            37
+           Currency realignment                                       -           2          -             2
+           At 31.12.2025                                          2,750          99         80         2,929
+
+           Net carrying amount:
+           At 31.12.2025                                               -         25         72            97
+           At 31.12.2024                                               -         37         77           114
+
+          Trademark, intellectual property and software with finite lives are amortised on a straight-line basis over
+          their useful lives of 20, 10 and 5 years respectively.
+
+                                                      Page 10 of 23
+1(e)   Selected Notes to the Interim Financial Statements (cont’d)
+       For the full year ended 31 December 2025 (cont’d)
+
+       I.   DIVIDENDS
+                                                                                            Full Year ended
+                                                                                       31/12/2025     31/12/2024
+                                                                                         S$'000         S$'000
+
+            Ordinary dividends paid:
+            Interim tax-exempt (one-tier) dividend of 1 cent per share in respect
+              of the financial year ended 31 December 2025                                   5,753               -
+            Final tax-exempt (one-tier) dividend of 4 cents per share in respect
+              of the financial year ended 31 December 2024                                  23,010               -
+            Interim tax-exempt (one-tier) dividend of 1 cent per share in respect
+              of the financial year ended 31 December 2024                                        -         5,753
+            Final tax-exempt (one-tier) dividend of 4 cents per share in respect
+              of the financial year ended 31 December 2023                                       -         23,010
+                                                                                            28,763         28,763
+
+
+       J. RELATED PARTY TRANSACTIONS
+
+            The following significant transactions took place during the financial year on terms agreed by the parties
+            concerned:
+
+                                                                                             Full Year ended
+                                                                                        31/12/2025     31/12/2024
+                                                                                          S$'000         S$'000
+
+             Royalty income from joint venture                                                6,468          6,109
+             Purchase of goods from joint venture                                             3,676          2,706
+             Sales of goods to joint venture                                                 64,492         61,422
+             Dividend income from joint venture                                               6,130          5,870
+             Purchase of goods from a company in which Mr Lam Sing Chung,
+               Ms Rachel Liem Yuan Fang and her immediate family member
+               have an interest                                                               3,072          2,731
+             Sales of goods to a company in which Mr Lam Sing Chung,
+               Ms Rachel Liem Yuan Fang and her immediate family member
+               have an interest (Proceeds of the sales is covered by the personal
+               guarantee by Mr Lam Sing Chung of up to $1 million)                            1,843          3,003
+             Recharging of staff costs to Mr Lam Sing Chung                                     151            106
+             Purchase of goods from a company in which Mr Lin Kejian has an
+               interest                                                                         297            111
+             Sales of goods to Mr Lam Sing Chung                                                104             89
+
+
+
+       K. FAIR VALUE OF ASSETS AND LIABILITIES
+
+            The Group does not have any financial instruments carried at fair value.
+
+
+       L. SUBSEQUENT EVENTS
+
+            There are no known subsequent events which led to adjustments to this set of interim financial
+            statements.
+
+
+
+
+                                                     Page 11 of 23
+2.   Whether the figures have been audited or reviewed, and in accordance with which auditing standard
+     or practice.
+
+     The figures have not been audited or reviewed.
+
+
+3.   Where the figures have been audited or reviewed, the auditors’ report (including any modifications or
+     emphasis of matter).
+
+     Not applicable.
+
+
+4.   Whether the same accounting policies and methods of computation as in the company’s most
+     recently audited financial statements have been applied.
+
+     The Group has applied the same accounting policies and methods of computation as in the Group’s audited
+     financial statements for the previous year ended 31 December 2024. However, the Group adopted new or
+     amended Singapore Financial Reporting Standards (International) (“SFRS(I)”) that are mandatory for financial
+     years beginning on or after 1 January 2025. The adoption of these standards did not have any material effect
+     on the financial performance or position of the Group and the Company.
+
+
+5.   If there are any changes in the accounting policies and methods of computation, including any
+     required by an accounting standard, what has changed, as well as the reasons for, and the effect of,
+     the change.
+
+     Not applicable.
+
+
+6.   Earnings per ordinary share (“EPS”) of the group for the current financial period reported on and the
+     corresponding period of the immediately preceding financial year:
+
+                                                                                Full Year ended
+                                                                       31/12/2025            31/12/2024
+
+     Basic and Diluted EPS                                                  6.9 cents             6.0   cents
+
+     Number of shares used for the calculation of Basic and Diluted EPS:
+     Weighted average number of ordinary shares in issue              575,268,440            575,268,440
+
+
+7.   Net asset value for the company and group per ordinary share based on the total number of issued
+     shares excluding treasury shares of the company at the end of the period reported on and
+     immediately preceding financial year:
+
+                                                                          As at                  As at
+                                                                       31/12/2025             31/12/2024
+
+     Group                                                                 88.7   cents          86.9   cents
+
+     QAF Limited                                                           58.0   cents          55.0   cents
+
+     Number of shares used for the calculation of Net asset value:    575,268,440            575,268,440
+
+
+
+
+                                                 Page 12 of 23
+8.   Review of the performance of the group, to the extent necessary for a reasonable understanding of
+     the group’s business. The review must discuss any significant factors that affected the turnover,
+     costs and earnings of the group for the current financial period reported on, including (where
+     applicable) seasonal or cyclical factors. It must also discuss any material factors that affected the
+     cash flow, working capital, assets or liabilities of the group during the current financial period
+     reported on.
+
+     INCOME STATEMENT
+     Note: Any discrepancies in percentages included in Section 8 between the amounts shown and the
+           corresponding percentage are due to rounding. Accordingly, figures shown as percentages in Section 8
+           may not be derived directly from such amounts shown.
+
+     Group revenue increased marginally to $327.5 million for the second half year ended 31 December 2025 (“2H
+     2025”) from $326.9 million for the second half year ended 31 December 2024 (“2H 2024”), but decreased
+     marginally to $633.6 million for the financial year ended 31 December 2025 (“FY 2025”) from $636.1 million
+     for the financial year ended 31 December 2024 (“FY 2024”). In constant currency terms, Group revenue
+     increased by 2% in 2H 2025 compared to 2H 2024, and 1% in FY 2025 compared to FY 2024.
+
+     Staff costs increased by 4% in 2H 2025 and FY 2025, compared to 2H 2024 and FY 2024 respectively, mainly
+     due to an increase in the minimum wage rate in early 2025 for the Group’s bakery operations in Malaysia, as
+     well as increased production activities by the Group’s bakery operations in the Philippines.
+
+     Amortisation and depreciation increased by 5% or $0.7 million from $13.1 million in 2H 2024 to $13.8 million
+     in 2H 2025, and 4% or $0.9 million from $26.7 million in FY 2024 to $27.6 million in FY 2025. Repairs and
+     maintenance also increased by 16% or $1.3 million from $7.5 million in 2H 2024 to $8.8 million in 2H 2025,
+     and 5% or $0.8 million from $14.1 million in FY 2024 to $14.9 million in FY 2025. The increases are in line
+     with the increased production activities by the Bakery segment.
+
+     Utilities expense decreased by 20% or $2.1 million to $8.4 million in 2H 2025 and 9% or $1.9 million to $18.7
+     million in FY 2025 due to the moderation of electricity prices across the regions where the Group operates.
+
+     Advertising and promotion expense decreased by 33% or $2.0 million to $4.0 million in 2H 2025 and 18% or
+     $1.7 million to $7.9 million in FY 2025 due to a rationalisation of marketing expenses by the Bakery segment.
+
+     Other operating expenses decreased by 24% or $9.7 million from $39.7 million in 2H 2024 to $30.0 million in
+     2H 2025, and 7% or $4.7 million from $71.2 million in FY 2024 to $66.5 million in FY 2025. These other
+     operating expenses (see section 1(a)(ii) on page 2) include:
+
+     -   Foreign currency translation gain of $3.7 million in 2H 2025 as compared with loss of $8.8 million in 2H
+         2024, and gain of $0.7 million in FY 2025 as compared to loss of $8.8 million in FY 2024. The major
+         component of the foreign currency translation loss arose from the translation effects from AUD to SGD of
+         the Group’s substantial holdings in AUD-denominated cash and cash equivalents.
+
+     -   Operating lease expense increased by 17% from $8.1 million in 2H 2024 to $9.5 million in 2H 2025, and
+         13% from $16.1 million in FY 2024 to $18.2 million in FY 2025 mainly due to the higher cost of vehicle
+         rentals for the Philippine operations.
+
+     -   Distribution and transportation expenses increased by 10% from $8.1 million in 2H 2024 to $8.9 million in
+         2H 2025, and 3% from $16.1 million in FY 2024 to $16.6 million in FY 2025. The increases were a result
+         of the expansion of our bakery distribution network.
+
+     -   Loss or impairment from certain plant and equipment and its related spare parts of a subsidiary, which
+         were previously classified as held for sale and subsequently sold in 2025. Total loss or impairment related
+         to these assets amounted to $2.3 million in FY 2025 and $1.9 million in FY 2024.
+
+     Group finance costs (interest expense) decreased by $0.3 million from $0.9 million in 2H 2024 to $0.6 million
+     in 2H 2025, and $0.7 million from $2.0 million in FY 2024 to $1.3 million in FY 2025 due to lower borrowings.
+
+
+
+
+                                                  Page 13 of 23
+8.   Review of the performance of the group (cont’d)
+
+     INCOME STATEMENT (cont’d)
+
+     The Group recognised a net non-cash reversal of impairment of $8.7 million on the Group’s investment in its
+     joint venture in FY 2025, compared to a non-cash impairment of $1.2 million recognised in FY 2024 (see
+     section 1(a)(ii)(b) on page 3). The share of operating profits of the joint venture, before the Group’s
+     impairment reversal/provision on its investment, was $5.8 million for 2H 2025 and $6.7 million for FY 2025, up
+     from $5.6 million in 2H 2024 and $5.9 million in FY 2024 respectively. The increase was due to lower raw
+     material costs and moderated operating overheads. Accordingly, after the impairment reversal/provision on its
+     investment, the Group recorded a share of the joint venture profit of $16.4 million in 2H 2025 as compared to
+     $5.6 million in 2H 2024, and $15.4 million in FY 2025 as compared to $4.7 million in FY 2024.
+
+     Included in FY 2024 Exceptional items were payments received in connection to the claim for insurance
+     relating to the damage sustained at one of the Group’s Malaysian factories during the December 2021
+     flooding, write-back of $1.0 million in relation to previously recognised stock write-off and impairment loss on
+     property, plant and equipment, as well as $1.1 million expenses incurred in connection with the flooding.
+
+     Group earnings before interest, tax, depreciation and amortisation (“EBITDA”) before exceptional items
+     increased by 65% from $31.7 million for 2H 2024 to $52.3 million for 2H 2025, and by 17% from $59.6 million
+     for FY 2024 to $69.7 million for FY 2025.
+
+     In relation to the profits before and after tax for the Group, please refer to the table below which sets out a
+     summary:
+                                                        2H 2025 2H 2024 + / (-)         FY 2025    FY 2024 + / (-)
+                                                       $'million $'million   %         $'million $'million      %
+
+     Group profit before tax ("PBT")                      41.3     27.8       49           47.8        44.6        7
+     Group PBT excluding exceptional items and
+      GBKL impairment                                     30.7     21.4       43           39.1        39.4       (1)
+     PBT Margin excluding exceptional items and
+      GBKL impairment (%)                                9.4%      6.5%                    6.2%        6.2%
+     Group income tax expense                             (5.2)     (5.5)     (5)           (7.5)       (9.9)    (25)
+     Group profit after tax ("PAT")                      36.1      22.3       62           40.3        34.7       16
+     PAT Margin (%)                                     11.0%      6.8%                    6.4%        5.5%
+     Group profit attributable to owners of the
+      parent ("PATMI")                                    35.9     22.2       62           39.8        34.7       15
+
+     Group PBT excluding exceptional items and GBKL impairment increased by 43% from $21.4 million for 2H
+     2024 to $30.7 million for 2H 2025, but decreased 1% from $39.4 million for FY 2024 to $39.1 million for FY
+     2025. The increase in Group PBT excluding exceptional items and GBKL impairment for 2H 2025 as
+     compared to 2H 2024 was largely due to foreign currency translation gain in 2H 2025 compared to foreign
+     currency translation loss in 2H 2024, partly offset by higher operating costs, particularly higher operating
+     lease expense and distribution and transportation expense. The slight decrease in Group PBT excluding
+     exceptional items and GBKL impairment for FY 2025 as compared to FY 2024 was largely due to higher
+     operating costs, particularly staff costs, operating lease expense and loss on disposal of property, plant and
+     equipment in the Bakery segment, partly offset by foreign currency translation gain in FY 2025 compared to
+     foreign currency translation loss in FY 2024.
+
+     Group income tax expense decreased by 25% or $2.4 million to $7.5 million for FY 2025 as compared with
+     $9.9 million for FY 2024, mainly due to lower taxable profits, arising from the non-cash reversal of impairment
+     made in 2H 2025 which has no impact on tax expense.
+
+     Group PAT increased by $13.8 million or 62% to $36.1 million in 2H 2025 as compared with $22.3 million for
+     2H 2024, and by $5.6 million or 16% to $40.3 million in FY 2025 as compared with $34.7 million for FY 2024.
+     Group PATMI increased by $13.7 million or 62% to $35.9 million in 2H 2025 as compared with $22.2 million
+     for 2H 2024, and by $5.1 million or 15% to $39.8 million in FY 2025 as compared with $34.7 million for FY
+     2024.
+
+
+
+
+                                                   Page 14 of 23
+8.   Review of the performance of the group (cont’d)
+
+     STATEMENT OF FINANCIAL POSITION
+
+     Assets classified as held for sale at end of FY 2024 pertains to Plant and Equipment and its related spare
+     parts of a subsidiary that were earmarked to be sold. These assets were subsequently sold before the end of
+     FY 2025.
+
+     Right-of-use assets decreased by 11% or $2.1 million from $18.4 million at end of FY 2024 to $16.3 million as
+     at end of FY 2025, due to depreciation of $4.1 million, partly offset by additions during the year.
+
+     Investment in joint venture increased by 24% or $11.5 million from $48.2 million as at end of FY 2024 to $59.7
+     million as at end of FY 2025 due to the Group’s share of profits of $15.4 million from its investment in the
+     Malaysian joint venture, which include a net non-cash reversal of impairment of $8.7 million (see section
+     1(a)(ii)(b) on page 3), offset by dividends received and a higher Singapore Dollar equivalent on the Malaysian
+     joint venture due to a stronger Malaysian Ringgit in FY 2025.
+
+     Deferred tax assets increased by $1.8 million from $4.5 million at end of FY 2024 to $6.3 million as at end of
+     FY 2025, due to recognition of potential tax benefit arising from unutilised tax losses by certain entities within
+     the Group.
+
+     Total short-term and long-term borrowings decreased by 59% from $11.6 million as at end of FY 2024 to $4.8
+     million as at end of FY 2025 due to loan repayments. Including lease liabilities, the Group’s gross gearing
+     ratio was 0.05 times as at 31 December 2025 compared to 0.06 times as at 31 December 2024.
+
+     At the end of FY 2025, the Group’s cash and cash equivalents of $214.1 million was higher than its debt of
+     $23.2 million, resulting in a net cash position of $190.9 million, an increase from $177.4 million as at end of
+     FY 2024.
+
+
+     STATEMENT OF CASH FLOWS
+
+     Cash and cash equivalents for the Group increased by $4.7 million from $209.4 million as at end of FY 2024
+     to $214.1 million as at end of FY 2025. Cash from operating activities of $53.2 million and $6.2 million of
+     dividend received from the joint venture were offset by dividend payment of $28.8 million, capital expenditure
+     of $17.8 million and reductions in borrowings and lease liabilities of $10.3 million.
+
+
+
+
+                                                    Page 15 of 23
+8.   Review of the performance of the group (cont’d)
+
+     The performance review of the Group’s major business segments is as follows:
+
+                                                             2H 2025 2H 2024 + / (-)                FY 2025       FY 2024       + / (-)
+                                                             $'million $'million %                  $'million     $'million       %
+     Segment Revenue ^
+     Bakery                                                      235.6      234.9          0            456.2         456.0          0
+     Royalty income from joint venture                             3.8        3.6          6              7.1           6.8          4
+     Bakery and joint venture contribution                       239.4      238.5          0            463.3         462.8          0
+     Distribution & Warehousing                                   85.7       85.7         (0)           165.2         168.0         (2)
+     Others # (including head office financials)                   2.4        2.7        (11)             5.1           5.3         (4)
+                                                                 327.5      326.9          0            633.6         636.1         (0)
+
+     Segment EBITDA before exceptional items
+     Bakery                                                       28.9        31.1       (7)             48.2           58.2      (17)
+     Royalty income from joint venture                             3.8         3.6        6               7.1            6.8        4
+     Share of profits of joint venture                            16.4         5.6      193              15.4            4.7      225
+     Bakery and joint venture contribution                        49.1        40.3       22              70.7           69.7        1
+     Distribution & Warehousing                                    3.8         4.3      (12)              7.0            8.1      (14)
+     Others * (including head office financials)                  (0.6)      (12.9)     (95)             (8.0)         (18.2)     (56)
+                                                                  52.3        31.7       65              69.7           59.6       17
+
+                                                              2H 2025 2H 2024                       FY 2025       FY 2024
+                                                                 %       %                             %             %
+     Segment EBITDA Margin
+     Bakery **                                                      12          13                          11            13
+     Distribution & Warehousing                                      4           5                           4             5
+     Group **                                                       16          10                          11             9
+
+
+     ^   Gardenia Bakeries (KL) Sdn Bhd (“GBKL”) revenue is not consolidated as it is accounted for as a joint venture. GBKL’s
+         revenue increased by 7% or $14.8 million from $219.6 million in 2H 2024 to $234.4 million in 2H 2025, and 6% or $23.2
+         million from $412.7 million in FY 2024 to $435.9 million in FY 2025. In constant currency terms, GBKL revenue increased by
+         4% for 2H 2025 and 1% for FY 2025.
+     #
+         Excludes royalty income from the joint venture, GBKL.
+     *   Excludes share of profits and royalty income from the joint venture, GBKL. Includes foreign currency translation gain recorded
+         at head office of $3.7 million in 2H 2025 and loss of $8.8 million in 2H 2024, and gain of $0.7 million in FY 2025 and loss of
+         $8.8 million in FY 2024.
+     ** Share of profits and royalty income from the joint venture, GBKL, included in the computation of Group EBITDA margin are
+        excluded in the computation of Bakery EBITDA margin.
+
+
+
+     BAKERY AND JOINT VENTURE CONTRIBUTION
+
+     The Group’s Bakery segment sales are relatively flat at $235.6 million for 2H 2025 (increased 3% in constant
+     currency), and $456.2 million for FY 2025 (increased 2% in constant currency).
+
+     GBKL’s sales, which were not included in the Group’s revenue, increased by 7% or $14.8 million from $219.6
+     million in 2H 2024 to $234.4 million in 2H 2025, and 6% or $23.2 million from $412.7 million in FY 2024 to
+     $435.9 million in FY 2025. In constant currency terms, GBKL revenue increased by 4% for 2H 2025 and 1%
+     for FY 2025.
+
+     The Group’s Bakery segment EBITDA before exceptional items, which decreased by 7% for 2H 2024 and
+     17% for FY 2024, from $31.1 million for 2H 2024 to $28.9 million for 2H 2025 and from $58.2 million for FY
+     2024 to $48.2 million for FY 2025, is affected by higher operating costs, particularly staff costs, operating
+     lease expense and distribution and transportation expense. Overall EBITDA margin (before exceptional items)
+     for the Bakery segment dipped by 1% to 12% for 2H 2025 from 13% for 2H 2024 and by 2% to 11% for FY
+     2025 from 13% for FY 2024.
+
+
+
+
+                                                          Page 16 of 23
+8.    Review of the performance of the group (cont’d)
+
+      BAKERY AND JOINT VENTURE CONTRIBUTION (cont’d)
+
+      The Group recognised a net non-cash reversal of impairment of $8.7 million on the Group’s investment in its
+      joint venture in FY 2025, compared to a non-cash impairment of $1.2 million recognised in FY 2024 (see
+      section 1(a)(ii)(b) on page 3). The share of operating profits of the joint venture, before the Group’s
+      impairment reversal/provision on its investment, was $5.8 million for 2H 2025 and $6.7 million for FY 2025, up
+      from $5.6 million in 2H 2024 and $5.9 million in FY 2024 respectively. The increase was due to lower raw
+      material costs and moderated operating overheads. Accordingly, after the impairment reversal/provision on its
+      investment, the Group recorded a share of joint venture profits of $16.4 million in 2H 2025 as compared to
+      $5.6 million in 2H 2024, and $15.4 million in FY 2025 as compared to $4.7 million in FY 2024.
+
+      Including joint venture contribution, the EBITDA before exceptional items for the Bakery increased by 22% or
+      $8.8 million from $40.3 million for 2H 2024 to $49.1 million for 2H 2025 and 1% or $1.0 million from $69.7
+      million for FY 2024 to $70.7 million for FY 2025.
+
+
+      DISTRIBUTION & WAREHOUSING
+
+      Distribution & Warehousing segment maintained its revenue at $85.7 million for 2H 2025 and 2H 2024.
+      However, revenue dropped 2% or $2.8 million to $165.2 million for FY 2025, down from $168.0 million for FY
+      2024.
+
+      EBITDA for 2H 2025 decreased to $3.8 million as compared with $4.3 million for 2H 2024 and to $7.0 million
+      for FY 2025 as compared with $8.1 million for FY 2024. The lower EBITDA resulted from lower sales and
+      higher operating costs incurred, particularly logistics and storage costs.
+
+
+9.    Where a forecast or a prospect statement has been previously disclosed to the shareholders, any
+      variance between it and the actual results.
+
+      No deviation.
+
+
+10.   A commentary at the date of announcement of the significant trends and competitive conditions of
+      the industry in which the group operates and any known factors or events that may affect the group in
+      the next reporting period and the next 12 months.
+
+      Geopolitical tensions eased during the second half of 2025. However, overall uncertainty persisted and
+      consumers continued to experience a high-cost environment. These factors dampened both consumer
+      confidence and demand.
+
+      Geopolitical events evolving in early 2026 indicate that the year ahead will remain uncertain, with downside
+      risks elevated. While overall raw material costs have generally stabilised, operating cost pressures are
+      expected to persist. Additionally, foreign currency exchange rate movements remain unpredictable which can
+      impact reported results and business operations in overseas markets.
+
+      Against this backdrop, the Group’s commitment to strengthening our competitive position and broadening our
+      trading activities remains unchanged. Leveraging on our proprietary brands and core products, the Group will
+      capitalize on new opportunities, including product launches and pursuing growth in our regions and channels.
+      The Group will also build on its efforts to mitigate margin pressures through product mix adjustments and
+      operational efficiencies improvements.
+
+      Underlying this, the Group’s balance sheet remains strong and will be able to support the business and any
+      new opportunities ahead.
+
+
+
+
+                                                   Page 17 of 23
+11.   Dividends
+
+      (a)       Current financial period reported on
+                Any dividend declared                    Yes
+                                       Interim (paid)        Proposed Final Dividend
+                 Dividend type                        Cash                       Cash
+                 Dividend rate    1 cent per ordinary share 4 cents per ordinary share
+                 Tax rate                     Exempt 1 tier              Exempt 1 tier
+
+                The QAF Scrip Dividend Scheme will not apply to the proposed final dividend.
+
+      (b)       Previous corresponding period
+                Any dividend declared                    Yes
+                                          Interim                Final Dividend
+                 Dividend type                        Cash                       Cash
+                 Dividend rate    1 cent per ordinary share 4 cents per ordinary share
+                 Tax rate                     Exempt 1 tier              Exempt 1 tier
+
+      (c)       Date payable                                    To be announced later
+
+      (d)       Book closing date                               To be announced later
+
+
+12.   If no dividend has been declared or recommended, a statement to the effect and the reason(s) for the
+      decision.
+
+      Not applicable.
+
+
+13.   If the Group has obtained a general mandate from shareholders for IPTs, the aggregate value of such
+      transactions as required under Rule 920(1)(a)(ii). If no IPT mandate has been obtained, a statement to
+      that effect.
+                                                                                               Aggregate value of all interested
+                                                                                                person transactions conducted
+                                                                                                 under Shareholders’ Mandate
+                                                                                             pursuant to Rule 920 of the Listing
+                                                                                                Manual (excluding transactions
+       Name of Interested Person                      Nature of Relationship                                less than $100,000)
+                                                                                                          (S$'000)
+       Salim Group
+       - Purchase of raw materials including flour    See Note (1)                                                         17,269
+       Salim Group
+       - Purchase of finished products (electricity
+         and vegetables)                              See Note (1)                                                          2,439
+                                                      Entity in which Mr Lam Sing Chung,
+                                                      Ms Rachel Liem Yuan Fang and her
+       Austral Dairy Group Sdn. Bhd.                  immediate family member have an
+       - Sale of products (cheese)                    interest                                                              1,843
+                                                      Entity in which Mr Lam Sing Chung,
+       Austral Dairy Group Sdn. Bhd.                  Ms Rachel Liem Yuan Fang and her
+       - Purchase of finished products                immediate family member have an
+         (processed cheese)                           interest                                                              3,072
+       The French Farm Company                        Entity in which Mr Lin Kejian has an
+       - Purchase of finished products (milk)         interest                                                                297
+                                                      TOTAL                                                                24,920
+      Note:
+      (1)
+            Salim Group refers to Mr Anthoni Salim and the group of companies controlled by him or, if the context so requires, Mr
+            Anthoni Salim. Mr Anthoni Salim is an immediate family member of Mr Lam Sing Chung.
+
+
+14.   Confirmation that the Issuer has procured undertakings from all its Directors and Executive Officers
+
+      The Company confirms that it has procured undertakings from all its directors and executive officers pursuant
+      to Rule 720(1) of the Listing Manual.
+
+
+
+
+                                                           Page 18 of 23
+15.   Segmented revenue and results for business or geographical segments (of the group) in the form
+      presented in the company’s most recently audited financial statements, with comparative information
+      for the immediately preceding year.
+
+      Segment Information
+      (In Singapore Dollars)
+                                                            Distribution & Investments & Adjustments &
+                                                Bakery      warehousing        others     eliminations Consolidated
+                                                 $'000          $'000          $'000          $'000       $'000
+      Revenue and expenses 2H 2025
+      Revenue from external customers            230,973         84,942         3,808               -     319,723
+      Other revenue from external customers        4,259            105            27               -       4,391
+      Inter-segment revenue                          390            623         8,215          (9,228)          -
+                                                 235,622         85,670        12,050          (9,228)    324,114
+      Unallocated revenue                                                                                   3,428
+
+      Total revenue                                                                                       327,542
+
+      Segment EBITDA                              28,912           3,872        6,320               -      39,104
+      Amortisation and depreciation              (11,782)         (1,854)        (166)              -     (13,802)
+      Segment EBIT                                17,130           2,018        6,154               -      25,302
+
+      Unallocated revenue                                                                                   3,428
+      Unallocated expenses                                                                                 (3,212)
+      Profit from operating activities                                                                     25,518
+
+      Finance costs                                                                                          (560)
+      Share of profits of joint venture           16,370               -             -              -      16,370
+      Profit before tax                                                                                    41,328
+
+      Income tax expense                                                                                    (5,237)
+
+      Profit after tax                                                                                     36,091
+
+      Timing of transfer of goods or services
+      At a point in time                         235,226         82,722            24               -     317,972
+      Over time                                      419          2,334         6,817               -       9,570
+                                                 235,645         85,056         6,841               -     327,542
+
+      Revenue and expenses 2H 2024
+      Revenue from external customers            230,503         84,904         3,585               -     318,992
+      Other revenue from external customers        3,892            159            42               -       4,093
+      Inter-segment revenue                          427            605         8,191          (9,223)          -
+                                                 234,822         85,668        11,818          (9,223)    323,085
+      Unallocated revenue                                                                                   3,794
+
+      Total revenue                                                                                       326,879
+
+      Segment EBITDA                              31,149           4,331        (2,857)             -      32,623
+      Amortisation and depreciation              (11,115)         (1,846)         (170)             -     (13,131)
+      Segment EBIT                                20,034           2,485        (3,027)             -      19,492
+
+      Unallocated revenue                                                                                   3,794
+      Unallocated expenses                                                                                 (6,573)
+      Profit from operating activities                                                                     16,713
+
+      Finance costs                                                                                          (911)
+      Exceptional items                                                                                     6,403
+      Share of profits of joint venture            5,596               -             -              -       5,596
+      Profit before tax                                                                                    27,801
+
+      Income tax expense                                                                                    (5,531)
+
+      Profit after tax                                                                                     22,270
+
+      Timing of transfer of goods or services
+      At a point in time                         234,369         82,639            59               -     317,067
+      Over time                                      276          2,449         7,087               -       9,812
+                                                 234,645         85,088         7,146               -     326,879
+
+
+
+                                                     Page 19 of 23
+15.   Segment Information (cont’d)
+      (In Singapore Dollars)
+
+                                                            Distribution &   Investments    Adjustments &
+                                                Bakery      warehousing        & others      eliminations Consolidated
+                                                 $'000          $'000           $'000            $'000       $'000
+      Revenue and expenses 2025
+      Revenue from external customers            448,851         163,553           7,142                -    619,546
+      Other revenue from external customers        6,707             286              42                -      7,035
+      Inter-segment revenue                          676           1,317          16,444          (18,437)         -
+                                                 456,234         165,156          23,628          (18,437)   626,581
+      Unallocated revenue                                                                                      7,015
+
+      Total revenue                                                                                          633,596
+
+      Segment EBITDA                              48,213            7,042          8,199                -      63,454
+      Amortisation and depreciation              (23,608)          (3,684)          (341)               -     (27,633)
+      Segment EBIT                                24,605            3,358          7,858                -      35,821
+
+      Unallocated revenue                                                                                      7,015
+      Unallocated expenses                                                                                    (9,148)
+      Profit from operating activities                                                                        33,688
+
+      Finance costs                                                                                           (1,261)
+      Share of profits of joint venture           15,371                -              -                -     15,371
+      Profit before tax                                                                                       47,798
+
+      Income tax expense                                                                                       (7,515)
+
+      Profit after tax                                                                                        40,283
+
+      Timing of transfer of goods or services
+      At a point in time                         455,543         159,018              40                -    614,601
+      Over time                                      623           4,840          13,532                -     18,995
+                                                 456,166         163,858          13,572                -    633,596
+
+      Revenue and expenses 2024
+      Revenue from external customers            448,488         166,375           6,783                -    621,646
+      Other revenue from external customers        6,707             335              72                -      7,114
+      Inter-segment revenue                          773           1,263          16,592          (18,628)         -
+                                                 455,968         167,973          23,447          (18,628)   628,760
+      Unallocated revenue                                                                                      7,347
+
+      Total revenue                                                                                          636,107
+
+      Segment EBITDA                              58,235            8,083            316                -      66,634
+      Amortisation and depreciation              (22,692)          (3,628)          (341)               -     (26,661)
+      Segment EBIT                                35,543            4,455            (25)               -      39,973
+
+      Unallocated revenue                                                                                       7,347
+      Unallocated expenses                                                                                    (11,814)
+      Profit from operating activities                                                                         35,506
+
+      Finance costs                                                                                           (2,008)
+      Exceptional items                                                                                        6,403
+      Share of profits of joint venture            4,734                -              -                -      4,734
+      Profit before tax                                                                                       44,635
+
+      Income tax expense                                                                                       (9,957)
+
+      Profit after tax                                                                                        34,678
+
+      Timing of transfer of goods or services
+      At a point in time                         455,137         161,848             113                -    617,098
+      Over time                                      526           4,893          13,590                -     19,009
+                                                 455,663         166,741          13,703                -    636,107
+
+
+
+
+                                                     Page 20 of 23
+15.   Segment Information (cont’d)
+      (In Singapore Dollars)
+
+                                                                            Distribution & Investments
+                                                            Bakery          warehousing      & others Consolidated
+                                                            $'000               $'000         $'000      $'000
+      Assets and liabilities 31 December 2025
+      Segment assets                                         329,432             95,956     169,648      595,036
+      Investment in joint venture                             59,659                  -           -       59,659
+      Total assets                                      389,091                  95,956     169,648      654,695
+      Deferred tax assets                                                                                  6,252
+      Tax recoverable                                                                                      7,681
+      Total assets per consolidated statement of financial position                                      668,628
+
+      Segment liabilities                                   97,222               37,900        4,202     139,324
+      Income tax payable                                                                                   4,809
+      Deferred tax liabilities                                                                             7,430
+      Bank borrowings                                                                                      4,762
+      Total liabilities per consolidated statement of financial position                                 156,325
+
+      Assets and liabilities 31 December 2024
+      Segment assets                                         346,344             96,167     161,787      604,298
+      Investment in joint venture                             48,168                  -           -       48,168
+      Total assets                                      394,512                  96,167     161,787      652,466
+      Deferred tax assets                                                                                  4,491
+      Tax recoverable                                                                                      7,323
+      Total assets per consolidated statement of financial position                                      664,280
+
+      Segment liabilities                                   97,954               36,847        5,191     139,992
+      Income tax payable                                                                                   4,510
+      Deferred tax liabilities                                                                             7,132
+      Bank borrowings                                                                                     11,607
+      Total liabilities per consolidated statement of financial position                                 163,241
+
+
+
+      Other segment information 2025
+      Expenditure for non-current assets                      14,618                999          171      15,788
+      Impairment loss charged                                    608                  -            -         608
+      Allowance for inventories charged and
+        inventories written off, net                                524              21            -         545
+      Allowance for receivables charged and bad
+       debts written off, net                                       315             449            -         764
+
+      Other segment information 2024
+      Expenditure for non-current assets                      16,950              2,025           61      19,036
+      Impairment loss charged/(written back), net              1,354                  -            -       1,354
+      Allowance for inventories (written back)/
+        charged and inventories written off, net                    (299)           478            -         179
+      Allowance for receivables charged and bad
+        debts written off, net                                      146             549            -         695
+
+
+
+
+                                                    Page 21 of 23
+15.   Segment Information (cont’d)
+      (In Singapore Dollars)
+
+                                                             Revenue                     Non-current assets
+                                                        FY 2025    FY 2024              31/12/2025 31/12/2024
+                                                         $'000      $'000                  $'000      $'000
+
+       Philippines                                       270,110           271,050          72,635    77,591
+       Singapore                                         228,270           231,357          46,368    52,280
+       Malaysia                                           77,033            74,240          80,328    81,259
+       Australia                                          48,911            48,589          19,400    20,507
+       Other countries                                     9,272            10,871               -         -
+                                                         633,596           636,107         218,731   231,637
+
+      Non-current assets information presented above consist of property, plant and equipment, right-of-use assets
+      and intangibles as presented in the consolidated statement of financial position.
+
+
+16.   In the review of performance, the factors leading to any material changes in contributions to turnover
+      and earnings by the business or geographical segments.
+
+      Please refer to Section 8.
+
+
+17.   A breakdown of sales as follows:
+
+                                                                             Group
+                                                                   2025         2024      + / (-)
+                                                                   $'000        $'000       %
+
+      Revenue reported for first half year                      306,054         309,228      (1)
+      Profit after tax before deducting non-
+        controlling interests for the first half year                4,192       12,408     (66)
+
+      Revenue reported for second half year                     327,542         326,879       0
+      Profit after tax before deducting non-
+        controlling interests for the second half year             36,091        22,270     62
+
+
+
+18.   A breakdown of the total annual dividend for the company’s latest full year and its previous full year
+      as follows:-
+                                                                   Full Year    Full Year
+                                                                    2025         2024
+                                                                    $'000        $'000
+      Ordinary dividend                                              28,763       28,763
+
+
+
+
+                                                            Page 22 of 23
+19.   Persons occupying managerial positions who are related to the directors, chief executive officer or
+      substantial shareholder
+
+      Pursuant to Rule 704(13) of the Listing Manual of the SGX-ST, set out below are details of each person
+      occupying a managerial position in the Company and/or its principal subsidiaries who is a relative of a
+      Director or chief executive officer or substantial shareholder of the Company:
+
+                               Family relationship with                                   Details of changes in
+                                   any director, CEO          Current position and         duties and position
+                                  and/or substantial        duties, and the year the       held, if any, during
+            Name        Age           shareholder            position was first held             the year
+       Lin Kejian        47    Son of Mr Lam Sing           Mr Lin was appointed as       Not applicable.
+                               Chung (Chairman and a        Joint Group Managing
+                               controlling shareholder of   Director with effect from 1
+                               the Company)                 January 2017.
+
+                                                            As Joint Group Managing
+                                                            Director, Mr Lin together
+                                                            with our other Joint
+                                                            Group            Managing
+                                                            Director, is responsible
+                                                            for the leadership and
+                                                            overall management of
+                                                            QAF        and      overall
+                                                            oversight of the QAF
+                                                            group of companies and
+                                                            is tasked to set strategic
+                                                            objectives and implement
+                                                            such      objectives     to
+                                                            achieve the long-term
+                                                            growth      and      value
+                                                            creation for the QAF
+                                                            Group.
+
+
+
+
+BY ORDER OF THE BOARD
+
+Soh Chai Lih
+Company Secretary
+24 February 2026
+
+
+
+
+                                                Page 23 of 23
+

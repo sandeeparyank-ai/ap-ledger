@@ -1,0 +1,826 @@
+APPENDIX TO ANNUAL REPORT 2025 DATED 27 MARCH 2026
+
+THIS APPENDIX IS IMPORTANT AND REQUIRES YOUR IMMEDIATE ATTENTION. PLEASE
+READ IT CAREFULLY.
+
+If you are in any doubt as to the action you should take, you should consult your
+stockbroker, bank manager, solicitor, accountant or other professional adviser
+immediately.
+
+This Appendix is circulated to Shareholders of QAF Limited (the “Company”) together with the
+Company’s Annual Report for FY2025 and may be accessed at the Company’s corporate website
+at the URL https://www.qaf.com.sg/company-announce/ and the SGXNET website at the URL
+https://www.sgx.com/securities/company-announcements. The purpose of this Appendix is to
+provide information to the Shareholders relating to the proposed renewal of the IPT Mandate to
+be tabled at the Annual General Meeting of the Company to be held, in a wholly physical format,
+at William Pickering Ballroom, Level 2, PARKROYAL COLLECTION Pickering, 3 Upper Pickering
+Street, Singapore 058289, on 24 April 2026 at 11.00 a.m.. There will be no option for members
+to attend, speak and vote via virtual meeting technology.
+
+If shares in the Company held through The Central Depository (Pte) Limited (“CDP”) have been
+sold or transferred, the Shareholder or investor (as the case may be) need not forward the Notice
+of Annual General Meeting and the Proxy Form to the purchaser or transferee, as arrangements
+will be made by CDP for these documents to be sent to the purchaser or transferee. If shares in
+the Company represented by physical share certificate(s) have been sold or transferred, the
+Shareholder should immediately forward the Notice of Annual General Meeting and the Proxy
+Form to the purchaser or transferee or the bank, stockbroker or other agent through whom the
+sale or transfer was effected for onward notification to the purchaser or transferee.
+
+Capitalised terms appearing on the cover of this Appendix have the same meanings as defined
+herein.
+
+The Singapore Exchange Securities Trading Limited assumes no responsibility for the correctness
+of any of the statements made, reports contained or opinions expressed in this Appendix.
+
+
+
+
+                                        QAF LIMITED
+                       (Incorporated in the Republic of Singapore on 3 March 1958)
+                                 (Company Registration No. 195800035D)
+
+
+
+
+                        APPENDIX TO THE ANNUAL REPORT
+
+                                       IN RELATION TO
+
+               THE PROPOSED RENEWAL OF THE IPT MANDATE
+                                       DEFINITIONS
+
+In this Appendix, the following definitions shall apply throughout unless the context otherwise
+requires:
+
+“2025 AGM”                      :    Annual general meeting of the Company held on 25 April
+                                     2025
+
+“2026 AGM”                      :    Annual general meeting of the Company to be held on
+                                     24 April 2026
+
+“Annual Report”                 :    Annual report of the Company for FY2025
+
+“Appendix”                      :    This appendix dated 27 March 2026 to the Annual Report
+
+“approved exchange”             :    A stock exchange that has rules which safeguard the
+                                     interests of shareholders against interested person
+                                     transactions according to similar principles to Chapter 9 of
+                                     the Listing Manual
+
+“associate”                     :    (a)   In relation to any director, chief executive officer,
+                                           substantial shareholder or controlling shareholder
+                                           (being an individual) means:
+
+                                           (i)    his immediate family (that is, the person’s
+                                                  spouse, child, adopted-child, step-child, sibling
+                                                  and parent);
+
+                                           (ii)   the trustees of any trust of which he or his
+                                                  immediate family is a beneficiary or, in the case
+                                                  of a discretionary trust, is a discretionary object;
+                                                  and
+
+                                           (iii) any company in which he and his immediate
+                                                 family together (directly or indirectly) have an
+                                                 interest of 30% or more; and
+
+                                     (b)   In relation to a substantial shareholder or a controlling
+                                           shareholder (being a company) means any other
+                                           company which is its subsidiary or holding company
+                                           or is a subsidiary of such holding company or one in
+                                           the equity of which it and/or such other company or
+                                           companies taken together (directly or indirectly) have
+                                           an interest of 30% or more
+
+“Audit & Risk Committee”        :    The audit and risk committee of the Company for the time
+                                     being
+
+“Austral”                       :    Has the meaning ascribed to it in Section 2.3 of this
+                                     Appendix
+
+“Board”                         :    The board of Directors of the Company for the time being
+
+
+
+
+                                                  1
+“Companies Act”               :   The Companies Act 1967 of Singapore as amended or
+                                  modified from time to time
+
+“Company”                     :   QAF Limited
+
+“Controlling Shareholder”     :   A person who:
+
+                                  (a)   holds directly or indirectly 15% or more of the total
+                                        voting rights in the Company. The SGX-ST may
+                                        determine that a person who satisfies this paragraph
+                                        is not a controlling shareholder; or
+
+                                  (b)   in fact exercises control over the Company
+
+“Directors”                   :   The directors of the Company for the time being
+
+“entity at risk”              :   (a)   The listed company;
+
+                                  (b)   A subsidiary of the listed company that is not listed on
+                                        the SGX-ST or an approved exchange; or
+
+                                  (c)   An associated company of the listed company that is
+                                        not listed on the SGX-ST or an approved exchange,
+                                        provided that the listed group, or the listed group
+                                        and its interested person(s), has control over the
+                                        associated company
+
+“FY”                          :   Financial year ended or ending 31 December
+
+“Group”                       :   The Company and its subsidiaries
+
+“immediate family”            :   In relation to a person, means the person’s spouse, child,
+                                  adopted child, step-child, sibling and parent
+
+“Interested Persons”          :   Has the meaning ascribed to it in Section 2.3 of this
+                                  Appendix
+
+“IPT” or “Interested Person   :   Transactions between an entity at risk within the meaning
+Transactions”                     of Chapter 9 of the Listing Manual and any of the Interested
+                                  Persons which fall within the scope of the IPT Mandate
+
+“IPT Mandate” or              :   The general mandate pursuant to Chapter 9 of the
+“Interested Person                Listing Manual for the Company and its subsidiaries and
+Transactions Mandate”             associated companies which are considered to be “entities
+                                  at risk” under Chapter 9 of the Listing Manual, or any of
+                                  them, to enter into any of the transactions falling within the
+                                  types of interested person transactions as set out in this
+                                  Appendix, provided that such transactions are made on
+                                  normal commercial terms and in accordance with the
+                                  review procedures for such interested person transactions
+
+“Latest Practicable Date”     :   16 March 2026, being the latest practicable date prior to
+                                  the issue of this Appendix
+
+
+                                            2
+“Listing Manual”                 :     The listing manual of the SGX-ST, as amended or modified
+                                       from time to time
+
+“Notice of Annual General        :     The Notice of Annual General Meeting of the Company
+Meeting”                               dated 27 March 2026 convening the 2026 AGM
+
+“NTA”                            :     Net tangible assets
+
+“Salim Group”                    :     Mr Anthoni Salim and the group of companies controlled by
+                                       him or, if the context requires, Mr Anthoni Salim
+
+“SGX-ST”                         :     Singapore Exchange Securities Trading Limited
+
+“Shareholders”                   :     Means:
+
+                                       (a)   where the Depository is named in the register of
+                                             members of the Company as the holder of Shares, a
+                                             Depositor in respect of the number of Shares standing
+                                             to the credit of his name in the Depository Register;
+                                             and
+
+                                       (b)   in any other case, a person whose name appears on
+                                             the register of members maintained by the Company
+                                             pursuant to Section 190 of the Companies Act and/or
+                                             any other applicable law
+
+“Shares”                         :     Ordinary shares in the capital of the Company
+
+“Substantial Shareholder”        :     A person who has an interest in one or more voting shares
+                                       in a company and the total votes attached to such share(s)
+                                       is not less than 5% of the total votes attached to all the
+                                       voting shares in the company
+
+“S$” or “$” and “cents”          :     Singapore dollars and cents, respectively
+
+“%” or “per cent”                :     Percentage or per centum
+
+The terms “Depositor”, “Depository” and “Depository Register” shall have the meanings ascribed
+to them respectively in Section 81SF of the Securities and Futures Act 2001 of Singapore.
+
+Words importing the singular shall, where applicable, include the plural and vice versa and words
+importing the masculine gender shall, where applicable, include the feminine and neuter genders
+and vice versa. References to persons shall include corporations.
+
+Any reference in this Appendix to any statute or enactment is a reference to that statute or
+enactment for the time being amended or re-enacted. Any word defined under the Companies Act,
+the Listing Manual or any modification thereof and used in this Appendix shall have the meaning
+assigned to it under the Companies Act, the Listing Manual or any modification thereof, as the
+case may be, unless otherwise provided.
+
+Any reference to a time of day and date in this Appendix is a reference to Singapore time and date,
+respectively, unless otherwise stated. Any reference to currency set out in this Appendix is a
+reference to S$ unless otherwise stated.
+
+
+                                                 3
+Any discrepancies in figures included in this Appendix between the amounts shown and the totals
+thereof are due to rounding. Accordingly, figures shown as totals in this Appendix may not be an
+arithmetic aggregation of the figures that precede them.
+
+Rajah & Tann Singapore LLP has been appointed as the Singapore legal adviser to the Company
+in relation to the proposed renewal of the IPT Mandate.
+
+
+
+
+                                               4
+                                          QAF LIMITED
+                                (Incorporated in the Republic of Singapore)
+                                 (Company Registration No. 195800035D)
+
+Board of Directors                                                            Registered Office
+
+Lam Sing Chung (Chairman, Non-Independent, Non-Executive Director)            150 South Bridge Road
+Philip Yeo Liat Kok (Vice-Chairman, Independent, Non-Executive Director)      #09-03 Fook Hai Building
+Lin Kejian (Joint Group Managing Director, Executive Director)                Singapore 058727
+Michael Darren Hewat (Joint Group Managing Director, Executive Director)
+Norman Ip (Independent, Non-Executive Director)
+Chee Teck Kwong Patrick (Independent, Non-Executive Director)
+Loh Wee Lee (Independent, Non-Executive Director)
+Foo Kwee Joen Junie (Independent, Non-Executive Director)
+Basil Chan (Independent, Non-Executive Director)
+Tan Chuan Lye (Independent, Non-Executive Director)
+John Martin Miller (Independent, Non-Executive Director)
+Rachel Liem Yuan Fang (Alternate Director to Lam Sing Chung)
+
+27 March 2026
+
+To: The Shareholders of QAF Limited
+
+Dear Shareholders
+
+1.    INTRODUCTION
+
+      The purpose of this Appendix is to provide Shareholders with information relating to the
+      proposed renewal of the IPT Mandate, which is referred to in Ordinary Resolution 13 set out
+      in the notice convening the 2026 AGM to be held on 24 April 2026.
+
+      The SGX-ST assumes no responsibility for the correctness of any of the statements made,
+      reports contained or opinions expressed in this Appendix.
+
+2.    THE PROPOSED RENEWAL OF THE IPT MANDATE
+
+2.1   Existing IPT Mandate
+
+      At the 2025 AGM, the Shareholders had approved the renewal of the IPT Mandate to
+      authorise the entry by the Company and its entities at risk (as defined in Rule 904(2) of the
+      Listing Manual) into any of the transactions falling within certain types of interested person
+      transactions as set out in the IPT Mandate. Particulars of the IPT Mandate were set out in
+      the appendix circulated to Shareholders together with the annual report of the Company for
+      FY2024.
+
+      The IPT Mandate was expressed to take effect until the conclusion of the then next annual
+      general meeting of the Company, namely, the 2026 AGM which is scheduled to be held on
+      24 April 2026. Accordingly, Shareholders’ approval is being sought for the renewal of the
+      IPT Mandate at the 2026 AGM.
+
+
+
+
+                                                    5
+2.2   Chapter 9 of the Listing Manual
+
+      Chapter 9 of the Listing Manual governs transactions by a listed company, as well as
+      transactions by its subsidiaries and associated companies that are considered to be entities
+      at risk, with the listed company’s interested persons. The purpose is to guard against the
+      risk that interested persons could influence the listed company, its subsidiaries or
+      associated companies to enter into transactions with interested persons that may adversely
+      affect the interests of the listed company or its shareholders.
+
+      Under Chapter 9 of the Listing Manual, where a listed company or any of its subsidiaries or
+      any of its associated companies which are controlled by the listed group and its interested
+      person(s) (other than a subsidiary or associated company that is listed on the SGX-ST or
+      an approved exchange) proposes to enter into transactions with the listed company’s
+      interested persons, the listed company is required to make an immediate announcement,
+      or to make an immediate announcement and seek its shareholders’ approval if the value of
+      the transaction is equal to or exceeds certain financial thresholds. In particular:
+
+      (a)   where the value of such transaction is equal to or exceeds 3% of the latest audited
+            consolidated NTA of the listed company and its subsidiaries and is less than 5% of the
+            latest audited consolidated NTA of the listed company and its subsidiaries, an
+            immediate announcement is required;
+
+      (b)   where the value of such transaction is equal to or exceeds 5% of the latest audited
+            consolidated NTA of the listed company and its subsidiaries, an immediate
+            announcement and shareholders’ approval is required;
+
+      (c)   if the aggregate value of all transactions entered into with the same interested person
+            during the same financial year amounts to 3% or more of the latest audited
+            consolidated NTA of the listed company and its subsidiaries, the listed company must
+            make an immediate announcement of the latest transaction and all future transactions
+            entered into with that same interested person during that financial year; and
+
+      (d)   if the aggregate value of all transactions entered into with the same interested person
+            during the same financial year amounts to 5% or more of the latest audited
+            consolidated NTA of the listed company and its subsidiaries, an immediate
+            announcement must be made and shareholders’ approval must be obtained in respect
+            of the latest and all future transactions entered into with that interested person during
+            that financial year.
+
+      In the event the latest audited consolidated NTA of the listed company and its subsidiaries
+      is negative, the listed company is required to consult the SGX-ST on the appropriate
+      benchmark to calculate the relevant thresholds, which may be based on its market
+      capitalisation.
+
+      Based on the provisions of the Listing Manual, the rules as to making announcements and
+      seeking shareholders’ approval referred to above do not apply to transactions below
+      S$100,000. However, while transactions below S$100,000 are not normally aggregated
+      under the relevant provisions of the Listing Manual, the SGX-ST may aggregate any such
+      transaction entered into during the same financial year and treat them as if they were one
+      transaction.
+
+      For Shareholders’ information, the audited consolidated NTA of the Group as at
+      31 December 2025 amounted to approximately S$510.19 million. 3% and 5% of such
+      audited consolidated NTA of the Group amounts to approximately S$15.31 million and
+      S$25.51 million, respectively.
+
+                                                 6
+Chapter 9 of the Listing Manual permits a listed company, however, to seek a general
+mandate from its shareholders for recurrent transactions of a revenue or trading nature or
+those necessary for its day-to-day operations such as the purchase and sale of supplies
+and materials (but not in respect of the purchase or sale of assets, undertakings or
+businesses) that may be carried out with the listed company’s interested persons.
+Transactions conducted under a general mandate are not subject to the rules on making
+announcements and seeking shareholders’ approval referred to above.
+
+Under the Listing Manual:
+
+(i)    an “entity at risk” means:
+
+       (1)   the listed company;
+
+       (2)   a subsidiary of the listed company that is not listed on the SGX-ST or an
+             approved exchange; or
+
+       (3)   an associated company of the listed company that is not listed on the SGX-ST or
+             an approved exchange, provided that the listed group, or the listed group and its
+             interested person(s), has control over the associated company;
+
+(ii)   an “interested person” means a director, chief executive officer or controlling
+       shareholder of the listed company or an associate of any such director, chief executive
+       officer or controlling shareholder. The SGX-ST may deem any person or entity to be
+       an interested person if the person or entity has entered into, or proposes to enter into,
+       (1) a transaction with an entity at risk, and (2) an agreement or arrangement with an
+       interested person in connection with that transaction;
+
+(iii) an “associate”:
+
+       (1)   in relation to any director, chief executive officer, substantial shareholder or
+             controlling shareholder (being an individual) means:
+
+             (aa) his immediate family (that is, the person’s spouse, child, adopted-child,
+                  step-child, sibling and parent);
+
+             (bb) the trustees of any trust of which he or his immediate family is a beneficiary
+                  or, in the case of a discretionary trust, is a discretionary object; and
+
+             (cc) any company in which he and his immediate family together (directly or
+                  indirectly) have an interest of 30% or more; and
+
+       (2)   in relation to a substantial shareholder or a controlling shareholder (being a
+             company) means any other company which is its subsidiary or holding company
+             or is a subsidiary of such holding company or one in the equity of which it and/or
+             such other company or companies taken together (directly or indirectly) have an
+             interest of 30% or more;
+
+(iv) an “approved exchange” means a stock exchange that has rules which safeguard the
+     interests of shareholders against interested person transactions according to similar
+     principles to Chapter 9 of the Listing Manual;
+
+
+
+
+                                             7
+         (v)   an “interested person transaction” means a transaction between an entity at risk and
+               an interested person; and
+
+         (vi) a “transaction” includes:
+
+               (1)    the provision or receipt of financial assistance;
+
+               (2)    the acquisition, disposal or leasing of assets;
+
+               (3)    the provision or receipt of goods or services;
+
+               (4)    the issuance or subscription of securities;
+
+               (5)    the granting of or being granted options; and
+
+               (6)    the establishment of joint ventures or joint investments,
+
+               whether or not in the ordinary course of business, and whether or not entered into
+               directly or indirectly (for example, through one or more interposed entities).
+
+2.3      Background
+
+         The Group is principally engaged in the businesses of bakery and distribution and
+         warehousing. For its bakery business, the Group, including its joint venture(s),
+         manufactures and distributes bread and bakery products in Singapore, Malaysia, the
+         Philippines and Australia. For its distribution and warehousing business, the Group
+         undertakes wholesale distribution of a range of third-party and proprietary-branded
+         processed food and beverage products, and provides logistics operations including
+         distribution and warehousing.
+
+         As at the Latest Practicable Date, Mr Lam Sing Chung, Chairman of the Board, has a
+         shareholding interest of approximately 31.03% in the Company and is a Controlling
+         Shareholder of the Company. Mr Lin Kejian, Joint Group Managing Director of the
+         Company, is the son of Mr Lam Sing Chung and is also a Controlling Shareholder of the
+         Company with a shareholding interest of approximately 39.51% in the Company as at the
+         Latest Practicable Date.
+
+         The Group may from time to time enter into transactions with Mr Lam Sing Chung, Mr Lin
+         Kejian and/or their respective associates (“Interested Persons”) in the ordinary course of
+         business. Such transactions include the purchase of products and raw materials from, as
+         well as the sale of products to, certain parties which are Interested Persons.
+
+         The transactions entered into in FY2025 with Interested Persons pursuant to the IPT
+         Mandate are set out on page 114 of the Annual Report in the section entitled “FY2025
+         Interested Person Transactions”. Please refer to the aforesaid section for more information.
+         For example, the Group purchased raw materials such as flour from the Salim Group 1. The
+         Salim Group is an Interested Person as Mr Anthoni Salim is the brother of Mr Lam Sing
+
+1     Based on public information, the Salim Group is an Indonesian conglomerate with interests in various businesses,
+      including interests in First Pacific Company Limited (“First Pacific”), an investment management and holding
+      company with principal business interests relating to telecommunications, consumer food products, infrastructure and
+      natural resources, which is listed on the Hong Kong Stock Exchange; PT Indofood Sukses Makmur Tbk (“PT ISM”),
+      which is in food manufacturing including production and processing of raw materials and listed on the Indonesia Stock
+      Exchange; Indofood Agri Resources Ltd. (“IndoAgri”), a diversified and vertically integrated agribusiness group which
+      is listed on the SGX-ST; and Gallant Venture Ltd., an Indonesia-focused group with core businesses in property
+      development, industrial parks, utilities and resort operations which is listed on the SGX-ST. PT ISM and IndoAgri are
+      subsidiaries of First Pacific.
+
+                                                             8
+         Chung. The aggregate value of the flour purchased amounted to approximately S$17.27
+         million, being more than 3% (that is, approximately 3.46%) of the then latest audited
+         consolidated NTA of the Group. As such, pursuant to the IPT Mandate, approval from the
+         Audit & Risk Committee was obtained for FY2025 purchases of flour from the Salim Group
+         that were in excess of the said 3% threshold. In addition, the Group sold cheese in bulk to,
+         and purchased processed cheese from, Austral Dairy Group Sdn Bhd (“Austral”). Austral
+         is an Interested Person as it is an entity in which Mr Lam Sing Chung, Ms Rachel Liem Yuan
+         Fang and her immediate family member have an interest. The aggregate value of the
+         cheese sold and purchased amounted to approximately S$1.84 million and S$3.07 million
+         respectively, each being less than 3% (that is approximately 0.37% and 0.61%,
+         respectively) of the then latest audited consolidated NTA of the Group.
+
+2.4      Rationale for and Benefits of the Renewal of the IPT Mandate
+
+         The Group envisages that the Interested Person Transactions will occur with some degree
+         of frequency and could arise at any time and from time to time. Such transactions are
+         recurring transactions and are part of the day-to-day operations of the Group.
+
+         The renewal of the IPT Mandate, if approved by the Shareholders, will enable the Group,
+         in the ordinary course of business, to undertake such transactions in a more expeditious
+         manner. It will also enhance the Group’s ability to pursue business opportunities which may
+         be time-sensitive and frequent in nature and will allow the Group to conduct its business
+         efficiently by eliminating the need to convene separate general meetings from time to time
+         to seek Shareholders’ approval as and when potential Interested Person Transactions
+         arise. The IPT Mandate will reduce the expenses involved with the convening of general
+         meetings on an ad hoc basis and allow manpower resources and time to be channelled
+         towards attaining other corporate objectives.
+
+2.5      Classes of Interested Persons
+
+         The IPT Mandate will apply to the Interested Persons in relation to the types of transactions
+         set out in Section 2.6 below. The associates of the Interested Persons who will have
+         dealings under the IPT Mandate include the Salim Group, which is controlled by Mr Anthoni
+         Salim, who is Mr Lam Sing Chung’s brother.
+
+2.6      Types of Transactions under the IPT Mandate
+
+         The types of transactions contemplated under the IPT Mandate are as follows:
+
+         (a)   the purchase of products and raw materials; and
+
+         (b)   the sale of products.
+
+         The types of products and/or raw materials covered under the IPT Mandate will be those
+         which are transacted by the Group in its ordinary course of business with the Interested
+         Persons in connection with the latter’s ordinary course of business. Such transactions
+         include for example, the purchase of flour and may also include wheat-related raw
+         materials, such as wheat bran and wheat germ, from the Salim Group, and finished
+         products such as vegetables and electricity 2 from the Salim Group and processed cheese
+         from Austral.
+
+
+2     As announced by the Company on 23 December 2024, electricity falls within the definition of ‘products’ under the IPT
+      Mandate and the Company had in such announcement provided information on past electricity purchases by its
+      Gardenia Singapore subsidiary from the Salim Group. For electricity purchases from the Salim Group for FY2025,
+      please refer to page 114 of the Annual Report in the section entitled “FY2025 Interested Person Transactions”.
+
+                                                            9
+2.7   Review Procedures under the IPT Mandate
+
+      The Group maintains a register of Interested Person Transactions and the following review
+      procedures are implemented by the Company:
+
+2.7.1 Review Procedures
+
+      (a)   When purchasing products and/or raw materials from an Interested Person, quotations
+            from at least two (2) other unrelated third party vendors for similar quantities and/or
+            quality will be obtained (whenever possible or available) for comparison to ascertain
+            whether the price and terms offered by the Interested Person are fair and reasonable
+            and competitive compared to those offered by such other unrelated third party
+            vendors. In determining whether the price and terms offered by the Interested Person
+            are fair and reasonable, pertinent factors, including but not limited to quality, track
+            record, specification compliance, delivery time, experience and expertise, and where
+            applicable, terms offered to third parties, preferential rates, discounts or rebates
+            accorded for bulk purchases, may also be taken into consideration.
+
+            In the event that such competitive quotations cannot be obtained (for instance, if there
+            are no unrelated third party vendors providing or selling a similar type of product or raw
+            material or if the unrelated third party vendor(s) is not able to meet the Group’s
+            specifications or in cases of urgency), an Executive Director (other than an Interested
+            Person) or the Audit & Risk Committee (as the case may be depending on the approval
+            threshold as set out in Section 2.7.2 below) will determine whether the price and terms
+            offered by the Interested Person are fair and reasonable. In determining the
+            transaction price payable to the Interested Person for such products and/or raw
+            materials, pertinent factors, including but not limited to quality, track record,
+            specification compliance, delivery time, experience and expertise, reliability and/or
+            efficiency of the seller, strategic considerations, and where applicable, terms offered
+            to third parties, preferential rates, discounts or rebates accorded for bulk purchases,
+            may also be taken into consideration.
+
+      (b)   When selling products to an Interested Person, the pricing or fees for the products are
+            to be carried out at the prevailing market rates or prices of the products, on terms no
+            more favourable to the Interested Person than the usual commercial terms extended
+            to unrelated third parties (including, where applicable, preferential rates, discounts
+            and/or rebates accorded to corporate customers or for bulk purchases) or otherwise in
+            accordance with applicable industry norms.
+
+            In the event that prevailing market rates or prices are not available (for instance due
+            to the nature of the product to be sold or if there are no other customers for similar
+            products or if the unrelated third party customer(s) is not able to meet the Group’s
+            specifications or in cases of urgency), the transaction prices will, where applicable,
+            (i) be in accordance with the Group’s usual business practices and pricing policies,
+            consistent with the usual margin of the Group for the same or substantially similar
+            type(s) of transaction with unrelated third parties, or (ii) in certain cases (for example,
+            waste disposal or technical expertise) be determined by reference to factors including
+            but not limited to track record, specification compliance, quantity, volume, duration of
+            contract, strategic considerations, reliability and/or efficiency of the purchaser, extent
+            of cost recovery, industry norms and where applicable, preferential rates, discounts or
+            rebates accorded for bulk purchases, may also be taken into consideration.
+
+
+
+
+                                                  10
+2.7.2 Approval Thresholds
+
+     The following approval thresholds shall be adopted in respect of the Interested Person
+     Transactions:
+
+
+              Value of Interested Person                           Approving Authorities
+              Transaction(s)                                       (each having no interest, direct or
+                                                                   indirect, in the Interested Person
+                                                                   Transaction)
+      1.      An Interested Person Transaction the                 Executive Director or such senior
+              value of which is equal to or exceeds                executive of the Group as may be
+              S$100,000, (1) but less than 3% of the               designated by the Audit & Risk
+              latest audited consolidated NTA of the               Committee from time to time
+              Group from time to time (2)
+                                                                   If an Executive Director or relevant
+                                                                   senior executive of the Group is himself
+                                                                   interested in an Interested Person
+                                                                   Transaction, the Interested Person
+                                                                   Transaction will be reviewed and
+                                                                   approved by another Executive Director
+                                                                   or senior executive (each having no
+                                                                   interest, direct or indirect, in the
+                                                                   Interested Person Transaction)
+      2.      (i)    Where the value of an Interested              Audit & Risk Committee
+                     Person      Transaction,       when
+                     aggregated with the value of all
+                     previous      Interested     Person
+                     Transactions of the same kind in the
+                     same financial year, is equal to or
+                     exceeds 3% of the latest audited
+                     consolidated NTA of the Group from
+                     time to time(2), such Interested
+                     Person Transaction and all future
+                     Interested Person Transactions of
+                     the same kind during the financial
+                     year in question, Provided That any
+                     Interested    Person     Transaction
+                     below S$100,000 in value does not
+                     require approval and shall be
+                     disregarded      for     aggregation
+                     purposes
+
+              (ii)   An Interested Person Transaction              Audit & Risk Committee
+                     the value of which is equal to or
+                     exceeds 3% of the latest audited
+                     consolidated NTA of the Group from
+                     time to time(2)
+
+     Notes:
+     (1) Based on the existing provisions of the Listing Manual.
+     (2) Based on the audited consolidated financial statements of the Group for FY2025, 3% of the latest audited
+         consolidated NTA of the Group would be approximately S$15.31 million.
+
+
+     The approving authorities may request for additional information pertaining to the
+     transaction under review as they deem fit.
+
+
+                                                      11
+2.7.3 Interested Audit & Risk Committee Member to Abstain
+
+      In the event that a member of the Audit & Risk Committee (where applicable) is interested
+      (directly or indirectly) in any Interested Person Transaction, he or she will abstain from
+      reviewing that particular transaction. Approval of that transaction will accordingly be
+      undertaken by the remaining members of the Audit & Risk Committee.
+
+2.7.4 Periodic Review by Audit & Risk Committee
+
+      The Audit & Risk Committee will review all Interested Person Transactions (including
+      transactions with Interested Persons the values of which are below S$100,000) on a
+      quarterly basis to ascertain whether the established review procedures for the Interested
+      Person Transactions have been complied with and the relevant approvals have been
+      obtained.
+
+      The Audit & Risk Committee will also review the established review procedures of the
+      Interested Person Transactions and determine if such review procedures continue to be
+      adequate in ensuring that the Interested Person Transactions are conducted on normal
+      commercial terms and are not prejudicial to the interests of the Company and its minority
+      Shareholders. If the Audit & Risk Committee is of the view that the review procedures have
+      become inappropriate or insufficient to meet such objectives, the Company will seek a fresh
+      mandate from its Shareholders based on new review procedures for the Interested Person
+      Transactions.
+
+2.8   Excluded Transactions
+
+      The IPT Mandate will not cover any transaction with an Interested Person that is below
+      S$100,000 in value, as the provisions of Chapter 9 of the Listing Manual provide that any
+      such transaction is to be disregarded although the SGX-ST may aggregate any such
+      transaction entered into during the same financial year and treat them as if they were one
+      transaction.
+
+      Transactions between the Group and the Interested Persons which do not fall within the
+      ambit of the IPT Mandate shall be subject to the relevant provisions of Chapter 9 of the
+      Listing Manual, or other applicable provisions of the Listing Manual, if any.
+
+2.9   Validity Period of the Renewed IPT Mandate
+
+      If approved by Shareholders at the 2026 AGM, the renewed IPT Mandate will take effect
+      from the passing of the ordinary resolution relating thereto at the 2026 AGM (Ordinary
+      Resolution 13 in the Notice of Annual General Meeting), and will (unless revoked or varied
+      by the Company in general meeting) continue in force until the conclusion of the next annual
+      general meeting of the Company or the date by which the next annual general meeting of
+      the Company is required by law to be held, whichever is earlier.
+
+      Approval from Shareholders will be sought for the renewal of the IPT Mandate at the 2026
+      AGM and at each subsequent annual general meeting of the Company, subject to
+      satisfactory review by the Audit & Risk Committee of its continued application to
+      transactions with the Interested Persons.
+
+
+
+
+                                               12
+2.10 Disclosure
+
+       Disclosure will be made in the Company’s Annual Report of the aggregate value of the
+       transactions conducted with Interested Persons pursuant to the IPT Mandate during the
+       relevant financial year, and in the annual reports for the subsequent financial years that the
+       IPT Mandate continues in force, in accordance with the requirements and form set out in
+       Chapter 9 of the Listing Manual.
+
+2.11   Directors’ and Substantial Shareholders’ Interests
+
+       As at the Latest Practicable Date, the direct and deemed interests of the Directors and
+       Substantial Shareholders in the Shares of the Company, based on information recorded in
+       the register of Directors’ shareholdings and the register of Substantial Shareholders
+       maintained by the Company and/or information received by the Company from the
+       Director(s), are as follows:
+
+                                                  Direct Interests                    Deemed Interests
+
+                                            No. of         Percentage of          No. of        Percentage of
+                                            Shares         Shareholding (1)       Shares        Shareholding (1)
+
+       Directors
+       Lam Sing Chung                                 –               –       178,524,884(2)         31.03%
+       Philip Yeo Liat Kok                            –               –                     –               –
+       Lin Kejian                           7,649,000           1.33%         219,657,011(3)         38.18%
+       Michael Darren Hewat                    32,894           0.01%                       –               –
+       Norman Ip                                      –               –                     –               –
+       Chee Teck Kwong Patrick                        –               –                     –               –
+       Loh Wee Lee                                    –               –                     –               –
+       Foo Kwee Joen Junie                            –               –                     –               –
+       Basil Chan                                     –               –                     –               –
+       Tan Chuan Lye                                  –               –                     –               –
+       John Martin Miller                             –               –                     –               –
+       Rachel Liem Yuan Fang                  432,900           0.08%                       –               –
+
+       Substantial Shareholders (other than Directors)
+       Tian Wan Enterprises
+       Company Limited                   100,005,306           17.38%                       –               –
+       Tian Wan Equities
+       Company Limited                   116,099,623           20.18%                       –               –
+       Tian Wan Holdings Group
+       Limited                            98,757,516           17.17%          79,767,368(4)         13.87%
+       Tian Wan Capital Limited           58,594,391           10.19%                       –               –
+
+       Notes:
+       (1) Based on 575,268,440 Shares as at the Latest Practicable Date. Percentages have been rounded to two
+           decimal places.
+       (2) Mr Lam Sing Chung is deemed to have an interest in the Shares owned by Tian Wan Holdings Group Limited,
+           Tian Wan Capital Limited and J&H International Limited.
+
+       (3) Mr Lin Kejian is deemed to have an interest in the Shares owned by Tian Wan Enterprises Company Limited,
+           Tian Wan Equities Company Limited and ISI Investments Company Limited.
+       (4) Tian Wan Holdings Group Limited is deemed to have an interest in the Shares owned by Tian Wan Capital
+           Limited and J&H International Limited.
+
+
+
+
+                                                          13
+2.12 Statement by the Audit & Risk Committee
+
+     The Audit & Risk Committee having considered, inter alia, the terms of the IPT Mandate,
+     confirms that the review procedures for determining the transaction prices of the Interested
+     Person Transactions as set out in Section 2.7 of this Appendix have not changed since the last
+     shareholder approval for the IPT Mandate at the 2025 AGM. The Audit & Risk Committee is also
+     of the view that such review procedures for determining the transaction prices of the Interested
+     Person Transactions, when taken as a whole and if applied consistently, are sufficient to ensure
+     that the Interested Person Transactions will be carried out on normal commercial terms and will
+     not be prejudicial to the interests of the Company and its minority Shareholders. However,
+     should the Audit & Risk Committee subsequently no longer be of this opinion, the Company will
+     revert to the Shareholders for a fresh mandate based on new review procedures for
+     transactions with the Interested Persons.
+
+3.   DIRECTORS’ RECOMMENDATION
+
+     The Directors of the Company (save for the Directors referred to below), having considered,
+     amongst other things, the rationale for and benefits of the renewal of the IPT Mandate, the
+     review procedures and the role of the Audit & Risk Committee, are of the opinion that the
+     proposed renewal of the IPT Mandate is in the interests of the Company. Accordingly, the
+     Directors (save for the Directors referred to below) recommend that Shareholders vote in
+     favour of the ordinary resolution in respect of the proposed renewal of the IPT Mandate at
+     the 2026 AGM.
+
+     Mr Lam Sing Chung and Mr Lin Kejian (being the Interested Persons) abstain from making
+     any recommendation.
+
+     As different Shareholders might have different investment objectives, Shareholders should
+     consult their stockbroker, bank manager, solicitor, accountant or other professional
+     advisers if they require specific advice in relation to the proposed renewal of the IPT
+     Mandate.
+
+4.   ABSTENTION FROM VOTING
+
+     Rule 919 of the Listing Manual requires that interested persons must not vote on a
+     shareholders’ resolution approving any mandate in respect of any interested person
+     transactions. Mr Lam Sing Chung and Mr Lin Kejian (being Interested Persons) will abstain,
+     and shall procure that their respective associates abstain, from voting on the ordinary
+     resolution relating to the proposed renewal of the IPT Mandate to be tabled at the 2026
+     AGM (Ordinary Resolution 13 in the Notice of Annual General Meeting), and the Company
+     will disregard any votes cast by Mr Lam Sing Chung and Mr Lin Kejian (and their respective
+     associates) in respect of their holdings of Shares on Ordinary Resolution 13.
+
+5.   DIRECTORS’ RESPONSIBILITY STATEMENT
+
+     The Directors collectively and individually accept full responsibility for the accuracy of the
+     information given in this Appendix and confirm after making all reasonable enquiries that,
+     to the best of their knowledge and belief, this Appendix constitutes full and true disclosure
+     of all material facts about the proposed renewal of the IPT Mandate and the Group in
+     relation to the proposed renewal of the IPT Mandate and the Directors are not aware of any
+     facts the omission of which would make any statement in this Appendix misleading. Where
+     information in this Appendix has been extracted from published or otherwise publicly
+     available sources or obtained from a named source, the sole responsibility of the Directors
+     has been to ensure that such information has been accurately and correctly extracted from
+     those sources and/or reproduced in this Appendix in its proper form and context.
+
+                                                14
+6.    DOCUMENTS AVAILABLE FOR INSPECTION
+
+      Copies of the following documents are available for inspection at the registered office of the
+      Company at 150 South Bridge Road, #09-03 Fook Hai Building, Singapore 058727, during
+      normal business hours from the date of this Appendix up to and including the date of the
+      2026 AGM:
+
+      (a)   the Constitution of the Company; and
+
+      (b)   the Annual Report of the Company for FY2025.
+
+
+
+
+Yours faithfully,
+For and on behalf of the Board of Directors of
+QAF Limited
+
+
+Michael Darren Hewat
+Joint Group Managing Director
+
+
+
+
+                                                 15
+

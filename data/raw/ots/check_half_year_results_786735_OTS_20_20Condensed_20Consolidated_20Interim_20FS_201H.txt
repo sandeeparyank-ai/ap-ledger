@@ -1,0 +1,1121 @@
+OTS Holdings Limited
+
+
+Condensed Interim Financial Statements
+For the Six-Month Period Ended 31 December
+2023 (“1H2024”)
+
+
+
+
+_________________________________________________________________________
+
+This announcement has been prepared by the Company and its contents have been reviewed by the Company’s
+Sponsor, SAC Capital Private Limited (“Sponsor”). This announcement has not been examined or approved by
+the Singapore Exchange Securities Trading Limited (“SGX-ST”) and the SGX-ST assumes no responsibility for the
+contents of this announcement, including the correctness of any of the statements or opinions made or reports
+contained in this announcement.
+
+The contact person for the Sponsor is Ms Audrey Mok (Telephone: (65) 6232 3210), at 1 Robinson Road, #21-00
+AIA Tower, Singapore 048542.
+Contents                                                                                                                   Page
+
+
+
+Condensed interim consolidated statement of profit and loss and other comprehensive income ........ 1
+
+
+Condensed interim statements of financial position ........................................................................... 2
+
+
+Condensed interim statements of changes in equity ......................................................................... 3
+
+
+Condensed interim consolidated statement of cash flows ................................................................. 4
+
+
+Notes to the condensed interim consolidated financial statements ................................................... 5
+
+
+Other information required by Catalist Rule Appendix 7C ................................................................. 15
+Condensed Interim Consolidated Statement of Profit and Loss and Other Comprehensive Income
+For the Six-Month period ended 31 December 2023 (“1H2024”)
+
+
+                                                                                Group
+                                                          Notes   1H2024        1H2023      Changes
+                                                                  $'000         $'000         (%)
+
+
+Revenue                                                     3      15,736        17,358        (9.3)
+Cost of sales                                                     (11,609)       (12,776)      (9.1)
+Gross profit                                                        4,127         4,582        (9.9)
+Other income and gains                                      4        238            247        (3.6)
+Marketing and distribution costs                                   (1,260)        (1,394)      (9.6)
+Administrative expenses                                            (2,803)        (2,939)      (4.6)
+Finance costs                                                         (90)           (94)      (4.3)
+Other losses                                                4         (75)         (225)      (66.7)
+Share of loss from joint venture                                           -       (118)       N.M.
+
+Profit before income tax                                             137             59       132.2
+Income tax expense                                          6        (131)           (51)     156.9
+Profit for the period                                                     6             8     (25.0)
+
+Other comprehensive loss :
+Item that may be reclassified subsequently to profit
+or loss:
+Exchange differences on translating foreign operations,
+net of income tax                                                     (11)           (70)     (84.3)
+Other comprehensive loss for the period, net of
+income tax                                                            (11)           (70)     (84.3)
+
+Total comprehensive loss                                                  (5)        (62)     (91.9)
+
+
+Earnings per share :
+Basic and diluted ($)                                       5       0.003         0.004       (25.0)
+
+
+N.M.: Not meaningful
+
+
+
+
+                                                  1
+Condensed Interim Statements of Financial Position as at 31 December 2023
+
+                                                      Group                       Company
+                                     Notes   31 December    30 June      31 December    30 June
+                                                 2023        2023            2023         2023
+                                                $'000        $'000          $'000         $'000
+ASSETS
+Non-current assets
+Property, plant and equipment                     10,854       11,138              -             -
+Right-of-use assets                                2,539        2,779              -             -
+Intangible assets                                      -*           -*             -             -
+Investment in subsidiaries                             -            -         14,971        14,971
+Investment in joint venture                            -            -              -             -
+Other non-financial assets                             -            -              -             -
+Total non-current assets                          13,393       13,917         14,971        14,971
+
+
+Current assets
+Inventories                                        7,217        7,940              -             -
+Trade and other receivables                        6,154        4,595          3,837         3,846
+Other non-financial assets                           944          446             11            51
+Cash and cash equivalents                          7,749        8,949          2,144         2,314
+Total current assets                              22,064       21,930          5,992         6,211
+Total assets                                      35,457       35,847         20,963        21,182
+
+
+EQUITY AND LIABILITIES
+Equity
+Share capital                           9         22,469       22,469         22,469        22,469
+Retained earnings / (accumulated losses)           4,636        4,630         (1,651)       (1,459)
+Foreign currency reserve                            (212)        (201)             -             -
+Total equity                                      26,893       26,898         20,818        21,010
+
+
+Non-current liabilities
+Deferred tax liabilities                             389          387                 -             -
+Provision                                            650          650                 -             -
+Loans and borrowings                   12            518          590                 -             -
+Lease liabilities                                  2,531        2,678                 -             -
+Other non-financial liabilities                      798          841                 -             -
+Total non-current liabilities                      4,886        5,146                 -             -
+
+
+Current liabilities
+Income tax payable                                   185          112                 -             -
+Trade and other payables                           3,031        3,060               145           172
+Loans and borrowings                   12            143          218                 -             -
+Lease liabilities                                    234          328                 -             -
+Other non-financial liabilities                       85           85                 -             -
+Total current liabilities                          3,678        3,803               145           172
+
+
+Total liabilities                                  8,564        8,949               145           172
+
+
+Total equity and liabilities                      35,457       35,847         20,963        21,182
+
+*Below $1,000
+
+
+
+
+                                                   2
+Condensed Interim Statements of Changes in Equity
+For the Six-Month period ended 31 December 2023 (“1H2024”)
+
+                                                                                 Retained
+                                                                                                Foreign
+                                                                    Share        earnings /
+                                                     Total equity                              currency
+                                                                    capital    (accumulated
+                                                                                               reserve
+                                                                                  losses)
+Group                                                    $'000      $'000          $'000        $'000
+
+Current period
+Opening balance at 1 July 2023                            26,898      22,469          4,630         (201)
+Changes in equity
+Total comprehensive (loss) / income for the period            (5)          -              6          (11)
+Closing balance at 31 December 2023                       26,893      22,469          4,636         (212)
+
+Previous period
+Opening balance at 1 July 2022                            29,326      22,469          6,928             (71)
+Changes in equity
+Total comprehensive (loss) / income for the period           (62)          -              8          (70)
+Share-based payment expense (Note 11)                         40           -             40            -
+Dividend paid                                               (471)          -           (471)           -
+Closing balance at 31 December 2022                       28,833      22,469          6,505         (141)
+
+Company
+
+Current period
+Opening balance at 1 July 2023                            21,010      22,469         (1,459)              -
+Changes in equity
+Total comprehensive loss for the period                     (192)          -           (192)              -
+Closing balance at 31 December 2023                       20,818      22,469         (1,651)              -
+
+Previous period
+Opening balance at 1 July 2022                            23,110      22,469           641                -
+Changes in equity
+Total comprehensive loss for the period                     (124)          -           (124)              -
+Dividend paid                                               (471)          -           (471)              -
+Closing balance at 31 December 2022                       22,515      22,469             46               -
+
+
+
+
+                                                     3
+Condensed Interim Consolidated Statement of Cash Flows
+For the Six-Month period ended 31 December 2023 (“1H2024”)
+
+                                                                                   Group
+                                                                             1H2024    1H2023
+                                                                              $'000     $'000
+Operating activities
+Profit before income tax                                                         137          59
+Adjustments for:
+Amortisation of deferred capital grants                                          (42)       (44)
+Depreciation of property, plant and equipment                                    625        650
+Depreciation of right-of-use assets                                              172        180
+Plant and equipment written-off                                                      2         -
+Share of loss from equity-accounted joint venture                                   -       118
+Interest income                                                                  (64)       (28)
+Interest expense                                                                   90         94
+Share-based payment expense                                                         -         40
+Gain on early termination of right-of-use assets                                  (6)          -
+Net effect of exchange rate changes in consolidating subsidiaries                 (6)       (53)
+Operating cash flows before changes in working capital                           908      1,016
+Inventories                                                                       723      (314)
+Trade and other receivables                                                   (1,559)    (2,584)
+Other non-financial assets                                                       (87)        445
+Trade and other payables                                                         (29)         (4)
+Other non-financial liabilities                                                     -        161
+Net cash flows from operations before tax                                        (44)    (1,280)
+
+Income tax paid                                                                  (60)      (102)
+Net cash flows used in operating activities                                     (104)    (1,382)
+
+Investing activities
+Disposal of plant and equipment                                                     2          -
+Purchase of plant and equipment                                                 (348)      (814)
+Deposit utilised / (paid) for acquisition of property, plant and equipment      (411)        205
+Interest received                                                                  64         28
+Net cash flows used in investing activities                                     (693)      (581)
+
+Financing activities
+Dividends paid to equity shareholders                                              -       (471)
+Repayment on loan and borrowings                                                (147)      (225)
+Lease payments - principal and interest portion paid                            (237)      (261)
+Interest paid                                                                    (19)       (16)
+Net cash flows used in financing activities                                     (403)      (973)
+
+Net decrease in cash and cash equivalents                                     (1,200)    (2,936)
+Cash and cash equivalents, beginning balance                                    8,949      9,518
+Cash and cash equivalents, ending balance                                       7,749      6,582
+
+
+
+
+                                                     4
+Notes to the Condensed Interim Consolidated Financial Statements
+For the Six-Month period ended 31 December 2023 (“1H2024”)
+
+1. General
+
+   OTS Holdings Limited (the “Company”) is incorporated in Singapore with limited liability. It is listed
+   on the Catalist Board of the Singapore Exchange Securities Trading Limited.
+
+   The financial statements are presented in Singapore dollar (“$”) and they cover the Company and
+   its subsidiaries (collectively, the “Group”). All balances in the financial statements are rounded to
+   the nearest thousand except when otherwise indicated.
+
+   The principal activity of the Company is investment holding. The principal activities of the
+   subsidiaries are the manufacturing and sale of halal and non-halal meat products.
+
+   The condensed interim statements of financial position of the Company and the Group as at 31
+   December 2023 and the related condensed interim consolidated statement of profit or loss and
+   other comprehensive income, condensed interim statements of changes in equity and condensed
+   interim consolidated statement of cash flows for the six-month financial period and certain
+   explanatory notes have not been audited or reviewed by the auditors.
+
+   The latest audited annual financial statements for the reporting year ended 30 June 2023 were
+   not subject to an adverse opinion, qualified opinion or disclaimer of opinion.
+
+   Basis of preparation
+
+   These condensed interim financial statements have been prepared in accordance with the
+   Singapore Financial Reporting Standards (International) (“SFRS(I)”) 1-34 Interim Financial
+   Reporting issued by the Accounting Standards Committee Singapore. They are also in
+   compliance with the International Financial Reporting Standards issued by the International
+   Accounting Standards Board and the provisions of the Listing Manual Section B: Rules of Catalist
+   of the SGX-ST (“Catalist Rules”). The Company’s separate financial statements have been
+   prepared on the same basis, and as permitted by the Catalist Rules, the Company’s separate
+   statement of profit or loss and other comprehensive income and statement of cash flows are not
+   presented.
+
+   The accounting policies and methods of computation applied in these condensed interim financial
+   statements are consistent with those of the latest audited annual financial statements for the
+   reporting year ended 30 June 2023. However, the typical notes and information included in the
+   latest audited annual financial statements are not included in these condensed interim financial
+   statements except for the selected explanatory notes included to explain events and transactions
+   that are significant to an understanding of the changes in the performance and financial position
+   of the Group since the latest audited annual financial statements. The condensed interim financial
+   statements are presented in Singapore dollars, unless otherwise stated.
+
+   New and amended standards adopted by the Group
+
+   A number of amendments to SFRS(I)s have become applicable for the current reporting period.
+   The Group did not have to change its accounting policies or make retrospective adjustments as a
+   result of adopting those standards.
+
+
+   Critical judgements, assumptions and estimation uncertainties
+
+   These estimates and assumptions are periodically monitored to ensure they incorporate all
+   relevant information available at the date when financial statements are prepared. However, this
+   does not prevent actual figures differing from estimates. The nature and the carrying amount of
+   such significant assets and liabilities are disclosed with further details in the relevant notes to
+   these condensed interim financial statements.
+
+
+
+
+                                                   5
+1.   General (cont’d)
+
+     Critical judgements, assumptions and estimation uncertainties (cont’d)
+
+
+     The critical judgements made by management in applying the Group’s accounting policies and
+     the key sources of estimation uncertainty were the same as those that applied to the latest
+     audited annual financial statements as at and for the year ended 30 June 2023.
+
+     Estimates and underlying assumptions are reviewed on an ongoing basis. Revisions to
+     accounting estimates are recognised in the period in which the estimates are revised and in any
+     future periods affected.
+
+     Information about assumptions and estimation uncertainties that have a significant risk of
+     resulting in a material adjustment to the carrying amounts of assets and liabilities within the next
+     interim period are as follows:
+
+     •    Assessment of expected credit loss allowance of trade receivables
+     •    Assessment of net realisable value of inventories
+     •    Assessment of impairment of right-of-use assets
+     •    Assessment of useful lives of property, plant and equipment
+
+
+2.   Financial information by operating segments
+
+2A. Information about reportable segment profit or loss, assets and liabilities
+
+     The segments and the types of products and services are as follows:
+
+                                                                           1H2024          1H2023
+     Revenue by segment                                                     $'000           $'000
+     Modern Trade ("MT")                                                        3,983           4,504
+     General Trade ("GT")                                                       5,104           6,913
+     Food Services ("FS")                                                       4,019           4,046
+     Others ("OT")                                                              2,630           1,895
+                                                                               15,736          17,358
+
+
+     1.   Modern Trade (“MT”) refers to sales generated from major supermarkets.
+     2.   General Trade (“GT”) refers to sales generated from convenience stores, provision shops
+          and wholesalers.
+     3.   Food Services (“FS”) refers to sales generated from hotels, restaurants, hawker centres,
+          food courts, food and beverages stores, and caterers.
+     4.   Others (“OT”) refers to sales that are mainly generated from e-commerce platforms and the
+          export markets. The OT segment also includes other income such as vehicle rental income
+          and miscellaneous income.
+
+
+
+
+                                                   6
+2.   Financial information by operating segments (cont’d)
+
+2B. Profit or loss from continuing operations and reconciliations
+
+     Revenue by segment
+
+                                              MT         GT          FS         OT         Total
+                                              $'000      $'000      $'000       $'000      $'000
+     1H2024
+      Total revenue by segment                  3,983      5,104      4,019      16,294     29,400
+      Inter-segment sales                           -          -          -     (13,664)   (13,664)
+      Total revenue                             3,983      5,104      4,019       2,630     15,736
+
+     Recurring EBITDA                            (173)        306         355        494       982
+
+     Depreciation expenses                       (168)      (215)      (169)       (245)      (797)
+     Amortisation of deferred capital grant        10         14         11           7         42
+     Finance costs                                (23)       (29)       (23)        (15)       (90)
+     Share of loss from joint venture               -          -          -           -          -
+     (Loss) / profit before income tax           (354)        76        174         241        137
+     Income tax expense                                                                       (131)
+     Profit for the period                                                                       6
+
+
+
+     1H2023
+      Total revenue by segment                  4,504      6,913      4,046      14,153     29,616
+      Inter-segment sales                           -          -          -     (12,258)   (12,258)
+      Total revenue                             4,504      6,913      4,046       1,895     17,358
+
+     Recurring EBITDA                            (129)        610         164        412     1,057
+
+     Depreciation expenses                       (178)      (274)      (160)       (218)      (830)
+     Amortisation of deferred capital grant        11         18         10           5         44
+     Finance costs                                (25)       (37)       (22)        (10)       (94)
+     Share of loss from joint venture               -          -          -        (118)      (118)
+     (Loss) / profit before income tax           (321)       317         (8)         71         59
+     Income tax expense                                                                        (51)
+     Profit for the period                                                                       8
+
+
+
+
+                                                   7
+2.   Financial information by operating segments (cont’d)
+
+2C. Assets, liabilities and reconciliations
+
+                                         MT               GT          FS           OT          Total
+                                        $'000            $'000       $'000        $'000        $'000
+     31 December 2023
+      Segment assets                      8,943           11,460        9,025        6,029       35,457
+      Investment in joint venture                -               -            -            -           -
+      Total assets                        8,943           11,460        9,025        6,029       35,457
+
+
+      Segment liabilities                 1,987             2,547       2,005        1,451        7,990
+      Deferred tax liabilities                                                                     389
+      Income tax payables                                                                          185
+      Total liabilities                                                                           8,564
+
+
+     30 June 2023
+      Segment assets                      9,420           13,573        8,623        4,231       35,847
+      Investment in joint venture                -               -            -            -           -
+      Total assets                        9,420           13,573        8,623        4,231       35,847
+
+
+      Segment liabilities                 2,169             3,126       1,986        1,169        8,450
+      Deferred tax liabilities                                                                     387
+      Income tax payables                                                                          112
+      Total liabilities                                                                           8,949
+
+
+
+
+2D. Other material items and reconciliations
+
+     Expenditure for non-current assets
+
+                                        MT                GT          FS           OT          Total
+                                       $'000             $'000       $'000        $'000        $'000
+      As at 31 December 2023                    88             113           89           58       348
+      As at 30 June 2023                      287              413         263          122      1,085
+
+
+
+
+                                                     8
+2.   Financial information by operating segments (cont’d)
+
+2E. Geographical information
+
+                                                              1H2024         1H2023
+     Revenue                                                   $'000          $'000
+     Singapore                                                    11,664        12,338
+     Malaysia                                                      2,038          3,688
+     Others                                                        2,034          1,332
+                                                                  15,736        17,358
+
+
+                                                            31 December      30 June
+                                                               2023           2023
+     Non-current assets                                        $'000          $'000
+     Singapore                                                    12,999        13,438
+     Malaysia                                                          394            479
+                                                                  13,393        13,917
+
+
+
+
+3. Disaggregation of revenue
+
+                                                              1H2024         1H2023
+                                                               $'000          $'000
+     Sales of goods                                               15,622         17,244
+     Rental of vehicles                                                111            111
+     Miscellaneous income                                                3              3
+                                                                  15,736         17,358
+
+
+
+
+                                               9
+4. Profit, net of tax and total comprehensive income is arrived after crediting/(charging) the
+   following:
+
+                                                                         1H2024        1H2023
+                                                                          $’000         $’000
+   Other income and gains / (losses)
+      - amortisation of deferred capital grants                                   42          44
+      - other government grants and rebates                                       82          80
+      - freight income                                                             -           8
+      - miscellaneous income                                                      20          59
+      - interest income                                                           64          28
+      - gain on early termination of right-of-use assets                           6           -
+       - reversal of inventory obsolescence                                       17          28
+       - reversal of doubtful trade receivables                                    7           -
+      - plant and equipment written-off                                          (2)           -
+      - foreign exchange adjustment                                             (71)       (225)
+      - bad debt written-off of trade receivables                                (2)           -
+
+   Depreciation expense
+      - property, plant and equipment                                         (625)        (650)
+      - right-of-use assets                                                   (172)        (180)
+
+   Finance costs
+       - loan and borrowings                                                    (19)         (16)
+       - lease liabilities                                                      (71)         (78)
+
+
+
+
+5. Earnings per share
+
+                                                                         1H2024        1H2023
+
+
+   Basic / diluted earnings per share ($)                                    0.003         0.004
+
+
+   Weighted average number of shares ('000)                                214,000      214,000
+
+
+
+  The earnings per share is computed by dividing the profit after tax attributable to owners of the
+  Company against the weighted average number of shares.
+
+  The basic and diluted earnings per share for all respective financial periods are the same as there
+  were no other outstanding convertibles or other dilutive equity instruments.
+
+
+
+
+                                                   10
+6. Income tax
+
+                                                                             1H2024            1H2023
+                                                                              $'000             $'000
+    Income tax expense
+    Current year tax expense                                                       135                  86
+    Over provision to tax in respect of prior years                                   (4)               -
+    Subtotal                                                                       131                  86
+
+
+    Deferred tax (income) / expense
+    Deferred tax income                                                                 -           (35)
+    Subtotal                                                                            -           (35)
+    Total income tax expense                                                       131                  51
+
+
+
+
+7. Dividends on equity shares
+
+                                                                             1H2024            1H2023
+                                                                              $'000             $'000
+    Declared and paid during the financial period:
+
+
+    Dividends on ordinary shares:
+    Final tax exempt (1-tier) dividend
+    - FY2022: 0.22 Singapore cent per ordinary share                                    -           471
+                                                                                        -           471
+
+
+
+
+8. Acquisition of subsidiary / sale of joint venture / associate
+
+   On 23 August 2023, the Group’s wholly-owned subsidiary Ellaziq Pte Ltd (“Ellaziq”) invested an
+   additional sum of RM1,500,000 (approximately $439,0001) in the share capital of its direct wholly-
+   owned subsidiary, Ellaziq (Malaysia) Sdn. Bhd. (“Ellaziq Malaysia”) by way of a subscription for
+   1,500,000 ordinary shares in cash. Upon allotment of the shares, the Company holds a total of
+   2,500,000 ordinary shares in Ellaziq Malaysia.
+
+9. Share capital
+
+                                                                     Number of shares       Share capital
+                                                                            '000                $'000
+
+
+    Balance as at 1 July 2023 and 31 December 2023                            214,000              22,469
+
+
+
+   There were no changes to the share capital of the Company since 30 June 2023. The Group has
+   no treasury shares or subsidiary holdings or convertible instruments as at 31 December 2022, 30
+   June 2023 and 31 December 2023.
+
+
+
+
+1 Based on the exchange rate of SGD1 : RM3.42 as at 23 August 2023
+
+
+
+                                                          11
+10. Property, plant and equipment
+
+    During the financial period ended 31 December 2023, the Group acquired assets amounting to
+    $348,000 (31 December 2022: $814,000) and disposed / written-off assets with net book value
+    amounting to $4,000 (31 December 2022: $Nil).
+
+
+11. Share-based payment reserve
+
+    A non-cash expense was incurred in accordance with SFRS(I) 2 relating to the transfer of shares
+    by the ultimate parent company (BCS Development Pte. Ltd.) to 35 of the Group’s employees to
+    recognise and reward them for their past contributions and services, and to align their interests
+    with the Group to encourage greater dedication and loyalty to the Group.
+
+    These shares have a vesting period of 2 years from 17 July 2021 (date of listing).
+
+    The resulting value of these shares were fully expensed as at 30 June 2023 as share-based
+    payments expense with a corresponding increase in retained earnings for the reporting year ended
+    30 June 2023.
+
+
+12. Loans and borrowings
+
+                                                           Secured                  Unsecured
+                                                   31 December    30 June    31 December    30 June
+                                                       2023        2023          2023        2023
+                                                       $'000       $'000         $'000       $'000
+    Group
+    Repayable in one year or less, or on demand:
+    Bank loan 1 (secured) (Note 12A)                          -         79               -            -
+    Bank loan 2 (secured) (Note 12A)                        143        139               -            -
+    Subtotal                                                143        218               -            -
+
+    Repayable after one year:
+    Bank loan 2 (secured) (Note 12A)                        518        590               -            -
+    Subtotal                                                518        590               -            -
+    Total                                                   661        808               -            -
+
+
+
+
+12A. Bank loan 1 and 2 (secured)
+
+    The loans are secured by legal mortgage over the property at 30 Senoko South Road, Singapore
+    758088 and the corporate guarantee from the Company.
+
+
+13. Net asset value
+
+                                                            Group                   Company
+                                                   31 December    30 June    31 December 30 June
+                                                       2023        2023          2023       2023
+
+     Net asset value per ordinary share ($ cent)          12.57      12.57          9.73       9.82
+
+
+    The net asset value per ordinary share of the Group and the Company have been calculated based
+    on the total issued number of ordinary shares of 214,000,000 as at 31 December 2023 and 30
+    June 2023.
+
+
+
+
+                                                     12
+14. Related party transactions
+
+    There are transactions and arrangements between the Group and related parties and the effects
+    of these on the basis determined between the parties are reflected in these consolidated financial
+    statements. The related party balances and any financial guarantees are unsecured, without fixed
+    repayment terms and interest or charge unless stated otherwise.
+
+    Intragroup transactions and balances that have been eliminated in these consolidated financial
+    statements are not disclosed as related party transactions and balances below.
+
+                                                                               1H2024        1H2023
+                                                                                $'000        $'000
+     Related party
+     PT Delta Bridge Food
+     - miscellaneous income                                                             -*            9
+
+
+     Other related parties
+     Entity with no significant influence over the Group:
+     Swee Heng Bakery Pte Ltd
+     - sales of goods                                                               804          747
+     Hock Eek Seng Machinery Pte Ltd
+     - purchase of forklifts and maintenance and repair services                        7             7
+
+
+     *Below $1,000
+
+
+
+15. Categories of financial assets and liabilities
+
+    The following table categorises the carrying amount of financial assets and liabilities recorded at
+    the end of the reporting year:
+
+
+                                                          Group                     Company
+                                                31 December     30 June      31 December  30 June
+                                                    2023         2023            2023       2023
+                                                    $'000        $'000          $'000       $'000
+     Financial assets:
+     Financial assets at amortised cost                 13,899      13,544         5,974       6,160
+
+     Financial liabilities:
+     Financial liabilities at amortised cost                6,438    6,855          145          172
+
+
+
+16. Contingent liabilities and contingent assets
+
+    There are no contingent liabilities and contingent assets as at the date of this set of condensed
+    interim financial statements.
+
+
+
+
+                                                       13
+17. Capital commitments
+
+    Estimated amounts committed at the end of the financial period for future capital expenditure but
+    not recognised in the condensed interim financial statements are as follows:
+
+                                                                      31 December         30 June
+                                                                          2023             2023
+                                                                          $'000            $'000
+
+     Commitments to purchase plant and equipment                                   -                16
+     Purchase of property                                                     3,699                  -
+
+
+
+    On 28 November 2023, the Company announced that Ellaziq Malaysia, an indirect wholly-owned
+    subsidiary of the Company had entered into a sale and purchase agreement (“SPA”) to acquire a
+    factory in Malaysia for a consideration of RM 14.3 million (“Purchase Consideration”). As of 31
+    December 2023, RM1,430,000 (equivalent to approximately $411,000), being 10% of the
+    Purchase Consideration has been paid pursuant to the SPA. As stated in the announcement, the
+    SPA is subject to the approval from the Johor State Authority (“State Consent”) being obtained
+    within 6 months from the date of the SPA. The Company will update the shareholders upon
+    obtaining the State Consent, and will settle the remaining 90% of the Purchase Consideration
+    (equivalent to approximately S$3,699,000 based on the exchange rate of SGD1 = MYR 3.48 as at
+    31 December 2023) within 3 months from the date of obtaining the State Consent pursuant to the
+    SPA.
+
+
+18. Events after the end of the reporting period
+
+    There are no known subsequent events which have led to adjustments to this set of interim financial
+    statements.
+
+
+
+
+                                                   14
+OTHER INFORMATION REQUIRED BY CATALIST RULE APPENDIX 7C
+
+1.   A review of the performance of the Group, to the extent necessary for a reasonable
+     understanding of the Group's business
+
+     Statement of Comprehensive Income
+
+     Revenue
+
+     Business Segments
+     Revenue decreased by approximately $1.6 million or 9.3%, from approximately $17.4 million in
+     1H2023 to approximately $15.7 million in 1H2024, primarily attributed to decrease in sales in the
+     Modern Trade and General Trade segments, mitigated by an increase in the Others segment.
+     Revenue for the Food Services segment remained relatively stable.
+
+     Revenue from the Modern Trade segment declined by approximately $0.5 million or 11.6%, from
+     approximately $4.5 million in 1H2023 to approximately $4.0 million in 1H2024, largely due to muted
+     consumer demand amidst increased product varieties in the market.
+
+     Revenue from the General Trade segment decreased by approximately $1.8 million or 26.1%, from
+     approximately $6.9 million in 1H2023 to approximately $5.1 million in 1H2024, primarily influenced
+     by sluggish product offtake amid intense market competition and weakened consumers' spending
+     power in Malaysia.
+
+     Revenue from the Other segment increased by approximately $0.7 million or 38.6%, from
+     approximately $1.9 million in 1H2023 to approximately $2.6 million in 1H2024, driven by higher
+     demand for the Group’s products for export.
+
+     Revenue from the Food Services segment was relatively unchanged at approximately $4.0 million
+     for both 1H2023 and 1H2024.
+
+     Geographical information
+     Revenue from the Singapore market decreased by approximately $0.7 million or 5.5%, from
+     approximately $12.3 million in 1H2023 to approximately $11.6 million in 1H2024, primarily due to
+     lower sales to Modern Trade customers, offset by increased sales from customers in the Food
+     Services segment.
+
+     Revenue from the Malaysia market decreased by approximately $1.6 million or 44.7%, from
+     approximately $3.7 million in 1H2023 to approximately $2.0 million in 1H2024, primarily due to slow
+     product offtake from customers in the General Trade segment.
+
+     Revenue from Others segment increased by approximately $0.7 million or 53.4%, from
+     approximately $1.3 million in 1H2023 to approximately $2.0 million in 1H2024, primarily due to
+     increased export sales.
+
+     Cost of sales
+
+     Cost of sales decreased by approximately $1.2 million or 9.1%, from approximately $12.8 million
+     in 1H2023 to approximately $11.6 million in 1H2024 in line with the decrease in revenue.
+
+     Gross profit and gross profit margin
+
+     Gross profit decreased by approximately $0.5 million or 9.9% from approximately $4.6 million in
+     1H2023 to approximately $4.1 million in 1H2024; primarily due to decreased revenue as elaborated
+     above. The gross profit margin remained stable with a slight decrease of 0.2 percentage points,
+     from 26.4% in 1H2023 to 26.2% in 1H2024.
+
+
+
+
+                                                  15
+1. A review of the performance of the Group, to the extent necessary for a reasonable
+   understanding of the Group's business (cont’d)
+
+
+    Other income and gains
+
+    Other income and gains remained unchanged at approximately $0.2 million for both 1H2023 and
+    1H2024.
+
+    Expenses
+
+    Marketing and distribution costs
+
+    In 1H2024, marketing and distribution costs decreased by approximately $0.1 million or 9.6%
+    compared to the same period in 2023. This decline, from approximately $1.4 million to
+    approximately $1.3 million, was primarily attributable to several factors: (i) a decrease in sales and
+    promotion expenses, largely stemming from delays in the launch of new products; and (ii) lower
+    sales delivery expenses were incurred, aligning with the decrease in revenue during this period.
+
+    Administrative expenses
+
+    Administrative expenses decreased by approximately $0.1 million or 4.6%, from approximately
+    $2.9 million in 1H2023 to approximately $2.8 million in 1H2024, primarily due to a decrease in staff
+    costs from the resignation of several administrative personnel.
+
+    Finance costs
+
+    Finance costs remain unchanged at approximately $0.09 million for both 1H2023 and 1H2024,
+
+    Other losses
+
+    Other losses decreased by approximately $0.1 million or 66.7%, from approximately $0.2 million in
+    1H2023 to approximately $0.1 million in 1H2024, primarily due lower translation loss on foreign
+    exchange as a result of smaller fluctuations in the weakening of the Malaysian Ringgit against the
+    Singapore Dollar.
+
+    Share of loss from joint venture
+
+    There was an absence of share of loss from the joint venture in 1H2024 as a result of the fully
+    written down value of investment as of 30 June 2023 in Delta Bridge Pte.Ltd. (“Delta Bridge”) a
+    joint venture company. During the previous financial year, the manufacturing site on Bulan Island,
+    operated by Delta Bridge, was temporarily shut down due to a shortage of raw material caused by
+    the African Swine Fever detected in pigs on Bulan Island. As a result of the shutdown, certain
+    impairment charges in relation to Delta Bridge were recognised and the investment in Joint Venture
+    has been written down to $Nil as of 30 June 2023.
+
+    Income tax expense
+
+    Income tax expenses increased by approximately $0.1 million or 156.9%, from approximately
+    $51,000 in 1H2023 to approximately $131,000 in 1H2024, mainly due to increase in profit before
+    income tax from the Group’s subsidiaries in Singapore.
+
+    Profit for the financial period
+
+    As a result of the above, the Group reported a profit after tax of approximately $6,000 for 1H2024
+    compared to a profit after tax of $8,000 for 1H2023.
+
+
+
+
+                                                  16
+1. A review of the performance of the Group, to the extent necessary for a reasonable
+   understanding of the Group's business (cont’d)
+
+   Statement of Financial Position
+
+   The comparative commentary for both the assets and liabilities are based on the Group’s financial
+   statements as at 31 December 2023 and 30 June 2023.
+
+   Non-current assets
+
+   Non-current assets decreased by approximately $0.5 million from approximately $13.9 million as at
+   30 June 2023 to approximately $13.4 million as at 31 December 2023.
+
+   Property, plant and equipment (“PPE”) decreased by approximately $0.3 million from approximately
+   $11.1 million as at 30 June 2023 to approximately $10.8 million as at 31 December 2023, primarily
+   due to additions of PPE of approximately $0.3 million, offset by depreciation charges of
+   approximately $0.6 million. Right-of-use assets decreased by approximately $0.3 million from
+   approximately $2.8 million as at 30 June 2023 to approximately $2.5 million as at 31 December
+   2023, mainly due to termination of a lease property amounting to approximately $0.1 million and
+   depreciation charges of approximately $0.2 million.
+
+   Current assets
+
+   Current assets increased by approximately $0.2 million from approximately $21.9 million as at 30
+   June 2023 to approximately $22.1 million as at 31 December 2023, mainly due to an increase in
+   trade and other receivables of approximately $1.6 million, an increase in other non-financial assets
+   of $0.5 million, offset by a decrease in cash and cash equivalents of approximately $1.2 million and
+   decrease in inventories of approximately $0.7 million.
+
+   The decrease in cash and cash equivalents will be elaborated upon in the Cash Flows Statement
+   section. The increase in other non-financial assets was mainly due to a deposit paid for acquisition
+   of property as announced on 28 November 2023 of approximately $0.4 million and advances made
+   to suppliers for raw materials of approximately $0.1 million. The increase in trade and other
+   receivables was mainly due to higher sales volume in the months leading up to the financial period
+   end of 31 December 2023, coinciding with the festive period. The decrease in inventories was mainly
+   due to festive period sales.
+
+   Non-current liabilities
+
+   Non-current liabilities decreased by approximately $0.2 million from approximately $5.1 million as
+   at 30 June 2023. To approximately $4.9 million as at 31 December 2023, primarily due to decrease
+   in lease liabilities of approximately $0.2 million and loans and borrowings of approximately $0.1
+   million.
+
+   The reduction in loans and borrowings and lease liabilities from repayments of approximately $0.1
+   million made during the financial period and the termination of lease property of a subsidiary
+   amounting to approximately $0.1 million.
+
+   Current liabilities
+
+   Current liabilities decreased by $0.1 million from $3.8 million as at 30 June 2023 to $3.7 million as
+   at 31 December 2023, mainly attributable to the decrease in loans and borrowings and lease
+   liabilities of approximately $0.1 million resulting from repayments during the period.
+
+
+
+
+                                                  17
+ 1. A review of the performance of the Group, to the extent necessary for a reasonable
+    understanding of the Group's business (cont’d)
+
+     Statement of Cash Flows
+
+     The Group used approximately $0.1 million of cash in operating activities. This was due to operating
+     cash inflow before working capital changes of approximately $0.9 million and net working capital
+     outflows of approximately $1.0 million, reduced by tax payments of approximately of $60,000.
+
+     The net working capital outflows was mainly due to an increase in trade and other receivables of
+     approximately $1.6 million and other non-financial assets of approximately $0.1 million, offset by a
+     decrease in inventories of approximately $0.7 million.
+
+     Net cash used in investing activities amounted to approximately $0.7 million, mainly due to purchase
+     of plant and equipment of approximately $0.3 million and deposit paid for acquisition of property of
+     approximately $0.4 million, offset by interest income of approximately $64,000.
+
+     Net cash flows used in financing activities amounted to approximately $0.4 million, mainly due to
+     payment of lease liabilities of approximately $0.3 million and repayment of loan and borrowings of
+     approximately $0.1 million.
+
+     As a result of the above, there was a decrease in cash and cash equivalents of approximately $1.2
+     million to $7.7 million as at 31 December 2023 compared with $8.9 million as at 30 June 2023.
+
+
+2.   Seasonal operations
+
+     The Group’s businesses activities are generally subject to seasonal fluctuations in the demand for
+     our products, which increases during festive periods.
+
+
+3.   Where a forecast, or a prospect statement, has been previously disclosed to shareholders,
+     any variance between it and the actual results
+
+     Not applicable. No forecast or prospect statement has been previously disclosed to shareholders.
+
+
+4.   A commentary at the date of the announcement of the significant trends and competitive
+     conditions of the industry in which the Group operates and any known factors or events that
+     may affect the Group in the next reporting period and the next 12 months
+
+     Ongoing inflationary pressures and a persistently high-interest-rate environment continue to impact
+     consumer spending habits. Additionally, market competition remains fierce in the markets that the
+     Group operates in. In response to these challenges, the Group is committed to stringent cost
+     management, enhancing production and distribution efficiency, and intensifying marketing efforts to
+     bolster product awareness and sales.
+
+
+
+
+                                                   18
+5.   Use of proceeds
+
+     The Company has, on 26 December 2023, announced the re-allocation of the use of proceeds from
+     the Company’s initial public offering (“IPO”) on 17 June 2021. Please refer to the following for the
+     balance of proceeds as at the date of this announcement:
+
+                                            Amount
+                                           allocated         Amount         Balance
+                                                                                          Amount
+                                               as            utilised      prior to re-
+                                                                                              re-
+                                           disclosed        prior to re-   allocation                    Balance
+                                                                                          allocated
+                                            in Offer        allocation
+                                           Document
+                                             $’000             $’000          $’000        $’000         $’000
+      Improvement and/or expansion
+       of production efficiency and
+       capacities, including the              2,000           (2,000)           -          1,867         1,867
+       acquisition of new
+       machineries and equipment
+      Expansion of our overseas
+       operations, including the
+                                              2,500            (568)          1,932       (1,632)         300
+       initial investment and set up
+       costs in Philippines
+      Developing new products and
+       engaging in research and                500             (165)           335         (235)          100
+       development
+      General working capital
+                                              1,562          (1,562)(a)         -           -             -
+       purposes
+                                              6,562           (4,295)         2,267         -          2,267
+
+
+     (a)Net proceeds used for general working capital purposes are in relation to payments to trade suppliers of
+     approximately $990,000 and staff salaries of approximately $572,000.
+
+
+6.   Dividend
+
+     (a) Any interim (final) ordinary dividend declared has been declared (recommended)?
+
+           No dividend was declared.
+
+     (b) (i) Amount per share (cents)
+
+           Not applicable
+
+           (ii) Previous corresponding period (cents)
+
+           Not applicable
+
+     (c) Whether the dividend is before tax, net of tax or tax exempt. If before tax or net of tax,
+         state the tax rate and the country where the dividend is derived. (If the dividend is not
+         taxable in the hands of shareholders, this must be stated).
+
+           Not applicable
+
+     (d) The date the dividend is payable.
+
+           Not applicable
+
+     (e) Record date
+
+           Not applicable
+
+
+
+
+                                                       19
+7.    If no dividend has been declared (recommended), a statement to that effect and the reason(s)
+      for the decision.
+
+      No dividend has been declared or recommended for 1H2024 as the Group seeks to conserve its
+      cash balances and ensure that the Group has adequate working capital and resources to sustain
+      and grow.
+
+
+8.    Interested person transactions
+
+      The Group has adopted a general mandate from shareholders of the Company for the selling of food
+      products to Swee Heng Bakery Pte Ltd (“Swee Heng”).
+
+      Swee Heng is an associate of the Company’s Directors, Ong Bee Chip and Ong Chew Yong, and
+      the Group’s Controlling Shareholder, Ong Bee Song, being a company in which Ong Chu Eng (the
+      sister of Ong Bee Chip, Ong Bee Song and Ong Chew Yong) holds a 50.0% shareholding interest
+      and Ng Chai Huat (the brother-in-law of Ong Bee Chip, Ong Bee Song and Ong Chew Yong) holds
+      a 30.0% shareholding interest. Accordingly, Swee Heng is deemed as an Interested Person.
+
+       Name of                Nature of            Aggregate value of all      Aggregate value of all
+       interested person      relationship             interested person          interested person
+                                                  transactions during the            transactions
+                                                     financial year under         conducted under
+                                                       review (excluding            shareholders’
+                                                   transactions less than       mandate pursuant to
+                                                          $100,000 and           Rule 920 (excluding
+                                                  transactions conducted       transactions less than
+                                                    under shareholders’                $100,000)
+                                                    mandate pursuant to
+                                                            Rule 920)
+       Swee Heng              Refer to above                 Nil                      $803,768
+                              description
+
+
+ 9.   Negative confirmation pursuant to Rule 705(5)
+
+      The Board of Directors of the Company hereby confirm that, to the best of their knowledge, nothing
+      has come to the attention of the Board of Directors which may render the unaudited interim
+      condensed interim financial statements for the financial period ended 31 December 2023 to be false
+      or misleading in any material aspect.
+
+
+ 10. Confirmation that the issuer has procured undertakings from all its directors and executive
+     officers (in the format set out in Appendix 7(H) under Rule 720(1)) of the Catalist Rules
+
+      The Company hereby confirms that it has procured undertakings from all its directors and executive
+      officers under Rule 720(1) of the Catalist Rules.
+
+ 11. Disclosure on acquisition and realisation of shares pursuant to Rule 706A of the Catalist
+     Rules
+
+      Please refer to the Company’s announcement released on SGXNet on 14 February 2024.
+
+
+
+      By order of the board
+
+      Dr. Yu Lai Boon                                                        Mr. Ong Bee Chip
+      Non-Executive Chairman and                                             Managing Director
+      Independent Director
+
+      14 February 2024
+
+
+                                                    20
+
