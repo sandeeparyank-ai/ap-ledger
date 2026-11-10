@@ -93,7 +93,7 @@ def main():
             if date.fromisoformat(fdate) < since:
                 break
             want_annual = form in ("20-F", "10-K") and not annual_done
-            if form not in ("6-K", "8-K") and not want_annual:
+            if form not in ("6-K", "8-K", "10-Q") and not want_annual:
                 continue
             acc_path = acc.replace("-", "")
             base = f"https://www.sec.gov/Archives/edgar/data/{int(cik)}/{acc_path}"
@@ -103,7 +103,7 @@ def main():
                 failures.append(f"{slug}: index {acc} {e}")
                 continue
             docs = [i["name"] for i in index if i["name"].lower().endswith((".htm", ".html"))]
-            if want_annual:
+            if want_annual or form == "10-Q":
                 docs = [primary]
                 annual_done = True
             else:
@@ -119,7 +119,7 @@ def main():
                     failures.append(f"{slug}: {url} {e}")
                     continue
                 # Skip short cover-page 6-Ks that are not results.
-                if form in ("6-K", "8-K") and not re.search(r"marketing|advertis|promotion", text, re.I):
+                if form in ("6-K", "8-K", "10-Q") and not re.search(r"marketing|advertis|promotion", text, re.I):
                     continue
                 out = RAW / slug / f"{fdate}_{form}_{acc_path}_{Path(d).stem}.txt"
                 out.parent.mkdir(parents=True, exist_ok=True)
