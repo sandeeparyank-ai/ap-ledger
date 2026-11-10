@@ -1,0 +1,135 @@
+# A&P Ledger company list (v1, approved 10 Nov 2026).
+# source: edgar  -> fetch/fetch_edgar.py finds recent 6-K results and the latest 20-F by ticker.
+# source: urls   -> fetch/fetch_urls.py downloads each doc. SGX announcement pages are followed to their PDFs.
+# public_link    -> the link we publish. Prefer the company's own investor site where one exists.
+# status         -> confirmed | likely | check  (does the company disclose a marketing line?)
+
+companies:
+  # ---------- US-listed SEA companies (SEC EDGAR) ----------
+  - {slug: grab, name: Grab Holdings, ticker: GRAB, source: edgar, sector: Platforms, line: Sales and marketing, status: confirmed}
+  - {slug: sea, name: Sea Limited, ticker: SE, source: edgar, sector: Platforms, line: Sales and marketing, status: confirmed}
+  - {slug: moneyhero, name: MoneyHero, ticker: MNY, source: edgar, sector: Fintech, line: Advertising and marketing, status: confirmed}
+  - {slug: karooooo, name: Karooooo, ticker: KARO, source: edgar, sector: SaaS, line: Sales and marketing, status: likely}
+  - {slug: ryde, name: Ryde Group, ticker: RYDE, source: edgar, sector: Mobility, line: Sales and marketing, status: likely}
+  - {slug: vinfast, name: VinFast, ticker: VFS, source: edgar, sector: Auto, line: Selling and distribution, status: likely}
+  - {slug: societypass, name: Society Pass, ticker: SOPA, source: edgar, sector: E-commerce, line: Marketing, status: likely}
+  - {slug: geniusgroup, name: Genius Group, ticker: GNS, source: edgar, sector: Edtech, line: Marketing, status: likely}
+
+  # ---------- SGX-listed companies ----------
+  - slug: qaf
+    name: QAF
+    source: urls
+    sector: Bakery
+    line: Advertising and promotion
+    status: confirmed
+    docs:
+      - {kind: full_year_results, period: FY2025, url: "https://www.qaf.com.sg/wp-content/uploads/2026/02/Financial-Statements-n-Related-Announcement__Full-Yearly-Results_website_24.2.2026.pdf"}
+      - {kind: annual_report, period: check, url: "https://links.sgx.com/1.0.0/corporate-announcements/S6G3FR58FAT6SQKC/082a8bc242976920138db61254af4a898f7cd7c889bb6d5a0c47e92e1a79e0e2"}
+
+  - slug: fjbenjamin
+    name: F J Benjamin
+    source: urls
+    sector: Fashion retail
+    line: Advertising and promotion
+    status: confirmed
+    docs:
+      - {kind: half_year_results, period: 1HFY2026, url: "https://links.sgx.com/FileOpen/SGXNET_%2031%20Dec%2025.ashx?App=Announcement&FileID=874823"}
+      - {kind: full_year_results, period: check, url: "https://links.sgx.com/1.0.0/corporate-announcements/COM5U1BP0Y8704B8"}
+
+  - slug: ots
+    name: OTS Holdings
+    source: urls
+    sector: Packaged food
+    line: Advertising and promotion
+    status: confirmed
+    docs:
+      - {kind: full_year_results, period: check, url: "https://links.sgx.com/1.0.0/corporate-announcements/9UKSHK3031H0X9IR"}
+      - {kind: half_year_results, period: check, url: "https://links.sgx.com/1.0.0/corporate-announcements/RZ39L5FRIUA5NLMH"}
+
+  - slug: hawpar
+    name: Haw Par
+    source: urls
+    sector: Healthcare (Tiger Balm)
+    line: Sales and marketing (AR note 5a)
+    status: confirmed
+    docs:
+      - {kind: annual_report, period: FY2025, url: "https://links.sgx.com/1.0.0/corporate-announcements/WZJ4ZBSPXR3H5AFG/881713_Haw%20Par%20Corp%20Annual%20Report%202025.pdf"}
+
+  - slug: foodempire
+    name: Food Empire
+    source: urls
+    sector: Beverages
+    line: Advertising and promotion
+    status: likely
+    docs:
+      - {kind: half_year_results, period: 1H2026, url: "https://links.sgx.com/1.0.0/corporate-announcements/DZPP193FKQU9HYLE/c1401ab07e8236842f68c86d06ccb6d4aa0ce4fb8cc9b616c3504c2bae9edcce"}
+      - {kind: results_briefing, period: 1H2026, url: "https://links.sgx.com/1.0.0/corporate-announcements/QP033XZ7SVUQDAFA/900976_FE%20Results%20Briefing%201H2026.pdf"}
+
+  - slug: tunglok
+    name: TungLok
+    source: urls
+    sector: F&B
+    line: Advertising and promotion
+    status: likely
+    docs:
+      - {kind: full_year_results, period: check, url: "https://links.sgx.com/1.0.0/corporate-announcements/1KWVH00JS2XRVYPC/6437dae2f9d624e6be7053d9a4972f1ca52055436d3d308f1eda8d3ccfbf6b4f"}
+      - {kind: interim, period: check, url: "https://tunglok.listedcompany.com/newsroom/20260213_182000_540_TMF544XTJMTHAGCJ.1.pdf"}
+
+  - slug: thaibev
+    name: Thai Beverage
+    source: urls
+    sector: Beverages
+    line: Advertising and promotion
+    status: likely
+    # FY ends 30 Sep. FY2026 results expected late Nov 2026. Add the announcement when it lands.
+    docs: []
+
+  - slug: fraserneave
+    name: Fraser and Neave
+    source: urls
+    sector: F&B
+    line: Advertising and promotion
+    status: check
+    # FY ends 30 Sep. FY2026 results expected Nov 2026.
+    docs:
+      - {kind: half_year_results, period: 1HFY2026, url: "https://links.sgx.com/1.0.0/corporate-announcements/UI00X52ZDCPZ67GF/887692_Interim%20FS-FN-Mar%2026.pdf"}
+      - {kind: full_year_results, period: check, url: "https://links.sgx.com/1.0.0/corporate-announcements/EXO0LP78JPG8TV8C/5a68176c5f244c79f727b510573daacb35252f3693fdaff34426017902c891e8"}
+
+  - slug: delfi
+    name: Delfi
+    source: urls
+    sector: Confectionery
+    line: Advertising and promotion (results show accruals only)
+    status: check
+    docs:
+      - {kind: annual_report, period: FY2025, url: "https://delfilimited.listedcompany.com/newsroom/20260410_181126_P34_QTQH21XF925E6BO3.1.pdf"}
+
+  - slug: jumbo
+    name: Jumbo Group
+    source: urls
+    sector: F&B
+    line: Advertising and promotion
+    status: likely
+    # FY ends 30 Sep. FY2026 results expected Nov 2026.
+    docs:
+      - {kind: full_year_results, period: check, url: "https://links.sgx.com/1.0.0/corporate-announcements/9FRMA3OJJ9MV0GXD/"}
+
+  - slug: oldchangkee
+    name: Old Chang Kee
+    source: urls
+    sector: F&B
+    line: Advertising and promotion
+    status: likely
+    docs:
+      - {kind: full_year_results, period: check, url: "https://links.sgx.com/1.0.0/corporate-announcements/4CAUYFJO8CKGUINZ/7242dcf4e01420bb9602876a41a48843f6bbb641ac1507cb0ed0d139ba93e000"}
+      - {kind: half_year_results, period: check, url: "https://links.sgx.com/1.0.0/corporate-announcements/ZF2CPZEWAXBEY5VB/dae45e542f6f4b8a92ec0a0e089d12a0d7f5b71b1e1f96a7d06a92995d5bb488"}
+
+  - slug: yhs
+    name: Yeo Hiap Seng
+    source: urls
+    sector: Beverages
+    line: Advertising and promotion
+    status: likely
+    docs:
+      - {kind: full_year_results, period: check, url: "https://links.sgx.com/1.0.0/corporate-announcements/WPTTXJO2NMI9PGK6/395c56aee7f9360741e0f98f48a23a7af903a26397bc9b0ec714b135b67537b3"}
+      - {kind: annual_report, period: check, url: "https://links.sgx.com/1.0.0/corporate-announcements/P5NTZRVVOH7GCYBJ"}

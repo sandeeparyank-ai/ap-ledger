@@ -1,0 +1,58 @@
+name: Fetch filings
+
+on:
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths: [companies.yaml, "fetch/**", ".github/workflows/fetch.yml"]
+  schedule:
+    # 01:00 UTC (09:00 Singapore) on Mon and Thu during results months
+    # (Feb, Mar, May, Aug, Nov). Runs outside those months are cheap no-ops.
+    - cron: "0 1 * 2,3,5,8,11 1,4"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: fetch
+  cancel-in-progress: false
+
+jobs:
+  fetch:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install tools
+        run: |
+          sudo apt-get update -qq && sudo apt-get install -y -qq poppler-utils
+          pip install -q -r requirements.txt
+
+      - name: Probe sources (log only)
+        continue-on-error: true
+        run: |
+          for u in https://www.sec.gov/ https://links.sgx.com/ https://api.sgx.com/ ; do
+            echo "$(curl -s -o /dev/null -w '%{http_code}' -m 20 "$u") $u"
+          done
+
+      - name: Fetch EDGAR filings
+        env:
+          SEC_CONTACT: ${{ vars.SEC_CONTACT }}
+        run: python fetch/fetch_edgar.py
+
+      - name: Fetch listed documents
+        run: cd fetch && python fetch_urls.py
+
+      - name: Commit new text files
+        run: |
+          git config user.name "ap-ledger-bot"
+          git config user.email "actions@users.noreply.github.com"
+          git add data/
+          git diff --cached --quiet && echo "Nothing new" && exit 0
+          git commit -m "Fetch filings $(date -u +%Y-%m-%d)"
+          git push
