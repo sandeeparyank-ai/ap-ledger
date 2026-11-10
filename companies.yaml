@@ -43,8 +43,8 @@ companies:
     line: Advertising and promotion
     status: confirmed
     docs:
-      - {kind: full_year_results, period: check, url: "https://links.sgx.com/1.0.0/corporate-announcements/9UKSHK3031H0X9IR"}
-      - {kind: half_year_results, period: check, url: "https://links.sgx.com/1.0.0/corporate-announcements/RZ39L5FRIUA5NLMH"}
+      # FY ends 30 Jun. FY2026 full-year results not found yet (Nov 2026).
+      - {kind: half_year_results, period: 1HFY2026, url: "https://links.sgx.com/1.0.0/corporate-announcements/5DTYQE6L5DNYFYBM/875081_OTS%20-%20Condensed%20Consolidated%20Interim%20FS%201HFY2026%20-%20Final.pdf"}
 
   - slug: hawpar
     name: Haw Par
@@ -102,7 +102,7 @@ companies:
     line: Advertising and promotion (results show accruals only)
     status: check
     docs:
-      - {kind: annual_report, period: FY2025, url: "https://delfilimited.listedcompany.com/newsroom/20260410_181126_P34_QTQH21XF925E6BO3.1.pdf"}
+      - {kind: annual_report, period: FY2025, url: "https://links.sgx.com/1.0.0/corporate-announcements/QTQH21XF925E6BO3/73710949ed90eae7fcb3a9b8885142457264d9dbe32a467aae074ac77b03d469", public_link: "https://delfilimited.listedcompany.com/newsroom/20260410_181126_P34_QTQH21XF925E6BO3.1.pdf"}
 
   - slug: jumbo
     name: Jumbo Group

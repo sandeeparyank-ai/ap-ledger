@@ -178,36 +178,6 @@
     "source_url": "https://links.sgx.com/1.0.0/corporate-announcements/ZF2CPZEWAXBEY5VB/866732_Half%20year%20results%20ended%2030%20Sept%202025.pdf",
     "text_file": "data/raw/oldchangkee/check_half_year_results_866732_Half_20year_20results_20ended_2030_20Sept_202025.txt"
   },
-  "ots/d9b9e28674": {
-    "announcement_url": "https://links.sgx.com/1.0.0/corporate-announcements/RZ39L5FRIUA5NLMH",
-    "done": true
-  },
-  "ots/d9b9e28674/786735_OTS_20_20Condensed_20Consolidated_20Interim_20FS_201H": {
-    "announcement_url": "https://links.sgx.com/1.0.0/corporate-announcements/RZ39L5FRIUA5NLMH",
-    "chars": 58378,
-    "company": "OTS Holdings",
-    "form": "half_year_results",
-    "period": "check",
-    "public_link": "https://links.sgx.com/1.0.0/corporate-announcements/RZ39L5FRIUA5NLMH/786735_OTS%20-%20Condensed%20Consolidated%20Interim%20FS%201HFY2024%20-final.pdf",
-    "slug": "ots",
-    "source_url": "https://links.sgx.com/1.0.0/corporate-announcements/RZ39L5FRIUA5NLMH/786735_OTS%20-%20Condensed%20Consolidated%20Interim%20FS%201HFY2024%20-final.pdf",
-    "text_file": "data/raw/ots/check_half_year_results_786735_OTS_20_20Condensed_20Consolidated_20Interim_20FS_201H.txt"
-  },
-  "ots/ed4d04d743": {
-    "announcement_url": "https://links.sgx.com/1.0.0/corporate-announcements/9UKSHK3031H0X9IR",
-    "done": true
-  },
-  "ots/ed4d04d743/816826_OTS_20_20Condensed_20Consolidated_20Interim_20FS_202H": {
-    "announcement_url": "https://links.sgx.com/1.0.0/corporate-announcements/9UKSHK3031H0X9IR",
-    "chars": 70622,
-    "company": "OTS Holdings",
-    "form": "full_year_results",
-    "period": "check",
-    "public_link": "https://links.sgx.com/1.0.0/corporate-announcements/9UKSHK3031H0X9IR/816826_OTS%20-%20Condensed%20Consolidated%20Interim%20FS%202HFY2024%20Final.pdf",
-    "slug": "ots",
-    "source_url": "https://links.sgx.com/1.0.0/corporate-announcements/9UKSHK3031H0X9IR/816826_OTS%20-%20Condensed%20Consolidated%20Interim%20FS%202HFY2024%20Final.pdf",
-    "text_file": "data/raw/ots/check_full_year_results_816826_OTS_20_20Condensed_20Consolidated_20Interim_20FS_202H.txt"
-  },
   "qaf/42a7c7a7c3": {
     "announcement_url": "https://links.sgx.com/1.0.0/corporate-announcements/S6G3FR58FAT6SQKC/082a8bc242976920138db61254af4a898f7cd7c889bb6d5a0c47e92e1a79e0e2",
     "done": true
