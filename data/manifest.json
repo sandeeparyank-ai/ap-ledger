@@ -654,6 +654,15 @@
     "source_url": "https://www.sec.gov/Archives/edgar/data/1703399/000119312526344596/d120948dex991.htm",
     "text_file": "data/raw/sea/2026-08-11_6-K_000119312526344596_d120948dex991.txt"
   },
+  "sea/000119312526455420_d17880dex991.htm": {
+    "chars": 33271,
+    "company": "Sea Limited",
+    "filed": "2026-11-10",
+    "form": "6-K",
+    "slug": "sea",
+    "source_url": "https://www.sec.gov/Archives/edgar/data/1703399/000119312526455420/d17880dex991.htm",
+    "text_file": "data/raw/sea/2026-11-10_6-K_000119312526455420_d17880dex991.txt"
+  },
   "tunglok/c7b973b428": {
     "announcement_url": "https://links.sgx.com/1.0.0/corporate-announcements/1KWVH00JS2XRVYPC/6437dae2f9d624e6be7053d9a4972f1ca52055436d3d308f1eda8d3ccfbf6b4f",
     "done": true
